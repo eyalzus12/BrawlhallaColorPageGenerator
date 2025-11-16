@@ -42,9 +42,20 @@ string costumeTypesContent = files["costumeTypes.csv"];
 CostumeTypes costumeTypes = new(costumeTypesContent);
 Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
 {
+    if (a.OwnerHero != b.OwnerHero) return string.Compare(a.OwnerHero, b.OwnerHero);
+
     // string? nameA = a.DisplayNameKey is null ? null : langEntries.GetValueOrDefault(a.DisplayNameKey, null!);
     // string? nameB = b.DisplayNameKey is null ? null : langEntries.GetValueOrDefault(b.DisplayNameKey, null!);
-    return a.CostumeIndex.CompareTo(b.CostumeIndex);
+    if (a.DisplayNameKey == b.DisplayNameKey)
+    {
+        int upgradeLevelA = costumeTypes.UpgradeLevel.GetValueOrDefault(a.CostumeName, 0);
+        int upgradeLevelB = costumeTypes.UpgradeLevel.GetValueOrDefault(b.CostumeName, 0);
+        return upgradeLevelA.CompareTo(upgradeLevelB);
+    }
+    else
+    {
+        return a.CostumeIndex.CompareTo(b.CostumeIndex);
+    }
 }));
 
 string heroTypesContent = files["HeroTypes.xml"];
@@ -76,15 +87,42 @@ foreach (HeroType hero in heroTypes.Heroes)
     TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
     string titleCaseName = textInfo.ToTitleCase(name);
     writer.WriteLine("===[[@]]===".Apply(titleCaseName));
-    writer.WriteLine("{{Itembox/top}}");
-    writer.WriteLine("{{itembox|width=150|height=150|name=@|image=@ {{{1|}}}.png|compact=true|noimglink=true}}".Apply(titleCaseName));
+    writer.WriteLine("{{itembox/top}}");
     foreach (CostumeType costumeType in costumeTypes.Costumes)
     {
-        if (costumeType.OwnerHero != hero.HeroName || costumeType.DisplayNameKey is null) continue;
-        string costumeName = langEntries[costumeType.DisplayNameKey];
-        writer.WriteLine("{{itembox|width=150|height=150|name=@|image=@ {{{1|}}}.png|compact=true|noimglink=true}}".Apply(costumeName));
+        if (
+            costumeType.OwnerHero != hero.HeroName || // not my hero
+            costumeType.CostumeName.StartsWith("ZombieWalker") ||
+            costumeType.CostumeName.EndsWith("Stance2")
+        ) continue;
+
+        string costumeName = costumeType.DisplayNameKey is null ? titleCaseName : langEntries[costumeType.DisplayNameKey];
+
+        string imageName = costumeName;
+        if (costumeType.CostumeName == "SnakeEyes")
+            imageName = "Snake Eyes (Thatch Skin)";
+
+        string displayName = "";
+        if (costumeType.CostumeName == "Eivor")
+        {
+            displayName = "|displayname=Eivor (Female)";
+            imageName = "Eivor (Female)";
+        }
+        else if (costumeType.CostumeName == "EivorMale")
+        {
+            displayName = "|displayname=Eivor (Male)";
+            imageName = "Eivor (Male)";
+        }
+
+        if (costumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
+        {
+            displayName = "|displayname=" + costumeName + " (Lvl " + upgradeLevel + ")";
+            imageName = costumeName + " Level " + upgradeLevel;
+        }
+
+        writer.WriteLine("{{itembox|width=150|height=150|name=@#|image=& {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(costumeName, displayName, imageName));
     }
-    writer.WriteLine("{{Itembox/bottom}}");
+    writer.WriteLine("{{itembox/bottom}}");
 }
 
 writer.WriteLine("[[Category:Skins in all colors]]</includeonly>");
