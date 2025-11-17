@@ -25,12 +25,12 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
             if (currentLetter != firstLetter)
             {
                 currentLetter = firstLetter;
-                skinsWriter.WriteLine("<span id=\"@\"></span>".Apply(currentLetter));
+                skinsWriter.WriteLine("<span id=\"¹\"></span>".Apply(currentLetter));
             }
 
             TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
             string titleCaseName = textInfo.ToTitleCase(name);
-            skinsWriter.WriteLine("===[[@]]===".Apply(titleCaseName));
+            skinsWriter.WriteLine("===[[¹]]===".Apply(titleCaseName));
             skinsWriter.WriteLine("{{itembox/top}}");
             foreach (CostumeType costumeType in costumeTypes.Costumes)
             {
@@ -64,7 +64,7 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
                     imageName = costumeName + " Level " + upgradeLevel;
                 }
 
-                skinsWriter.WriteLine("{{itembox|width=150|height=150|name=@#|image=& {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
+                skinsWriter.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
                     costumeName,
                     string.IsNullOrEmpty(displayName) ? "" : ("|displayname=" + displayName),
                     imageName

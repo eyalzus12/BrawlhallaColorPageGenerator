@@ -41,6 +41,7 @@ using (FileStream file = File.OpenRead(lang))
 #endregion
 #region Parsing
 
+// Costume types
 string costumeTypesContent = files["costumeTypes.csv"];
 CostumeTypes costumeTypes = new(costumeTypesContent);
 Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
@@ -61,6 +62,31 @@ Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
     }
 }));
 
+// Weapon skin types
+string weaponSkinTypesContent = files["weaponSkinTypes.csv"];
+WeaponSkinTypes weaponSkinTypes = new(weaponSkinTypesContent);
+Array.Sort(weaponSkinTypes.WeaponSkins, Comparer<WeaponSkinType>.Create((a, b) =>
+{
+    if (a.BaseWeapon != b.BaseWeapon) return string.Compare(
+        Utils.BASE_WEAPON_NAME[a.BaseWeapon],
+        Utils.BASE_WEAPON_NAME[b.BaseWeapon]
+    );
+
+    if (a.DisplayNameKey == b.DisplayNameKey)
+    {
+        int upgradeLevelA = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(a.WeaponSkinName, 0);
+        int upgradeLevelB = weaponSkinTypes.UpgradeLevel.GetValueOrDefault(b.WeaponSkinName, 0);
+        return upgradeLevelA.CompareTo(upgradeLevelB);
+    }
+    else
+    {
+        string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey ?? "", "~" + a.WeaponSkinName);
+        string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey ?? "", "~" + b.WeaponSkinName);
+        return string.Compare(aName, bName);
+    }
+}));
+
+// Heros
 string heroTypesContent = files["HeroTypes.xml"];
 HeroTypes heroTypes = new(heroTypesContent);
 Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
@@ -73,5 +99,8 @@ Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
 
 SkinsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
 skinsWriter.WriteTo("skins.txt");
+
+WeaponSkinsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
+weaponSkinsWriter.WriteTo("weaponSkins.txt");
 
 #endregion
