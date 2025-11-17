@@ -40,33 +40,11 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
                     costumeType.CostumeName.EndsWith("Stance2")
                 ) continue;
 
-                string costumeName = costumeType.DisplayNameKey is null ? titleCaseName : langFile.Entries[costumeType.DisplayNameKey];
-
-                string imageName = costumeName;
-                if (costumeType.CostumeName == "SnakeEyes")
-                    imageName = "Snake Eyes (Thatch Skin)";
-
-                string displayName = "";
-                if (costumeType.CostumeName == "Eivor")
-                {
-                    displayName = "Eivor (Female)";
-                    imageName = "Eivor (Female)";
-                }
-                else if (costumeType.CostumeName == "EivorMale")
-                {
-                    displayName = "Eivor (Male)";
-                    imageName = "Eivor (Male)";
-                }
-
-                if (costumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
-                {
-                    displayName = costumeName + " (Lvl " + upgradeLevel + ")";
-                    imageName = costumeName + " Level " + upgradeLevel;
-                }
+                (string costumeName, string imageName, string displayName) = GetNameParams(costumeType, titleCaseName);
 
                 skinsWriter.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
                     costumeName,
-                    string.IsNullOrEmpty(displayName) ? "" : ("|displayname=" + displayName),
+                    costumeName == displayName ? "" : ("|displayname=" + displayName),
                     imageName
                 ));
             }
@@ -76,6 +54,38 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
         skinsWriter.WriteLine("<noinclude>");
         skinsWriter.WriteLine("{{doc}}");
         skinsWriter.WriteLine("</noinclude>");
+    }
 
+    private (string skinName, string imageName, string displayName) GetNameParams(CostumeType costumeType, string nameDefault)
+    {
+        string costumeName = costumeType.CostumeName;
+        string? displayNameKey = costumeType.DisplayNameKey;
+
+        string skinName = displayNameKey is null ? nameDefault : langFile.Entries[displayNameKey];
+        string imageName = skinName;
+        string displayName = skinName;
+
+        switch (costumeName)
+        {
+            case "SnakeEyes":
+                imageName = "Snake Eyes (Thatch Skin)";
+                break;
+            case "Eivor":
+                displayName = imageName = "Eivor (Female)";
+                break;
+            case "EivorMale":
+                displayName = imageName = "Eivor (Male)";
+                break;
+        }
+
+        if (costumeTypes.UpgradeLevel.TryGetValue(costumeName, out int upgradeLevel) && upgradeLevel != 0)
+        {
+            displayName = skinName + " (Lvl " + upgradeLevel + ")";
+            imageName = skinName + " Level " + upgradeLevel;
+        }
+
+        imageName = imageName.Replace(":", "");
+
+        return (skinName, imageName, displayName);
     }
 }

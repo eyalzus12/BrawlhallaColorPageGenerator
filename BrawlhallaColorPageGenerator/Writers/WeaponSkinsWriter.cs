@@ -36,91 +36,11 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
                 currentBaseWeapon = weaponSkin.BaseWeapon;
             }
 
-            string weaponSkinName = langFile.Entries[weaponSkin.DisplayNameKey];
-            string imageName = weaponSkinName;
-            string displayName = "";
-
-            if (weaponSkin.WeaponSkinName == "AxeSimon")
-            {
-                weaponSkinName = "Battle Axe (Simon Belmont)";
-                imageName = "Battle Axe (Simon Belmont)";
-            }
-            else if (weaponSkin.WeaponSkinName == "AxeGilded")
-            {
-                weaponSkinName = "Gilded Glory (Axe Skin)";
-                displayName = "Gilded Glory";
-            }
-            else if (weaponSkin.WeaponSkinName == "AxeActualValk")
-            {
-                weaponSkinName = "Glory (Weapon Skin)";
-                displayName = "Glory";
-            }
-            else if (weaponSkin.WeaponSkinName == "PistolSerape")
-            {
-                weaponSkinName = "Snake Eyes (Weapon Skin)";
-                imageName = "Snake Eyes (Weapon Skin)";
-                displayName = "Snake Eyes";
-            }
-            else if (weaponSkin.WeaponSkinName == "BowOldKoji")
-            {
-                weaponSkinName = "Heirloom (Bow Skin)";
-                displayName = "Heirloom";
-            }
-            else if (weaponSkin.WeaponSkinName == "CannonDestinyTitan")
-            {
-                imageName = "Dragon's Breath (Titan)";
-            }
-            else if (weaponSkin.WeaponSkinName == "FistsVolcano")
-            {
-                weaponSkinName = "Hot Lava (Weapon Skin)";
-                displayName = "Hot Lava";
-            }
-            else if (weaponSkin.WeaponSkinName == "FistsOrb4")
-            {
-                weaponSkinName = "Knockouts (Weapon Skin)";
-                displayName = "Knockouts";
-            }
-            else if (weaponSkin.WeaponSkinName == "HammerMadame")
-            {
-                weaponSkinName = "Heirloom (Hammer Skin)";
-                imageName = "Heirloom (Hammer Skin)";
-                displayName = "Heirloom";
-            }
-            else if (weaponSkin.WeaponSkinName == "RocketLanceMotorcycle")
-            {
-                weaponSkinName = "Burnout (Weapon Skin)";
-                displayName = "Burnout";
-            }
-            else if (weaponSkin.WeaponSkinName == "SpearGem")
-            {
-                weaponSkinName = "Dusk (Weapon Skin)";
-                imageName = "Dusk (Weapon Skin)";
-                displayName = "Dusk";
-            }
-            else if (weaponSkin.WeaponSkinName == "SpearViral")
-            {
-                weaponSkinName = "Vector (Weapon Skin)";
-                imageName = "Vector Spear";
-                displayName = "Vector";
-            }
-            else if (weaponSkin.WeaponSkinName == "SwordBladeDancerCelestial")
-            {
-                weaponSkinName = "Moonbeam Blade (Chakora Priya)";
-                imageName = "Moonbeam Blade (Chakora Priya)";
-                displayName = "Moonbeam Blade";
-            }
-
-            if (weaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin.WeaponSkinName, out int upgradeLevel) && upgradeLevel != 0)
-            {
-                displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
-                imageName = weaponSkinName + " Level " + upgradeLevel;
-            }
-
-            imageName = imageName.Replace(":", "");
+            (string weaponSkinName, string imageName, string displayName) = GetNameParams(weaponSkin);
 
             writer.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
                 weaponSkinName,
-                string.IsNullOrEmpty(displayName) ? "" : ("|displayname=" + displayName),
+                weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
                 imageName
             ));
         }
@@ -130,5 +50,70 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
         writer.WriteLine("<noinclude>");
         writer.WriteLine("{{doc}}");
         writer.WriteLine("</noinclude>");
+    }
+
+    private (string weaponSkinName, string imageName, string displayName) GetNameParams(WeaponSkinType weaponSkinType)
+    {
+        string weaponSkin = weaponSkinType.WeaponSkinName;
+        string displayNameKey = weaponSkinType.DisplayNameKey!;
+
+        string weaponSkinName = langFile.Entries[displayNameKey];
+        string imageName = weaponSkinName;
+        string displayName = weaponSkinName;
+
+        switch (weaponSkin)
+        {
+            case "AxeSimon":
+                displayName = imageName = weaponSkinName = "Battle Axe (Simon Belmont)";
+                break;
+            case "AxeGilded":
+                weaponSkinName = "Gilded Glory (Axe Skin)";
+                break;
+            case "AxeActualValk":
+                weaponSkinName = "Glory (Weapon Skin)";
+                break;
+            case "PistolSerape":
+                weaponSkinName = "Snake Eyes (Weapon Skin)";
+                imageName = weaponSkinName;
+                break;
+            case "BowOldKoji":
+                weaponSkinName = "Heirloom (Bow Skin)";
+                break;
+            case "CannonDestinyTitan":
+                imageName = "Dragon's Breath (Titan)";
+                break;
+            case "FistsVolcano":
+                weaponSkinName = "Hot Lava (Weapon Skin)";
+                break;
+            case "FistsOrb4":
+                weaponSkinName = "Knockouts (Weapon Skin)";
+                break;
+            case "HammerMadame":
+                imageName = weaponSkinName = "Heirloom (Hammer Skin)";
+                break;
+            case "RocketLanceMotorcycle":
+                weaponSkinName = "Burnout (Weapon Skin)";
+                break;
+            case "SpearGem":
+                imageName = weaponSkinName = "Dusk (Weapon Skin)";
+                break;
+            case "SpearViral":
+                weaponSkinName = "Vector (Weapon Skin)";
+                imageName = "Vector Spear";
+                break;
+            case "SwordBladeDancerCelestial":
+                imageName = weaponSkinName = "Moonbeam Blade (Chakora Priya)";
+                break;
+        }
+
+        if (weaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
+        {
+            displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
+            imageName = weaponSkinName + " Level " + upgradeLevel;
+        }
+
+        imageName = imageName.Replace(":", "");
+
+        return (weaponSkinName, imageName, displayName);
     }
 }
