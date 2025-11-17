@@ -7,11 +7,11 @@ namespace BrawlhallaColorPageGenerator;
 
 public sealed class CostumeType
 {
-    public string CostumeName { get; set; }
-    public string? OwnerHero { get; set; }
-    public string? DisplayNameKey { get; set; }
-    public int CostumeIndex { get; set; }
-    public string? UpgradesTo { get; set; }
+    public string CostumeName { get; }
+    public string? OwnerHero { get; }
+    public string? DisplayNameKey { get; }
+    public int CostumeIndex { get; }
+    public string? UpgradesTo { get; }
 
     public CostumeType(SepReader.Row row)
     {
@@ -32,8 +32,9 @@ public sealed class CostumeType
 
 public sealed class CostumeTypes
 {
-    public CostumeType[] Costumes { get; set; }
-    public Dictionary<string, int> UpgradeLevel { get; set; }
+    public CostumeType[] Costumes { get; }
+    public Dictionary<string, CostumeType> CostumesMap { get; }
+    public Dictionary<string, int> UpgradeLevel { get; }
 
     public CostumeTypes(string content)
     {
@@ -48,6 +49,7 @@ public sealed class CostumeTypes
         });
         using SepReader csvReader = sepReaderOptions.From(textReader);
         Costumes = [.. csvReader.Enumerate((row) => new CostumeType(row))];
+        CostumesMap = new(Costumes.Select((c) => new KeyValuePair<string, CostumeType>(c.CostumeName, c)));
 
         UpgradeLevel = [];
         Queue<CostumeType> leftover = new(Costumes);
@@ -68,11 +70,11 @@ public sealed class CostumeTypes
 
                 UpgradeLevel[costumeType.CostumeName] = existingLevel++;
 
-                // this sucks
+                // go up the upgrade chain and update level
                 string? upgradedCostumeType = costumeType.UpgradesTo;
                 while (
                     upgradedCostumeType is not null &&
-                    Costumes.FirstOrDefault((costume) => costume.CostumeName == upgradedCostumeType) is CostumeType costume
+                    CostumesMap.TryGetValue(upgradedCostumeType, out CostumeType? costume)
                 )
                 {
                     UpgradeLevel[costume.CostumeName] = existingLevel++;

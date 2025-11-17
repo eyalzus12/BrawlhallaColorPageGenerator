@@ -65,11 +65,11 @@ Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
     return string.Compare(a.BioName, b.BioName);
 }));
 
-using StreamWriter writer = new("output.txt");
-writer.WriteLine("<includeonly>");
-writer.WriteLine("The following is a list of all skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
-writer.WriteLine();
-writer.WriteLine("{{Compact TOC}}");
+using StreamWriter skinsWriter = new("skins.txt");
+skinsWriter.WriteLine("<includeonly>");
+skinsWriter.WriteLine("The following is a list of all skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
+skinsWriter.WriteLine();
+skinsWriter.WriteLine("{{Compact TOC}}");
 char currentLetter = '~';
 foreach (HeroType hero in heroTypes.Heroes)
 {
@@ -81,13 +81,13 @@ foreach (HeroType hero in heroTypes.Heroes)
     if (currentLetter != firstLetter)
     {
         currentLetter = firstLetter;
-        writer.WriteLine("<span id=\"@\"></span>".Apply(currentLetter));
+        skinsWriter.WriteLine("<span id=\"@\"></span>".Apply(currentLetter));
     }
 
     TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
     string titleCaseName = textInfo.ToTitleCase(name);
-    writer.WriteLine("===[[@]]===".Apply(titleCaseName));
-    writer.WriteLine("{{itembox/top}}");
+    skinsWriter.WriteLine("===[[@]]===".Apply(titleCaseName));
+    skinsWriter.WriteLine("{{itembox/top}}");
     foreach (CostumeType costumeType in costumeTypes.Costumes)
     {
         if (
@@ -105,27 +105,30 @@ foreach (HeroType hero in heroTypes.Heroes)
         string displayName = "";
         if (costumeType.CostumeName == "Eivor")
         {
-            displayName = "|displayname=Eivor (Female)";
+            displayName = "Eivor (Female)";
             imageName = "Eivor (Female)";
         }
         else if (costumeType.CostumeName == "EivorMale")
         {
-            displayName = "|displayname=Eivor (Male)";
+            displayName = "Eivor (Male)";
             imageName = "Eivor (Male)";
         }
 
         if (costumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
         {
-            displayName = "|displayname=" + costumeName + " (Lvl " + upgradeLevel + ")";
+            displayName = costumeName + " (Lvl " + upgradeLevel + ")";
             imageName = costumeName + " Level " + upgradeLevel;
         }
 
-        writer.WriteLine("{{itembox|width=150|height=150|name=@#|image=& {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(costumeName, displayName, imageName));
+        skinsWriter.WriteLine("{{itembox|width=150|height=150|name=@#|image=& {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
+            costumeName,
+            string.IsNullOrEmpty(displayName) ? "" : ("|displayname=" + displayName),
+            imageName
+        ));
     }
-    writer.WriteLine("{{itembox/bottom}}");
+    skinsWriter.WriteLine("{{itembox/bottom}}");
 }
-
-writer.WriteLine("[[Category:Skins in all colors]]</includeonly>");
-writer.WriteLine("<noinclude>");
-writer.WriteLine("{{doc}}");
-writer.WriteLine("</noinclude>");
+skinsWriter.WriteLine("[[Category:Skins in all colors]]</includeonly>");
+skinsWriter.WriteLine("<noinclude>");
+skinsWriter.WriteLine("{{doc}}");
+skinsWriter.WriteLine("</noinclude>");
