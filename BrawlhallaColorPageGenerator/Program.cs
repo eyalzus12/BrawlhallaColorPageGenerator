@@ -42,15 +42,13 @@ using (FileStream file = File.OpenRead(lang))
 #endregion
 #region Parsing
 
-// Costume types
+// Costumes
 string costumeTypesContent = files["costumeTypes.csv"];
 CostumeTypes costumeTypes = new(costumeTypesContent);
 Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
 {
     if (a.OwnerHero != b.OwnerHero) return string.Compare(a.OwnerHero, b.OwnerHero);
 
-    // string? nameA = a.DisplayNameKey is null ? null : langEntries.GetValueOrDefault(a.DisplayNameKey, null!);
-    // string? nameB = b.DisplayNameKey is null ? null : langEntries.GetValueOrDefault(b.DisplayNameKey, null!);
     if (a.DisplayNameKey == b.DisplayNameKey)
     {
         int upgradeLevelA = costumeTypes.UpgradeLevel.GetValueOrDefault(a.CostumeName, 0);
@@ -63,7 +61,7 @@ Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
     }
 }));
 
-// Weapon skin types
+// Weapon skins
 string weaponSkinTypesContent = files["weaponSkinTypes.csv"];
 WeaponSkinTypes weaponSkinTypes = new(weaponSkinTypesContent);
 Array.Sort(weaponSkinTypes.WeaponSkins, Comparer<WeaponSkinType>.Create((a, b) =>
@@ -87,6 +85,16 @@ Array.Sort(weaponSkinTypes.WeaponSkins, Comparer<WeaponSkinType>.Create((a, b) =
     }
 }));
 
+// Companions
+string companionTypesContent = files["CompanionTypes.xml"];
+CompanionTypes companionTypes = new(companionTypesContent);
+Array.Sort(companionTypes.Companions, Comparer<CompanionType>.Create((a, b) =>
+{
+    string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey, "~" + a.CompanionName);
+    string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey, "~" + b.CompanionName);
+    return string.Compare(aName, bName);
+}));
+
 // Heros
 string heroTypesContent = files["HeroTypes.xml"];
 HeroTypes heroTypes = new(heroTypesContent);
@@ -103,5 +111,8 @@ skinsWriter.WriteTo("skins.txt");
 
 WeaponSkinsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
 weaponSkinsWriter.WriteTo("weaponSkins.txt");
+
+CompanionsWriter companionsWriter = new(companionTypes, langFile);
+companionsWriter.WriteTo("companions.txt");
 
 #endregion
