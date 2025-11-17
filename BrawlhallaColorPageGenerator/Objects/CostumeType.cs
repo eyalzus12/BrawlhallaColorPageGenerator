@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using nietras.SeparatedValues;
 
-namespace BrawlhallaColorPageGenerator;
+namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class CostumeType
 {

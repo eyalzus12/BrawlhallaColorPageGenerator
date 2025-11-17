@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using BrawlhallaColorPageGenerator;
+using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaColorPageGenerator.Writers;
 using BrawlhallaLangReader;
 using BrawlhallaSwz;

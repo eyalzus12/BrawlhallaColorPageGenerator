@@ -1,7 +1,7 @@
 using System.Linq;
 using System.Xml.Linq;
 
-namespace BrawlhallaColorPageGenerator;
+namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class HeroType
 {
