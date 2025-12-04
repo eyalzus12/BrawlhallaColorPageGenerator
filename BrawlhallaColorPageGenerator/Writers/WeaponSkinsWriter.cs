@@ -105,6 +105,9 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
             case "SwordBladeDancerCelestial":
                 imageName = weaponSkinName = "Moonbeam Blade (Chakora Priya)";
                 break;
+            case "FistsSantaShang":
+                imageName = weaponSkinName = "Holly Jolly (Santa Wu Shang)";
+                break;
             case "AxeHolidayXull":
                 displayName = imageName = weaponSkinName = "World Cleaver (Abominable Jötunn Xull)";
                 break;
