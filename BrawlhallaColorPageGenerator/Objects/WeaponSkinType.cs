@@ -12,6 +12,7 @@ public sealed class WeaponSkinType
     private static readonly string[] COLOR_SWAP_COLS = ["InheritCostumeDefines", "HairLt_Define", "Hair_Define", "HairDk_Define", "Body1VL_Define", "Body1Lt_Define", "Body1_Define", "Body1Dk_Define", "Body1VD_Define", "Body1Acc_Define", "Body2VL_Define", "Body2Lt_Define", "Body2_Define", "Body2Dk_Define", "Body2VD_Define", "Body2Acc_Define", "SpecialVL_Define", "SpecialLt_Define", "Special_Define", "SpecialDk_Define", "SpecialVD_Define", "SpecialAcc_Define", "HandsLt_Define", "HandsDk_Define", "HandsSkinLt_Define", "HandsSkinDk_Define", "ClothVL_Define", "ClothLt_Define", "Cloth_Define", "ClothDk_Define", "WeaponVL_Define", "WeaponLt_Define", "Weapon_Define", "WeaponDk_Define", "WeaponAcc_Define"];
 
     public string WeaponSkinName { get; }
+    public uint WeaponSkinID { get; }
     public string BaseWeapon { get; }
     public string? DisplayNameKey { get; }
     public string? UpgradesTo { get; }
@@ -21,6 +22,8 @@ public sealed class WeaponSkinType
     public WeaponSkinType(SepReader.Row row)
     {
         WeaponSkinName = row["WeaponSkinName"].ToString();
+
+        WeaponSkinID = row["WeaponSkinID"].Parse<uint>();
 
         BaseWeapon = row["BaseWeapon"].ToString();
 

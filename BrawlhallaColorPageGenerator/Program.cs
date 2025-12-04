@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using BrawlhallaColorPageGenerator;
@@ -53,12 +53,11 @@ Array.Sort(costumeTypes.Costumes, Comparer<CostumeType>.Create((a, b) =>
     {
         int upgradeLevelA = costumeTypes.UpgradeLevel.GetValueOrDefault(a.CostumeName, 0);
         int upgradeLevelB = costumeTypes.UpgradeLevel.GetValueOrDefault(b.CostumeName, 0);
-        return upgradeLevelA.CompareTo(upgradeLevelB);
+        if (upgradeLevelA != upgradeLevelB)
+            return upgradeLevelA.CompareTo(upgradeLevelB);
     }
-    else
-    {
-        return a.CostumeIndex.CompareTo(b.CostumeIndex);
-    }
+
+    return a.CostumeIndex.CompareTo(b.CostumeIndex);
 }));
 
 // Weapon skins
@@ -81,7 +80,10 @@ Array.Sort(weaponSkinTypes.WeaponSkins, Comparer<WeaponSkinType>.Create((a, b) =
     {
         string aName = langFile.Entries.GetValueOrDefault(a.DisplayNameKey ?? "", "~" + a.WeaponSkinName);
         string bName = langFile.Entries.GetValueOrDefault(b.DisplayNameKey ?? "", "~" + b.WeaponSkinName);
-        return string.Compare(aName, bName);
+        if (aName != bName)
+            return string.Compare(aName, bName);
+
+        return a.WeaponSkinID.CompareTo(b.WeaponSkinID);
     }
 }));
 
