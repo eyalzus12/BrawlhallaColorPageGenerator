@@ -112,7 +112,8 @@ SkinsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
 skinsWriter.WriteTo("skins.txt");
 
 WeaponSkinsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
-weaponSkinsWriter.WriteTo("weaponSkins.txt");
+weaponSkinsWriter.WriteTo("weaponSkins.txt", false);
+weaponSkinsWriter.WriteTo("weaponSkins axe.txt", true);
 
 CompanionsWriter companionsWriter = new(companionTypes, langFile);
 companionsWriter.WriteTo("companions.txt");

@@ -6,12 +6,20 @@ namespace BrawlhallaColorPageGenerator.Writers;
 
 public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile langFile)
 {
-    public void WriteTo(string path)
+    public void WriteTo(string path, bool axe)
     {
         using StreamWriter writer = new(path);
-        writer.WriteLine("<includeonly><onlyinclude>");
-        writer.WriteLine("The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
-        writer.WriteLine();
+        if (axe)
+        {
+            writer.WriteLine("{{itembox/top}}");
+        }
+        else
+        {
+            writer.WriteLine("<includeonly><onlyinclude>");
+            writer.WriteLine("The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
+            writer.WriteLine();
+        }
+
         string currentBaseWeapon = "";
         foreach (WeaponSkinType weaponSkin in weaponSkinTypes.WeaponSkins)
         {
@@ -24,33 +32,61 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
             ) continue;
 
-            if (weaponSkin.BaseWeapon != currentBaseWeapon)
+            if (axe)
             {
-                if (!string.IsNullOrEmpty(currentBaseWeapon))
+                if (weaponSkin.BaseWeapon != "Axe")
+                    continue;
+            }
+            else
+            {
+                if (weaponSkin.BaseWeapon != currentBaseWeapon)
                 {
-                    writer.WriteLine("{{itembox/bottom}}");
-                    writer.WriteLine();
+                    if (!string.IsNullOrEmpty(currentBaseWeapon))
+                    {
+                        if (currentBaseWeapon != "Axe")
+                        {
+                            writer.WriteLine("{{itembox/bottom}}");
+                        }
+                        writer.WriteLine();
+                    }
+
+                    writer.WriteLine("===[[¹]]===".Apply(Utils.BASE_WEAPON_NAME[weaponSkin.BaseWeapon]));
+                    writer.WriteLine(weaponSkin.BaseWeapon == "Axe" ? "{{Color Weapon Skins/Axe|{{{1|}}}}}" : "{{itembox/top}}");
+                    currentBaseWeapon = weaponSkin.BaseWeapon;
                 }
 
-                writer.WriteLine("===[[¹]]===".Apply(Utils.BASE_WEAPON_NAME[weaponSkin.BaseWeapon]));
-                writer.WriteLine("{{itembox/top}}");
-                currentBaseWeapon = weaponSkin.BaseWeapon;
+                if (currentBaseWeapon == "Axe")
+                    continue;
             }
 
             (string weaponSkinName, string imageName, string displayName) = GetNameParams(weaponSkin);
 
-            writer.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
-                weaponSkinName,
-                weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
-                imageName
-            ));
+            if (axe)
+            {
+                writer.WriteLine("{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=¹²|image=³}}".Apply3(
+                    weaponSkinName,
+                    weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
+                    imageName
+                ));
+            }
+            else
+            {
+                writer.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
+                    weaponSkinName,
+                    weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
+                    imageName
+                ));
+            }
         }
         writer.WriteLine("{{itembox/bottom}}");
 
-        writer.WriteLine("[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>");
-        writer.WriteLine("<noinclude>");
-        writer.WriteLine("{{doc}}");
-        writer.WriteLine("</noinclude>");
+        if (!axe)
+        {
+            writer.WriteLine("[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>");
+            writer.WriteLine("<noinclude>");
+            writer.WriteLine("{{doc}}");
+            writer.WriteLine("</noinclude>");
+        }
     }
 
     private (string weaponSkinName, string imageName, string displayName) GetNameParams(WeaponSkinType weaponSkinType)
