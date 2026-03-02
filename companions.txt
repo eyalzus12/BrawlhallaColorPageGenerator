@@ -1,0 +1,18 @@
+<includeonly><onlyinclude>
+The following is a list of all companions in {{{1|}}}. ''Click an image to view it in higher resolution.''
+
+{{itembox/top}}
+{{itembox|width=150|height=150|name=Domo Jr.|image=Companion Domo Jr. Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Grogu|image=Companion Grogu Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Hunter Ghost|image=Companion Hunter Ghost Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Lil' Reaper|image=Companion Lil' Reaper Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Murfy|image=Companion Murfy Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Star-Drifter Butterscotch|image=Companion Star-Drifter Butterscotch Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Titan Ghost|image=Companion Titan Ghost Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Tommy|image=Companion Tommy Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox|width=150|height=150|name=Warlock Ghost|image=Companion Warlock Ghost Idle {{{1|}}}.png|compact=true|noimglink=true}}
+{{itembox/bottom}}
+[[Category:Companions in all colors]]</onlyinclude></includeonly>
+<noinclude>
+{{doc}}
+</noinclude>
