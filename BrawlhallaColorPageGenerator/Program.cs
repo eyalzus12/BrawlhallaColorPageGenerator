@@ -105,6 +105,10 @@ Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
     return string.Compare(a.BioName, b.BioName);
 }));
 
+// Runes
+string runeTypesContent = files["RuneTypes.xml"];
+RuneTypes runeTypes = new(runeTypesContent);
+
 #endregion
 #region Writing
 
@@ -117,5 +121,8 @@ weaponSkinsWriter.WriteTo("weaponSkins axe.txt", true);
 
 CompanionsWriter companionsWriter = new(companionTypes, langFile);
 companionsWriter.WriteTo("companions.txt");
+
+LevelingWriter levelingWriter = new(heroTypes, runeTypes);
+levelingWriter.WriteTo("leveling.txt");
 
 #endregion

@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -8,6 +9,7 @@ public sealed class HeroType
     public string HeroName { get; set; }
     public string? BioName { get; set; }
     public string CostumeName { get; set; }
+    public string[] ColorRewards { get; set; }
     public bool IsActive { get; set; }
 
     public HeroType(XElement element)
@@ -15,6 +17,7 @@ public sealed class HeroType
         HeroName = element.Attribute("HeroName")!.Value;
         BioName = element.Element("BioName")?.Value;
         CostumeName = element.Element("CostumeName")!.Value;
+        ColorRewards = element.Element("ColorRewards")?.Value.Split(',') ?? [];
         IsActive = string.Equals(element.Element("IsActive")?.Value, "TRUE", System.StringComparison.InvariantCultureIgnoreCase);
     }
 }
