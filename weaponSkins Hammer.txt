@@ -1,0 +1,168 @@
+{{itembox/top}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Afterlife|image=Afterlife}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Airship Engineer's Hammer|image=Airship Engineer's Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ares's Might|image=Ares's Might}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asgardian Hammer|image=Asgardian Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Astro Slammer|image=Astro Slammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Atom Smasher|image=Atom Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Atomic Sledge|image=Atomic Sledge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aztlán Hammer|image=Aztlán Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Barbaric Rage|image=Barbaric Rage}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bass Drop|image=Bass Drop}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blooming Dream|image=Blooming Dream}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bonehead|image=Bonehead}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bop|image=Bop}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bovine Skull Mallet|image=Bovine Skull Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Brazen Maul|image=Brazen Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bullhorn Basher|image=Bullhorn Basher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Champion's Hammer|image=Champion's Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chikara|image=Chikara}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Circuit Breaker|image=Circuit Breaker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Compressed Metal Mallet|image=Compressed Metal Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Concrete Slam|image=Concrete Slam}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Crystalline Mallet|image=Crystalline Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cultivator's Mallet|image=Cultivator's Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyber Myk Gavel|image=Cyber Myk Gavel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyclone Hammer|image=Cyclone Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Crusher|image=Darkheart Crusher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Davey Jones' Anchor|image=Davey Jones' Anchor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dawn Hammer|image=Dawn Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Death's End|image=Death's End}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Disco Brawl|image=Disco Brawl}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Divine Intervention|image=Divine Intervention}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dragon Sledge|image=Dragon Sledge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dragon's Woe|image=Dragon's Woe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dwarven-Forged Hammer|image=Dwarven-Forged Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Earthshaker Seismic Sledge|image=Earthshaker Seismic Sledge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Electro Hammer|image=Electro Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Executive Order|image=Executive Order}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Face-Beater|image=Face-Beater}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fate Crusher|image=Fate Crusher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Flamingo|image=Flamingo}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Folding Chair|image=Folding Chair}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Free Parking|image=Free Parking}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=French Horn|image=French Horn}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Frostbitten Justice|image=Frostbitten Justice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fruitcake|image=Fruitcake}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Galactic Gavel|image=Galactic Gavel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Gatekeeper|image=Gatekeeper}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Glacier Gavel|image=Glacier Gavel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Golden Striker|image=Golden Striker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Gothic Warhammer|image=Gothic Warhammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Gravity Hammer|image=Gravity Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ground Pounder|image=Ground Pounder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Grueling Terror|image=Grueling Terror}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Guardian Mallet|image=Guardian Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=H4MM3R Time|image=H4MM3R Time}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hammer Decorum|image=Hammer Decorum}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hammer of Mercy|image=Hammer of Mercy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardlight Hammer|image=Hardlight Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Headache|image=Headache}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heart of Gold|image=Heart of Gold}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heart of the Volcano|image=Heart of the Volcano}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heart Smasher|image=Heart Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heavy Hitter|image=Heavy Hitter}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heirloom (Hammer Skin)|displayname=Heirloom|image=Heirloom (Hammer Skin)}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=High Noon|image=High Noon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=High-Impact Hammer|image=High-Impact Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Highland Hammer|image=Highland Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hit Often|image=Hit Often}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Howlin' Skull|image=Howlin' Skull}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=I've Got Spirit!|image=I've Got Spirit!}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice Angling|image=Ice Angling}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice Crusher|image=Ice Crusher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice Fishing|image=Ice Fishing}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Iron Mallet|image=Iron Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jellyfishing Net|image=Jellyfishing Net}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Kutinhira|image=Kutinhira}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Laughing Dragon|image=Laughing Dragon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lodestone|image=Lodestone}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=LOL RIP|image=LOL RIP}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lord's Justice|image=Lord's Justice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Makin' Bacon Pancakes|image=Makin' Bacon Pancakes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Manhandle Slam|image=Manhandle Slam}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Marigold Maul|image=Marigold Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Menace Maul|image=Menace Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mjölnir|image=Mjölnir}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Morning Maul|image=Morning Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mosaic Maul|image=Mosaic Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mouse Trap|image=Mouse Trap}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mrs. Fix It|image=Mrs. Fix It}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Neo City Hammer|image=Neo City Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Neutron Maul|image=Neutron Maul}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare|image=Nightmare}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare Mauler|image=Nightmare Mauler}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Unsealed Hammer|image=Ninpō Unsealed Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Numbskull|image=Numbskull}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nutsy|image=Nutsy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Offworld|image=Offworld}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ornate Anchor|image=Ornate Anchor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Peafowl Cane|image=Peafowl Cane}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=People's Elbow|image=People's Elbow}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Photosynthesis Warhammer|image=Photosynthesis Warhammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Piledriver|image=Piledriver}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Pneumatic Hammer|image=Pneumatic Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=POP! Goes the Bandit|image=POP! Goes the Bandit}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Primrose Mallet|image=Primrose Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rail Hammer|image=Rail Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rank Breaker|image=Rank Breaker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=RGB Hammer|image=RGB Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Righteous Indignation|image=Righteous Indignation}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Root of the Forest|image=Root of the Forest}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Santa's Sleigh-er|image=Santa's Sleigh-er}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sattelite Smash|image=Sattelite Smash}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Season's Beatings|image=Season's Beatings}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Selena's Smasher|image=Selena's Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shadaloo Scepter|image=Shadaloo Scepter}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Silver Sledgehammer|image=Silver Sledgehammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Skull of the Saint|image=Skull of the Saint}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Skullcracker|image=Skullcracker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sledge Fire|image=Sledge Fire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sledge Hammer|image=Sledge Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Smasher|image=Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sol Smasher|image=Sol Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soldier's Duty|image=Soldier's Duty}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soucriant's Fury|image=Soucriant's Fury}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soul of Aoku|image=Soul of Aoku}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soulbinder|image=Soulbinder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stake Driver|image=Stake Driver}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sterling Sledge|image=Sterling Sledge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stop and Drop|image=Stop and Drop}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Strike of the Wise|image=Strike of the Wise}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Striking Magi ☆ Miracle Mallet|image=Striking Magi ☆ Miracle Mallet}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sucker Punch|image=Sucker Punch}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sun Dial|image=Sun Dial}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Taurus Rebellion|displayname=Taurus Rebellion (Lvl 1)|image=Taurus Rebellion Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Taurus Rebellion|displayname=Taurus Rebellion (Lvl 2)|image=Taurus Rebellion Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Taurus Rebellion|displayname=Taurus Rebellion (Lvl 3)|image=Taurus Rebellion Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tea-KO|image=Tea-KO}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Teeth-Grinder|image=Teeth-Grinder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=That's A Hammer|image=That's A Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Angel|image=The Angel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Bolt|image=The Bolt}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Cure Seeker|image=The Cure Seeker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Dark Cauldron|image=The Dark Cauldron}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Herald|image=The Herald}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Hibernator|image=The Hibernator}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Iron Barrel|image=The Iron Barrel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Phenom|image=The Phenom}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Rook|image=The Rook}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Shrine|image=The Shrine}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Snowplow|image=The Snowplow}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Starsmasher|image=The Starsmasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Steamroller|image=The Steamroller}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Talisman|image=The Talisman}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Throwing Anchor|image=Throwing Anchor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Toybox Hammer|image=Toybox Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Unicorn Stampede|image=Unicorn Stampede}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valiant Armament Hammer|image=Valiant Armament Hammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Verdict|image=Verdict}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Warhammer|image=Warhammer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wild's Smasher|image=Wild's Smasher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wings of Victory|image=Wings of Victory}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yggdrasil's Branch|image=Yggdrasil's Branch}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ymir's Sledge|image=Ymir's Sledge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yokai Slam|image=Yokai Slam}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yokai Smash|image=Yokai Smash}}
+{{itembox/bottom}}

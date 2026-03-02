@@ -1,0 +1,172 @@
+{{itembox/top}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=A Shot at Love|image=A Shot at Love}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ace of Spades|image=Ace of Spades}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aqua Blasters|image=Aqua Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Arts and Crafts|image=Arts and Crafts}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asgardian Blasters|image=Asgardian Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=ASM Blasters|image=ASM Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asp and Adder|image=Asp and Adder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aztlán Blasters|image=Aztlán Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bahian Blasters|image=Bahian Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Barnacle Blasters|image=Barnacle Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Beautiful & Deadly|image=Beautiful & Deadly}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Big Dog Blasters|image=Big Dog Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Birdshot|image=Birdshot}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blaster Pistols|image=Blaster Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blasters of Mercy|image=Blasters of Mercy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blazing Deringers|image=Blazing Deringers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blazing Fire|image=Blazing Fire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bolt Blasters|image=Bolt Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Boom Booms|image=Boom Booms}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Brimstone Blasters|image=Brimstone Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bubonic Blasters|image=Bubonic Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Budding Blasters|image=Budding Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bullet Hail of the King|image=Bullet Hail of the King}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Candy Caliber|image=Candy Caliber}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Catch and Release|image=Catch and Release}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Charmed, I'm Sure|image=Charmed, I'm Sure}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chicago Typewriters|image=Chicago Typewriters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Close Quarters|image=Close Quarters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Commander and Chief|image=Commander and Chief}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyber Myk Pistols|image=Cyber Myk Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyberlink Blasters|image=Cyberlink Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dark Conjurers|image=Dark Conjurers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dark Elf Blasters|image=Dark Elf Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Blasters|image=Darkheart Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkshooters|image=Darkshooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Death Throes|image=Death Throes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Desequencers|image=Desequencers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Desert Island Blasters|image=Desert Island Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dessert Eagles|image=Dessert Eagles}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Destabilizers|image=Destabilizers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Devil's Sight|image=Devil's Sight}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Disassemblers|image=Disassemblers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Double Crossers|image=Double Crossers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Double Dragons|image=Double Dragons}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dragoon Flintlocks|image=Dragoon Flintlocks}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Drakenfire|image=Drakenfire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dual Pistols|image=Dual Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dueling Pistols|image=Dueling Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Duty & Sacrifice|image=Duty & Sacrifice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dwarven-Forged Blasters|image=Dwarven-Forged Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ebon Blasters|image=Ebon Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eclipsers|image=Eclipsers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Electrode Guns|image=Electrode Guns}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Emperor's Own Blasters|image=Emperor's Own Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Equalizer|image=Equalizer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Exception Handlers|image=Exception Handlers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Exquisite Cannons|image=Exquisite Cannons}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fairy Fire|image=Fairy Fire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fiendish Howl|image=Fiendish Howl}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fire & Brimstone|image=Fire & Brimstone}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Firewalls|image=Firewalls}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Five-Sevens|image=Five-Sevens}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Flight Risks|image=Flight Risks}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Flint-Lockers|image=Flint-Lockers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Flintlock Claws|image=Flintlock Claws}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Forbidden Lamps|image=Forbidden Lamps}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Galopante Blasts|image=Galopante Blasts}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Gemini's Wrath|image=Gemini's Wrath}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ghost and Goblin|image=Ghost and Goblin}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Glimpse of Death|image=Glimpse of Death}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Glitz & Glam|image=Glitz & Glam}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Grisly Burrs|image=Grisly Burrs}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Guileless Hellfire Blasters|image=Guileless Hellfire Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hand Cannons|image=Hand Cannons}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardlight Blasters|image=Hardlight Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hellhounds|image=Hellhounds}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Highwayman's Flintlocks|image=Highwayman's Flintlocks}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice 'Em|image=Ice 'Em}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jötunn Armaments|image=Jötunn Armaments}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jubilation Blasters|image=Jubilation Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Juicy Carnage Shotguns|image=Juicy Carnage Shotguns}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ketchup & Mustard|image=Ketchup & Mustard}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Las Viudas|image=Las Viudas}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Laser Blazers|image=Laser Blazers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lawbreakers|image=Lawbreakers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Los Volcanes|image=Los Volcanes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lost Technology|image=Lost Technology}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Loves Me|image=Loves Me}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=M7 SMG & Plasma Rifle|image=M7 SMG & Plasma Rifle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Magnum Pistols|image=Magnum Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Maxilli-Blasts|image=Maxilli-Blasts}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mega Buster|image=Mega Buster}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mercy Killers|image=Mercy Killers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Moskitoes|image=Moskitoes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mother of Pearl Blasters|image=Mother of Pearl Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=MP7s|image=MP7s}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Murder of Crows|image=Murder of Crows}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Naughty & Nice|image=Naughty & Nice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Needlers|image=Needlers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Net Guns|image=Net Guns}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare Witnesses|image=Nightmare Witnesses}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nina's Blasters|image=Nina's Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Unsealed Blasters|image=Ninpō Unsealed Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=No Contest|image=No Contest}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Outbreak Perfected|image=Outbreak Perfected}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Poppin’ TNTina|image=Poppin’ TNTina}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Powerplay Blasters|image=Powerplay Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Protect & Serve|image=Protect & Serve}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Purge and Exorcise|image=Purge and Exorcise}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Raycasters|image=Raycasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Refractors|image=Refractors}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Repeating Crossbows|image=Repeating Crossbows}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Revolvers|image=Revolvers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=RGB Blasters|image=RGB Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ripple and Wave|image=Ripple and Wave}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rose Gold Revolvers|image=Rose Gold Revolvers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Royal Family|image=Royal Family}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sacred Orders|image=Sacred Orders}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Salty Shooters|image=Salty Shooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Samaritans|image=Samaritans}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sawbones|image=Sawbones}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Selenite Ray Guns|image=Selenite Ray Guns}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shadow Casters|image=Shadow Casters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sharkshooters|image=Sharkshooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shriek & Wail|image=Shriek & Wail}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sidearms|image=Sidearms}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Signal Flares|image=Signal Flares}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Silenced Pistols|image=Silenced Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Silver and Steel|image=Silver and Steel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Silver Bullets|image=Silver Bullets}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Silver Sixshooters|image=Silver Sixshooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Six of a Kind|image=Six of a Kind}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sixshooters|image=Sixshooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Smokers Mk. B|image=Smokers Mk. B}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Snake Eyes (Weapon Skin)|displayname=Snake Eyes|image=Snake Eyes (Weapon Skin)}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Snow Shooters|image=Snow Shooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Solar Flares|image=Solar Flares}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soul Blasters|image=Soul Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Space Shooters|image=Space Shooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Special Forces Pistols|image=Special Forces Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Splish Splash|image=Splish Splash}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Standard Issue|image=Standard Issue}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stardusters|image=Stardusters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Starved Scavengers|image=Starved Scavengers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tactical Pistols|image=Tactical Pistols}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tactical Sidearms|image=Tactical Sidearms}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Teacher's Pets|image=Teacher's Pets}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tempo and Groove|image=Tempo and Groove}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Consequences|image=The Consequences}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Doctor's Orders|image=The Doctor's Orders}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Hunters|image=The Hunters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Neutralizers|image=The Neutralizers}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Roadhogs|image=The Roadhogs}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Sequels|image=The Sequels}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Singularities|image=The Singularities}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Thunder Bass Blasters|image=Thunder Bass Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tide Turners|image=Tide Turners}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Toybox Pistol|image=Toybox Pistol}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valiant Armament Blasters|image=Valiant Armament Blasters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Vengeance at Hand|image=Vengeance at Hand}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Vespian Six Shooter|image=Vespian Six Shooter}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wheel Locks|image=Wheel Locks}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Whirlwinds|image=Whirlwinds}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Winged Danger|image=Winged Danger}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wolf's Howl|image=Wolf's Howl}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wurm Shooters|image=Wurm Shooters}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=XLR8R's|image=XLR8R's}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Zhaktari Issue|image=Zhaktari Issue}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Zip and Snap|image=Zip and Snap}}
+{{itembox/bottom}}

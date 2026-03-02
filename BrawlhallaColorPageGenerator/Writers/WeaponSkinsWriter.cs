@@ -1,4 +1,5 @@
 using System.IO;
+using System.Linq;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 
@@ -6,99 +7,64 @@ namespace BrawlhallaColorPageGenerator.Writers;
 
 public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile langFile)
 {
-    public void WriteTo(string path, bool axe)
+    public void WriteTo(string path)
     {
-        using StreamWriter writer = new(path);
-        if (axe)
+        foreach ((string baseWeapon, string weaponName) in Utils.BASE_WEAPON_NAME)
         {
-            writer.WriteLine("{{itembox/top}}");
-        }
-        else
-        {
-            writer.WriteLine("<includeonly><onlyinclude>");
-            writer.WriteLine("The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
-            writer.WriteLine();
-        }
-
-        string currentBaseWeapon = "";
-        foreach (WeaponSkinType weaponSkin in weaponSkinTypes.WeaponSkins)
-        {
-            if (
-                weaponSkin.WeaponSkinName == "Template" ||
-                weaponSkin.DisplayNameKey is null ||
-                !weaponSkin.CanColorSwap ||
-                weaponSkin.WeaponSkinName.EndsWith("Stub") ||
-                weaponSkin.WeaponSkinName.EndsWith("EivorMale") ||
-                weaponSkin.WeaponSkinName.EndsWith("Stance")
-            ) continue;
-
-            if (axe)
+            using StreamWriter weaponWriter = new(path.Replace("\x00", weaponName));
+            weaponWriter.WriteLine("{{itembox/top}}");
+            foreach (WeaponSkinType weaponSkin in weaponSkinTypes.WeaponSkins)
             {
-                if (weaponSkin.BaseWeapon != "Axe")
-                    continue;
-            }
-            else
-            {
-                if (weaponSkin.BaseWeapon != currentBaseWeapon)
-                {
-                    if (!string.IsNullOrEmpty(currentBaseWeapon))
-                    {
-                        if (currentBaseWeapon != "Axe")
-                        {
-                            writer.WriteLine("{{itembox/bottom}}");
-                        }
-                        writer.WriteLine();
-                    }
+                if (
+                    weaponSkin.WeaponSkinName == "Template" ||
+                    weaponSkin.BaseWeapon != baseWeapon ||
+                    weaponSkin.DisplayNameKey is null ||
+                    !weaponSkin.CanColorSwap ||
+                    weaponSkin.WeaponSkinName.EndsWith("Stub") ||
+                    weaponSkin.WeaponSkinName.EndsWith("EivorMale") ||
+                    weaponSkin.WeaponSkinName.EndsWith("Stance")
+                ) continue;
 
-                    writer.Write("===[[");
-                    writer.Write(Utils.BASE_WEAPON_NAME[weaponSkin.BaseWeapon]);
-                    writer.WriteLine("]]===");
-                    writer.WriteLine(weaponSkin.BaseWeapon == "Axe" ? "{{Color Weapon Skins/Axe|{{{1|}}}}}" : "{{itembox/top}}");
-                    currentBaseWeapon = weaponSkin.BaseWeapon;
-                }
+                (string weaponSkinName, string imageName, string displayName) = GetNameParams(weaponSkin);
 
-                if (currentBaseWeapon == "Axe")
-                    continue;
-            }
-
-            (string weaponSkinName, string imageName, string displayName) = GetNameParams(weaponSkin);
-
-            if (axe)
-            {
-                writer.Write("{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=");
-                writer.Write(weaponSkinName);
+                weaponWriter.Write("{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=");
+                weaponWriter.Write(weaponSkinName);
                 if (weaponSkinName != displayName)
                 {
-                    writer.Write("|displayname=");
-                    writer.Write(displayName);
+                    weaponWriter.Write("|displayname=");
+                    weaponWriter.Write(displayName);
                 }
-                writer.Write("|image=");
-                writer.Write(imageName);
-                writer.WriteLine("}}");
+                weaponWriter.Write("|image=");
+                weaponWriter.Write(imageName);
+                weaponWriter.WriteLine("}}");
             }
-            else
-            {
-                writer.Write("{{itembox|width=150|height=150|name=");
-                writer.Write(weaponSkinName);
-                if (weaponSkinName != displayName)
-                {
-                    writer.Write("|displayname=");
-                    writer.Write(displayName);
-                }
-                writer.Write("|image=");
-                writer.Write(imageName);
-                writer.WriteLine(" {{{1|}}}.png|compact=true|noimglink=true}}");
-            }
+            weaponWriter.WriteLine("{{itembox/bottom}}");
         }
-        writer.WriteLine("{{itembox/bottom}}");
 
-        if (!axe)
+        // write main page
+        using StreamWriter mainWriter = new(path.Replace("\x00", "main"));
+        mainWriter.WriteLine("<includeonly><onlyinclude>");
+        mainWriter.WriteLine("The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
+        mainWriter.WriteLine();
+
+        foreach ((_, string weaponName) in Utils.BASE_WEAPON_NAME.OrderBy((e) => e.Value))
         {
-            writer.WriteLine("[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>");
-            writer.WriteLine("<noinclude>");
-            writer.WriteLine("{{doc}}");
-            writer.WriteLine("</noinclude>");
+            mainWriter.Write("===[[");
+            mainWriter.Write(weaponName);
+            mainWriter.WriteLine("]]===");
+
+            mainWriter.Write("{{Color Weapon Skins/");
+            mainWriter.Write(weaponName);
+            mainWriter.WriteLine("|{{{1|}}}}}");
+
+            mainWriter.WriteLine();
         }
+
+        mainWriter.WriteLine("[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>");
+        mainWriter.WriteLine("<noinclude>");
+        mainWriter.WriteLine("{{doc}}");
+        mainWriter.WriteLine("[[Category:Templates]]");
+        mainWriter.WriteLine("</noinclude>");
     }
 
     private (string weaponSkinName, string imageName, string displayName) GetNameParams(WeaponSkinType weaponSkinType)

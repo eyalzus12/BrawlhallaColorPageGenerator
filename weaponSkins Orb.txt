@@ -1,0 +1,92 @@
+{{itembox/top}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=4LLY|image=4LLY}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aesir's Orb|image=Aesir's Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Alley-oop|image=Alley-oop}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Apple of Eden|image=Apple of Eden}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Apple of Odin|image=Apple of Odin}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asgardian Orb|image=Asgardian Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aztlán Orb|image=Aztlán Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Beach Ball|image=Beach Ball}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Beatdown Bell|image=Beatdown Bell}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blood Keepsake|image=Blood Keepsake}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blood Shard|image=Blood Shard}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Closin' Time|image=Closin' Time}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Crimson Poison|image=Crimson Poison}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyber Myk Orb|image=Cyber Myk Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Geode|image=Darkheart Geode}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Orb|image=Darkheart Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Death Awaits|image=Death Awaits}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Death Star Hologram|image=Death Star Hologram}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Demon's Malice|displayname=Demon's Malice (Lvl 1)|image=Demon's Malice Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Demon's Malice|displayname=Demon's Malice (Lvl 2)|image=Demon's Malice Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Demon's Malice|displayname=Demon's Malice (Lvl 3)|image=Demon's Malice Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dragon's Heart|image=Dragon's Heart}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Durasteel Debris|image=Durasteel Debris}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dwarven-Forged Orb|image=Dwarven-Forged Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eldritch Core|image=Eldritch Core}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Encyclopedia of Brawl|image=Encyclopedia of Brawl}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Essence of Niflheim|image=Essence of Niflheim}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eternal Nightfall|image=Eternal Nightfall}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eye of the Storm|image=Eye of the Storm}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fae Magi ☆ Soaring Locket|image=Fae Magi ☆ Soaring Locket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fossil Fury|image=Fossil Fury}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fu Lion Charm|image=Fu Lion Charm}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Galactic Glitch|image=Galactic Glitch}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Garuda's Core|image=Garuda's Core}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ghost Familiar|image=Ghost Familiar}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Golden Dawn ~ Arcana|image=Golden Dawn ~ Arcana}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Golden Punishment|image=Golden Punishment}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Grifball|image=Grifball}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardening Crystal|image=Hardening Crystal}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardlight Orb|image=Hardlight Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Home Run|image=Home Run}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hot Choco Orb|image=Hot Choco Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Isu Apple|image=Isu Apple}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jar-O-Honey|image=Jar-O-Honey}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jedi Training Remote|image=Jedi Training Remote}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jewel of the Forest|image=Jewel of the Forest}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lighted Eminence|image=Lighted Eminence}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lightning Sigil|image=Lightning Sigil}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Logitech Keycap|image=Logitech Keycap}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Love Sick|image=Love Sick}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Memento Mori|image=Memento Mori}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Moonlight Meteor|image=Moonlight Meteor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Night Blight|image=Night Blight}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare Eye|image=Nightmare Eye}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Unsealed Orb|image=Ninpō Unsealed Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Oddball|image=Oddball}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Orb of Mercy|image=Orb of Mercy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Orbot|image=Orbot}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Photon Sphere|image=Photon Sphere}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Piece of Eden|image=Piece of Eden}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Piña Collider|image=Piña Collider}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Power of Courage|image=Power of Courage}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Power of Will|image=Power of Will}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Psycho Power Aura|image=Psycho Power Aura}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Remnant of Fate|image=Remnant of Fate}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Reunited|image=Reunited}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=RGB Orb|image=RGB Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sacred Relic|image=Sacred Relic}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scrying Glass|image=Scrying Glass}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sealed Infernum|image=Sealed Infernum}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Searing Sphere|image=Searing Sphere}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shot Caller|image=Shot Caller}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sidekick Souvenir Orb|image=Sidekick Souvenir Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sleeping Demon|image=Sleeping Demon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Snarler|image=Snarler}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Snow Globe|image=Snow Globe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soul Battery|image=Soul Battery}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stone of Malice|image=Stone of Malice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Terra Firma|image=Terra Firma}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Firehawk|image=The Firehawk}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Giver's Grasp|image=The Giver's Grasp}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Last Ride|image=The Last Ride}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Obol|image=The Obol}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Unblinking|image=The Unblinking}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tiercel Orb|image=Tiercel Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Toybox Orb|image=Toybox Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valiant Armament Orb|image=Valiant Armament Orb}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Vial of Crows|image=Vial of Crows}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Von Evilstein's Heart|image=Von Evilstein's Heart}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Whitewater Gem|image=Whitewater Gem}}
+{{itembox/bottom}}

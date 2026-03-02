@@ -4,7 +4,7 @@ namespace BrawlhallaColorPageGenerator;
 
 public static class Utils
 {
-    public static readonly Dictionary<string, string> BASE_WEAPON_NAME = new()
+    public static Dictionary<string, string> BASE_WEAPON_NAME { get; } = new()
     {
         ["Axe"] = "Axe",
         ["Boots"] = "Battle Boots",
@@ -22,4 +22,22 @@ public static class Utils
         ["Spear"] = "Spear",
         ["Sword"] = "Sword",
     };
+
+    public static string[] WEAPON_LIST { get; } = [
+        "Axe",
+        "Battle Boots",
+        "Bow",
+        "Cannon",
+        "Chakram",
+        "Gauntlets",
+        "Greatsword",
+        "Hammer",
+        "Katars",
+        "Orb",
+        "Blasters",
+        "Rocket Lance",
+        "Scythe",
+        "Spear",
+        "Sword",
+    ];
 }

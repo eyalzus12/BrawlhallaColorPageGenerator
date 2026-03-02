@@ -1,0 +1,139 @@
+{{itembox/top}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Adrenaline Rush|image=Adrenaline Rush}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Amplitude|image=Amplitude}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Arched Valor|image=Arched Valor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asgardian Scythe|image=Asgardian Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Autumn Harvest|image=Autumn Harvest}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aztlán Scythe|image=Aztlán Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blood Moon Influence|displayname=Blood Moon Influence (Lvl 1)|image=Blood Moon Influence Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blood Moon Influence|displayname=Blood Moon Influence (Lvl 2)|image=Blood Moon Influence Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blood Moon Influence|displayname=Blood Moon Influence (Lvl 3)|image=Blood Moon Influence Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blossoming Blade|image=Blossoming Blade}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Calling Card|image=Calling Card}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Candlelit Scythe|image=Candlelit Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Casey's Hockey Stick|image=Casey's Hockey Stick}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cat Scratch|image=Cat Scratch}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Caught a Big One!|image=Caught a Big One!}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chaos Harvester|image=Chaos Harvester}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chi Stopper|image=Chi Stopper}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Climbing Gear|image=Climbing Gear}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Coatl Culler|image=Coatl Culler}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Constellation Carver|image=Constellation Carver}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Crossfader|image=Crossfader}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Crowned Favor|image=Crowned Favor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cull|image=Cull}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyber Myk Sickle|image=Cyber Myk Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cygnus|displayname=Cygnus (Lvl 1)|image=Cygnus Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cygnus|displayname=Cygnus (Lvl 2)|image=Cygnus Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cygnus|displayname=Cygnus (Lvl 3)|image=Cygnus Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Daikama|image=Daikama}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Reaper|image=Darkheart Reaper}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Death Touch|image=Death Touch}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Digital Lockdown|image=Digital Lockdown}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dreamweaver's Dance: Reap|image=Dreamweaver's Dance Reap}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dwarven-Forged Scythe|image=Dwarven-Forged Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Edge of the Universe|image=Edge of the Universe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Erudition's Call|image=Erudition's Call}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eternity|image=Eternity}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eye of Horus|image=Eye of Horus}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fettered Rage|image=Fettered Rage}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fiendish Slice|image=Fiendish Slice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Frost Fang|image=Frost Fang}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fusion Blade|image=Fusion Blade}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Gloryhound|image=Gloryhound}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Goalie Stick|image=Goalie Stick}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Golden Light|image=Golden Light}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hand of Asmodeus|image=Hand of Asmodeus}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardlight Scythe|image=Hardlight Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Harvest Sickle|image=Harvest Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Haunted Hook|image=Haunted Hook}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heartbleed|image=Heartbleed}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heartfelt Wish|image=Heartfelt Wish}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heartthrob|image=Heartthrob}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Holy Incantation|image=Holy Incantation}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hotline Slash|image=Hotline Slash}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice Pick|image=Ice Pick}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ice Sickle|image=Ice Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=In Sickness|image=In Sickness}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Interstellar Edge|image=Interstellar Edge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Into the Abyss|image=Into the Abyss}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Jaws of the Oni|image=Jaws of the Oni}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Keytar Slash|image=Keytar Slash}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Kingpin Scythe|image=Kingpin Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Knowledge is Key|image=Knowledge is Key}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Koinobori|image=Koinobori}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Laplace's Demon|image=Laplace's Demon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Last Bite|image=Last Bite}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Leash of Souls|image=Leash of Souls}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lethal Edge|image=Lethal Edge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lightbringer's Relic|image=Lightbringer's Relic}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lockpick|image=Lockpick}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Looter's Lute|image=Looter's Lute}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Luminary Authority|image=Luminary Authority}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Marks the Spot|image=Marks the Spot}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Merry Jingle Scythe|image=Merry Jingle Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mississippi Wrangler|image=Mississippi Wrangler}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mordex on Ice: Dair to Dream|image=Mordex on Ice Dair to Dream}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Necromantic Aura|image=Necromantic Aura}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nevermore|image=Nevermore}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare Reaper|image=Nightmare Reaper}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Kusarenka|displayname=Ninpō: Kusarenka (Lvl 1)|image=Ninpō Kusarenka Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Kusarenka|displayname=Ninpō: Kusarenka (Lvl 2)|image=Ninpō Kusarenka Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Kusarenka|displayname=Ninpō: Kusarenka (Lvl 3)|image=Ninpō Kusarenka Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Unsealed Scythe|image=Ninpō Unsealed Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Oni Bite|image=Oni Bite}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Pavo Beak|image=Pavo Beak}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Pavonini Talon|image=Pavonini Talon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Penumbral Crescent|image=Penumbral Crescent}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Phantom Toxin|image=Phantom Toxin}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Quarrion Sickle|image=Quarrion Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Raven's Talon|image=Raven's Talon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Razor's Reach|image=Razor's Reach}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Reaping Time|image=Reaping Time}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=RGB Scythe|image=RGB Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rhapsody's Edge|image=Rhapsody's Edge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sacrifice|image=Sacrifice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scarabs' Bane|image=Scarabs' Bane}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scare-Ware|image=Scare-Ware}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scavenger's Spoils|image=Scavenger's Spoils}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scrapped M.O.U.S.E.R.|image=Scrapped M.O.U.S.E.R.}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scythe of Mercy|image=Scythe of Mercy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scythe of Slaghtaverty|image=Scythe of Slaghtaverty}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scythe of the Sands|image=Scythe of the Sands}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Scythe of Torment|image=Scythe of Torment}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Searing Blade|image=Searing Blade}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Seraph's Message|image=Seraph's Message}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sharkbite|image=Sharkbite}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shooting Star|image=Shooting Star}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Singularity Sickle|image=Singularity Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Six String|image=Six String}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Spinal Sickle|image=Spinal Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=St. Alerial’s Judgment|image=St. Alerial’s Judgment}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stargleam Scythe|image=Stargleam Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Starry Scythe|image=Starry Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Starship Slice|image=Starship Slice}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Stringed Scavenger|image=Stringed Scavenger}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tamed Beast|image=Tamed Beast}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tethered Plane|image=Tethered Plane}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Appointment|image=The Appointment}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Closer|image=The Closer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Jade Price|image=The Jade Price}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Pale Horse|image=The Pale Horse}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Signature|image=The Signature}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Thresher|image=Thresher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Throttle|image=Throttle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Toybox Scythe|image=Toybox Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tropic Breeze|image=Tropic Breeze}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ultra Oil Lamp|image=Ultra Oil Lamp}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Uraeus' Fang|image=Uraeus' Fang}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valiant Armament Scythe|image=Valiant Armament Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valorous Charge|image=Valorous Charge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Vanquisher|image=Vanquisher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Villain Monologue|image=Villain Monologue}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Winter's Grave|image=Winter's Grave}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Withering Scythe|image=Withering Scythe}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wraith's Sickle|image=Wraith's Sickle}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Wrath of Hel|image=Wrath of Hel}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yard Marker|image=Yard Marker}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yoshimitsu's Scythe|image=Yoshimitsu's Scythe}}
+{{itembox/bottom}}

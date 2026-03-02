@@ -1,0 +1,127 @@
+{{itembox/top}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Abyssal Excavator|image=Abyssal Excavator}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Accretion Mass Projector|image=Accretion Mass Projector}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aesinite Lance|image=Aesinite Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aetheric Rocket Drill|image=Aetheric Rocket Drill}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Armored Attack Rocket|image=Armored Attack Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asgardian Lance|image=Asgardian Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Asteroid Grinder|image=Asteroid Grinder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Atomic Rocket|image=Atomic Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aviator Test Rocket|image=Aviator Test Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Aztlán Rocket Lance|image=Aztlán Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Banana Guard Lance|image=Banana Guard Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Batavian Column|image=Batavian Column}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Battle Lance|image=Battle Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Beach King|image=Beach King}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Bitter End|image=Bitter End}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blackstar|image=Blackstar}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Blazing Charioteer|image=Blazing Charioteer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Broken Crown|image=Broken Crown}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Burnout (Weapon Skin)|displayname=Burnout|image=Burnout}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Butt Stallion|image=Butt Stallion}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chemical V|image=Chemical V}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Chrysalis Lance|image=Chrysalis Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cobalt Mecha Lance|image=Cobalt Mecha Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Core Collapse|image=Core Collapse}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Corinthian Lance|image=Corinthian Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cristatus Wingspan|image=Cristatus Wingspan}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cupid's Arrow|image=Cupid's Arrow}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Cyber Myk Starblaze|image=Cyber Myk Starblaze}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkheart Missile|image=Darkheart Missile}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Darkpulse|image=Darkpulse}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dirt Road Drill|image=Dirt Road Drill}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Doombringer|image=Doombringer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dragon's Breath|image=Dragon's Breath}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Drake's Battalion|image=Drake's Battalion}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Drivsnö Pulse|image=Drivsnö Pulse}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Dwarven-Forged Lance|image=Dwarven-Forged Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=End Bringer|image=End Bringer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Eternal Skyrocket|image=Eternal Skyrocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Event Horizon|image=Event Horizon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Exalting Spire|image=Exalting Spire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fancy Lance|image=Fancy Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fearful Frost|image=Fearful Frost}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fire Giant Lance|image=Fire Giant Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Forerunner|image=Forerunner}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Freelancer|image=Freelancer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Fuselage|image=Fuselage}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Galaxy Lance|image=Galaxy Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Glorious Conquest|image=Glorious Conquest}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Griffoth's Fire|image=Griffoth's Fire}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Hardlight Rocket Lance|image=Hardlight Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Heartbreak Havoc|image=Heartbreak Havoc}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Honor's Edge|image=Honor's Edge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Honorbound|image=Honorbound}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Horn of the Scarab|image=Horn of the Scarab}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Imperial Rocket|image=Imperial Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Imperial Star Lance|image=Imperial Star Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Interstellar Rocket|image=Interstellar Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Iridium Engine|image=Iridium Engine}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ivy Charger|image=Ivy Charger}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Kingly Lance|image=Kingly Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lion's Pride|image=Lion's Pride}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Lobster Lance|image=Lobster Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Loch's Harpoon|image=Loch's Harpoon}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Magma Bolt|image=Magma Bolt}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Magma Heart|image=Magma Heart}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mk 1 Lance|image=Mk 1 Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Mk V Lance|image=Mk V Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nightmare Launcher|image=Nightmare Launcher}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ninpō: Unsealed Rocket Lance|image=Ninpō Unsealed Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Nordic Celebration|image=Nordic Celebration}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=OHHHHH YEEAAAH!|image=OHHHHH YEEAAAH!}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Overdrive|image=Overdrive}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Perceptive Flight|image=Perceptive Flight}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Piercing Gaze|image=Piercing Gaze}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Plague Boost|image=Plague Boost}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Planet Destroyer|image=Planet Destroyer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Pole Position|image=Pole Position}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Prizewinner|image=Prizewinner}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Prophecy|image=Prophecy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Pulsing Thicket|image=Pulsing Thicket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Quasar|displayname=Quasar (Lvl 1)|image=Quasar Level 1}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Quasar|displayname=Quasar (Lvl 2)|image=Quasar Level 2}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Quasar|displayname=Quasar (Lvl 3)|image=Quasar Level 3}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Racing Lance|image=Racing Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Raging Furnace|image=Raging Furnace}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Reactor Core|image=Reactor Core}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Retrograde Rocket|image=Retrograde Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=RGB Rocket Lance|image=RGB Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Righter of Wrongs|image=Righter of Wrongs}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Roar of the Pride|image=Roar of the Pride}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rocket Lance of Mercy|image=Rocket Lance of Mercy}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rocket Parasol|image=Rocket Parasol}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rocket Powered Warhorse|image=Rocket Powered Warhorse}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Royal Roar|image=Royal Roar}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Rush|image=Rush}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Selenite Jet Lance|image=Selenite Jet Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Shattered Emerald|image=Shattered Emerald}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Sidewinder|image=Sidewinder}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Skull Saw|image=Skull Saw}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Skypiercer|image=Skypiercer}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Skyrush|image=Skyrush}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Spark Compressor|image=Spark Compressor}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Spark of Madness|image=Spark of Madness}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Speaker of the Sea|image=Speaker of the Sea}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Steam Rocket|image=Steam Rocket}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Svartalfheim's Caverns|image=Svartalfheim's Caverns}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Synthetic Charge|image=Synthetic Charge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tegmina Lance|image=Tegmina Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Breakdown|image=The Breakdown}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Broken Forge|image=The Broken Forge}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=The Insignia|image=The Insignia}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Thumbs Down|image=Thumbs Down}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tide Queen|image=Tide Queen}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Tourney Lance|image=Tourney Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Toybox Rocket Lance|image=Toybox Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Ultra-Lance|image=Ultra-Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Uprising|image=Uprising}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Valiant Armament Rocket Lance|image=Valiant Armament Rocket Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=War Pipes|image=War Pipes}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Winterbite|image=Winterbite}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Witching Broom|image=Witching Broom}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=World Champion Lance|image=World Champion Lance}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yokai's Spirit|image=Yokai's Spirit}}
+{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=Yorishiro|image=Yorishiro}}
+{{itembox/bottom}}

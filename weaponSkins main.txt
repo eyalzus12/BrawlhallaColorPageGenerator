@@ -1,0 +1,53 @@
+<includeonly><onlyinclude>
+The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''
+
+===[[Axe]]===
+{{Color Weapon Skins/Axe|{{{1|}}}}}
+
+===[[Battle Boots]]===
+{{Color Weapon Skins/Battle Boots|{{{1|}}}}}
+
+===[[Blasters]]===
+{{Color Weapon Skins/Blasters|{{{1|}}}}}
+
+===[[Bow]]===
+{{Color Weapon Skins/Bow|{{{1|}}}}}
+
+===[[Cannon]]===
+{{Color Weapon Skins/Cannon|{{{1|}}}}}
+
+===[[Chakram]]===
+{{Color Weapon Skins/Chakram|{{{1|}}}}}
+
+===[[Gauntlets]]===
+{{Color Weapon Skins/Gauntlets|{{{1|}}}}}
+
+===[[Greatsword]]===
+{{Color Weapon Skins/Greatsword|{{{1|}}}}}
+
+===[[Hammer]]===
+{{Color Weapon Skins/Hammer|{{{1|}}}}}
+
+===[[Katars]]===
+{{Color Weapon Skins/Katars|{{{1|}}}}}
+
+===[[Orb]]===
+{{Color Weapon Skins/Orb|{{{1|}}}}}
+
+===[[Rocket Lance]]===
+{{Color Weapon Skins/Rocket Lance|{{{1|}}}}}
+
+===[[Scythe]]===
+{{Color Weapon Skins/Scythe|{{{1|}}}}}
+
+===[[Spear]]===
+{{Color Weapon Skins/Spear|{{{1|}}}}}
+
+===[[Sword]]===
+{{Color Weapon Skins/Sword|{{{1|}}}}}
+
+[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>
+<noinclude>
+{{doc}}
+[[Category:Templates]]
+</noinclude>
