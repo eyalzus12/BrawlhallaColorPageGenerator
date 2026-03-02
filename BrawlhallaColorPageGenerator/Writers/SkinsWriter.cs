@@ -10,11 +10,11 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
 {
     public void WriteTo(string path)
     {
-        using StreamWriter skinsWriter = new(path);
-        skinsWriter.WriteLine("<includeonly>");
-        skinsWriter.WriteLine("The following is a list of all skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
-        skinsWriter.WriteLine();
-        skinsWriter.WriteLine("{{Compact TOC}}");
+        using StreamWriter writer = new(path);
+        writer.WriteLine("<includeonly>");
+        writer.WriteLine("The following is a list of all skins in {{{1|}}}. ''Click an image to view it in higher resolution.''");
+        writer.WriteLine();
+        writer.WriteLine("{{Compact TOC}}");
         char currentLetter = '~';
         foreach (HeroType hero in heroTypes.Heroes)
         {
@@ -26,13 +26,17 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
             if (currentLetter != firstLetter)
             {
                 currentLetter = firstLetter;
-                skinsWriter.WriteLine("<span id=\"¹\"></span>".Apply(currentLetter));
+                writer.Write("<span id=\"");
+                writer.Write(currentLetter);
+                writer.WriteLine("\"></span>");
             }
 
             TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
             string titleCaseName = textInfo.ToTitleCase(name);
-            skinsWriter.WriteLine("===[[¹]]===".Apply(titleCaseName));
-            skinsWriter.WriteLine("{{itembox/top}}");
+            writer.Write("===[[");
+            writer.Write(titleCaseName);
+            writer.WriteLine("]]===");
+            writer.WriteLine("{{itembox/top}}");
             foreach (CostumeType costumeType in costumeTypes.Costumes)
             {
                 if (
@@ -43,18 +47,23 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
 
                 (string costumeName, string imageName, string displayName) = GetNameParams(costumeType, titleCaseName);
 
-                skinsWriter.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
-                    costumeName,
-                    costumeName == displayName ? "" : ("|displayname=" + displayName),
-                    imageName
-                ));
+                writer.Write("{{itembox|width=150|height=150|name=");
+                writer.Write(costumeName);
+                if (costumeName != displayName)
+                {
+                    writer.Write("|displayname=");
+                    writer.Write(displayName);
+                }
+                writer.Write("|image=");
+                writer.Write(imageName);
+                writer.WriteLine(" {{{1|}}}.png|compact=true|noimglink=true}}");
             }
-            skinsWriter.WriteLine("{{itembox/bottom}}");
+            writer.WriteLine("{{itembox/bottom}}");
         }
-        skinsWriter.WriteLine("[[Category:Skins in all colors]]</includeonly>");
-        skinsWriter.WriteLine("<noinclude>");
-        skinsWriter.WriteLine("{{doc}}");
-        skinsWriter.WriteLine("</noinclude>");
+        writer.WriteLine("[[Category:Skins in all colors]]</includeonly>");
+        writer.WriteLine("<noinclude>");
+        writer.WriteLine("{{doc}}");
+        writer.WriteLine("</noinclude>");
     }
 
     private (string skinName, string imageName, string displayName) GetNameParams(CostumeType costumeType, string nameDefault)

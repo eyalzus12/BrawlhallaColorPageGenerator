@@ -50,7 +50,9 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
                         writer.WriteLine();
                     }
 
-                    writer.WriteLine("===[[¹]]===".Apply(Utils.BASE_WEAPON_NAME[weaponSkin.BaseWeapon]));
+                    writer.Write("===[[");
+                    writer.Write(Utils.BASE_WEAPON_NAME[weaponSkin.BaseWeapon]);
+                    writer.WriteLine("]]===");
                     writer.WriteLine(weaponSkin.BaseWeapon == "Axe" ? "{{Color Weapon Skins/Axe|{{{1|}}}}}" : "{{itembox/top}}");
                     currentBaseWeapon = weaponSkin.BaseWeapon;
                 }
@@ -63,19 +65,29 @@ public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile 
 
             if (axe)
             {
-                writer.WriteLine("{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=¹²|image=³}}".Apply3(
-                    weaponSkinName,
-                    weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
-                    imageName
-                ));
+                writer.Write("{{Color Weapon Skins/Single|color={{{1|}}}|width={{{width|}}}|height={{{height|}}}|name=");
+                writer.Write(weaponSkinName);
+                if (weaponSkinName != displayName)
+                {
+                    writer.Write("|displayname=");
+                    writer.Write(displayName);
+                }
+                writer.Write("|image=");
+                writer.Write(imageName);
+                writer.WriteLine("}}");
             }
             else
             {
-                writer.WriteLine("{{itembox|width=150|height=150|name=¹²|image=³ {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
-                    weaponSkinName,
-                    weaponSkinName == displayName ? "" : ("|displayname=" + displayName),
-                    imageName
-                ));
+                writer.Write("{{itembox|width=150|height=150|name=");
+                writer.Write(weaponSkinName);
+                if (weaponSkinName != displayName)
+                {
+                    writer.Write("|displayname=");
+                    writer.Write(displayName);
+                }
+                writer.Write("|image=");
+                writer.Write(imageName);
+                writer.WriteLine(" {{{1|}}}.png|compact=true|noimglink=true}}");
             }
         }
         writer.WriteLine("{{itembox/bottom}}");

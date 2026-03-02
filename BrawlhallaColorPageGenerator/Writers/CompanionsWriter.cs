@@ -19,11 +19,16 @@ public sealed class CompanionsWriter(CompanionTypes companionTypes, LangFile lan
 
             (string companionName, string imageName, string displayName) = GetNameParams(companion);
 
-            writer.WriteLine("{{itembox|width=150|height=150|name=¹²|image=Companion ³ Idle {{{1|}}}.png|compact=true|noimglink=true}}".Apply3(
-                companionName,
-                companionName == displayName ? "" : ("|displayname=" + displayName),
-                imageName
-            ));
+            writer.Write("{{itembox|width=150|height=150|name=");
+            writer.Write(companionName);
+            if (companionName != displayName)
+            {
+                writer.Write("|displayname=");
+                writer.Write(displayName);
+            }
+            writer.Write("|image=Companion ");
+            writer.Write(imageName);
+            writer.WriteLine(" Idle {{{1|}}}.png|compact=true|noimglink=true}}");
         }
         writer.WriteLine("{{itembox/bottom}}");
 
