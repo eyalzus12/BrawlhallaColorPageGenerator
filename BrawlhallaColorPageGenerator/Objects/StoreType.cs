@@ -1,0 +1,56 @@
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using nietras.SeparatedValues;
+
+namespace BrawlhallaColorPageGenerator.Objects;
+
+public sealed class StoreType
+{
+    public string StoreName { get; }
+    public string? DisplayNameKey { get; }
+    public int IdolCost { get; }
+    public int GoldCost { get; }
+    public int RankedPointsCost { get; }
+    public string Type { get; }
+    public string? Item { get; }
+
+    public StoreType(SepReader.Row row)
+    {
+        StoreName = row[nameof(StoreName)].ToString();
+
+        DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
+        if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;
+
+        IdolCost = row[nameof(IdolCost)].TryParse<int>() ?? 0;
+        GoldCost = row[nameof(GoldCost)].TryParse<int>() ?? 0;
+        RankedPointsCost = row[nameof(RankedPointsCost)].TryParse<int>() ?? 0;
+
+        Type = row[nameof(Type)].ToString();
+
+        Item = row[nameof(Item)].ToString();
+        if (string.IsNullOrWhiteSpace(Item)) Item = null;
+    }
+}
+
+public sealed class StoreTypes
+{
+    public StoreType[] Stores { get; }
+    public Dictionary<string, StoreType> ItemToStoreType { get; }
+
+    public StoreTypes(string content)
+    {
+        using StringReader textReader = new(content);
+        textReader.ReadLine(); // skip first line bullshit
+        SepReaderOptions sepReaderOptions = Sep.New(',').Reader((opts) =>
+        {
+            return opts with
+            {
+                DisableColCountCheck = true,
+            };
+        });
+        using SepReader csvReader = sepReaderOptions.From(textReader);
+        Stores = [.. csvReader.Enumerate((row) => new StoreType(row))];
+        ItemToStoreType = Stores.Where((s) => s.Item is not null).ToDictionary((s) => $"{s.Type} {s.Item!}");
+    }
+}

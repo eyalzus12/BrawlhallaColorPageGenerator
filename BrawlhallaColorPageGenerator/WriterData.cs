@@ -14,6 +14,7 @@ public class WriterData
     public required HeroTypes HeroTypes { get; init; }
     public required RuneTypes RuneTypes { get; init; }
     public required CompanionTypes CompanionTypes { get; init; }
+    public required StoreTypes StoreTypes { get; init; }
     public required LangFile LangFile { get; init; }
 
     public Dictionary<string, CostumeType>? WeaponSkinToCostume { get; private set; } = null;

@@ -110,6 +110,10 @@ Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
 string runeTypesContent = files["RuneTypes.xml"];
 RuneTypes runeTypes = new(runeTypesContent);
 
+// Store types
+string storeTypesContent = files["storeTypes.csv"];
+StoreTypes storeTypes = new(storeTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -117,6 +121,7 @@ WriterData data = new()
     HeroTypes = heroTypes,
     RuneTypes = runeTypes,
     CompanionTypes = companionTypes,
+    StoreTypes = storeTypes,
     LangFile = langFile,
 };
 

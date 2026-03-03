@@ -30,6 +30,8 @@ public sealed class WeaponSkinWriter(WriterData data)
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
             ) continue;
 
+            DescType descType = 0;
+
             (string weaponSkinName, string imageName, string displayName) = data.GetWeaponSkinNameParams(weaponSkin);
             writer.Write("{{itembox|width=205|height=170|name=");
             writer.Write(weaponSkinName);
@@ -41,18 +43,62 @@ public sealed class WeaponSkinWriter(WriterData data)
             writer.Write("|image=");
             writer.Write(imageName);
             writer.Write(".png");
-            // figure out description
+            // from a legend skin
             if (data.GetWeaponSkinSourceCostume(weaponSkin) is CostumeType costume)
             {
+                descType = DescType.Desc;
                 writer.Write("|desc=[[");
                 (string costumeName, _, _) = data.GetSkinNameParams(costume);
                 writer.Write(costumeName);
                 writer.Write("]]");
             }
+            // store
+            else if (data.StoreTypes.ItemToStoreType.TryGetValue($"WeaponSkin {weaponSkin.WeaponSkinName}", out StoreType? storeType))
+            {
+                descType = DescType.Cost;
+                writer.Write("|cost={{Coin|");
+                // costs gold
+                if (storeType.GoldCost > 0)
+                {
+                    writer.Write("gold|");
+                    writer.Write(storeType.GoldCost);
+                }
+                // costs mammoth coins
+                else if (storeType.IdolCost > 0)
+                {
+                    writer.Write("mammoth|");
+                    writer.Write(storeType.IdolCost);
+                }
+                // costs glory
+                else if (storeType.RankedPointsCost > 0)
+                {
+                    writer.Write("glory|");
+                    writer.Write(storeType.RankedPointsCost);
+                }
+                // unexpected
+                else
+                {
+                    writer.Write("ERROR|0");
+                }
+                writer.Write("}}");
+            }
 
-
-            writer.WriteLine("|costheight=55px}}");
+            writer.Write("|");
+            writer.Write(descType switch
+            {
+                DescType.Desc => "desc",
+                DescType.Cost => "cost",
+                _ => "ERROR",
+            });
+            writer.WriteLine("height=55px}}");
         }
         writer.WriteLine("{{itembox/bottom}}");
+    }
+
+    enum DescType
+    {
+        ERROR,
+        Desc,
+        Cost
     }
 }
