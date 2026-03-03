@@ -4,11 +4,11 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=180|height=190|name=+5 Daggers|image=+5 Daggers.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Actuator Claws|image=Actuator Claws.png|desc=[[Mecha Asuri]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Ahsoka's Lightsaber & Shoto|image=Ahsoka's Lightsaber & Shoto.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Ahsoka's Lightsaber & Shoto|displayname={{small|Ahsoka's Lightsaber & Shoto}}|image=Ahsoka's Lightsaber & Shoto.png|desc=[[Ahsoka Tano]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Anchor Shanks|image=Anchor Shanks.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Apollo's Fury|image=Apollo's Fury.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Asgardian Katars|image=Asgardian Katars.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Asgardian Shoto Lightsabers|image=Asgardian Shoto Lightsabers.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=180|height=190|name=Asgardian Shoto Lightsabers|displayname={{small|Asgardian Shoto Lightsabers}}|image=Asgardian Shoto Lightsabers.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=180|height=190|name=Autumn Wind|image=Autumn Wind.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=180|height=190|name=Aztlán Katars|image=Aztlán Katars.png|desc=[[Master of Night Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Back Alley Justice|image=Back Alley Justice.png|desc=[[Gumshoe Sentinel]]|descheight=55px}}
@@ -146,7 +146,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Wicked Claws|image=Wicked Claws.png|desc=[[Lynx Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Wings of Liberty|image=Wings of Liberty.png|desc=[[President Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Wings of the Sage|image=Wings of the Sage.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Winter Daggers|image=Winter Daggers.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
+{{itembox|width=180|height=190|name=Winter Daggers|image=Winter Daggers.png|cost={{Coin|mammoth|60}}<br>{{ItemTag|winter|small}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Wolfsilver Blades|image=Wolfsilver Blades.png|desc=[[Ember the Hunter]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Zenith Daggers|image=Zenith Daggers.png|desc={{BPReward|Season Five|gold|Tier 9}}|descheight=55px}}
 {{itembox/bottom}}

@@ -7,7 +7,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Anakin's Lightsaber|image=Anakin's Lightsaber.png|desc=[[Anakin Skywalker]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Ancestor's Flame|image=Ancestor's Flame.png|desc=[[Ojiisan Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Apex Keysword|image=Apex Keysword.png|desc=SteelSeries 2022 reward|descheight=55px}}
-{{itembox|width=190|height=200|name=Asgardian Lightsaber|image=Asgardian Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Asgardian Lightsaber|image=Asgardian Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=55px|epic=true}}
 {{itembox|width=190|height=200|name=Asgardian Sword|image=Asgardian Sword.png|desc=[[Asgard Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Assassin's Breath|image=Assassin's Breath.png|desc=[[Lynx Asuri]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Astroblade|image=Astroblade.png|desc={{BPReward|Season Five|gold|Tier 15}}|descheight=55px}}

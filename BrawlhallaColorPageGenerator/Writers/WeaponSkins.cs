@@ -173,6 +173,7 @@ public sealed class WeaponSkinWriter(WriterData data)
                     "StoreType_EndDate_LimitedTime" => storeType.TimedPromotion switch
                     {
                         "Valhallentines" => "{{ItemTag|valentines|small}}",
+                        "Christmas" => "{{ItemTag|winter|small}}",
                         _ => "Limited time purchase",
                     },
                     "StoreType_EndDate_Unavailable" => "Limited time purchase",
@@ -246,7 +247,14 @@ public sealed class WeaponSkinWriter(WriterData data)
             "Sword" => 55,
             _ => 0,
         });
-        writer.WriteLine("px}}");
+        writer.Write("px");
+
+        if (_epics.Contains(weaponSkin.WeaponSkinName))
+        {
+            writer.Write("|epic=true");
+        }
+
+        writer.WriteLine("}}");
     }
 
     enum DescType
@@ -256,7 +264,14 @@ public sealed class WeaponSkinWriter(WriterData data)
         Cost
     }
 
-    private readonly static HashSet<string> _bundleExclusives = [
+    private static readonly HashSet<string> _bundleExclusives = [
         "CannonGjallahorn",
+    ];
+
+    private static readonly HashSet<string> _epics = [
+        "GreatswordAsgardSaber",
+        "KatarAsgardSaber",
+        "SpearAsgardSaber",
+        "SwordAsgardSaber",
     ];
 }

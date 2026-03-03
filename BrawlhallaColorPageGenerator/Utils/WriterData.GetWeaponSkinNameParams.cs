@@ -35,6 +35,8 @@ public partial class WriterData
         "GreatswordBP12",
         "GreatswordMechaArmor",
         "HammerMagicalGirl",
+        "KatarAhsoka",
+        "KatarAsgardSaber"
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
