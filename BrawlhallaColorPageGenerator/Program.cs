@@ -112,16 +112,18 @@ RuneTypes runeTypes = new(runeTypesContent);
 #endregion
 #region Writing
 
+Directory.CreateDirectory("outputs");
+
 SkinsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
-skinsWriter.WriteTo("skins.txt");
+skinsWriter.WriteTo("outputs/skins.txt");
 
 WeaponSkinsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
-weaponSkinsWriter.WriteTo("weaponSkins.txt");
+weaponSkinsWriter.WriteTo("outputs/weaponSkins.txt");
 
 CompanionsWriter companionsWriter = new(companionTypes, langFile);
-companionsWriter.WriteTo("companions.txt");
+companionsWriter.WriteTo("outputs/companions.txt");
 
 LevelingWriter levelingWriter = new(heroTypes, runeTypes);
-levelingWriter.WriteTo("leveling.txt");
+levelingWriter.WriteTo("outputs/leveling.txt");
 
 #endregion
