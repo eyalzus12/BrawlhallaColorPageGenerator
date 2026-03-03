@@ -10,8 +10,8 @@ public sealed class CompanionType
 
     public CompanionType(XElement element)
     {
-        CompanionName = element.Attribute("CompanionName")!.Value;
-        DisplayNameKey = element.Element("DisplayNameKey")!.Value;
+        CompanionName = element.Attribute(nameof(CompanionName))!.Value;
+        DisplayNameKey = element.Element(nameof(DisplayNameKey))!.Value;
     }
 }
 
@@ -22,6 +22,6 @@ public sealed class CompanionTypes
     public CompanionTypes(string content)
     {
         XElement element = XElement.Parse(content);
-        Companions = [.. element.Elements("CompanionType").Select((e) => new CompanionType(e))];
+        Companions = [.. element.Elements(nameof(CompanionType)).Select((e) => new CompanionType(e))];
     }
 }

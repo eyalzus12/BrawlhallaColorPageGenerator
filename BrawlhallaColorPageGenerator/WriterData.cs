@@ -16,7 +16,7 @@ public class WriterData
     public required CompanionTypes CompanionTypes { get; init; }
     public required LangFile LangFile { get; init; }
 
-    public Dictionary<string, CostumeType>? WeaponSkinToCostume { get; private set; }
+    public Dictionary<string, CostumeType>? WeaponSkinToCostume { get; private set; } = null;
 
     [MemberNotNull(nameof(WeaponSkinToCostume))]
     private void InitWeaponSkinToCostume()
@@ -25,14 +25,13 @@ public class WriterData
         WeaponSkinToCostume = [];
         foreach (CostumeType costume in CostumeTypes.Costumes)
         {
-            if (costume.WeaponSet is null || costume.DoesNotOwnWeaponSet)
+            if (costume.WeaponSet is null || costume.DoesNotOwnWeaponSet || !HeroTypes.HeroesMap.TryGetValue(costume.OwnerHero, out HeroType? hero))
                 continue;
 
-            HeroType hero = HeroTypes.HeroesMap[costume.OwnerHero];
-            if (hero.BaseWeapon1 is string baseWeapon1)
-                WeaponSkinToCostume[baseWeapon1 + costume.WeaponSet] = costume;
-            if (hero.BaseWeapon2 is string baseWeapon2)
-                WeaponSkinToCostume[baseWeapon2 + costume.WeaponSet] = costume;
+            if (hero.BaseWeapon1 is not null)
+                WeaponSkinToCostume[hero.BaseWeapon1 + costume.WeaponSet] = costume;
+            if (hero.BaseWeapon2 is not null)
+                WeaponSkinToCostume[hero.BaseWeapon2 + costume.WeaponSet] = costume;
         }
     }
 

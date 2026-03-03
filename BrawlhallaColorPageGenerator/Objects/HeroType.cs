@@ -16,11 +16,13 @@ public sealed class HeroType
 
     public HeroType(XElement element)
     {
-        HeroName = element.Attribute("HeroName")!.Value;
-        BioName = element.Element("BioName")?.Value;
-        CostumeName = element.Element("CostumeName")!.Value;
-        ColorRewards = element.Element("ColorRewards")?.Value.Split(',') ?? [];
-        IsActive = string.Equals(element.Element("IsActive")?.Value, "TRUE", System.StringComparison.InvariantCultureIgnoreCase);
+        HeroName = element.Attribute(nameof(HeroName))!.Value;
+        BioName = element.Element(nameof(BioName))?.Value;
+        CostumeName = element.Element(nameof(CostumeName))!.Value;
+        ColorRewards = element.Element(nameof(ColorRewards))?.Value.Split(',') ?? [];
+        IsActive = string.Equals(element.Element(nameof(IsActive))?.Value, "TRUE", System.StringComparison.InvariantCultureIgnoreCase);
+        BaseWeapon1 = element.Element(nameof(BaseWeapon1))?.Value;
+        BaseWeapon2 = element.Element(nameof(BaseWeapon2))?.Value;
     }
 }
 
@@ -32,7 +34,7 @@ public sealed class HeroTypes
     public HeroTypes(string content)
     {
         XElement element = XElement.Parse(content);
-        Heroes = [.. element.Elements("HeroType").Select((e) => new HeroType(e))];
+        Heroes = [.. element.Elements(nameof(HeroType)).Select((e) => new HeroType(e))];
         HeroesMap = Heroes.ToDictionary((h) => h.HeroName);
     }
 }

@@ -8,7 +8,7 @@ public sealed class WeaponSkinWriter(WriterData data)
     public void WriteTo(string path, string baseWeapon)
     {
         using StreamWriter writer = new(path);
-        writer.Write("The following is a list of all ");
+        writer.Write("The following is a list of all [[");
         writer.Write(Utils.BASE_WEAPON_NAME[baseWeapon]);
         writer.WriteLine("]] skins in [[Brawlhalla]]");
         writer.WriteLine();

@@ -9,7 +9,7 @@ public sealed class RuneType
 
     public RuneType(XElement element)
     {
-        IconName = element.Element("IconName")!.Value;
+        IconName = element.Element(nameof(IconName))!.Value;
     }
 
     public string? ShortName => IconName switch

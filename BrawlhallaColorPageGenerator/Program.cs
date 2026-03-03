@@ -125,16 +125,19 @@ WriterData data = new()
 
 Directory.CreateDirectory("outputs");
 
-SkinColorsWriter skinsWriter = new(data);
-skinsWriter.WriteTo("outputs/skins color.txt");
+SkinColorsWriter skinsColorWriter = new(data);
+skinsColorWriter.WriteTo("outputs/skins color.txt");
 
-WeaponSkinColorsWriter weaponSkinsWriter = new(data);
-weaponSkinsWriter.WriteTo("outputs/weaponSkins color.txt");
+WeaponSkinColorsWriter weaponSkinsColorWriter = new(data);
+weaponSkinsColorWriter.WriteTo("outputs/weaponSkins color.txt");
 
-CompanionColorsWriter companionsWriter = new(data);
-companionsWriter.WriteTo("outputs/companions color.txt");
+CompanionColorsWriter companionsColorWriter = new(data);
+companionsColorWriter.WriteTo("outputs/companions color.txt");
 
 LevelingWriter levelingWriter = new(data);
 levelingWriter.WriteTo("outputs/leveling.txt");
+
+WeaponSkinWriter weaponSkinWriter = new(data);
+weaponSkinWriter.WriteTo("outputs/test weapon skins axe.txt", "Axe");
 
 #endregion

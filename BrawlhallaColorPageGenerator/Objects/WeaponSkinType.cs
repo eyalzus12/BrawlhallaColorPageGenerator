@@ -21,16 +21,16 @@ public sealed class WeaponSkinType
 
     public WeaponSkinType(SepReader.Row row)
     {
-        WeaponSkinName = row["WeaponSkinName"].ToString();
+        WeaponSkinName = row[nameof(WeaponSkinName)].ToString();
 
-        WeaponSkinID = row["WeaponSkinID"].Parse<uint>();
+        WeaponSkinID = row[nameof(WeaponSkinID)].Parse<uint>();
 
-        BaseWeapon = row["BaseWeapon"].ToString();
+        BaseWeapon = row[nameof(BaseWeapon)].ToString();
 
-        DisplayNameKey = row["DisplayNameKey"].ToString();
+        DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
         if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;
 
-        UpgradesTo = row["UpgradesTo"].ToString();
+        UpgradesTo = row[nameof(UpgradesTo)].ToString();
         if (string.IsNullOrWhiteSpace(UpgradesTo)) UpgradesTo = null;
 
         CanColorSwap = false;
