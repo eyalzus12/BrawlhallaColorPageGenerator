@@ -73,7 +73,7 @@ public sealed class WeaponSkinWriter(WriterData data)
         {
             "Axe" => 200,
             "Boots" => 200,
-            "Bow" => 200,
+            "Bow" => 180,
             "Cannon" => 200,
             "Chakram" => 200,
             "Fists" => 200,
@@ -164,7 +164,11 @@ public sealed class WeaponSkinWriter(WriterData data)
                 writer.Write(storeType.EndDateKey switch
                 {
                     "StoreType_EndDate_RequiresSkyforged" => "+ Skyforged Variant",
-                    "StoreType_EndDate_LimitedTime" => "Limited time purchase",
+                    "StoreType_EndDate_LimitedTime" => storeType.TimedPromotion switch
+                    {
+                        "Valhallentines" => "{{ItemTag|valentines|small}}",
+                        _ => "Limited time purchase",
+                    },
                     "StoreType_EndDate_Unavailable" => "Limited time purchase",
                     _ => "ERROR",
                 });
@@ -181,6 +185,9 @@ public sealed class WeaponSkinWriter(WriterData data)
                     break;
                 case "SummerPack":
                     packName = "Summer Championship 2017 Pack";
+                    break;
+                case "SummerPack23":
+                    packName = "Summer Championship 2023 Pack";
                     break;
                 case "CollectorsRewards":
                     packName = "Collectors Pack";

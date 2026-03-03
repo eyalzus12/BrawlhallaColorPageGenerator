@@ -52,6 +52,7 @@ public partial class WriterData
                 break;
             case "BowOldKoji":
                 weaponSkinName = "Heirloom (Bow Skin)";
+                if (!colorMode) imageName = "Heirloom (Bow)";
                 break;
             case "CannonDestinyTitan":
                 imageName = "Dragon's Breath (Titan)";
@@ -93,6 +94,13 @@ public partial class WriterData
                 break;
             case "PistolMythicNix" when !colorMode:
                 isAnimated = true;
+                break;
+            case "BowCyberSam" when !colorMode:
+                isAnimated = true;
+                imageName = "AniDaemon Killer";
+                break;
+            case "BowTrickOrTreat" when !colorMode:
+                imageName = "ded";
                 break;
         }
 

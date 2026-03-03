@@ -15,7 +15,7 @@ public sealed class StoreType
     public string Type { get; }
     public string? Item { get; }
     public string? EndDateKey { get; }
-    public string? RequiredStoreType { get; }
+    public string? TimedPromotion { get; }
 
     public StoreType(SepReader.Row row)
     {
@@ -36,8 +36,8 @@ public sealed class StoreType
         EndDateKey = row[nameof(EndDateKey)].ToString();
         if (string.IsNullOrWhiteSpace(EndDateKey)) EndDateKey = null;
 
-        RequiredStoreType = row[nameof(RequiredStoreType)].ToString();
-        if (string.IsNullOrWhiteSpace(RequiredStoreType)) RequiredStoreType = null;
+        TimedPromotion = row[nameof(TimedPromotion)].ToString();
+        if (string.IsNullOrWhiteSpace(TimedPromotion)) TimedPromotion = null;
     }
 }
 
