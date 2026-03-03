@@ -14,8 +14,9 @@ public sealed class WeaponSkinType
     public string WeaponSkinName { get; }
     public uint WeaponSkinID { get; }
     public string BaseWeapon { get; }
-    public string? DisplayNameKey { get; }
+    public string? OwnerHero { get; }
     public string? UpgradesTo { get; }
+    public string? DisplayNameKey { get; }
 
     public bool CanColorSwap { get; }
 
@@ -26,6 +27,9 @@ public sealed class WeaponSkinType
         WeaponSkinID = row[nameof(WeaponSkinID)].Parse<uint>();
 
         BaseWeapon = row[nameof(BaseWeapon)].ToString();
+
+        OwnerHero = row[nameof(OwnerHero)].ToString();
+        if (string.IsNullOrWhiteSpace(OwnerHero)) OwnerHero = null;
 
         DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
         if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;

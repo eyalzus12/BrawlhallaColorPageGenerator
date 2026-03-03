@@ -14,6 +14,8 @@ public sealed class StoreType
     public int RankedPointsCost { get; }
     public string Type { get; }
     public string? Item { get; }
+    public string? EndDateKey { get; }
+    public string? RequiredStoreType { get; }
 
     public StoreType(SepReader.Row row)
     {
@@ -30,6 +32,12 @@ public sealed class StoreType
 
         Item = row[nameof(Item)].ToString();
         if (string.IsNullOrWhiteSpace(Item)) Item = null;
+
+        EndDateKey = row[nameof(EndDateKey)].ToString();
+        if (string.IsNullOrWhiteSpace(EndDateKey)) EndDateKey = null;
+
+        RequiredStoreType = row[nameof(RequiredStoreType)].ToString();
+        if (string.IsNullOrWhiteSpace(RequiredStoreType)) RequiredStoreType = null;
     }
 }
 

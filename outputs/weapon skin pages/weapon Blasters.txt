@@ -1,0 +1,190 @@
+The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
+
+==Blasters Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=A Shot at Love|image=A Shot at Love.png|desc=[[Heartbreaker Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ace of Spades|image=Ace of Spades.png|desc=[[Hunter]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aqua Blasters|image=Aqua Blasters.png|desc=[[Water Wars Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Arts and Crafts|image=Arts and Crafts.png|desc=[[Detention Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Blasters|image=Asgardian Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=ASM Blasters|image=ASM Blasters.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asp and Adder|image=Asp and Adder.png|desc=[[Amun-Raza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Blasters|image=Aztlán Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Bahian Blasters|image=Bahian Blasters.png|desc=[[Streetwear Vivi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Barnacle Blasters|image=Barnacle Blasters.png|desc=[[Cursed Gold Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Beautiful & Deadly|image=Beautiful & Deadly.png|desc=[[Suitor Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Big Dog Blasters|image=Big Dog Blasters.png|desc=[[Biker Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Birdshot|image=Birdshot.png|desc=[[Scarecrow Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blaster Pistols|image=Blaster Pistols.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blasters of Mercy|image=Blasters of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blazing Deringers|image=Blazing Deringers.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blazing Fire|image=Blazing Fire.png|desc=[[Heatblast]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bolt Blasters|image=Bolt Blasters.png|desc=[[Stormlord Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Boom Booms|image=Boom Booms.png|desc=[[Goblin Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bowcaster & E-11 Blaster|image=Bowcaster & E-11 Blaster.png|desc=[[Chewbacca]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Brimstone Blasters|image=Brimstone Blasters.png|desc=[[Demonkin Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bubonic Blasters|image=Bubonic Blasters.png|desc=[[Relentless Pest Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Budding Blasters|image=Budding Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Bullet Hail of the King|image=Bullet Hail of the King.png|desc=[[Vraxx the King]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Candy Caliber|image=Candy Caliber.png|desc=[[Nutcracker Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cannonades|image=Cannonades.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Catch and Release|image=Catch and Release.png|desc=[[Shark Heart Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chicago Typewriters|image=Chicago Typewriters.png|desc=[[Boss Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Close Quarters|image=Close Quarters.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Commander and Chief|image=Commander and Chief.png|desc=[[Admiral Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Pistols|image=Cyber Myk Pistols.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Conjurers|image=Dark Conjurers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dark Elf Blasters|image=Dark Elf Blasters.png|desc=[[Vraxx the Viking]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Blasters|image=Darkheart Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Darkshooters|image=Darkshooters.png|desc=[[Widowmaker Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Desequencers|image=Desequencers.png|desc=[[General Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Desert Island Blasters|image=Desert Island Blasters.png|desc=[[Castaway Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dessert Eagles|image=Dessert Eagles.png|desc=[[Cupcake Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Destabilizers|image=Destabilizers.png|desc=[[Wasteland Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Devil's Sight|image=Devil's Sight.png|desc=[[Shadowlord Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Disassemblers|image=Disassemblers.png|desc=[[Bullet Diver Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=DL-44 Pistol & E-11 Blaster|image=DL-44 Pistol & E-11 Blaster.png|desc=[[Han Solo]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Double Crossers|image=Double Crossers.png|desc=[[Ascended Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Double Dragons|image=Double Dragons.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dragoon Flintlocks|image=Dragoon Flintlocks.png|desc=[[Vive la Révolucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Drakenfire|image=Drakenfire.png|desc=[[Wyrmslayer Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dual Pistols|image=Dual Pistols.png|desc=[[Lara Croft]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dueling Pistols|image=Dueling Pistols.png|desc=[[Dark of Night Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Duty & Sacrifice|image=Duty & Sacrifice.png|desc=[[Dreadnought Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Blasters|image=Dwarven-Forged Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ebon Blasters|image=Ebon Blasters.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Eclipsers|image=Eclipsers.png|desc=[[Metadev Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Electrode Guns|image=Electrode Guns.png|desc=[[Princess Bubblegum]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Emperor's Own Blasters|image=Emperor's Own Blasters.png|desc=[[Supreme Ruler Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Equalizer|image=Equalizer.png|desc=[[Cybernetic Beat Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Exception Handlers|image=Exception Handlers.png|desc=[[Fatal Error Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Exquisite Cannons|image=Exquisite Cannons.png|desc=[[Classy Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fairy Fire|image=Fairy Fire.png|desc=[[Elven Ranger Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fiendish Howl|image=Fiendish Howl.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire & Brimstone|image=Fire & Brimstone.png|desc=[[Devil Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Firewalls|image=Firewalls.png|desc=[[Bitpunk Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Five-Sevens|image=Five-Sevens.png|desc=[[Shadowstalker Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flight Risks|image=Flight Risks.png|desc=[[Lockdown Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flint-Lockers|image=Flint-Lockers.png|desc=[[Vraxxy Jones]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flintlock Claws|image=Flintlock Claws.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Forbidden Lamps|image=Forbidden Lamps.png|desc=[[Ferrymoth Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Galopante Blasts|image=Galopante Blasts.png|desc=[[Grã-mestra Batista]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Gemini's Wrath|image=Gemini's Wrath.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ghost and Goblin|image=Ghost and Goblin.png|desc=[[Horseman Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glimpse of Death|image=Glimpse of Death.png|desc=[[Infernal Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glitz & Glam|image=Glitz & Glam.png|desc=[[Gothic Chic Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Golden Gears|image=Golden Gears.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Blasters|image=Goldforged Blasters.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Grisly Burrs|image=Grisly Burrs.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Guileless Hellfire Blasters|image=Guileless Hellfire Blasters.png|desc=[[Lilith]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Blasters|image=Hardlight Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=IB-94 Pistol & E-11 Blaster|image=IB-94 Pistol & E-11 Blaster.png|desc=[[The Mandalorian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice 'Em|image=Ice 'Em.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Jötunn Armaments|image=Jötunn Armaments.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Jubilation Blasters|image=Jubilation Blasters.png|desc=[[Swanky Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Juicy Carnage Shotguns|image=Juicy Carnage Shotguns.png|desc=[[Krieg]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ketchup & Mustard|image=Ketchup & Mustard.png|desc=[[Brawl Dad Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Las Viudas|image=Las Viudas.png|desc=[[Calavera Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Laser Blazers|image=Laser Blazers.png|desc=[[Cryptomage Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lawbreakers|image=Lawbreakers.png|desc=[[High Noon Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lost Technology|image=Lost Technology.png|desc=[[Atlantean Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Loves Me|image=Loves Me.png|desc=[[Lovelaced Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=M7 SMG & Plasma Rifle|image=M7 SMG & Plasma Rifle.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Magnum Pistols|image=Magnum Pistols.png|desc=[[The Master Chief]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Maxilli-Blasts|image=Maxilli-Blasts.png|desc=[[Desperado Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mega Buster|image=Mega Buster.png|desc=[[Mega Man]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mercy Killers|image=Mercy Killers.png|desc=[[Plague Doctor Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Moskitoes|image=Moskitoes.png|desc=[[Globox]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mother of Pearl Blasters|image=Mother of Pearl Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=MP7s|image=MP7s.png|desc=[[Snake Eyes]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Murder of Crows|image=Murder of Crows.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Naughty & Nice|image=Naughty & Nice.png|desc=[[Secret Santa Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Needlers|image=Needlers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Net Guns|image=Net Guns.png|desc=[[Sandy Cheeks]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Witnesses|image=Nightmare Witnesses.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Nina's Blasters|image=Nina's Blasters.png|desc=[[Nina Williams]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Blasters|image=Ninpō Unsealed Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=No Contest|image=No Contest.png|desc=[[Prizefighter Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Outbreak Perfected|image=Outbreak Perfected.png|desc=[[Warlock]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Poppin’ TNTina|image=Poppin’ TNTina.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Powerplay Blasters|image=Powerplay Blasters.png|desc=[[Technomancer Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Protect & Serve|image=Protect & Serve.png|desc=[[Task Force Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Purge and Exorcise|image=Purge and Exorcise.png|desc=[[Spellbreaker Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Raycasters|image=Raycasters.png|desc=[[Eliminator Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Refractors|image=Refractors.png|desc=[[Astral Core Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Repeating Crossbows|image=Repeating Crossbows.png|desc=[[Bitten Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Revolvers|image=Revolvers.png|desc=[[Rick]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Blasters|image=RGB Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ripple and Wave|image=Ripple and Wave.png|desc=[[Retro Reaper Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rose Gold Revolvers|image=Rose Gold Revolvers.png|desc=[[New West Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Royal Family|image=Royal Family.png|desc=[[Lionguard Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sacred Orders|image=Sacred Orders.png|desc=[[Honor Bound Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Salty Shooters|image=Salty Shooters.png|desc=[[Vixen Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Samaritans|image=Samaritans.png|desc=[[Hellboy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sawbones|image=Sawbones.png|desc=[[Sawed-Off Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shadow Casters|image=Shadow Casters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sharkshooters|image=Sharkshooters.png|desc=[[Shark Attack Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shriek & Wail|image=Shriek & Wail.png|desc=[[Wraith Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Signal Flares|image=Signal Flares.png|desc=[[Wipeout Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silenced Pistols|image=Silenced Pistols.png|desc=[[Covert Ops Vivi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silver and Steel|image=Silver and Steel.png|desc=[[Survivor Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silver Bullets|image=Silver Bullets.png|desc=[[Dawnwalker Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silver Sixshooters|image=Silver Sixshooters.png|desc=[[Masked Hero Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Six of a Kind|image=Six of a Kind.png|desc=[[Double Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Blasters|image=Skyforged Blasters.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Smokers Mk. B|image=Smokers Mk. B.png|desc=[[Honeybeeno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Snake Eyes (Weapon Skin)|displayname=Snake Eyes|image=Snake Eyes (Weapon Skin).png|desc=[[Serape Kid Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Snow Shooters|image=Snow Shooters.png|desc=[[White Out Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Solar Flares|image=Solar Flares.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Soul Blasters|image=Soul Blasters.png|desc=[[Specter Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Space Shooters|image=Space Shooters.png|desc=[[Space Race Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Special Forces Pistols|image=Special Forces Pistols.png|desc=[[Luke]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Splish Splash|image=Splish Splash.png|desc=[[Pool Party Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Standard Issue|image=Standard Issue.png|desc=[[Staff Sgt. Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stardusters|image=Stardusters.png|desc=[[Metadev Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Starved Scavengers|image=Starved Scavengers.png|desc=[[Famished Beast Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tactical Pistols|image=Tactical Pistols.png|desc=[[Survivor Lara Croft]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tactical Sidearms|image=Tactical Sidearms.png|desc=[[Spec-Ops Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Teacher's Pets|image=Teacher's Pets.png|desc=[[Professor Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tempo and Groove|image=Tempo and Groove.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Consequences|image=The Consequences.png|desc=[[Wasteland Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Doctor's Orders|image=The Doctor's Orders.png|desc=[[Nemesis Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Hunters|image=The Hunters.png|desc=[[Krampus Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Neutralizers|image=The Neutralizers.png|desc=[[Section Zero Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Roadhogs|image=The Roadhogs.png|desc=[[Razorback Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Sequels|image=The Sequels.png|desc=[[Slasher Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Singularities|image=The Singularities.png|desc=[[Dark Matter Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Thunder Bass Blasters|image=Thunder Bass Blasters.png|desc=[[DJ Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tide Turners|image=Tide Turners.png|desc=[[Poseidon Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Pistol|image=Toybox Pistol.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Blasters|image=Valiant Armament Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Vengeance at Hand|image=Vengeance at Hand.png|desc=[[Soulbound Diana]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Venom Spitters|image=Venom Spitters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=VM-19 Pistol & E-11 Blaster|image=VM-19 Pistol & E-11 Blaster.png|desc=[[Kay Vess]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Whirlwinds|image=Whirlwinds.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Winged Danger|image=Winged Danger.png|desc=[[Raven Rogue Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wolf's Howl|image=Wolf's Howl.png|desc=[[Werewolf Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wurm Shooters|image=Wurm Shooters.png|desc=[[Dragon Hunter Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=XLR8R's|image=XLR8R's.png|desc=[[Overdrive Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Zhaktari Issue|image=Zhaktari Issue.png|desc=[[Space Dogfighter Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Zip and Snap|image=Zip and Snap.png|desc=[[Nix Couture]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Blasters Skins==
+These Blasters skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Charmed, I'm Sure|image=Charmed, I'm Sure.png|desc=[[Vivi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyberlink Blasters|image=Cyberlink Blasters.png|desc=[[Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Death Throes|image=Death Throes.png|desc=[[Nix]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hand Cannons|image=Hand Cannons.png|desc=[[Thatch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hellhounds|image=Hellhounds.png|desc=[[Cross]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Highwayman's Flintlocks|image=Highwayman's Flintlocks.png|desc=[[Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Los Volcanes|image=Los Volcanes.png|desc=[[Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Selenite Ray Guns|image=Selenite Ray Guns.png|desc=[[Lord Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sidearms|image=Sidearms.png|desc=[[Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sixshooters|image=Sixshooters.png|desc=[[Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Vespian Six Shooter|image=Vespian Six Shooter.png|desc=[[Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wheel Locks|image=Wheel Locks.png|desc=[[Diana]]|descheight=55px}}
+{{itembox/bottom}}

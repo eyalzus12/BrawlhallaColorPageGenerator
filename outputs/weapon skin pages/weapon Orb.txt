@@ -1,0 +1,101 @@
+The following is a list of all [[Orb]] skins in [[Brawlhalla]].
+
+==Orb Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=4LLY|image=4LLY.png|desc=[[Star Commander Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aesir's Orb|image=Aesir's Orb.png|desc=[[Royal Warrior Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Alley-oop|image=Alley-oop.png|desc=[[adidas Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Apple of Odin|image=Apple of Odin.png|desc=[[Asgardian Ezio]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Orb|image=Asgardian Orb.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Orb|image=Aztlán Orb.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Beach Ball|image=Beach Ball.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Beatdown Bell|image=Beatdown Bell.png|desc=[[Feline Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blood Keepsake|image=Blood Keepsake.png|desc=[[Dusk Till Dawn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blood Shard|image=Blood Shard.png|desc=[[Nimue]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Closin' Time|image=Closin' Time.png|desc=[[Desperado Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crimson Poison|image=Crimson Poison.png|desc=[[Widowmaker Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Orb|image=Cyber Myk Orb.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Geode|image=Darkheart Geode.png|desc=[[Fallen Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Orb|image=Darkheart Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Death Awaits|image=Death Awaits.png|desc=[[Draugr Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Death Star Hologram|image=Death Star Hologram.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Demon's Malice|image=Demon's Malice.png|desc=[[Obake Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Heart|image=Dragon's Heart.png|desc=[[Emerald Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Durasteel Debris|image=Durasteel Debris.png|desc=[[Darth Vader]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Orb|image=Dwarven-Forged Orb.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Eldritch Core|image=Eldritch Core.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Encyclopedia of Brawl|image=Encyclopedia of Brawl.png|desc=[[Headmaster Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Essence of Niflheim|image=Essence of Niflheim.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Eternal Nightfall|image=Eternal Nightfall.png|desc=[[Darkheart Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fae Magi ☆ Soaring Locket|image=Fae Magi ☆ Soaring Locket.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fossil Fury|image=Fossil Fury.png|desc=[[Lost World Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fu Lion Charm|image=Fu Lion Charm.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Galactic Glitch|image=Galactic Glitch.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ghost Familiar|image=Ghost Familiar.png|desc=[[Alucard]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Golden Dawn ~ Arcana|image=Golden Dawn ~ Arcana.png|desc=[[Daylight Star ☆ Magi Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Golden Punishment|image=Golden Punishment.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Orb|image=Goldforged Orb.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Grifball|image=Grifball.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Hardening Crystal|image=Hardening Crystal.png|desc=[[Eren]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Orb|image=Hardlight Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Home Run|image=Home Run.png|desc=[[Sourcecode Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hot Choco Orb|image=Hot Choco Orb.png|desc=[[Cozy Sweater Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Isu Apple|image=Isu Apple.png|desc=[[Revelations Ezio]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Jar-O-Honey|image=Jar-O-Honey.png|desc=[[Honeybeeno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Jedi Training Remote|image=Jedi Training Remote.png|desc=[[Anakin Skywalker]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Jewel of the Forest|image=Jewel of the Forest.png|desc=[[Thornwood Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lighted Eminence|image=Lighted Eminence.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Lightning Sigil|image=Lightning Sigil.png|desc=[[Cinderguard Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Logitech Keycap|image=Logitech Keycap.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Love Sick|image=Love Sick.png|desc=[[Date Night Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Memento Mori|image=Memento Mori.png|desc=[[Relentless Pest Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Moonlight Meteor|image=Moonlight Meteor.png|desc=[[Metadev Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Night Blight|image=Night Blight.png|desc=[[Deathcap Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Eye|image=Nightmare Eye.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Orb|image=Ninpō Unsealed Orb.png|desc=[[Sengoku Rappa Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Oddball|image=Oddball.png|cost={{Coin|mammoth|100}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Orb of Mercy|image=Orb of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Photon Sphere|image=Photon Sphere.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Piece of Eden|image=Piece of Eden.png|desc=[[Armor of Brutus Ezio]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Piña Collider|image=Piña Collider.png|desc=[[Thor by the Shore]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Power of Courage|image=Power of Courage.png|desc=[[Ken]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Power of Will|image=Power of Will.png|desc=[[Ryu]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Psycho Power Aura|image=Psycho Power Aura.png|desc=[[M. Bison]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Remnant of Fate|image=Remnant of Fate.png|desc=[[Enchantress]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Reunited|image=Reunited.png|desc=[[Garnet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Orb|image=RGB Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sealed Infernum|image=Sealed Infernum.png|desc=[[Raptor, the Betrayer]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Searing Sphere|image=Searing Sphere.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Shot Caller|image=Shot Caller.png|desc=[[Street Sovereign Petra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sidekick Souvenir Orb|image=Sidekick Souvenir Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Orb|image=Skyforged Orb.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sleeping Demon|image=Sleeping Demon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Snarler|image=Snarler.png|desc=[[Capra Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Snow Globe|image=Snow Globe.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
+{{itembox|width=200|height=170|name=Soul Battery|image=Soul Battery.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Terra Firma|image=Terra Firma.png|desc=[[Cosmic Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Firehawk|image=The Firehawk.png|desc=[[Lilith]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Giver's Grasp|image=The Giver's Grasp.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Last Ride|image=The Last Ride.png|desc=[[The Undertaker]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Obol|image=The Obol.png|desc=[[Ferrymoth Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Unblinking|image=The Unblinking.png|desc=[[Dark Arts Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tiercel Orb|image=Tiercel Orb.png|desc=[[Rocket Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Orb|image=Toybox Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Orb|image=Valiant Armament Orb.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Vial of Crows|image=Vial of Crows.png|desc=[[Raven Shaman Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Von Evilstein's Heart|image=Von Evilstein's Heart.png|desc=[[Petra Reanimated]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Whitewater Gem|image=Whitewater Gem.png|desc=[[Riptide Petra]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Orb Skins==
+These Orb skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Apple of Eden|image=Apple of Eden.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eye of the Storm|image=Eye of the Storm.png|desc=[[Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Garuda's Core|image=Garuda's Core.png|desc=[[Red Raptor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Orbot|image=Orbot.png|desc=[[Reno]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sacred Relic|image=Sacred Relic.png|desc=[[Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scrying Glass|image=Scrying Glass.png|desc=[[Fait]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stone of Malice|image=Stone of Malice.png|desc=[[Petra]]|descheight=55px}}
+{{itembox/bottom}}

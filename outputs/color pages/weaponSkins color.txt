@@ -164,7 +164,7 @@ Vetr Bearded Axe
 Viking's War-axe
 Warrior's Pride
 Winged Blade
-World Cleaver
+World Cleaver (Jotun Ulgrim) && image:World Cleaver $1.png
 World Cleaver (Abominable Jötunn Xull)
 Yong-ui Dokki
 }}

@@ -1,0 +1,183 @@
+The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
+
+==Hammer Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Afterlife|image=Afterlife.png|desc=[[Pharaoh King Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Airship Engineer's Hammer|image=Airship Engineer's Hammer.png|desc=[[Sky Captain Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ares's Might|image=Ares's Might.png|desc=[[Golden Gladiator Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Hammer|image=Asgardian Hammer.png|desc=[[Asgard Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Astro Slammer|image=Astro Slammer.png|desc=[[Mecha Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Atom Smasher|image=Atom Smasher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Atomic Sledge|image=Atomic Sledge.png|desc=[[Kor in Space]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Hammer|image=Aztlán Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Barbaric Rage|image=Barbaric Rage.png|desc=[[Mogar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bass Drop|image=Bass Drop.png|desc=[[High Frequency Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blooming Dream|image=Blooming Dream.png|desc=[[Puella Papilio Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bonehead|image=Bonehead.png|desc=[[Pteranodon Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bop|image=Bop.png|desc=[[Lil' Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bovine Skull Mallet|image=Bovine Skull Mallet.png|desc=[[New West Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Brazen Maul|image=Brazen Maul.png|desc=[[God King Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bullhorn Basher|image=Bullhorn Basher.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Champion's Hammer|image=Champion's Hammer.png|desc=[[Golden Gladiator Zuva]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chikara|image=Chikara.png|desc=[[Ancestral Zuva]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Circuit Breaker|image=Circuit Breaker.png|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Combustion|image=Combustion.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Compressed Metal Mallet|image=Compressed Metal Mallet.png|desc=[[Toph]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Concrete Slam|image=Concrete Slam.png|desc=[[Four Arms]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystalline Mallet|image=Crystalline Mallet.png|desc=[[Metadev Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cultivator's Mallet|image=Cultivator's Mallet.png|desc=[[Gardener Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Gavel|image=Cyber Myk Gavel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyclone Hammer|image=Cyclone Hammer.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Crusher|image=Darkheart Crusher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Davey Jones' Anchor|image=Davey Jones' Anchor.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dawn Hammer|image=Dawn Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Death's End|image=Death's End.png|desc=[[Draugr Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Disco Brawl|image=Disco Brawl.png|desc=[[Gentleman Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Divine Intervention|image=Divine Intervention.png|desc=[[The Korinthian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon Sledge|image=Dragon Sledge.png|desc=[[Tokyo Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Woe|image=Dragon's Woe.png|desc=[[Warchief Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Hammer|image=Dwarven-Forged Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Earthshaker Seismic Sledge|image=Earthshaker Seismic Sledge.png|desc=[[Steam Tank Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Executive Order|image=Executive Order.png|desc=[[President Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Face-Beater|image=Face-Beater.png|desc=[[Cupcake Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fate Crusher|image=Fate Crusher.png|desc=[[Warrior Spirit Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flamingo|image=Flamingo.png|desc=[[Thor by the Shore]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Folding Chair|image=Folding Chair.png|desc=[[Bödvar-mania]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Free Parking|image=Free Parking.png|desc=[[Ready to Riot Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=French Horn|image=French Horn.png|desc=[[Band Kid Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Frostbitten Justice|image=Frostbitten Justice.png|desc=[[Frost Tech Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fruitcake|image=Fruitcake.png|desc=[[Nutcracker Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Galactic Gavel|image=Galactic Gavel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Gatekeeper|image=Gatekeeper.png|desc=[[Matsuri Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glacier Gavel|image=Glacier Gavel.png|desc=[[Arctic Fox Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Golden Striker|image=Golden Striker.png|desc=[[Cinderguard Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Hammer|image=Goldforged Hammer.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Gothic Warhammer|image=Gothic Warhammer.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Gravity Hammer|image=Gravity Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Grueling Terror|image=Grueling Terror.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Guardian Mallet|image=Guardian Mallet.png|desc=[[Royal Warrior Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=H4MM3R Time|image=H4MM3R Time.png|desc=[[Bitpunk Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hammer Decorum|image=Hammer Decorum.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hammer of Mercy|image=Hammer of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Hammer|image=Hardlight Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Headache|image=Headache.png|desc=[[The Monster Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heart of Gold|image=Heart of Gold.png|desc=[[Caelestis Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heart of the Volcano|image=Heart of the Volcano.png|desc=[[Molten Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heart Smasher|image=Heart Smasher.png|desc=[[The First Real Bear Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heavy Hitter|image=Heavy Hitter.png|desc=[[Gruagach]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heirloom (Hammer Skin)|displayname=Heirloom|image=Heirloom (Hammer Skin).png|desc=[[Madame Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=High Noon|image=High Noon.png|desc=[[Serape Kid Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=High-Impact Hammer|image=High-Impact Hammer.png|desc=[[High Impact Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Highland Hammer|image=Highland Hammer.png|desc=[[Cú Sídhe Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hit Often|image=Hit Often.png|desc=[[Roman Reigns]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Howlin' Skull|image=Howlin' Skull.png|desc=[[White Fang Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=I've Got Spirit!|image=I've Got Spirit!.png|desc=[[Team Spirit Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice Angling|image=Ice Angling.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ice Crusher|image=Ice Crusher.png|desc=[[The Yetee Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice Fishing|image=Ice Fishing.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ix Chel|image=Ix Chel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Jellyfishing Net|image=Jellyfishing Net.png|desc=[[Patrick Star]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Laughing Dragon|image=Laughing Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Lodestone|image=Lodestone.png|desc=[[Rift Dweller Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=LOL RIP|image=LOL RIP.png|desc=[[Punkin Spice Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lord's Justice|image=Lord's Justice.png|desc=[[Lord Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Makin' Bacon Pancakes|image=Makin' Bacon Pancakes.png|desc=[[Jake]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Manhandle Slam|image=Manhandle Slam.png|desc=[[Becky Lynch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Marigold Maul|image=Marigold Maul.png|desc=[[Calavera Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Morning Maul|image=Morning Maul.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Mosaic Maul|image=Mosaic Maul.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Mouse Trap|image=Mouse Trap.png|desc=[[Nutcracker Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mrs. Fix It|image=Mrs. Fix It.png|desc=[[Steamsmith Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Hammer|image=Neo City Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Neutron Maul|image=Neutron Maul.png|desc=[[Cyber Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare|image=Nightmare.png|desc=[[Armored Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Mauler|image=Nightmare Mauler.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Hammer|image=Ninpō Unsealed Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Numbskull|image=Numbskull.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nutsy|image=Nutsy.png|desc=[[Sandy Cheeks]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Offworld|image=Offworld.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ornate Anchor|image=Ornate Anchor.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Peafowl Cane|image=Peafowl Cane.png|desc=[[Elegant Zuva]]|descheight=55px}}
+{{itembox|width=200|height=170|name=People's Elbow|image=People's Elbow.png|desc=[[The Rock]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Photosynthesis Warhammer|image=Photosynthesis Warhammer.png|desc=[[Elvenhollow Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Piledriver|image=Piledriver.png|desc=[[Kor Wrecking LLC]]|descheight=55px}}
+{{itembox|width=200|height=170|name=POP! Goes the Bandit|image=POP! Goes the Bandit.png|desc=[[Tiny Tina]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Primrose Mallet|image=Primrose Mallet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Rank Breaker|image=Rank Breaker.png|desc=[[Iron Legion Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Hammer|image=RGB Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Righteous Indignation|image=Righteous Indignation.png|desc=[[Nightwatch Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Root of the Forest|image=Root of the Forest.png|desc=[[Fangwild Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Santa's Sleigh-er|image=Santa's Sleigh-er.png|desc=[[Reindeer Games Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sattelite Smash|image=Sattelite Smash.png|desc=[[Space Race Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scrapyard Bruiser|image=Scrapyard Bruiser.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Season's Beatings|image=Season's Beatings.png|desc=[[Wreck the Halls Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Selena's Smasher|image=Selena's Smasher.png|desc=[[Globox]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shadaloo Scepter|image=Shadaloo Scepter.png|desc=[[M. Bison]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silver Sledgehammer|image=Silver Sledgehammer.png|desc=[[Masked Hero Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skull of the Saint|image=Skull of the Saint.png|desc=[[Forsaken Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skullcracker|image=Skullcracker.png|desc=[[Jurassic Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Hammer|image=Skyforged Hammer.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sledge Fire|image=Sledge Fire.png|desc=[[Forgeheart Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sledge Hammer|image=Sledge Hammer.png|desc=[[Gumshoe Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sol Smasher|image=Sol Smasher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Soldier's Duty|image=Soldier's Duty.png|desc=[[Steam Faction Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soucriant's Fury|image=Soucriant's Fury.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soul of Aoku|image=Soul of Aoku.png|desc=[[Inari Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soulbinder|image=Soulbinder.png|desc=[[Draugr Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stake Driver|image=Stake Driver.png|desc=[[Dawnwalker Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sterling Sledge|image=Sterling Sledge.png|desc=[[Silvermane Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stop and Drop|image=Stop and Drop.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Strike of the Wise|image=Strike of the Wise.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Striking Magi ☆ Miracle Mallet|image=Striking Magi ☆ Miracle Mallet.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Sucker Punch|image=Sucker Punch.png|desc=[[Cho-Kor-late]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sun Dial|image=Sun Dial.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Taurus Rebellion|image=Taurus Rebellion.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tea-KO|image=Tea-KO.png|desc=[[Teatime Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Teeth-Grinder|image=Teeth-Grinder.png|desc=[[Capra Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=That's A Hammer|image=That's A Hammer.png|desc=[[Outback Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Angel|image=The Angel.png|desc=[[Phantom of the Armor Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Bolt|image=The Bolt.png|desc=[[First Edition Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Cure Seeker|image=The Cure Seeker.png|cost={{Coin|mammoth|60}}<br>UNKNOWN|costheight=55px}}
+{{itembox|width=200|height=170|name=The Dark Cauldron|image=The Dark Cauldron.png|desc=[[Bewitching Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Herald|image=The Herald.png|desc=[[Marauder Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Hibernator|image=The Hibernator.png|desc=[[Bear'dvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Iron Barrel|image=The Iron Barrel.png|desc=[[High Noon Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Kingsman|image=The Kingsman.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Phenom|image=The Phenom.png|desc=[[The Undertaker]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Rook|image=The Rook.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Shrine|image=The Shrine.png|desc=[[Fox Spirit Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Snowplow|image=The Snowplow.png|desc=[[Snowman Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Starsmasher|image=The Starsmasher.png|desc=[[Metadev Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Steamroller|image=The Steamroller.png|desc=[[Steam Sentry Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Throwing Anchor|image=Throwing Anchor.png|desc=[[Shovel Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Titanium Crusher|image=Titanium Crusher.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Torii Mallet|image=Torii Mallet.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Hammer|image=Toybox Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Unicorn Stampede|image=Unicorn Stampede.png|desc=[[Xavier Woods]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Hammer|image=Valiant Armament Hammer.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Yggdrasil's Branch|image=Yggdrasil's Branch.png|desc=[[Vanir Guardian Bödvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ymir's Sledge|image=Ymir's Sledge.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Yokai Slam|image=Yokai Slam.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Yokai Smash|image=Yokai Smash.png|desc=[[Cursed Mask Yumiko]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Hammer Skins==
+These Hammer skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Electro Hammer|image=Electro Hammer.png|desc=[[Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ground Pounder|image=Ground Pounder.png|desc=[[Kor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Iron Mallet|image=Iron Mallet.png|desc=[[Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Kutinhira|image=Kutinhira.png|desc=[[King Zuva]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Menace Maul|image=Menace Maul.png|desc=[[Magyar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mjölnir|image=Mjölnir.png|desc=[[Thor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pneumatic Hammer|image=Pneumatic Hammer.png|desc=[[Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rail Hammer|image=Rail Hammer.png|desc=[[Cassidy]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Smasher|image=Smasher.png|desc=[[Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Talisman|image=The Talisman.png|desc=[[Yumiko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Warhammer|image=Warhammer.png|desc=[[Bödvar]]|descheight=55px}}
+{{itembox/bottom}}

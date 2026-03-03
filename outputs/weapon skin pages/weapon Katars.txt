@@ -1,0 +1,169 @@
+The following is a list of all [[Katars]] skins in [[Brawlhalla]].
+
+==Katars Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=+5 Daggers|image=+5 Daggers.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Actuator Claws|image=Actuator Claws.png|desc=[[Mecha Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ahsoka's Lightsaber & Shoto|image=Ahsoka's Lightsaber & Shoto.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Anchor Shanks|image=Anchor Shanks.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Apollo's Fury|image=Apollo's Fury.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Katars|image=Asgardian Katars.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Shoto Lightsabers|image=Asgardian Shoto Lightsabers.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Autumn Wind|image=Autumn Wind.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Katars|image=Aztlán Katars.png|desc=[[Master of Night Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Back Alley Justice|image=Back Alley Justice.png|desc=[[Gumshoe Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Battleblades|image=Battleblades.png|desc=[[Lord Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bear Claws|image=Bear Claws.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Beguiling Blades|image=Beguiling Blades.png|desc=[[Snake Charmer Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Biotec-X Scalpels|image=Biotec-X Scalpels.png|desc=[[THNX Researcher Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Black Icicles|image=Black Icicles.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blood Fangs|image=Blood Fangs.png|desc=[[Werebeast Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bloodletting|image=Bloodletting.png|desc=[[Immortal Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bone & Bane|image=Bone & Bane.png|desc=[[Grovewarden Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bone Claws|image=Bone Claws.png|desc=[[Skel-asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Brahma Bulls|image=Brahma Bulls.png|desc=[[The Rock]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Briar & Bramble|image=Briar & Bramble.png|desc=[[Haute Couture Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Briar Barbs|image=Briar Barbs.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Budding Reunion|image=Budding Reunion.png|desc=[[Lady of the Dead Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Burning Golden Razors|image=Burning Golden Razors.png|desc=[[Mecha Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bushwacker Blades|image=Bushwacker Blades.png|desc=[[Tomb Tamer Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Carbon-Steel Knives|image=Carbon-Steel Knives.png|desc=[[Spec-Ops Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cardinal Talons|image=Cardinal Talons.png|desc=[[Dragon Heart Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Carved Lancet Teeth|image=Carved Lancet Teeth.png|desc=[[Alepisaurus Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chompers|image=Chompers.png|desc=[[Nightcap Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Coral Spines|image=Coral Spines.png|desc=[[Sea Krait Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Corrupted Shredders|image=Corrupted Shredders.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Crescent Moon Claws|image=Crescent Moon Claws.png|desc=[[Metadev Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystal Blades|image=Crystal Blades.png|desc=[[Frost Guardian Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystal Shards|image=Crystal Shards.png|desc=[[Diamondhead]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystalline Blades|image=Crystalline Blades.png|desc=[[Metadev Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Shanks|image=Cyber Myk Shanks.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Scarabs|image=Dark Scarabs.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Whispers|image=Dark Whispers.png|desc=[[High Priestess Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Shredders|image=Darkheart Shredders.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dawn and Dusk|image=Dawn and Dusk.png|desc=[[Empress Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Deadly Diamonds|image=Deadly Diamonds.png|desc=[[Aces High Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Distortion|image=Distortion.png|desc=[[Rock 'n Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon Tooth Katars|image=Dragon Tooth Katars.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Shine|image=Dragon's Shine.png|desc=[[Wenqing Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dual Hunting Knives|image=Dual Hunting Knives.png|desc=[[Daryl]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Katars|image=Dwarven-Forged Katars.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dynasty and Legacy|image=Dynasty and Legacy.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Edge Guards|image=Edge Guards.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Executioner's Razors|image=Executioner's Razors.png|desc=[[Dark of Night Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Exploding Blades|image=Exploding Blades.png|desc=[[Plague Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fangs of Woe|image=Fangs of Woe.png|desc=[[Snake Goddess Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fatal Fans|image=Fatal Fans.png|desc=[[Daomadan Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Feather's Edge|image=Feather's Edge.png|desc=[[Galaxy X Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Finishing Touches|image=Finishing Touches.png|desc=[[All City Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire & The Flame|image=Fire & The Flame.png|desc=[[Radiant Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire Fangs|image=Fire Fangs.png|desc=[[Zhulong Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flame and Cinder|image=Flame and Cinder.png|desc=[[Inferno Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fleur de Bees|image=Fleur de Bees.png|desc=[[Vive la Révolucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flint and Tinder|image=Flint and Tinder.png|desc=[[Ragnirsaurus Rex]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flora Blades|image=Flora Blades.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Getaway Points|image=Getaway Points.png|desc=[[Overdrive Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Blades|image=Goldforged Blades.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Grand Finale|image=Grand Finale.png|desc=[[Harlequin Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Greed and Avarice|image=Greed and Avarice.png|desc=[[Ragnir the Covetous]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Pincers|image=Hardlight Pincers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Haunting Blades|image=Haunting Blades.png|desc=[[Horseman Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heart Piercers|image=Heart Piercers.png|desc=[[Tuxedo Bandit Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heartaches|image=Heartaches.png|desc=[[Suitor Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hell's Hearts|image=Hell's Hearts.png|desc=[[Dreadnought Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hello Katars|image=Hello Katars.png|desc=[[First Day Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hidden Blades|image=Hidden Blades.png|desc=[[Nightshade Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=High Tide|image=High Tide.png|desc=[[Hammerhead Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=High-Voltage Rippers|image=High-Voltage Rippers.png|desc=[[High Impact Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hound's Fangs|image=Hound's Fangs.png|desc=[[Cú Sídhe Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hunter Knives|image=Hunter Knives.png|desc=[[Hunter]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hyper Cleave|image=Hyper Cleave.png|desc=[[Bullet Diver Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Icy Slicers|image=Icy Slicers.png|desc=[[Frost Tech Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Imperial Seals|image=Imperial Seals.png|desc=[[Xianxia Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Infinity Blades|image=Infinity Blades.png|desc=[[Star Guardian Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Iron Steel Claws|image=Iron Steel Claws.png|desc=[[Tigress]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Judge and Jury|image=Judge and Jury.png|desc=[[Celestial Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Katars of Mercy|image=Katars of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Katars of the Raven|image=Katars of the Raven.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=kaTR-808|image=kaTR-808.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Kiss of Fire|image=Kiss of Fire.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Levi's Snap Blades|image=Levi's Snap Blades.png|desc=[[Levi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lobster Claws|image=Lobster Claws.png|desc=[[Seadragon Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Maple Breeze|image=Maple Breeze.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Mech Makers|image=Mech Makers.png|desc=[[0RC4-M4k0]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mikasa's Snap Blades|image=Mikasa's Snap Blades.png|desc=[[Mikasa]]|descheight=55px}}
+{{itembox|width=200|height=170|name=MK Needles|image=MK Needles.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nettle & Belladonna|image=Nettle & Belladonna.png|desc=[[Nightshade Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Claws|image=Nightmare Claws.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Slicers|image=Nightmare Slicers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Nina's Daggers|image=Nina's Daggers.png|desc=[[Nina Williams]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Katars|image=Ninpō Unsealed Katars.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Numeric Flux|image=Numeric Flux.png|desc=[[Modular Rift Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Overhand Slicers|image=Overhand Slicers.png|desc=[[Ace Spiker Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Piercing Petals|image=Piercing Petals.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Pillage and Plunder|image=Pillage and Plunder.png|desc=[[Swashbuckler Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Raptorial Limbs|image=Raptorial Limbs.png|desc=[[Hulking Mantis Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Raven Claws|image=Raven Claws.png|desc=[[Raven Rogue Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rending Talons|image=Rending Talons.png|desc=[[Apex Predator Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Revolving Blades|image=Revolving Blades.png|desc=[[Badlands Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Katars|image=RGB Katars.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Rubber Spatulas|image=Rubber Spatulas.png|desc=[[Festive Baker Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Saint Nicks|image=Saint Nicks.png|desc=[[Diamond Jack Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sakura Strikers|image=Sakura Strikers.png|desc=[[Sakura]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sekai no Kana|image=Sekai no Kana.png|desc=[[Asuka]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Serpent's Fangs|image=Serpent's Fangs.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Serve & Protect|image=Serve & Protect.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shadow Trawl|image=Shadow Trawl.png|desc=[[Abyssal Goblin Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sharpoons|image=Sharpoons.png|desc=[[Lakeside Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silent Night|image=Silent Night.png|desc=[[Holly Jolly Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Blades|image=Skyforged Blades.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Smoldering Skewers|image=Smoldering Skewers.png|desc=[[Ashen Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sonar Slicers|image=Sonar Slicers.png|desc=[[Werebat Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soul Fangs|image=Soul Fangs.png|desc=[[Arcane Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spirit Ash's Fangs|image=Spirit Ash's Fangs.png|desc=[[Fangwild's Heart Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Splish & Splash|image=Splish & Splash.png|desc=[[Swim Team Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stained Shards|image=Stained Shards.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Stolen Jedi Lightsabers|image=Stolen Jedi Lightsabers.png|desc=[[General Grievous]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Taurus Skulls|image=Taurus Skulls.png|desc=[[Outlaw Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Teeth of the Nile|image=Teeth of the Nile.png|desc=[[Sobek Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Ailing Twin Gods|image=The Ailing Twin Gods.png|desc=[[Fell Empress Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Blackhearts|image=The Blackhearts.png|desc=[[Date Night Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Devourers|image=The Devourers.png|desc=[[Nidhogg Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Miracle Workers|image=The Miracle Workers.png|desc=[[Plague Doctor Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Three Fingered Discount|image=Three Fingered Discount.png|desc=[[Cat Burglar Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Thunder and Clash|image=Thunder and Clash.png|desc=[[First Edition Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tooth & Trouble|image=Tooth & Trouble.png|desc=[[Meadowguard Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tooth and Nail|image=Tooth and Nail.png|desc=[[Fangwild Fawn Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Katars|image=Toybox Katars.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Trench Cutters|image=Trench Cutters.png|desc=[[Dark Depths Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Trials of Worth|image=Trials of Worth.png|desc=[[Awakened Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Trusty Trowels|image=Trusty Trowels.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Twin Sai|image=Twin Sai.png|desc=[[Raphael]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Katars|image=Valiant Armament Katars.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Vengeance|image=Vengeance.png|desc=[[Nightwatch Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Viper's Fangs|image=Viper's Fangs.png|desc=[[Interloper Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Whispers of the Asp|image=Whispers of the Asp.png|desc=[[Winged Serpent Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wicked Claws|image=Wicked Claws.png|desc=[[Lynx Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wings of Liberty|image=Wings of Liberty.png|desc=[[President Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wings of the Sage|image=Wings of the Sage.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Winter Daggers|image=Winter Daggers.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
+{{itembox|width=200|height=170|name=Wolfsilver Blades|image=Wolfsilver Blades.png|desc=[[Ember the Hunter]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Zenith Daggers|image=Zenith Daggers.png|desc=ERROR|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Katars Skins==
+These Katars skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Assassin's Blades|image=Assassin's Blades.png|desc=[[Lucien]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Atlantean Power|image=Atlantean Power.png|desc=[[Mako]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bengali Claws|image=Bengali Claws.png|desc=[[Asuri]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon Scale Katars|image=Dragon Scale Katars.png|desc=[[Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fangwild Thorns|image=Fangwild Thorns.png|desc=[[Ember]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Martial Blades|image=Martial Blades.png|desc=[[Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Realm Etchers|image=Realm Etchers.png|desc=[[Loki]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sacred Blades|image=Sacred Blades.png|desc=[[Queen Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shock Katars|image=Shock Katars.png|desc=[[Sentinel]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Showman's Daggers|image=Showman's Daggers.png|desc=[[Caspian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shredders|image=Shredders.png|desc=[[Rupture]]|descheight=55px}}
+{{itembox/bottom}}

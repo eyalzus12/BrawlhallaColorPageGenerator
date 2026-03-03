@@ -1,0 +1,91 @@
+The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
+
+==Cannon Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=1000 Army Cannon|image=1000 Army Cannon.png|desc=[[Xianxia Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Alpine Assault|image=Alpine Assault.png|desc=[[Abominable Jötunn Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Argo's Cannon|image=Argo's Cannon.png|desc=[[Leonidas Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Art of War|image=Art of War.png|desc=[[Admiral Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Cannon|image=Asgardian Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Cannon|image=Aztlán Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Beithir's Breath|image=Beithir's Breath.png|desc=[[Dragon Hunter Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blistering Bellows|image=Blistering Bellows.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blossom Boom|image=Blossom Boom.png|desc=[[Sakura]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Boom Box|image=Boom Box.png|desc=[[Queen Beat Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Boomin' Bark|image=Boomin' Bark.png|desc=[[Elvenhollow Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Booming Belfry|image=Booming Belfry.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Booming Roar|image=Booming Roar.png|desc=[[Arctic Trapper Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bulwark|image=Bulwark.png|desc=[[Commander Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cannon of Mercy|image=Cannon of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Chimney|image=Chimney.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Conk Shell|image=Conk Shell.png|desc=[[Merrow Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Megacannon|image=Cyber Myk Megacannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Danish Brick Mortar|image=Danish Brick Mortar.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Tower|image=Darkheart Tower.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Divine Thunderclap|image=Divine Thunderclap.png|desc=[[Daomadan Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Door-Buster|image=Door-Buster.png|desc=[[Task Force Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Breath|image=Dragon's Breath (Titan).png|desc=[[Titan]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Fire|image=Dragon's Fire.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Cannon|image=Dwarven-Forged Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Electro Overdrive|image=Electro Overdrive.png|desc=[[Cybernetic Beat Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ensnaring Boom|image=Ensnaring Boom.png|desc=[[Beastmaster Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eternal Siege|image=Eternal Siege.png|desc=[[Soulbound Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire Hose|image=Fire Hose.png|desc=[[Firefighter Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Frosty's Fury|image=Frosty's Fury.png|desc=[[Festive Yeti Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fuel Rod Cannon|image=Fuel Rod Cannon.png|desc=[[The Arbiter]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Gjallarhorn|image=Gjallarhorn.png|cost={{Coin|mammoth|80}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Cannon|image=Goldforged Cannon.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Grilled Smoker|image=Grilled Smoker.png|desc=[[Brawl Dad Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Cannon|image=Hardlight Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Howling Siren|image=Howling Siren.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Hyperion Yggdrasil|image=Hyperion Yggdrasil.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Jade Dragon|image=Jade Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Kanabo|image=Kanabo.png|desc=[[Demon Ogre Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Koi Cannon|image=Koi Cannon.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Laser Light Cannon|image=Laser Light Cannon.png|desc=[[Amethyst]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Locker Boom|image=Locker Boom.png|desc=[[Ace Spiker Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mammothade Cooler|image=Mammothade Cooler.png|desc=[[Gridiron Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mk1 Cannon|image=Mk1 Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Modern Thunder|image=Modern Thunder.png|desc=[[Wenqing Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=MPL Rocket Launcher|image=MPL Rocket Launcher.png|desc=[[Kay Vess]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Cannon|image=Neo City Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Mandible|image=Nightmare Mandible.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Cannon|image=Ninpō Unsealed Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Optimized Odzutsu|image=Optimized Odzutsu.png|desc=[[Wanderer Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Orchard Barrel|image=Orchard Barrel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Plasma Cannon|image=Plasma Cannon.png|desc=[[Project-0NYX]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Power Flash|image=Power Flash.png|desc=[[Terror-Watt Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pyrois Blast|image=Pyrois Blast.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Quetzalcoatl Tlequiquiztli|image=Quetzalcoatl Tlequiquiztli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Railgun|image=Railgun.png|desc=[[Section Zero Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Revolver Cannon|image=Revolver Cannon.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Cannon|image=RGB Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Royal Allegiance|image=Royal Allegiance.png|desc=[[Guardian Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Royal Decree|image=Royal Decree.png|desc=[[Pirate Queen Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Cannon|image=Skyforged Cannon.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Snowsmoke|image=Snowsmoke.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Sonic Boom|image=Sonic Boom.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=SPNKr Rocket Launcher|image=SPNKr Rocket Launcher.png|desc=[[The Master Chief]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stalwart Screech|image=Stalwart Screech.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Swamp Serum|image=Swamp Serum.png|desc=[[Termin-gator Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tactical Cannon|image=Tactical Cannon.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Big Bang|image=The Big Bang.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Hayrider|image=The Hayrider.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=The Nautilus|image=The Nautilus.png|desc=[[Atlantean Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Torchbringer|image=Torchbringer.png|desc=[[Zhulong Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Cannon|image=Toybox Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Cannon|image=Valiant Armament Cannon.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Watery Grave|image=Watery Grave.png|desc=[[Kraken Sidra]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Cannon Skins==
+These Cannon skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Cannon Strike|image=Cannon Strike.png|desc=[[Lin Fei]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Corsair Cannon|image=Corsair Cannon.png|desc=[[Sidra]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Handcrafted Cannon|image=Handcrafted Cannon.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ol' Faithful|image=Ol' Faithful.png|desc=[[Isaiah]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stryge|image=Stryge.png|desc=[[Onyx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wartusk|image=Wartusk.png|desc=[[Xull]]|descheight=55px}}
+{{itembox/bottom}}

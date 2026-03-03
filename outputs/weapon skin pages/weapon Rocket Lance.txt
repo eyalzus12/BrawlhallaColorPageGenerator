@@ -1,0 +1,137 @@
+The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
+
+==Rocket Lance Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Abyssal Excavator|image=Abyssal Excavator.png|desc=[[Black Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Accretion Mass Projector|image=Accretion Mass Projector.png|desc=[[Void Zenith Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aesinite Lance|image=Aesinite Lance.png|desc=[[Arcanium Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aetheric Rocket Drill|image=Aetheric Rocket Drill.png|desc=[[Steam Tank Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Lance|image=Asgardian Lance.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asteroid Grinder|image=Asteroid Grinder.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Atomic Rocket|image=Atomic Rocket.png|desc=[[Atomic Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aviator Test Rocket|image=Aviator Test Rocket.png|desc=[[Sky Captain Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Rocket Lance|image=Aztlán Rocket Lance.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Banana Guard Lance|image=Banana Guard Lance.png|desc=[[Princess Bubblegum]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Batavian Column|image=Batavian Column.png|desc=[[Werebeast Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Battle Lance|image=Battle Lance.png|desc=[[Dragonport Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Beach King|image=Beach King.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Bitter End|image=Bitter End.png|desc=[[Fiendish Knight Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blackstar|image=Blackstar.png|desc=[[Eclipse Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blazing Charioteer|image=Blazing Charioteer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Broken Crown|image=Broken Crown.png|desc=[[The Mad King]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Burnout (Weapon Skin)|displayname=Burnout|image=Burnout.png|desc=[[Street Race Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Butt Stallion|image=Butt Stallion.png|desc=[[Tiny Tina]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chemical V|image=Chemical V.png|desc=[[Professor Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chrysalis Lance|image=Chrysalis Lance.png|desc=[[Puella Papilio Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cobalt Mecha Lance|image=Cobalt Mecha Lance.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Core Collapse|image=Core Collapse.png|desc=[[Orion Prime]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Corinthian Lance|image=Corinthian Lance.png|desc=[[Gorgon Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cristatus Wingspan|image=Cristatus Wingspan.png|desc=[[Peacock Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cupid's Arrow|image=Cupid's Arrow.png|desc=[[Matchmaker Vector]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Starblaze|image=Cyber Myk Starblaze.png|desc=[[Live Action Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Missile|image=Darkheart Missile.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Darkpulse|image=Darkpulse.png|desc=[[Darkheart Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dirt Road Drill|image=Dirt Road Drill.png|desc=[[Demon Rider Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Doombringer|image=Doombringer.png|desc=[[Harbinger Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon's Breath|image=Dragon's Breath.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Drake's Battalion|image=Drake's Battalion.png|desc=[[Dragonaut Vector]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Drivsnö Pulse|image=Drivsnö Pulse.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Lance|image=Dwarven-Forged Lance.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=End Bringer|image=End Bringer.png|desc=[[Jotun Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Event Horizon|image=Event Horizon.png|desc=[[Dark Matter Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Exalting Spire|image=Exalting Spire.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fancy Lance|image=Fancy Lance.png|desc=[[Classy Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fearful Frost|image=Fearful Frost.png|desc=[[Future Spirit Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire Giant Lance|image=Fire Giant Lance.png|desc=[[Vraxx the Viking]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Forerunner|image=Forerunner.png|desc=[[Vector Model 01]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Freelancer|image=Freelancer.png|desc=[[Orion For Hire]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glorious Conquest|image=Glorious Conquest.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Lance|image=Goldforged Lance.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Griffoth's Fire|image=Griffoth's Fire.png|desc=[[King Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Rocket Lance|image=Hardlight Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Heartbreak Havoc|image=Heartbreak Havoc.png|desc=[[Vraxx the King]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Honor's Edge|image=Honor's Edge.png|desc=[[Apprentice Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Honorbound|image=Honorbound.png|desc=[[Kabuto Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Horn of the Scarab|image=Horn of the Scarab.png|desc=[[Netherworld Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Imperial Rocket|image=Imperial Rocket.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Imperial Star Lance|image=Imperial Star Lance.png|desc=[[Supreme Ruler Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Interstellar Rocket|image=Interstellar Rocket.png|desc=[[Metadev Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Iridium Engine|image=Iridium Engine.png|desc=[[Space Dogfighter Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ivy Charger|image=Ivy Charger.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Kingly Lance|image=Kingly Lance.png|desc=[[King Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lion's Pride|image=Lion's Pride.png|desc=[[Lion Rampant Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lobster Lance|image=Lobster Lance.png|desc=[[Vraxxy Jones]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Loch's Harpoon|image=Loch's Harpoon.png|desc=[[Kelpie Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Magma Bolt|image=Magma Bolt.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Magma Heart|image=Magma Heart.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Mk 1 Lance|image=Mk 1 Lance.png|desc=[[Steamsmith Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mk V Lance|image=Mk V Lance.png|desc=[[Steam Sentry Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neon Surfer|image=Neon Surfer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Launcher|image=Nightmare Launcher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Rocket Lance|image=Ninpō Unsealed Rocket Lance.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nordic Celebration|image=Nordic Celebration.png|desc=[[Ivaldi's Finest Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=OHHHHH YEEAAAH!|image=OHHHHH YEEAAAH!.png|desc=[[Macho Man]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Overdrive|image=Overdrive.png|desc=[[Rock 'n Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Perceptive Flight|image=Perceptive Flight.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Piercing Gaze|image=Piercing Gaze.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Plague Boost|image=Plague Boost.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Planet Destroyer|image=Planet Destroyer.png|desc=[[General Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pole Position|image=Pole Position.png|desc=[[Hyperdrift Vector]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Prizewinner|image=Prizewinner.png|desc=[[Slapshot Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Prophecy|image=Prophecy.png|desc=[[Seraph Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pulsing Thicket|image=Pulsing Thicket.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Quasar|image=Quasar.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Racing Lance|image=Racing Lance.png|desc=[[Mach 25 Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Reactor Core|image=Reactor Core.png|desc=[[Wasteland Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Retrograde Rocket|image=Retrograde Rocket.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Rocket Lance|image=RGB Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Righter of Wrongs|image=Righter of Wrongs.png|desc=[[Roland the Hooded]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Roar of the Pride|image=Roar of the Pride.png|desc=[[Lionheart Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rocket Lance of Mercy|image=Rocket Lance of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Rocket Parasol|image=Rocket Parasol.png|desc=[[Teatime Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rocket Powered Warhorse|image=Rocket Powered Warhorse.png|desc=[[Dark Age Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Royal Roar|image=Royal Roar.png|desc=[[The Honorable Sir Roland, Esq.]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rush|image=Rush.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sidewinder|image=Sidewinder.png|desc=[[Hotshot Vector]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skull Saw|image=Skull Saw.png|desc=[[Mad Doctor Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Lance|image=Skyforged Lance.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Skypiercer|image=Skypiercer.png|desc=[[Fleeting Magi ☆ Starlit Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyrush|image=Skyrush.png|desc=[[Corsair Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Spark Compressor|image=Spark Compressor.png|desc=[[Gridrunner Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spark of Madness|image=Spark of Madness.png|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Speaker of the Sea|image=Speaker of the Sea.png|desc=[[Atlantean Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Svartalfheim's Caverns|image=Svartalfheim's Caverns.png|desc=[[Master Blacksmith Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Synthetic Charge|image=Synthetic Charge.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Tegmina Lance|image=Tegmina Lance.png|desc=[[Hulking Mantis Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Breakdown|image=The Breakdown.png|desc=[[Crossfade Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Broken Forge|image=The Broken Forge.png|desc=[[Iron Lady Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Insignia|image=The Insignia.png|desc=[[Airship Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Thumbs Down|image=Thumbs Down.png|desc=[[Roland the Victorious]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tide Queen|image=Tide Queen.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Rocket Lance|image=Toybox Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ultra-Lance|image=Ultra-Lance.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Uprising|image=Uprising.png|desc=[[Steam Faction Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Rocket Lance|image=Valiant Armament Rocket Lance.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=War Pipes|image=War Pipes.png|desc=[[Warborn Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Winterbite|image=Winterbite.png|desc=[[Warlock]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Witching Broom|image=Witching Broom.png|desc=[[Bewitching Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=World Champion Lance|image=World Champion Lance.png|desc=[[Match Point Roland]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Yokai's Spirit|image=Yokai's Spirit.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Yorishiro|image=Yorishiro.png|desc=[[Cyber Oni Orion]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Rocket Lance Skins==
+These Rocket Lance skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Armored Attack Rocket|image=Armored Attack Rocket.png|desc=[[Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eternal Skyrocket|image=Eternal Skyrocket.png|desc=[[Thea]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fuselage|image=Fuselage.png|desc=[[Vector]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Galaxy Lance|image=Galaxy Lance.png|desc=[[Artemis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Raging Furnace|image=Raging Furnace.png|desc=[[Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Selenite Jet Lance|image=Selenite Jet Lance.png|desc=[[Lord Vraxx]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shattered Emerald|image=Shattered Emerald.png|desc=[[Rupture]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Steam Rocket|image=Steam Rocket.png|desc=[[Scarlet]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tourney Lance|image=Tourney Lance.png|desc=[[Sir Roland]]|descheight=55px}}
+{{itembox/bottom}}

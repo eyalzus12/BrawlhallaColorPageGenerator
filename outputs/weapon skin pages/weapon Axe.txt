@@ -1,0 +1,173 @@
+The following is a list of all [[Axe]] skins in [[Brawlhalla]].
+
+==Axe Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=A Sign from Above|image=A Sign from Above.png|desc=[[Maggie]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Abandoned Anchor|image=Abandoned Anchor.png|desc=[[Ship Sinker Imugi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Acuity Manifest|image=Acuity Manifest.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aesir Blade|image=Aesir Blade.png|desc=[[Metadev Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Airship Anchor|image=Airship Anchor.png|desc=[[Sky Scourge Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Arbiters Reach|image=Arbiters Reach.png|desc=[[Celestial Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Axe|image=Asgardian Axe.png|desc=[[Collectors Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of Mercy|image=Axe of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 18}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of Might|image=Axe of Might.png|desc=[[Silver Age Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of the World Eagle|image=Axe of the World Eagle.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe You Out|image=Axe You Out.png|desc=[[Heartbreaker Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe-bladed Multi-Tool|image=Axe-bladed Multi-Tool.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Axe|image=Aztlán Axe.png|desc={{BPReward|Season Eleven|gold|Tier 73}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Barbaraxe|image=Barbaraxe.png|desc=[[Barbara]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Battle Axe (Simon Belmont)|image=Battle Axe (Simon Belmont).png|desc=[[Simon Belmont]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Beckoning Bramble|image=Beckoning Bramble.png|desc={{BPReward|Season Six|gold|Tier 37}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Bifrost Edge|image=Bifrost Edge.png|desc=[[Aurora Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Big Clipper|image=Big Clipper.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Blooming Blade|image=Blooming Blade.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
+{{itembox|width=200|height=170|name=Boiling Point|image=Boiling Point.png|desc=[[Ashen Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bone Cleaver|image=Bone Cleaver.png|desc=[[Warlord Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Boss's Judgement|image=Boss's Judgement.png|desc=[[The Don]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Brave Magi ☆ Twinkling Justice|displayname={{small|Brave Magi ☆ Twinkling Justice}}|image=Brave Magi ☆ Twinkling Justice.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Bump in the Night|image=Bump in the Night.png|desc=[[Wraith Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Burning Enlightenment|image=Burning Enlightenment.png|desc=[[Dhalsim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Butcher's Delight|image=Butcher's Delight.png|desc=[[Orc Raider Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Buzz Axe|image=Buzz Axe.png|desc=[[Krieg]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Calaveraxe|image=Calaveraxe.png|desc=[[Ray of the Dead]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Castle Rocker|image=Castle Rocker.png|desc=[[Super Metal Rayman]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ceremonial Axe|image=Ceremonial Axe.png|desc=[[Apprentice Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Champion's Axe|image=Champion's Axe.png|desc=[[Metadev Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Chocolate Cherry Sunburst|displayname={{small|Chocolate Cherry Sunburst}}|image=Chocolate Cherry Sunburst.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Chopsicle|image=Chopsicle.png|desc=[[The Yetee Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Conch Cleaver|image=Conch Cleaver.png|desc=[[Seadragon Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystal Whip Axe|image=Crystal Whip Axe.png|desc=[[Amethyst]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Axe|image=Cyber Myk Axe.png|desc={{BPReward|Season Eight|gold|Tier 13}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Axe|image=Darkheart Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Death Rattle|image=Death Rattle.png|desc=[[Lichlord Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Demonic Slab|image=Demonic Slab.png|desc={{BPReward|Season One|gold|Tier 29}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Devious Axe|image=Devious Axe.png|desc=[[Raymesis]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Diamond Axe|image=Diamond Axe.png|desc=[[Ivaldi's Finest Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dimensional Divide|image=Dimensional Divide.png|desc=[[Rift Dweller Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Disgrace|image=Disgrace.png|desc=[[Fallen Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Axe|image=Dwarven-Forged Axe.png|desc={{BPReward|Season Seven|gold|Tier 53}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Eldritch Bane|image=Eldritch Bane.png|desc=[[Infernal Warlock Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Electronicore Axe|image=Electronicore Axe.png|desc=[[Terror-Watt Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Elyria's End|image=Elyria's End.png|desc=[[Ehzot Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Emerald Blade|image=Emerald Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Eternal Blade|image=Eternal Blade.png|desc=[[Völsung Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Extra Large Scalpel|image=Extra Large Scalpel.png|desc=[[Mad Doctor Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eye of Elyria|image=Eye of Elyria.png|desc=[[Necromancer Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Facemelter|image=Facemelter.png|desc=[[Speedmetal Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fate Cleaver|image=Fate Cleaver.png|desc=[[Witchfire Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fear the Femur|image=Fear the Femur.png|desc=[[Exoshell Imugi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Final Breath|image=Final Breath.png|desc=[[Huntsman Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=First Down|image=First Down.png|desc=[[Gridiron Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flaming Oath|image=Flaming Oath.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Flashfire|image=Flashfire.png|desc=[[Inferno Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Foe Splitter|image=Foe Splitter.png|desc=[[Warborn Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Gear Death Experience|image=Gear Death Experience.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=200|height=170|name=Giants' Bane|image=Giants' Bane.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Gilded Glory (Axe Skin)|displayname=Gilded Glory|image=Gilded Glory (Axe).png|desc=[[Ragnir the Covetous]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Axe|image=Goldforged Axe.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Golem's Heart|image=Golem's Heart.png|desc=[[Arcanium Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Goofy Goober Guitar|image=Goofy Goober Guitar.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Grass Axe|image=Grass Axe.png|desc=[[Finn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hack and Slash|image=Hack and Slash.png|desc=[[Slasher Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Half-Halberd|image=Half-Halberd.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Axe|image=Hardlight Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Heartbreaker|image=Heartbreaker.png|desc=[[Eternal Love Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heaven Cleaver|image=Heaven Cleaver.png|desc=[[Mecha Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hit Hard|image=Hit Hard.png|desc=[[Roman Reigns]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Holiday Fear|image=Holiday Fear.png|desc=[[Wreck the Halls Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hook Setter|image=Hook Setter.png|desc=[[Shark Heart Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Horned Carver|image=Horned Carver.png|desc=[[Famished Beast Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hunter's Reach|image=Hunter's Reach.png|desc=[[Ragnirsaurus Rex]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hyper Turbo Axe|image=Hyper Turbo Axe.png|desc=[[Mecha Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=In Case of Brawl|image=In Case of Brawl.png|desc=[[Ready to Riot Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Iron Standard|image=Iron Standard.png|desc=[[Commander Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ivaldi Design|image=Ivaldi Design.png|desc=[[Master Blacksmith Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ivaldi's Wings|image=Ivaldi's Wings.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Jade Crescent|image=Jade Crescent.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Jupiter Rising|image=Jupiter Rising.png|desc={{BPReward|Season Five|gold|Tier 77}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Kakurenbo|image=Kakurenbo.png|desc=[[Demon Ogre Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Key to Your Heart|image=Key to Your Heart.png|desc=[[Soulmate Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Koa Wood Axe|image=Koa Wood Axe.png|desc=[[Island Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Krusty Krab Spatula|image=Krusty Krab Spatula.png|desc=[[SpongeBob SquarePants]]|descheight=55px}}
+{{itembox|width=200|height=170|name=La Guitarra|image=La Guitarra.png|desc=[[Muerto Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Laughing Skull|image=Laughing Skull.png|desc=[[Baron Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lich Slayer|image=Lich Slayer.png|desc=[[Ascendant Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Love Affair|image=Love Affair.png|desc=[[Red Romance Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Macho King|image=Macho King.png|desc=[[Macho Man]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Magic Bubble Wand|image=Magic Bubble Wand.png|desc=[[Patrick Star]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Magni|image=Magni.png|desc=[[Shieldmaiden Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Manta Blade|image=Manta Blade.png|desc=[[Deep One Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mjolnir's Spirit|image=Mjolnir's Spirit.png|desc=[[Cheer Captain Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Monstrous Aura|image=Monstrous Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Mortal Coil|image=Mortal Coil.png|desc=[[Amun-Raza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Hatchet|image=Nightmare Hatchet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Axe|image=Ninpō Unsealed Axe.png|desc={{BPReward|Season Twelve|gold|Present Tier 6}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Painkiller|image=Painkiller.png|desc=[[Nemesis Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Panic Maker|image=Panic Maker.png|desc=[[Iron Legion Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Permafrost|image=Permafrost.png|desc=[[Frost Guardian Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Phoenix Wings|image=Phoenix Wings.png|desc=[[Cinderguard Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Polar Poleax|image=Polar Poleax.png|desc=[[Arctic Trapper Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Axe|image=RGB Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Rick's Hatchet|image=Rick's Hatchet.png|desc=[[Rick]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ritual Blade|image=Ritual Blade.png|desc=[[God King Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Royal Crescent|image=Royal Crescent.png|desc={{BPReward|Season Four|gold|Tier 21}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Rust|image=Rust.png|desc=[[Sawed-Off Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ship Wheel|image=Ship Wheel.png|desc=[[Summer Championship 2025 Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shredder|image=Shredder.png|desc=[[Rocker Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Axe|image=Skyforged Axe.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Snow Shovel Axe|image=Snow Shovel Axe.png|desc=[[Winter Championship 2022 Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soul Cleaver|image=Soul Cleaver.png|desc=[[Ancient Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Soul Render|image=Soul Render.png|desc=[[Sobek Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spitebringer|image=Spitebringer.png|desc=[[Harpy Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Splitter|image=Splitter.png|desc=[[Blood Moon Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spring Cleaning|image=Spring Cleaning.png|desc=[[Elvenhollow Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Star Render|image=Star Render.png|desc=[[Metadev Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Styraxe|image=Styraxe.png|desc=[[Elvenhollow Imugi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sunset Axe|image=Sunset Axe.png|desc={{BPReward|Season Two|gold|Tier 15}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Terrorbyte|image=Terrorbyte.png|desc=[[Blue Virus Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Abyss|image=The Abyss.png|desc=[[Dark Depths Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Axe|image=The Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=The Captain|image=The Captain.png|desc=[[Sky Scourge Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Furnace|image=The Furnace.png|desc=[[Forgeheart Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Harvester|image=The Harvester.png|desc=[[Annihilator Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Iron Flight|image=The Iron Flight.png|desc=[[Queen of Scales Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Monster Slash|image=The Monster Slash.png|desc=[[Werebat Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Mountain|image=The Mountain.png|desc=[[Dragonport Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Oath|image=The Oath.png|desc=[[Nightshade Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Renegade|image=The Renegade.png|desc=[[Gruagach]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Test|image=The Test.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Axe|image=Toybox Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Trend Setter|image=Trend Setter.png|desc=[[New School Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tua Dearg|image=Tua Dearg.png|desc=[[Abhartach Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Turtle Crossing|image=Turtle Crossing.png|desc=[[Raphael]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tusk|image=Tusk.png|desc=[[Razorback Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ultra Slicer|image=Ultra Slicer.png|desc=[[Mecha Imugi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Axe|image=Valiant Armament Axe.png|desc={{BPReward|Season Ten|gold|Tier 26}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Varin's Axe|image=Varin's Axe.png|desc=[[Eivor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Vetr Bearded Axe|image=Vetr Bearded Axe.png|desc={{BPReward|Season Three|gold|Tier 37}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Viking's War-axe|image=Viking's War-axe.png|desc=[[Raydvar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Volcanic Edge|image=Volcanic Edge.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=200|height=170|name=Warrior's Pride|image=Warrior's Pride.png|desc=[[Gallowglass Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Winged Blade|image=Winged Blade.png|desc=[[Sir Rayelot]]|descheight=55px}}
+{{itembox|width=200|height=170|name=World Cleaver (Jotun Ulgrim)|displayname={{small|World Cleaver (Jotun Ulgrim)}}|image=World Cleaver.png|desc=[[Jotun Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=World Cleaver (Abominable Jötunn Xull)|displayname={{small|World Cleaver (Abominable Jötunn Xull)}}|image=World Cleaver (Abominable Jötunn Xull).png|desc=[[Abominable Jötunn Xull]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Axe Skins==
+These Axe skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Ancient Axe|image=Ancient Axe.png|desc=[[Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Barbarian Axe|image=Barbarian Axe.png|desc=[[Jhala]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Batavian Diplomacy|image=Batavian Diplomacy.png|desc=[[Volkov]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Battle Axe|image=Battle Axe.png|desc=[[Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bellow's Breath|image=Bellow's Breath.png|desc=[[Ulgrim]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dragon Axe|image=Dragon Axe.png|desc=[[Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=El Carnicero|image=El Carnicero.png|desc=[[Barraza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glory (Weapon Skin)|displayname=Glory|image=Glory.png|desc=[[Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Origin Axe|image=Origin Axe.png|desc=[[Rayman]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Berserker|image=The Berserker.png|desc=[[Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Yong-ui Dokki|image=Yong-ui Dokki.png|desc=[[Imugi]]|descheight=55px}}
+{{itembox/bottom}}

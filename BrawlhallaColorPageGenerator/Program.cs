@@ -130,19 +130,28 @@ WriterData data = new()
 
 Directory.CreateDirectory("outputs");
 
-SkinColorsWriter skinsColorWriter = new(data);
-skinsColorWriter.WriteTo("outputs/skins color.txt");
+{
+    Directory.CreateDirectory("outputs/color pages");
 
-WeaponSkinColorsWriter weaponSkinsColorWriter = new(data);
-weaponSkinsColorWriter.WriteTo("outputs/weaponSkins color.txt");
+    SkinColorsWriter skinsColorWriter = new(data);
+    skinsColorWriter.WriteTo("outputs/color pages/skins color.txt");
 
-CompanionColorsWriter companionsColorWriter = new(data);
-companionsColorWriter.WriteTo("outputs/companions color.txt");
+    WeaponSkinColorsWriter weaponSkinsColorWriter = new(data);
+    weaponSkinsColorWriter.WriteTo("outputs/color pages/weaponSkins color.txt");
+
+    CompanionColorsWriter companionsColorWriter = new(data);
+    companionsColorWriter.WriteTo("outputs/color pages/companions color.txt");
+}
 
 LevelingWriter levelingWriter = new(data);
 levelingWriter.WriteTo("outputs/leveling.txt");
 
-WeaponSkinWriter weaponSkinWriter = new(data);
-weaponSkinWriter.WriteTo("outputs/test weapon skins axe.txt", "Axe");
+{
+    Directory.CreateDirectory("outputs/weapon skin pages");
+
+    WeaponSkinWriter weaponSkinWriter = new(data);
+    foreach ((string baseWeapon, string weaponName) in Utils.BASE_WEAPON_NAME)
+        weaponSkinWriter.WriteTo($"outputs/weapon skin pages/weapon {weaponName}.txt", baseWeapon);
+}
 
 #endregion

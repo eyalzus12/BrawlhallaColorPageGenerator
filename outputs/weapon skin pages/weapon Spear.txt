@@ -1,0 +1,196 @@
+The following is a list of all [[Spear]] skins in [[Brawlhalla]].
+
+==Spear Skins==
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Airbender Staff|image=Airbender Staff.png|desc=[[Aang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Amanita Naginata|image=Amanita Naginata.png|desc=[[Deathcap Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ambition|image=Ambition.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Arctic Edge Spear|image=Arctic Edge Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Saberstaff|image=Asgardian Saberstaff.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Spear|image=Asgardian Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Astro Shard|image=Astro Shard.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aurora's Spear|image=Aurora's Spear.png|desc=[[Barbara]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Autumnal Scepter|image=Autumnal Scepter.png|desc=[[Equinox Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Spear|image=Aztlán Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Bamboo Staff|image=Bamboo Staff.png|desc=[[Po]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bo Staff|image=Bo Staff.png|desc=[[Donatello]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Bone Shard|image=Bone Shard.png|desc=[[Jurassic Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Candy Cane|image=Candy Cane.png|desc=[[Santa Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Clearly a Sword|image=Clearly a Sword.png|desc=[[Mogar]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Corsage Royale|image=Corsage Royale.png|desc=[[Maître d'Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crafts Time|image=Crafts Time.png|desc=[[Kindergarten Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crimson Pike|image=Crimson Pike.png|desc=[[Nimue]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Crush Killer|image=Crush Killer.png|desc=[[Date Night Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Pike|image=Cyber Myk Pike.png|desc=[[Live Action Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Shovel Blade|image=Dark Shovel Blade.png|desc=[[Black Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Darkheart Spine|image=Darkheart Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Darth Maul's Double-Bladed Lightsaber|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Devilish Spike|image=Devilish Spike.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Divine Question|image=Divine Question.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dreamshard|image=Dreamshard.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk (Weapon Skin).png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven Awl|image=Dwarven Awl.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Spear|image=Dwarven-Forged Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Eba's Retribution|image=Eba's Retribution.png|desc=[[Snake Goddess Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eclipsing Faith|image=Eclipsing Faith.png|desc=[[High Priestess Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Elsbeth's Beskar Spear|image=Elsbeth's Beskar Spear.png|desc=[[The Mandalorian]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Enchanting Ascent|image=Enchanting Ascent.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Enlightened Song|image=Enlightened Song.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Equinox Spire|image=Equinox Spire.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fangwild Havoc|image=Fangwild Havoc.png|desc=[[Rogue Queen Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fangwild Spine|image=Fangwild Spine.png|desc=[[Thornwood Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fellthorne|image=Fellthorne.png|desc=[[Fallen Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Final Wish|image=Final Wish.png|desc=[[Djinn Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Fire Nation Spear|image=Fire Nation Spear.png|desc=[[Zuko]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Flamepiercer|image=Flamepiercer.png|desc=[[Witchfire Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Glacier's Grace|image=Glacier's Grace.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Goldforged Spear|image=Goldforged Spear.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=200|height=170|name=Great Bite Shark|image=Great Bite Shark.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Guiding Spirit|image=Guiding Spirit.png|desc=[[Aurora Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Gungnir|image=Gungnir.png|desc=[[Eivor]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hand-Saw|image=Hand-Saw.png|desc=[[The Monster Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hardlight Spear|image=Hardlight Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Heart Piercer|image=Heart Piercer.png|desc=[[The First Real Bear Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heartseeker|image=Heartseeker.png|desc=[[Eternal Love Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heavenly Shattering Star|image=Heavenly Shattering Star.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Heimdall's Call|image=Heimdall's Call.png|desc=[[Aurora Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Helios Reign|image=Helios Reign.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Holy Covenant|image=Holy Covenant.png|desc=[[Sylvan Cleric Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Immortal Pike|image=Immortal Pike.png|desc=[[Dusk Till Dawn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=In Health|image=In Health.png|desc=[[Corpse Bride Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Inscription|image=Inscription.png|desc=[[Neostreet Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Iron Might|image=Iron Might.png|desc=[[Wu Shang the Breaker]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Jade Truth|image=Jade Truth.png|desc=[[Seeker Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Judgement|image=Judgement.png|desc=[[Anubis Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Justice Bolt|image=Justice Bolt.png|desc=[[Galaxy X Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Knifebeak|image=Knifebeak.png|desc=[[Pteranodon Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lacrosse Check|image=Lacrosse Check.png|desc=[[Detention Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Laticauda's Poison|image=Laticauda's Poison.png|desc=[[Sea Krait Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lich Lord's Gift|image=Lich Lord's Gift.png|desc=[[Fell Empress Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Light of Truth|image=Light of Truth.png|desc=[[Infinite Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lightning Rod|image=Lightning Rod.png|desc=[[Stormlord Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Loathsome Talon|image=Loathsome Talon.png|desc=[[Harpy Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Long Tooth|image=Long Tooth.png|desc=[[White Fang Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Love Hurts|image=Love Hurts.png|desc=[[Date Night Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Loves Me Not|image=Loves Me Not.png|desc=[[Lovelaced Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Magma Spear|image=Magma Spear.png|desc=[[Heatblast]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Martial Staff|image=Martial Staff.png|desc=[[Chun-Li]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Matchlock Spear|image=Matchlock Spear.png|desc=[[Sidewinder Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mikasa's Thunder Spear|image=Mikasa's Thunder Spear.png|desc=[[Mikasa]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mizzenmast|image=Mizzenmast.png|desc=[[Corsair Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Modi|image=Modi.png|desc=[[Shieldmaiden Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Moonstone Spear|image=Moonstone Spear.png|desc=[[Metadev Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Museum-Quality Spear|image=Museum-Quality Spear.png|desc=[[Tomb Tamer Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Nanometal Spear|image=Nanometal Spear.png|desc=[[Cutting Edge Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Needle Drop Spear|image=Needle Drop Spear.png|desc=[[DJ Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Spear|image=Neo City Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightmare Spine|image=Nightmare Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Ninetails|image=Ninetails.png|desc=[[Kitsune Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Spear|image=Ninpō Unsealed Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=No One is Ready|image=No One is Ready.png|desc=[[Asuka]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Null Pointer|image=Null Pointer.png|desc=[[Fatal Error Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Number 1 Fan|image=Number 1 Fan.png|desc=[[Team Spirit Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Odin's Spear|image=Odin's Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Old School Spear|image=Old School Spear.png|desc=[[Dark Age Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Oni Spear|image=Oni Spear.png|desc=[[Oni no Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Parasol Pike|image=Parasol Pike.png|desc=[[Gentleman Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Particle Blade|image=Particle Blade.png|desc=[[Astral Core Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Payday|image=Payday.png|desc=[[Orion For Hire]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pearl's Spear|image=Pearl's Spear.png|desc=[[Pearl]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Piercing Regret|image=Piercing Regret.png|desc=[[Briar Rose Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pig Sticker|image=Pig Sticker.png|desc=[[Outback Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pike of the Forgotten|image=Pike of the Forgotten.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Pillar of the Heavens|image=Pillar of the Heavens.png|desc=[[Wu Shang Kong]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pincer Pike|image=Pincer Pike.png|desc=[[Carapace Armored Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Plastic Pike|image=Plastic Pike.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Platinum Pike|image=Platinum Pike.png|desc=[[Silvermane Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Plutonium Pike|image=Plutonium Pike.png|desc=[[Atomic Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Poison Dart|image=Poison Dart.png|desc=[[Ranno Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Precision|image=Precision.png|desc=[[Mirage the Cleaner]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pulaski Pike|image=Pulaski Pike.png|desc=[[Firefighter Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Pumpkin Pike|image=Pumpkin Pike.png|desc=[[Trick or Treater Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Queen of Demons|image=Queen of Demons.png|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Quill of Thoth|image=Quill of Thoth.png|desc=[[Librarian Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ranked Ladder|image=Ranked Ladder.png|desc=[[John Cena]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Red-Hot Ranseur|image=Red-Hot Ranseur.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Regifted Spear|image=Regifted Spear.png|desc=[[Reindeer Games Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=RGB Spear|image=RGB Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Righteous Spine|image=Righteous Spine.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Rosewood Spear|image=Rosewood Spear.png|desc=[[Red Rose Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Rotten Oar|image=Rotten Oar.png|desc=[[Cthu'shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Salvaged Yari|image=Salvaged Yari.png|desc=[[Wanderer Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scepter of Salt|image=Scepter of Salt.png|desc=[[Vixen Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=School Colors|image=School Colors.png|desc=[[Cheer Captain Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scintilating Spear|image=Scintilating Spear.png|desc=[[Snake Charmer Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scrapshard|image=Scrapshard.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Scrimshaw Harpoon|image=Scrimshaw Harpoon.png|desc=[[Huntress Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Seal Breaker|image=Seal Breaker.png|desc=[[Apocalypse Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Seridashi|image=Seridashi.png|desc=[[Kabuki Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Serving Fork|image=Serving Fork.png|desc=[[Festive Baker Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Seven Secrets Spear|image=Seven Secrets Spear.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shadow Spear|image=Shadow Spear.png|desc=[[Nightblade Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Shovel Blade|image=Shovel Blade.png|desc=[[Shovel Knight]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Silver Naginata|image=Silver Naginata.png|desc=[[Kabuto Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Ski Pole|image=Ski Pole.png|desc=[[Alpine Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Skyforged Spear|image=Skyforged Spear.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sol Spear|image=Sol Spear.png|desc=[[Empress Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of Mercy|image=Spear of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of the Future|image=Spear of the Future.png|desc=[[Technomancer Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of the Living|image=Spear of the Living.png|desc=[[Undying Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of Wisdom|image=Spear of Wisdom.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Specter Spear|image=Specter Spear.png|desc=[[Mirage Incarnate]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spirit's Passing|image=Spirit's Passing.png|desc=[[Lady of the Dead Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sprocketeer|image=Sprocketeer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Starforged Spear|image=Starforged Spear.png|desc=[[Metadev Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Stuffing Spear|image=Stuffing Spear.png|desc=[[Diabolical Doll Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Surt's Arrow|image=Surt's Arrow.png|desc=[[Cinderguard Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sweet Magi ☆ Dream Spear|image=Sweet Magi ☆ Dream Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Talon's Edge|image=Talon's Edge.png|desc=[[Raven Shaman Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Allthorn|image=The Allthorn.png|desc=[[Nidhogg Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Conch|image=The Conch.png|desc=[[Atlantean Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Final Gift|image=The Final Gift.png|desc=[[Demon Bride Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Last Crutch|image=The Last Crutch.png|desc=[[Becky Lynch]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Mixup|image=The Mixup.png|desc=[[Crossfade Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=The Seeker's Spear|image=The Seeker's Spear.png|desc=[[Hand of Horus Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Thermal Runaway|image=Thermal Runaway.png|desc=[[Orion Prime]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tiburon's Teeth|image=Tiburon's Teeth.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Tines of the Heart|image=Tines of the Heart.png|desc=[[Heart of Hathor Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Toxic Ranseur|image=Toxic Ranseur.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Toybox Spear|image=Toybox Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Trident|image=Trident.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Trident of Antiquity|image=Trident of Antiquity.png|desc=[[Atlantean Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Trueflight|image=Trueflight.png|desc=[[Corsair Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Truth|image=Truth.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Tundra Geir|image=Tundra Geir.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Tundra's Talon|image=Tundra's Talon.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Twin Solstice|image=Twin Solstice.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Valkyrie's Fury|image=Valkyrie's Fury.png|desc=[[Völsung Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Vector (Weapon Skin)|displayname=Vector|image=Vector Spear.png|desc=[[Wasteland Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Venom of Eba|image=Venom of Eba.png|desc=[[Death Adder Hattori]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Viper's Venom|image=Viper's Venom.png|desc=[[Winged Serpent Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Warrior's Wisdom|image=Warrior's Wisdom.png|desc=[[Athena Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Winged Glory|image=Winged Glory.png|desc=[[Freestyle Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Wu Wei|image=Wu Wei.png|desc=[[Ascended Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Xochitl Tlacochtli|image=Xochitl Tlacochtli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Yokai Naginata|image=Yokai Naginata.png|desc=[[Cyber Oni Orion]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Default Spear Skins==
+These Spear skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
+
+{{itembox/top}}
+{{itembox|width=200|height=170|name=Cyberlink Spear|image=Cyberlink Spear.png|desc=[[Ada]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Eldritch Thorn|image=Eldritch Thorn.png|desc=[[Arcadia]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Elven Battle Spear|image=Elven Battle Spear.png|desc=[[Dusk]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Hunting Spear|image=Hunting Spear.png|desc=[[Gnash]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Mega Wrench|image=Mega Wrench.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Prey Catcher|image=Prey Catcher.png|desc=[[Kaya]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Qiang|image=Qiang.png|desc=[[Wu Shang]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Serpent Spear|image=Serpent Spear.png|desc=[[Queen Nai]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of the Nile|image=Spear of the Nile.png|desc=[[Mirage]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Sunforged Spear|image=Sunforged Spear.png|desc=[[Orion]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valor|image=Valor.png|desc=[[Brynn]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Yari|image=Yari.png|desc=[[Hattori]]|descheight=55px}}
+{{itembox/bottom}}
