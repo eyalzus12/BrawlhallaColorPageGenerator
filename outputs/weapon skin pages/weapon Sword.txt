@@ -182,7 +182,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Waveslicer|image=Waveslicer.png|desc=[[Atlantean Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Whispering Blade|image=Whispering Blade.png|desc=[[Kunoichi Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Wicked Blade|image=Wicked Blade.png|desc=[[Death Adder Hattori]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=[[Autumn Championship 2023 Pack]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=[[Fall Championship 2023 Pack]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Wyrmseeker|image=Wyrmseeker.png|desc=[[Dragonslayer Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Wyvern's Sting|image=Wyvern's Sting.png|desc=[[Queen of Scales Jhala]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Yataghan Sword|image=Yataghan Sword.png|desc=[[Revelations Ezio]]|descheight=55px}}

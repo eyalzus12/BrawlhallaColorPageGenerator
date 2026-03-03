@@ -128,6 +128,12 @@ public sealed class WeaponSkinWriter(WriterData data)
             writer.Write(costumeName);
             writer.Write("]]");
         }
+        // bundle exclusive
+        else if (_bundleExclusives.Contains(weaponSkin.WeaponSkinName))
+        {
+            descType = DescType.Desc;
+            writer.Write("|desc=[[Store Bundles|Bundle]] exclusive");
+        }
         // store
         else if (data.StoreTypes.ItemToStoreType.TryGetValue($"WeaponSkin {weaponSkin.WeaponSkinName}", out StoreType? storeType))
         {
@@ -196,6 +202,7 @@ public sealed class WeaponSkinWriter(WriterData data)
                     packName = data.LangFile.Entries[entitlement.DisplayNameKey!];
                     packName = packName.Trim('!');
                     if (!packName.EndsWith("Pack")) packName += " Pack";
+                    packName = packName.Replace("Autumn", "Fall");
                     break;
             }
 
@@ -249,4 +256,8 @@ public sealed class WeaponSkinWriter(WriterData data)
         Desc,
         Cost
     }
+
+    private readonly static HashSet<string> _bundleExclusives = [
+        "CannonGjallahorn",
+    ];
 }

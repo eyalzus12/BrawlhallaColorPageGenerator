@@ -22,6 +22,10 @@ public partial class WriterData
         "PistolKayVess",
         "PistolBP10Mecha",
         "PistolBP12",
+        "CannonBP7",
+        "CannonRoboPuppet",
+        "CannonBP12",
+        "CannonBP10Mecha",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)

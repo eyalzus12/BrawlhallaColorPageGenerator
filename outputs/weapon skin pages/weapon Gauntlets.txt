@@ -16,7 +16,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Brass Knuckles|image=Brass Knuckles.png|desc=[[Boss Cross]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Breath of Sunlight|image=Breath of Sunlight.png|desc=[[Indomitable Daylight Kor]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Bug Fixers|image=Bug Fixers.png|desc=[[Love Bug Val]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Cassidy's Oven Mitts|image=Cassidy's Oven Mitts.png|desc=[[Autumn Esports 2024 Pack]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Cassidy's Oven Mitts|image=Cassidy's Oven Mitts.png|desc=[[Fall Esports 2024 Pack]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Chainbreakers|image=Chainbreakers.png|desc=[[Cthu'shang]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Chorh-Gom Cuffs|image=Chorh-Gom Cuffs.png|desc=[[Tai Lung]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Clamshell Grasp|image=Clamshell Grasp.png|cost={{Coin|mammoth|60}}|costheight=70px}}

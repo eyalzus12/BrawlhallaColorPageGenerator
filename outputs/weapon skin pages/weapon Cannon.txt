@@ -26,14 +26,14 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Door-Buster|image=Door-Buster.png|desc=[[Task Force Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dragon's Breath|image=Dragon's Breath (Titan).png|desc=[[Titan]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dragon's Fire|image=Dragon's Fire.png|desc={{BPReward|Season One|free|Tier 6}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Dwarven-Forged Cannon|image=Dwarven-Forged Cannon.png|desc={{BPReward|Season Seven|gold|Tier 15}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Dwarven-Forged Cannon|displayname={{small|Dwarven-Forged Cannon}}|image=Dwarven-Forged Cannon.png|desc={{BPReward|Season Seven|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Electro Overdrive|image=Electro Overdrive.png|desc=[[Cybernetic Beat Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ensnaring Boom|image=Ensnaring Boom.png|desc=[[Beastmaster Sidra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Eternal Siege|image=Eternal Siege.png|desc=[[Soulbound Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fire Hose|image=Fire Hose.png|desc=[[Firefighter Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Frosty's Fury|image=Frosty's Fury.png|desc=[[Festive Yeti Onyx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fuel Rod Cannon|image=Fuel Rod Cannon.png|desc=[[The Arbiter]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Gjallarhorn|image=Gjallarhorn.png|cost={{Coin|mammoth|80}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Gjallarhorn|image=Gjallarhorn.png|desc=[[Store Bundles|Bundle]] exclusive|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Cannon|image=Goldforged Cannon.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=170|name=Grilled Smoker|image=Grilled Smoker.png|desc=[[Brawl Dad Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Cannon|image=Hardlight Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -50,13 +50,13 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=MPL Rocket Launcher|image=MPL Rocket Launcher.png|desc=[[Kay Vess]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Neo City Cannon|image=Neo City Cannon.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Mandible|image=Nightmare Mandible.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Ninpō: Unsealed Cannon|image=Ninpō Unsealed Cannon.png|desc={{BPReward|Season Twelve|free|Future Tier 1}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Ninpō: Unsealed Cannon|displayname={{small|Ninpō: Unsealed Cannon}}|image=Ninpō Unsealed Cannon.png|desc={{BPReward|Season Twelve|free|Future Tier 1}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Optimized Odzutsu|image=Optimized Odzutsu.png|desc=[[Wanderer Seven]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Orchard Barrel|image=Orchard Barrel.png|desc=[[Autumn Championship 2020 Pack]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Orchard Barrel|image=Orchard Barrel.png|desc=[[Fall Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Plasma Cannon|image=Plasma Cannon.png|desc=[[Project-0NYX]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Power Flash|image=Power Flash.png|desc=[[Terror-Watt Xull]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Pyrois Blast|image=Pyrois Blast.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Quetzalcoatl Tlequiquiztli|image=Quetzalcoatl Tlequiquiztli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Quetzalcoatl Tlequiquiztli|displayname={{small|Quetzalcoatl Tlequiquiztli}}|image=Quetzalcoatl Tlequiquiztli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Railgun|image=Railgun.png|desc=[[Section Zero Isaiah]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Revolver Cannon|image=Revolver Cannon.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=RGB Cannon|image=RGB Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -74,7 +74,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=The Nautilus|image=The Nautilus.png|desc=[[Atlantean Sidra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Torchbringer|image=Torchbringer.png|desc=[[Zhulong Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Toybox Cannon|image=Toybox Cannon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Valiant Armament Cannon|image=Valiant Armament Cannon.png|desc={{BPReward|Season Ten|gold|Tier 13}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Valiant Armament Cannon|displayname={{small|Valiant Armament Cannon}}|image=Valiant Armament Cannon.png|desc={{BPReward|Season Ten|gold|Tier 13}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Watery Grave|image=Watery Grave.png|desc=[[Kraken Sidra]]|descheight=55px}}
 {{itembox/bottom}}
 

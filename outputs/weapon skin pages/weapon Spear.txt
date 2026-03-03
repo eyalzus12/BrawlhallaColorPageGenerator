@@ -37,7 +37,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Elsbeth's Beskar Spear|image=Elsbeth's Beskar Spear.png|desc=[[The Mandalorian]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Enchanting Ascent|image=Enchanting Ascent.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Enlightened Song|image=Enlightened Song.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=210|height=220|name=Equinox Spire|image=Equinox Spire.png|desc=[[Autumn Championship 2022 Pack]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Equinox Spire|image=Equinox Spire.png|desc=[[Fall Championship 2022 Pack]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Fangwild Havoc|image=Fangwild Havoc.png|desc=[[Rogue Queen Arcadia]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Fangwild Spine|image=Fangwild Spine.png|desc=[[Thornwood Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Fellthorne|image=Fellthorne.png|desc=[[Fallen Brynn]]|descheight=55px}}
