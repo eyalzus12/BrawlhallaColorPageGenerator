@@ -2,169 +2,169 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 
 ==Gauntlets Skins==
 {{itembox/top}}
-{{itembox|width=200|height=170|name=Apocalypse Hands|image=Apocalypse Hands.png|desc=[[Hellboy]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Apothecary Mitts|image=Apothecary Mitts.png|desc=[[Plague Knight]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Gauntlets|image=Asgardian Gauntlets.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Automatons|image=Automatons.png|desc=[[Hardsuit Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Gauntlets|image=Aztlán Gauntlets.png|desc={{BPReward|Season Eleven|gold|Tier 45}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Beach Bash|image=Beach Bash.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
-{{itembox|width=200|height=170|name=Bear Arms|image=Bear Arms.png|desc=[[Raydvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Beta Thrusters|image=Beta Thrusters.png|desc=[[Project-0NYX]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Betrayal & Power|image=Betrayal & Power.png|desc=[[Octavius Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Binding Chains|image=Binding Chains.png|desc=[[Krampus Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Boomers|image=Boomers.png|desc=[[Nightcap Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Brass Knuckles|image=Brass Knuckles.png|desc=[[Boss Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Breath of Sunlight|image=Breath of Sunlight.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Bug Fixers|image=Bug Fixers.png|desc=[[Love Bug Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cassidy's Oven Mitts|image=Cassidy's Oven Mitts.png|desc=[[Autumn Esports 2024 Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Chainbreakers|image=Chainbreakers.png|desc=[[Cthu'shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Chorh-Gom Cuffs|image=Chorh-Gom Cuffs.png|desc=[[Tai Lung]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Clamshell Grasp|image=Clamshell Grasp.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Coco-knuckles|image=Coco-knuckles.png|desc=[[Dog Days Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Collision Rocket Fists|image=Collision Rocket Fists.png|desc=[[Termidex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Corellian Flight Gloves|image=Corellian Flight Gloves.png|desc=[[Han Solo]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Crystal Clutch|image=Crystal Clutch.png|desc={{BPReward|Season Three|gold|Tier 69|small}}<br>{{BPReward|Season Three Classic|free|Tier 66|small}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Ctrl & Delete|image=Ctrl & Delete.png|desc=[[Sourcecode Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cuffed Regalia|image=Cuffed Regalia.png|desc=[[Gentleman Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Gauntlets|image=Cyber Myk Gauntlets.png|desc={{BPReward|Season Eight|gold|Tier 33}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Darkest Hour|image=Darkest Hour.png|desc=[[Archfiend Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Darkheart's Grasp|image=Darkheart's Grasp.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Dead or Alive|image=Dead or Alive.png|desc=[[Star Merc Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Deadly Shoku|image=Deadly Shoku.png|desc=[[Kunoichi Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Devil Jin's Gauntlets|image=Devil Jin's Gauntlets.png|desc=[[Devil Jin]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Devil's Maw|image=Devil's Maw.png|desc=[[Infernal Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Diamond Fists|image=Diamond Fists.png|desc=[[Diamondhead]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Disc Beatdown|image=Disc Beatdown.png|desc=[[Beachside Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Divine Hands|image=Divine Hands.png|desc=[[Celestial Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dogs of War|image=Dogs of War.png|desc=[[Iron Legion Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dragonheart Gauntlets|image=Dragonheart Gauntlets.png|desc=[[Dragonslayer Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dueling Dukes|image=Dueling Dukes.png|desc=[[Sir Rayelot]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Gauntlets|image=Dwarven-Forged Gauntlets.png|desc={{BPReward|Season Seven|gold|Tier 57}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Earth Gauntlets|image=Earth Gauntlets.png|desc=[[Aang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Earthly Answers|image=Earthly Answers.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Echidna|image=Echidna.png|desc=[[Chimera Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Eye of the Oni|image=Eye of the Oni.png|desc={{BPReward|Season One|gold|Tier 65}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Fiendish Fists|image=Fiendish Fists.png|desc=[[Armored Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fighting Spirit Gloves|image=Fighting Spirit Gloves.png|desc=[[Ken]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fisticuff-links|image=Fisticuff-links.png|desc=[[Talk of the Town Tezca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fisticuffs|image=Fisticuffs.png|desc=[[Gentleman Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fists of the Constellations|image=Fists of the Constellations.png|desc=[[Wu Shang Kong]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Flames of the Furnace|image=Flames of the Furnace.png|desc=[[Shadowlord Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Flashing Knuckles|image=Flashing Knuckles.png|desc=[[Luke]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Footbrawlers|image=Footbrawlers.png|desc=[[Brawldog Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Frosty Revenge|image=Frosty Revenge.png|desc=[[Diamond Jack Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fu Fists|image=Fu Fists.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Furinkazan Gloves|image=Furinkazan Gloves.png|desc=[[Ryu]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Garnet's Gauntlets|image=Garnet's Gauntlets.png|desc=[[Garnet]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gauntlets of Dexterity|image=Gauntlets of Dexterity.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gauntlets of Mercy|image=Gauntlets of Mercy.png|desc={{BPReward|Season Nine|free|Tier 78}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Geocrashers|image=Geocrashers.png|desc=[[Fangwild Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ghoulish Clutches|image=Ghoulish Clutches.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Gloom & Doom|image=Gloom & Doom.png|desc=[[Darkheart Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=God Tyr|image=God Tyr.png|desc=[[Fenrir Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Golden Force|image=Golden Force.png|desc=[[Guardian Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Goldforged Gauntlets|image=Goldforged Gauntlets.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
-{{itembox|width=200|height=170|name=Grasping Boughs|image=Grasping Boughs.png|desc=[[Druid Mage Chel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ground & Pound|image=Ground & Pound.png|desc=[[Prizefighter Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=H2-KO|image=H2-KO.png|desc=[[Water Wars Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Halo Breakers|image=Halo Breakers.png|desc=[[Darkheart Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hand Wraps|image=Hand Wraps.png|desc=[[Po]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hands of Fate|image=Hands of Fate.png|desc=[[Djinn Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hands of the Cosmos|image=Hands of the Cosmos.png|desc=[[Infinite Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hardlight Gauntlets|image=Hardlight Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Haunting Terrors|image=Haunting Terrors.png|desc=[[Obake Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Heaven's Touch|image=Heaven's Touch.png|desc=[[The Korinthian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Heavy Metal Fists|image=Heavy Metal Fists.png|desc=[[Super Metal Rayman]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Helios' Gems|image=Helios' Gems.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Holly Jolly (Santa Wu Shang)|displayname=Holly Jolly|image=Holly Jolly (Santa Wu Shang).png|desc=[[Santa Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Horror & Fright|image=Horror & Fright.png|desc=[[Petra Reanimated]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hot Lava (Weapon Skin)|displayname=Hot Lava|image=Hot Lava.png|desc=[[Molten Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Humble Hands|image=Humble Hands.png|desc=[[Seeker Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Idle Hands|image=Idle Hands.png|desc=[[Devil Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Infinite & Absolute|image=Infinite & Absolute.png|desc={{BPReward|Season Five|gold|Tier 25}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Jaguar Claws|image=Jaguar Claws.png|desc=[[Daimio]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Jaguar Paws|image=Jaguar Paws.png|desc=[[Ocelotl Tezca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Jake Fists|image=Jake Fists.png|desc=[[Jake]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Jawbreakers|image=Jawbreakers.png|desc=[[Cho-Kor-late]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Judgment Claws|image=Judgment Claws.png|desc=[[Termin-gator Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Kah-Rah-Tay Gloves|image=Kah-Rah-Tay Gloves.png|desc=[[SpongeBob SquarePants]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lion's Reign|image=Lion's Reign.png|desc={{BPReward|Season Four|free|Tier 6}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Love's Embrace|image=Love's Embrace.png|desc=[[Secret Admirer Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Malady Wear|image=Malady Wear.png|desc=[[Corrupted Blood Tezca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Martial Fists|image=Martial Fists.png|desc=[[Warrior Spirit Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Mudras|image=Mudras.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Nightlapse|image=Nightlapse.png|desc={{BPReward|Season Two|gold|Tier 50}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Nightmare Knuckles|image=Nightmare Knuckles.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Kotegakure|image=Ninpō Kotegakure.png|desc=[[Modern Monomi Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Gauntlets|image=Ninpō Unsealed Gauntlets.png|desc=[[Sengoku Rappa Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Nothing Up My Sleeve|image=Nothing Up My Sleeve.png|desc=[[Aces High Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Oath of Service|image=Oath of Service.png|desc=[[Urban Guardian Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Paci-fists|image=Paci-fists.png|desc=[[Ranno Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Password Crackers|image=Password Crackers.png|desc=[[Street Sovereign Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Penguin's Pummel|image=Penguin's Pummel.png|desc=[[Festive Yeti Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Phantom Fists|image=Phantom Fists.png|desc=[[Outerworld Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pizza Punchers|image=Pizza Punchers.png|desc=[[Michelangelo]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pledge & Pride|image=Pledge & Pride.png|desc=[[Honor Bound Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pocket Aces|image=Pocket Aces.png|desc=[[Double Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Primordial Punch-Out|image=Primordial Punch-Out.png|desc=[[Lost World Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Protector's Embrace|image=Protector's Embrace.png|desc=[[Tuxedo Bandit Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Psychlops|image=Psychlops.png|desc=[[Raymesis]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Punch-a-tron 5000s|image=Punch-a-tron 5000s.png|desc=[[Kor in Space]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Queen's Enforcers|image=Queen's Enforcers.png|desc=[[Usurper Chel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Raging Fists|image=Raging Fists.png|desc=[[Akuma]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Rapture|image=Rapture.png|desc=[[Archangel Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Regulus|image=Regulus.png|desc=[[Leonidas Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Republic General's Gauntlets|image=Republic General's Gauntlets.png|desc=[[Obi-Wan Kenobi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=RGB Gauntlets|image=RGB Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Rib Ticklers|image=Rib Ticklers.png|desc=[[Dunewalker Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Riddle of Strength|image=Riddle of Strength.png|desc=[[Wu Shang the Breaker]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Roar & Pounce|image=Roar & Pounce.png|desc=[[Chel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Saints & Souls|image=Saints & Souls.png|desc=[[Ray of the Dead]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sinister Strike|image=Sinister Strike.png|desc=[[Mythic Hero Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Skyforged Gauntlets|image=Skyforged Gauntlets.png|cost={{Coin|glory|5000}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Sparring Gloves|image=Sparring Gloves.png|desc=[[Chun-Li]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Special Forces|image=Special Forces.png|desc=[[Commando Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Spine-Chilling Fists|image=Spine-Chilling Fists.png|desc={{BPReward|Season Six|free|Tier 6}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Spirit Breakers|image=Spirit Breakers.png|desc=[[Soulbound Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Stellar Nova|image=Stellar Nova.png|desc=[[Metadev Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Steven's Shields|image=Steven's Shields.png|desc=[[Stevonnie]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Synthoceps|image=Synthoceps.png|desc=[[Titan]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tetramand Beatdown|image=Tetramand Beatdown.png|desc=[[Four Arms]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Claymores|image=The Claymores.png|desc=[[Staff Sgt. Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Heavyweights|image=The Heavyweights.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=The Mittens|image=The Mittens.png|desc=[[Snowman Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Playback|image=The Playback.png|desc=[[Future Wave Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Punchlines|image=The Punchlines.png|desc=[[Harlequin Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Sun, The Moon|image=The Sun, The Moon.png|desc=[[Ascended Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Taggers|image=The Taggers.png|desc=[[All City Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Toybox Gauntlets|image=Toybox Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Treble Makers|image=Treble Makers.png|desc=[[Mad Dog Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tyr's Fists|image=Tyr's Fists.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Gauntlets|image=Valiant Armament Gauntlets.png|desc={{BPReward|Season Ten|free|Tier 78}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Vampiric Embrace|image=Vampiric Embrace.png|desc=[[Immortal Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wave Breakers|image=Wave Breakers.png|desc=[[Riptide Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Winter's Grasp|image=Winter's Grasp.png|desc=[[North Wind Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wipeouts|image=Wipeouts.png|desc=[[Black Diamond Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wooden Knuckles|image=Wooden Knuckles.png|desc=[[Nutcracker Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wrecking Crew|image=Wrecking Crew.png|desc=[[Kor Wrecking LLC]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Yoga Fists|image=Yoga Fists.png|desc=[[Dhalsim]]|descheight=55px}}
+{{itembox|width=190|height=170|name=Apocalypse Hands|image=Apocalypse Hands.png|desc=[[Hellboy]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Apothecary Mitts|image=Apothecary Mitts.png|desc=[[Plague Knight]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Asgardian Gauntlets|image=Asgardian Gauntlets.png|desc=[[Collectors Pack]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Automatons|image=Automatons.png|desc=[[Hardsuit Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Aztlán Gauntlets|image=Aztlán Gauntlets.png|desc={{BPReward|Season Eleven|gold|Tier 45}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Beach Bash|image=Beach Bash.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=70px}}
+{{itembox|width=190|height=170|name=Bear Arms|image=Bear Arms.png|desc=[[Raydvar]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Beta Thrusters|image=Beta Thrusters.png|desc=[[Project-0NYX]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Betrayal & Power|image=Betrayal & Power.png|desc=[[Octavius Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Binding Chains|image=Binding Chains.png|desc=[[Krampus Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Boomers|image=Boomers.png|desc=[[Nightcap Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Brass Knuckles|image=Brass Knuckles.png|desc=[[Boss Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Breath of Sunlight|image=Breath of Sunlight.png|desc=[[Indomitable Daylight Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Bug Fixers|image=Bug Fixers.png|desc=[[Love Bug Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Cassidy's Oven Mitts|image=Cassidy's Oven Mitts.png|desc=[[Autumn Esports 2024 Pack]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Chainbreakers|image=Chainbreakers.png|desc=[[Cthu'shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Chorh-Gom Cuffs|image=Chorh-Gom Cuffs.png|desc=[[Tai Lung]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Clamshell Grasp|image=Clamshell Grasp.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Coco-knuckles|image=Coco-knuckles.png|desc=[[Dog Days Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Collision Rocket Fists|image=Collision Rocket Fists.png|desc=[[Termidex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Corellian Flight Gloves|image=Corellian Flight Gloves.png|desc=[[Han Solo]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Crystal Clutch|image=Crystal Clutch.png|desc={{BPReward|Season Three|gold|Tier 69|small}}<br>{{BPReward|Season Three Classic|free|Tier 66|small}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Ctrl & Delete|image=Ctrl & Delete.png|desc=[[Sourcecode Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Cuffed Regalia|image=Cuffed Regalia.png|desc=[[Gentleman Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Cyber Myk Gauntlets|image=Cyber Myk Gauntlets.png|desc={{BPReward|Season Eight|gold|Tier 33}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Darkest Hour|image=Darkest Hour.png|desc=[[Archfiend Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Darkheart's Grasp|image=Darkheart's Grasp.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Dead or Alive|image=Dead or Alive.png|desc=[[Star Merc Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Deadly Shoku|image=Deadly Shoku.png|desc=[[Kunoichi Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Devil Jin's Gauntlets|image=Devil Jin's Gauntlets.png|desc=[[Devil Jin]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Devil's Maw|image=Devil's Maw.png|desc=[[Infernal Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Diamond Fists|image=Diamond Fists.png|desc=[[Diamondhead]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Disc Beatdown|image=Disc Beatdown.png|desc=[[Beachside Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Divine Hands|image=Divine Hands.png|desc=[[Celestial Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dogs of War|image=Dogs of War.png|desc=[[Iron Legion Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dragonheart Gauntlets|image=Dragonheart Gauntlets.png|desc=[[Dragonslayer Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dueling Dukes|image=Dueling Dukes.png|desc=[[Sir Rayelot]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dwarven-Forged Gauntlets|image=Dwarven-Forged Gauntlets.png|desc={{BPReward|Season Seven|gold|Tier 57}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Earth Gauntlets|image=Earth Gauntlets.png|desc=[[Aang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Earthly Answers|image=Earthly Answers.png|desc=[[Wu Shang, the Seeker]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Echidna|image=Echidna.png|desc=[[Chimera Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Eye of the Oni|image=Eye of the Oni.png|desc={{BPReward|Season One|gold|Tier 65}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Fiendish Fists|image=Fiendish Fists.png|desc=[[Armored Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Fighting Spirit Gloves|image=Fighting Spirit Gloves.png|desc=[[Ken]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Fisticuff-links|image=Fisticuff-links.png|desc=[[Talk of the Town Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Fisticuffs|image=Fisticuffs.png|desc=[[Gentleman Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Fists of the Constellations|image=Fists of the Constellations.png|desc=[[Wu Shang Kong]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Flames of the Furnace|image=Flames of the Furnace.png|desc=[[Shadowlord Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Flashing Knuckles|image=Flashing Knuckles.png|desc=[[Luke]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Footbrawlers|image=Footbrawlers.png|desc=[[Brawldog Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Frosty Revenge|image=Frosty Revenge.png|desc=[[Diamond Jack Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Fu Fists|image=Fu Fists.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Furinkazan Gloves|image=Furinkazan Gloves.png|desc=[[Ryu]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Garnet's Gauntlets|image=Garnet's Gauntlets.png|desc=[[Garnet]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Gauntlets of Dexterity|image=Gauntlets of Dexterity.png|desc=[[Fortune Hunter Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Gauntlets of Mercy|image=Gauntlets of Mercy.png|desc={{BPReward|Season Nine|free|Tier 78}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Geocrashers|image=Geocrashers.png|desc=[[Fangwild Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Ghoulish Clutches|image=Ghoulish Clutches.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Gloom & Doom|image=Gloom & Doom.png|desc=[[Darkheart Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=God Tyr|image=God Tyr.png|desc=[[Fenrir Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Golden Force|image=Golden Force.png|desc=[[Guardian Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Goldforged Gauntlets|image=Goldforged Gauntlets.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=70px}}
+{{itembox|width=190|height=170|name=Grasping Boughs|image=Grasping Boughs.png|desc=[[Druid Mage Chel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Ground & Pound|image=Ground & Pound.png|desc=[[Prizefighter Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=H2-KO|image=H2-KO.png|desc=[[Water Wars Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Halo Breakers|image=Halo Breakers.png|desc=[[Darkheart Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Hand Wraps|image=Hand Wraps.png|desc=[[Po]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Hands of Fate|image=Hands of Fate.png|desc=[[Djinn Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Hands of the Cosmos|image=Hands of the Cosmos.png|desc=[[Infinite Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Hardlight Gauntlets|image=Hardlight Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Haunting Terrors|image=Haunting Terrors.png|desc=[[Obake Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Heaven's Touch|image=Heaven's Touch.png|desc=[[The Korinthian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Heavy Metal Fists|image=Heavy Metal Fists.png|desc=[[Super Metal Rayman]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Helios' Gems|image=Helios' Gems.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Holly Jolly (Santa Wu Shang)|displayname=Holly Jolly|image=Holly Jolly (Santa Wu Shang).png|desc=[[Santa Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Horror & Fright|image=Horror & Fright.png|desc=[[Petra Reanimated]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Hot Lava (Weapon Skin)|displayname=Hot Lava|image=Hot Lava.png|desc=[[Molten Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Humble Hands|image=Humble Hands.png|desc=[[Seeker Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Idle Hands|image=Idle Hands.png|desc=[[Devil Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Infinite & Absolute|image=Infinite & Absolute.png|desc={{BPReward|Season Five|gold|Tier 25}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Jaguar Claws|image=Jaguar Claws.png|desc=[[Daimio]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Jaguar Paws|image=Jaguar Paws.png|desc=[[Ocelotl Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Jake Fists|image=Jake Fists.png|desc=[[Jake]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Jawbreakers|image=Jawbreakers.png|desc=[[Cho-Kor-late]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Judgment Claws|image=Judgment Claws.png|desc=[[Termin-gator Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Kah-Rah-Tay Gloves|image=Kah-Rah-Tay Gloves.png|desc=[[SpongeBob SquarePants]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Lion's Reign|image=Lion's Reign.png|desc={{BPReward|Season Four|free|Tier 6}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Love's Embrace|image=Love's Embrace.png|desc=[[Secret Admirer Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Malady Wear|image=Malady Wear.png|desc=[[Corrupted Blood Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Martial Fists|image=Martial Fists.png|desc=[[Warrior Spirit Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Mudras|image=Mudras.png|desc=[[Perfect Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Nightlapse|image=Nightlapse.png|desc={{BPReward|Season Two|gold|Tier 50}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Nightmare Knuckles|image=Nightmare Knuckles.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Ninpō: Kotegakure|image=Ninpō Kotegakure.png|desc=[[Modern Monomi Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Ninpō: Unsealed Gauntlets|image=Ninpō Unsealed Gauntlets.png|desc=[[Sengoku Rappa Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Nothing Up My Sleeve|image=Nothing Up My Sleeve.png|desc=[[Aces High Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Oath of Service|image=Oath of Service.png|desc=[[Urban Guardian Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Paci-fists|image=Paci-fists.png|desc=[[Ranno Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Password Crackers|image=Password Crackers.png|desc=[[Street Sovereign Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Penguin's Pummel|image=Penguin's Pummel.png|desc=[[Festive Yeti Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Phantom Fists|image=Phantom Fists.png|desc=[[Outerworld Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Pizza Punchers|image=Pizza Punchers.png|desc=[[Michelangelo]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Pledge & Pride|image=Pledge & Pride.png|desc=[[Honor Bound Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Pocket Aces|image=Pocket Aces.png|desc=[[Double Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Primordial Punch-Out|image=Primordial Punch-Out.png|desc=[[Lost World Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Protector's Embrace|image=Protector's Embrace.png|desc=[[Tuxedo Bandit Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Psychlops|image=Psychlops.png|desc=[[Raymesis]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Punch-a-tron 5000s|image=Punch-a-tron 5000s.png|desc=[[Kor in Space]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Queen's Enforcers|image=Queen's Enforcers.png|desc=[[Usurper Chel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Raging Fists|image=Raging Fists.png|desc=[[Akuma]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Rapture|image=Rapture.png|desc=[[Archangel Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Regulus|image=Regulus.png|desc=[[Leonidas Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Republic General's Gauntlets|image=Republic General's Gauntlets.png|desc=[[Obi-Wan Kenobi]]|descheight=70px}}
+{{itembox|width=190|height=170|name=RGB Gauntlets|image=RGB Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Rib Ticklers|image=Rib Ticklers.png|desc=[[Dunewalker Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Riddle of Strength|image=Riddle of Strength.png|desc=[[Wu Shang the Breaker]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Roar & Pounce|image=Roar & Pounce.png|desc=[[Chel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Saints & Souls|image=Saints & Souls.png|desc=[[Ray of the Dead]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Sinister Strike|image=Sinister Strike.png|desc=[[Mythic Hero Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Skyforged Gauntlets|image=Skyforged Gauntlets.png|cost={{Coin|glory|5000}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Sparring Gloves|image=Sparring Gloves.png|desc=[[Chun-Li]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Special Forces|image=Special Forces.png|desc=[[Commando Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Spine-Chilling Fists|image=Spine-Chilling Fists.png|desc={{BPReward|Season Six|free|Tier 6}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Spirit Breakers|image=Spirit Breakers.png|desc=[[Soulbound Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Stellar Nova|image=Stellar Nova.png|desc=[[Metadev Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Steven's Shields|image=Steven's Shields.png|desc=[[Stevonnie]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Synthoceps|image=Synthoceps.png|desc=[[Titan]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Tetramand Beatdown|image=Tetramand Beatdown.png|desc=[[Four Arms]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Claymores|image=The Claymores.png|desc=[[Staff Sgt. Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Heavyweights|image=The Heavyweights.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=The Mittens|image=The Mittens.png|desc=[[Snowman Kor]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Playback|image=The Playback.png|desc=[[Future Wave Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Punchlines|image=The Punchlines.png|desc=[[Harlequin Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Sun, The Moon|image=The Sun, The Moon.png|desc=[[Ascended Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Taggers|image=The Taggers.png|desc=[[All City Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Toybox Gauntlets|image=Toybox Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=70px}}
+{{itembox|width=190|height=170|name=Treble Makers|image=Treble Makers.png|desc=[[Mad Dog Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Tyr's Fists|image=Tyr's Fists.png|desc=[[The Gifts of Asgard]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Valiant Armament Gauntlets|image=Valiant Armament Gauntlets.png|desc={{BPReward|Season Ten|free|Tier 78}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Vampiric Embrace|image=Vampiric Embrace.png|desc=[[Immortal Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Wave Breakers|image=Wave Breakers.png|desc=[[Riptide Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Winter's Grasp|image=Winter's Grasp.png|desc=[[North Wind Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Wipeouts|image=Wipeouts.png|desc=[[Black Diamond Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Wooden Knuckles|image=Wooden Knuckles.png|desc=[[Nutcracker Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Wrecking Crew|image=Wrecking Crew.png|desc=[[Kor Wrecking LLC]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Yoga Fists|image=Yoga Fists.png|desc=[[Dhalsim]]|descheight=70px}}
 {{itembox/bottom}}
 
 ==Default Gauntlets Skins==
 These Gauntlets skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
 
 {{itembox/top}}
-{{itembox|width=200|height=170|name=Brick and Mortar|image=Brick and Mortar.png|desc=[[Onyx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Clawholds|image=Clawholds.png|desc=[[Tezca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dawn Bringers|image=Dawn Bringers.png|desc=[[Zariel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gauntlets of Belzar|image=Gauntlets of Belzar.png|desc=[[Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Iron Shackles|image=Iron Shackles.png|desc=[[Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Knockouts (Weapon Skin)|displayname=Knockouts|image=Knockouts.png|desc=[[Petra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Rabbid Boppers|image=Rabbid Boppers.png|desc=[[Rayman]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Resonators|image=Resonators.png|desc=[[Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Rippers|image=Rippers.png|desc=[[Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sleight of Hand|image=Sleight of Hand.png|desc=[[Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Boulders|image=The Boulders.png|desc=[[Kor]]|descheight=55px}}
+{{itembox|width=190|height=170|name=Brick and Mortar|image=Brick and Mortar.png|desc=[[Onyx]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Clawholds|image=Clawholds.png|desc=[[Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Dawn Bringers|image=Dawn Bringers.png|desc=[[Zariel]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Gauntlets of Belzar|image=Gauntlets of Belzar.png|desc=[[Cross]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Iron Shackles|image=Iron Shackles.png|desc=[[Wu Shang]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Knockouts (Weapon Skin)|displayname=Knockouts|image=Knockouts.png|desc=[[Petra]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Rabbid Boppers|image=Rabbid Boppers.png|desc=[[Rayman]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Resonators|image=Resonators.png|desc=[[Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Rippers|image=Rippers.png|desc=[[Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Sleight of Hand|image=Sleight of Hand.png|desc=[[Caspian]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Boulders|image=The Boulders.png|desc=[[Kor]]|descheight=70px}}
 {{itembox/bottom}}

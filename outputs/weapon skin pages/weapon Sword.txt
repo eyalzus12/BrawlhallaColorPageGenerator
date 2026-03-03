@@ -2,208 +2,208 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 
 ==Sword Skins==
 {{itembox/top}}
-{{itembox|width=200|height=170|name=Ahsoka's Lightsaber|image=Ahsoka's Lightsaber.png|desc=[[Ahsoka Tano]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Alucard Sword|image=Alucard Sword.png|desc=[[Alucard]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Anakin's Lightsaber|image=Anakin's Lightsaber.png|desc=[[Anakin Skywalker]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ancestor's Flame|image=Ancestor's Flame.png|desc=[[Ojiisan Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Apex Keysword|image=Apex Keysword.png|desc=SteelSeries 2022 reward|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Lightsaber|image=Asgardian Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Sword|image=Asgardian Sword.png|desc=[[Asgard Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Assassin's Breath|image=Assassin's Breath.png|desc=[[Lynx Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Astroblade|image=Astroblade.png|desc={{BPReward|Season Five|gold|Tier 15}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Attitude Adjustment|image=Attitude Adjustment.png|desc=[[John Cena]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Sword|image=Aztlán Sword.png|desc=[[Master of Night Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Babe|image=Babe.png|desc=[[Queen Beat Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Bear Blade|image=Bear Blade.png|desc=[[Bear'dvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Benevolent Light|image=Benevolent Light.png|desc=[[Luminous Paladin Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Betrayal|image=Betrayal.png|desc=[[Mythic Hero Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Big ol' Knife|image=Big ol' Knife.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Bitrate Blade|image=Bitrate Blade.png|desc=[[Future Wave Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blade of Brutus|image=Blade of Brutus.png|desc=[[Armor of Brutus Ezio]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blade of Shadows|image=Blade of Shadows.png|desc=[[Yakuza Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blazing Light Sword|image=Blazing Light Sword.png|desc=[[Mecha Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blue Blossom Blade|image=Blue Blossom Blade.png|desc=[[Hwarang Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Bokken|image=Bokken.png|desc=[[Oendan Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Catlass|image=Catlass.png|desc=[[Swashbuckler Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Celebratory Sabre|image=Celebratory Sabre.png|desc=[[Maître d'Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Chitinous Blade|image=Chitinous Blade.png|desc=[[Apex Predator Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Claideamh|image=Claideamh.png|desc=[[Kern Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Connie's Sword|image=Connie's Sword.png|desc=[[Stevonnie]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Crimson Cutlass|image=Crimson Cutlass.png|desc=[[Pirate Queen Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Crowbar|image=Crowbar.png|desc=[[Negan]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Crypto Blade|image=Crypto Blade.png|desc=[[Street Samurai Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Curved Beam|image=Curved Beam.png|desc=[[Hardsuit Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Switchblade|image=Cyber Myk Switchblade.png|desc={{BPReward|Season Eight|gold|Tier 73}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Dark Elf Flamberge|image=Dark Elf Flamberge.png|cost={{Coin|mammoth|40}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Darkheart Blade|image=Darkheart Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Darth Maul's Split Lightsaber|image=Darth Maul's Split Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Darth Vader's Lightsaber|image=Darth Vader's Lightsaber.png|desc=[[Darth Vader]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Demon Art: Kurayami-ken|image=Demon Art Kurayami-ken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Demon's Blade|image=Demon's Blade.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Devil's Hand|image=Devil's Hand.png|desc={{BPReward|Season One|gold|Tier 15}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Diamond Cutter|image=Diamond Cutter.png|desc=[[Cat Burglar Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Double-Action|image=Double-Action.png|desc=[[Badlands Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dragonsplinter|image=Dragonsplinter.png|desc=[[Warlord Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Driftwood Chopper|image=Driftwood Chopper.png|desc=[[Castaway Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dueling Broadsword|image=Dueling Broadsword.png|desc=[[Zuko]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Duskblade|image=Duskblade.png|desc=[[Shinigami Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Sword|image=Dwarven-Forged Sword.png|desc={{BPReward|Season Seven|gold|Tier 81}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Dynasty Ender|image=Dynasty Ender.png|desc=[[Shogun Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Edge of Twilight|image=Edge of Twilight.png|desc=[[Metadev Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Emperor's Claim|image=Emperor's Claim.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Energy Sword|image=Energy Sword.png|desc=[[The Arbiter]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Eternal Flame|image=Eternal Flame.png|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Falling Blossoms|image=Falling Blossoms.png|desc=[[Demon Bride Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Finn Sword|image=Finn Sword.png|desc=[[Finn]]|descheight=55px}}
-{{itembox|width=200|height=170|name=For Royalty|image=For Royalty.png|desc=[[King Knight]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Foxfire|image=Foxfire.png|desc=[[Kitsune Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Francesca|image=Francesca.png|desc=[[Xavier Woods]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Frost Brandr|image=Frost Brandr.png|desc={{BPReward|Season Three|gold|Tier 29}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Fusioncutter|image=Fusioncutter.png|desc=[[Chewbacca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gift of Sojobo|image=Gift of Sojobo.png|desc=[[Tengu Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gilded Lily|image=Gilded Lily.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Glorious Deco|image=Glorious Deco.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Golden Fang|image=Golden Fang.png|desc=[[Lion Rampant Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Golden Lion Fang|image=Golden Lion Fang.png|desc=[[The Honorable Sir Roland, Esq.]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Golden Saber|image=Golden Saber.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Goldforged Sword|image=Goldforged Sword.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
-{{itembox|width=200|height=170|name=Guardian's Edge|image=Guardian's Edge.png|desc=[[Komainu Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hardlight Sword|image=Hardlight Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Hattori Hanzo Sword|image=Hattori Hanzo Sword.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Haunted Incisor|image=Haunted Incisor.png|desc=[[Werewolf Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Heart Flutter|image=Heart Flutter.png|desc=[[Love Bug Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Heavy Chopper|image=Heavy Chopper.png|desc=[[Orc Raider Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hidden Dragon|image=Hidden Dragon.png|desc=[[Sidewinder Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hippokampos|image=Hippokampos.png|desc=[[Merrow Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hussar's Prize|image=Hussar's Prize.png|desc=[[Nutcracker Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ice Slicer|image=Ice Slicer.png|desc=[[Snowdrift Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Imperial Decree|image=Imperial Decree.png|desc=[[Emperor Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Joint Pain|image=Joint Pain.png|desc=[[Skel-asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Jolly Ripper|image=Jolly Ripper.png|desc=[[Sky Scourge Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Just Dead|image=Just Dead.png|desc=[[Star Merc Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Kingsblade|image=Kingsblade.png|desc=[[Warchief Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Kraken's Key|image=Kraken's Key.png|desc=[[Poseidon Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Kukri Carver|image=Kukri Carver.png|desc=[[Beastmaster Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Laughing Stock|image=Laughing Stock.png|desc=[[Death Jester Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Levi's Snap Blade|image=Levi's Snap Blade.png|desc=[[Levi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lionclaw|image=Lionclaw.png|desc=[[Lionheart Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lookin' Sharp|image=Lookin' Sharp.png|desc=[[New School Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Love Letter Opener|image=Love Letter Opener.png|desc=[[Classy Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lucky Magi ☆ Sparkling Sword|image=Lucky Magi ☆ Sparkling Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Maggie's Machete|image=Maggie's Machete.png|desc=[[Maggie]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Marrow|image=Marrow.png|desc=[[Dullahan Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Messatsu Blade|image=Messatsu Blade.png|desc=[[Akuma]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Michonne's Katana|image=Michonne's Katana.png|desc=[[Michonne]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Mikimoto Katana|image=Mikimoto Katana.png|desc=[[Storm Shadow]]|descheight=55px}}
-{{itembox|width=200|height=170|name=MK Katana|image=MK Katana.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Mocking Blade|image=Mocking Blade.png|desc=[[Dark Harlequin Priya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Monofilament Blade|image=Monofilament Blade.png|desc=[[Cutting Edge Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Moonbeam|image=Moonbeam.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Moonbeam Blade|image=Moonbeam Blade.png|desc=[[Metadev Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Moonbeam Blade (Chakora Priya)|displayname=Moonbeam Blade|image=Moonbeam Blade (Chakora Priya).png|desc=[[Chakora Priya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Morning Star|image=Morning Star.png|desc=[[Simon Belmont]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Mr. Stabby|image=Mr. Stabby.png|desc=[[Goblin Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neo-City Sword|image=Neo-City Sword.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neon Gleam|image=Neon Gleam.png|desc={{BPReward|Season Two|gold|Tier 19}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Night Terrors|image=Night Terrors.png|desc=[[Fiendish Knight Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Nightmare Sword|image=Nightmare Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Raijin|image=Ninpō Raijin.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Senbonzakura|image=Ninpō Senbonzakura.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Sword|image=Ninpō Unsealed Sword.png|desc={{BPReward|Season Twelve|free|Future Tier 23}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Zanshintō|image=Ninpō Zanshintō.png|desc=[[Modern Monomi Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=No Running!|image=No Running!.png|desc=[[First Day Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Nunchaku|image=Nunchaku.png|desc=[[Michelangelo]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Obi-Wan's Lightsaber|image=Obi-Wan's Lightsaber.png|desc=[[Obi-Wan Kenobi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Obsidian Edge|image=Obsidian Edge.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Onihashi Steel Blade|image=Onihashi Steel Blade.png|desc=[[Snake Eyes]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Outlander's Knife|image=Outlander's Knife.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Palette Knife|image=Palette Knife.png|desc=[[Neostreet Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Paring Knife|image=Paring Knife.png|desc=[[Gardener Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Peppermint Piercer|image=Peppermint Piercer.png|desc=[[Nutcracker Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Phoenix Claw|image=Phoenix Claw.png|desc=[[Hanbok Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Plasma Cleaver|image=Plasma Cleaver.png|desc=[[Cyber Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Power Sword|image=Power Sword.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Powersurge|image=Powersurge.png|desc=[[Shin Sekai Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pressure Slicer|image=Pressure Slicer.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Prickly Cut|image=Prickly Cut.png|desc={{BPReward|Season Six|gold|Tier 21}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Pristine Cutlass|image=Pristine Cutlass.png|desc=[[Classy Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pro-Tour Racket|image=Pro-Tour Racket.png|desc=[[Match Point Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Regal Sun Sword|image=Regal Sun Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=RGB Sword|image=RGB Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Royal Sword|image=Royal Sword.png|desc=[[King Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Saber of Order|image=Saber of Order.png|desc={{BPReward|Season Four|gold|Tier 77}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Saltwater Saber|image=Saltwater Saber.png|desc=[[Kraken Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Salvaged Razor|image=Salvaged Razor.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=200|height=170|name=Serisage|image=Serisage.png|desc=[[Kabuki Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sharktooth Grin|image=Sharktooth Grin.png|desc=[[Shark Attack Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Shinkal|image=Shinkal.png|desc=[[Metadev Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Shinobi Sword|image=Shinobi Sword.png|desc=[[Nightblade Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Shrouded Blade|image=Shrouded Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Sky Piercer|image=Sky Piercer.png|desc=[[Gallowglass Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Skyforged Sword|image=Skyforged Sword.png|cost={{Coin|glory|5000}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Soul Dancer|image=Soul Dancer.png|desc=[[Awakened Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Soulflame|image=Soulflame.png|desc=[[Shogun Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Soulshard|image=Soulshard.png|desc=[[Draugr Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Squidward's Clarinet|image=Squidward's Clarinet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Starforged Scimitar|image=Starforged Scimitar.png|desc=[[Metadev Asuri]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Steam-Charged Saber|image=Steam-Charged Saber.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Surprise!|image=Surprise!.png|desc=[[Secret Santa Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Switchblade|image=Switchblade.png|desc=[[Biker Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Switchcomb|image=Switchcomb.png|desc=[[Greased Lightning Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword Breaker|image=Sword Breaker.png|desc=[[Ronin Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Davey Jones|image=Sword of Davey Jones.png|desc=[[Cursed Gold Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Freyr|image=Sword of Freyr.png|desc=[[Vanir Guardian Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Heroes|image=Sword of Heroes.png|desc=[[Tigress]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Justice|image=Sword of Justice.png|desc=[[Roland the Hooded]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Mercy|image=Sword of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 13}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of the Creed|image=Sword of the Creed.png|desc=[[Asgardian Ezio]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of the Demon|image=Sword of the Demon.png|desc=[[Oni no Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of the Raven|image=Sword of the Raven.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sword of Truth|image=Sword of Truth.png|desc=[[Silver Age Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tactical Blade|image=Tactical Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Tactical Edge|image=Tactical Edge.png|desc=[[Commando Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Darksaber|image=The Darksaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
-{{itembox|width=200|height=170|name=The Frozen Cutlass|image=The Frozen Cutlass.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=The Frozen Edge|image=The Frozen Edge.png|desc=[[Winter Championship 2018 Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Gladius|image=The Gladius.png|desc=[[Roland the Victorious]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Mark|image=The Mark.png|desc=[[Jiro the Specialist]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Monarchy|image=The Monarchy.png|desc=[[The Mad King]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Slayer|image=The Slayer.png|desc=[[Speedmetal Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Smackdown|image=The Smackdown.png|desc=[[Bödvar-mania]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tippani|image=Tippani.png|desc=[[Joyful Dancer Priya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Toothpick|image=Toothpick.png|desc=[[Demon Ogre Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Toybox Sword|image=Toybox Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Twin Katanas|image=Twin Katanas.png|desc=[[Leonardo]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Twisted Titanium|image=Twisted Titanium.png|desc=[[Gilded Glory Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Typhon|image=Typhon.png|desc=[[Chimera Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Sword|image=Valiant Armament Sword.png|desc={{BPReward|Season Ten|gold|Tier 83}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Victory Rush|image=Victory Rush.png|desc=[[Marauder Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Watermelon Slice|image=Watermelon Slice.png|desc=[[Summer Championship 2021 Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Waveslicer|image=Waveslicer.png|desc=[[Atlantean Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Whispering Blade|image=Whispering Blade.png|desc=[[Kunoichi Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wicked Blade|image=Wicked Blade.png|desc=[[Death Adder Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=[[Autumn Championship 2023 Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wyrmseeker|image=Wyrmseeker.png|desc=[[Dragonslayer Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wyvern's Sting|image=Wyvern's Sting.png|desc=[[Queen of Scales Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Yataghan Sword|image=Yataghan Sword.png|desc=[[Revelations Ezio]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Yoshimitsu's Blade|image=Yoshimitsu's Blade.png|desc=[[Yoshimitsu]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ahsoka's Lightsaber|image=Ahsoka's Lightsaber.png|desc=[[Ahsoka Tano]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Alucard Sword|image=Alucard Sword.png|desc=[[Alucard]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Anakin's Lightsaber|image=Anakin's Lightsaber.png|desc=[[Anakin Skywalker]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ancestor's Flame|image=Ancestor's Flame.png|desc=[[Ojiisan Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Apex Keysword|image=Apex Keysword.png|desc=SteelSeries 2022 reward|descheight=55px}}
+{{itembox|width=190|height=200|name=Asgardian Lightsaber|image=Asgardian Lightsaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Asgardian Sword|image=Asgardian Sword.png|desc=[[Asgard Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Assassin's Breath|image=Assassin's Breath.png|desc=[[Lynx Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Astroblade|image=Astroblade.png|desc={{BPReward|Season Five|gold|Tier 15}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Attitude Adjustment|image=Attitude Adjustment.png|desc=[[John Cena]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Aztlán Sword|image=Aztlán Sword.png|desc=[[Master of Night Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Babe|image=Babe.png|desc=[[Queen Beat Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Bear Blade|image=Bear Blade.png|desc=[[Bear'dvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Benevolent Light|image=Benevolent Light.png|desc=[[Luminous Paladin Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Betrayal|image=Betrayal.png|desc=[[Mythic Hero Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Big ol' Knife|image=Big ol' Knife.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Bitrate Blade|image=Bitrate Blade.png|desc=[[Future Wave Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Blade of Brutus|image=Blade of Brutus.png|desc=[[Armor of Brutus Ezio]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Blade of Shadows|image=Blade of Shadows.png|desc=[[Yakuza Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Blazing Light Sword|image=Blazing Light Sword.png|desc=[[Mecha Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Blue Blossom Blade|image=Blue Blossom Blade.png|desc=[[Hwarang Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Bokken|image=Bokken.png|desc=[[Oendan Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Catlass|image=Catlass.png|desc=[[Swashbuckler Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Celebratory Sabre|image=Celebratory Sabre.png|desc=[[Maître d'Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Chitinous Blade|image=Chitinous Blade.png|desc=[[Apex Predator Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Claideamh|image=Claideamh.png|desc=[[Kern Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Connie's Sword|image=Connie's Sword.png|desc=[[Stevonnie]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Crimson Cutlass|image=Crimson Cutlass.png|desc=[[Pirate Queen Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Crowbar|image=Crowbar.png|desc=[[Negan]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Crypto Blade|image=Crypto Blade.png|desc=[[Street Samurai Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Curved Beam|image=Curved Beam.png|desc=[[Hardsuit Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Cyber Myk Switchblade|image=Cyber Myk Switchblade.png|desc={{BPReward|Season Eight|gold|Tier 73}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Dark Elf Flamberge|image=Dark Elf Flamberge.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Darkheart Blade|image=Darkheart Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Darth Maul's Split Lightsaber|image=Darth Maul's Split Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Darth Vader's Lightsaber|image=Darth Vader's Lightsaber.png|desc=[[Darth Vader]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Demon Art: Kurayami-ken|image=Demon Art Kurayami-ken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Demon's Blade|image=Demon's Blade.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Devil's Hand|image=Devil's Hand.png|desc={{BPReward|Season One|gold|Tier 15}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Diamond Cutter|image=Diamond Cutter.png|desc=[[Cat Burglar Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Double-Action|image=Double-Action.png|desc=[[Badlands Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Dragonsplinter|image=Dragonsplinter.png|desc=[[Warlord Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Driftwood Chopper|image=Driftwood Chopper.png|desc=[[Castaway Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Dueling Broadsword|image=Dueling Broadsword.png|desc=[[Zuko]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Duskblade|image=Duskblade.png|desc=[[Shinigami Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Dwarven-Forged Sword|image=Dwarven-Forged Sword.png|desc={{BPReward|Season Seven|gold|Tier 81}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Dynasty Ender|image=Dynasty Ender.png|desc=[[Shogun Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Edge of Twilight|image=Edge of Twilight.png|desc=[[Metadev Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Emperor's Claim|image=Emperor's Claim.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Energy Sword|image=Energy Sword.png|desc=[[The Arbiter]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Eternal Flame|image=Eternal Flame.png|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Falling Blossoms|image=Falling Blossoms.png|desc=[[Demon Bride Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Finn Sword|image=Finn Sword.png|desc=[[Finn]]|descheight=55px}}
+{{itembox|width=190|height=200|name=For Royalty|image=For Royalty.png|desc=[[King Knight]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Foxfire|image=Foxfire.png|desc=[[Kitsune Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Francesca|image=Francesca.png|desc=[[Xavier Woods]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Frost Brandr|image=Frost Brandr.png|desc={{BPReward|Season Three|gold|Tier 29}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Fusioncutter|image=Fusioncutter.png|desc=[[Chewbacca]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Gift of Sojobo|image=Gift of Sojobo.png|desc=[[Tengu Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Gilded Lily|image=Gilded Lily.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Glorious Deco|image=Glorious Deco.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Golden Fang|image=Golden Fang.png|desc=[[Lion Rampant Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Golden Lion Fang|image=Golden Lion Fang.png|desc=[[The Honorable Sir Roland, Esq.]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Golden Saber|image=Golden Saber.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Goldforged Sword|image=Goldforged Sword.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
+{{itembox|width=190|height=200|name=Guardian's Edge|image=Guardian's Edge.png|desc=[[Komainu Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Hardlight Sword|image=Hardlight Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Hattori Hanzo Sword|image=Hattori Hanzo Sword.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Haunted Incisor|image=Haunted Incisor.png|desc=[[Werewolf Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Heart Flutter|image=Heart Flutter.png|desc=[[Love Bug Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Heavy Chopper|image=Heavy Chopper.png|desc=[[Orc Raider Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Hidden Dragon|image=Hidden Dragon.png|desc=[[Sidewinder Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Hippokampos|image=Hippokampos.png|desc=[[Merrow Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Hussar's Prize|image=Hussar's Prize.png|desc=[[Nutcracker Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ice Slicer|image=Ice Slicer.png|desc=[[Snowdrift Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Imperial Decree|image=Imperial Decree.png|desc=[[Emperor Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Joint Pain|image=Joint Pain.png|desc=[[Skel-asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Jolly Ripper|image=Jolly Ripper.png|desc=[[Sky Scourge Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Just Dead|image=Just Dead.png|desc=[[Star Merc Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Kingsblade|image=Kingsblade.png|desc=[[Warchief Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Kraken's Key|image=Kraken's Key.png|desc=[[Poseidon Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Kukri Carver|image=Kukri Carver.png|desc=[[Beastmaster Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Laughing Stock|image=Laughing Stock.png|desc=[[Death Jester Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Levi's Snap Blade|image=Levi's Snap Blade.png|desc=[[Levi]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Lionclaw|image=Lionclaw.png|desc=[[Lionheart Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Lookin' Sharp|image=Lookin' Sharp.png|desc=[[New School Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Love Letter Opener|image=Love Letter Opener.png|desc=[[Classy Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Lucky Magi ☆ Sparkling Sword|image=Lucky Magi ☆ Sparkling Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Maggie's Machete|image=Maggie's Machete.png|desc=[[Maggie]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Marrow|image=Marrow.png|desc=[[Dullahan Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Messatsu Blade|image=Messatsu Blade.png|desc=[[Akuma]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Michonne's Katana|image=Michonne's Katana.png|desc=[[Michonne]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Mikimoto Katana|image=Mikimoto Katana.png|desc=[[Storm Shadow]]|descheight=55px}}
+{{itembox|width=190|height=200|name=MK Katana|image=MK Katana.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Mocking Blade|image=Mocking Blade.png|desc=[[Dark Harlequin Priya]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Monofilament Blade|image=Monofilament Blade.png|desc=[[Cutting Edge Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Moonbeam|image=Moonbeam.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Moonbeam Blade|image=Moonbeam Blade.png|desc=[[Metadev Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Moonbeam Blade (Chakora Priya)|displayname=Moonbeam Blade|image=Moonbeam Blade (Chakora Priya).png|desc=[[Chakora Priya]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Morning Star|image=Morning Star.png|desc=[[Simon Belmont]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Mr. Stabby|image=Mr. Stabby.png|desc=[[Goblin Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Neo-City Sword|image=Neo-City Sword.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Neon Gleam|image=Neon Gleam.png|desc={{BPReward|Season Two|gold|Tier 19}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Night Terrors|image=Night Terrors.png|desc=[[Fiendish Knight Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Nightmare Sword|image=Nightmare Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Ninpō: Raijin|image=Ninpō Raijin.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ninpō: Senbonzakura|image=Ninpō Senbonzakura.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ninpō: Unsealed Sword|image=Ninpō Unsealed Sword.png|desc={{BPReward|Season Twelve|free|Future Tier 23}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Ninpō: Zanshintō|image=Ninpō Zanshintō.png|desc=[[Modern Monomi Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=No Running!|image=No Running!.png|desc=[[First Day Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Nunchaku|image=Nunchaku.png|desc=[[Michelangelo]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Obi-Wan's Lightsaber|image=Obi-Wan's Lightsaber.png|desc=[[Obi-Wan Kenobi]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Obsidian Edge|image=Obsidian Edge.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Onihashi Steel Blade|image=Onihashi Steel Blade.png|desc=[[Snake Eyes]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Outlander's Knife|image=Outlander's Knife.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Palette Knife|image=Palette Knife.png|desc=[[Neostreet Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Paring Knife|image=Paring Knife.png|desc=[[Gardener Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Peppermint Piercer|image=Peppermint Piercer.png|desc=[[Nutcracker Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Phoenix Claw|image=Phoenix Claw.png|desc=[[Hanbok Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Plasma Cleaver|image=Plasma Cleaver.png|desc=[[Cyber Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Power Sword|image=Power Sword.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Powersurge|image=Powersurge.png|desc=[[Shin Sekai Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Pressure Slicer|image=Pressure Slicer.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Prickly Cut|image=Prickly Cut.png|desc={{BPReward|Season Six|gold|Tier 21}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Pristine Cutlass|image=Pristine Cutlass.png|desc=[[Classy Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Pro-Tour Racket|image=Pro-Tour Racket.png|desc=[[Match Point Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Regal Sun Sword|image=Regal Sun Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=RGB Sword|image=RGB Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Royal Sword|image=Royal Sword.png|desc=[[King Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Saber of Order|image=Saber of Order.png|desc={{BPReward|Season Four|gold|Tier 77}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Saltwater Saber|image=Saltwater Saber.png|desc=[[Kraken Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Salvaged Razor|image=Salvaged Razor.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=190|height=200|name=Serisage|image=Serisage.png|desc=[[Kabuki Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sharktooth Grin|image=Sharktooth Grin.png|desc=[[Shark Attack Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Shinkal|image=Shinkal.png|desc=[[Metadev Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Shinobi Sword|image=Shinobi Sword.png|desc=[[Nightblade Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Shrouded Blade|image=Shrouded Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Sky Piercer|image=Sky Piercer.png|desc=[[Gallowglass Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Skyforged Sword|image=Skyforged Sword.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Soul Dancer|image=Soul Dancer.png|desc=[[Awakened Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Soulflame|image=Soulflame.png|desc=[[Shogun Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Soulshard|image=Soulshard.png|desc=[[Draugr Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Squidward's Clarinet|image=Squidward's Clarinet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Starforged Scimitar|image=Starforged Scimitar.png|desc=[[Metadev Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Steam-Charged Saber|image=Steam-Charged Saber.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Surprise!|image=Surprise!.png|desc=[[Secret Santa Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Switchblade|image=Switchblade.png|desc=[[Biker Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Switchcomb|image=Switchcomb.png|desc=[[Greased Lightning Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword Breaker|image=Sword Breaker.png|desc=[[Ronin Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Davey Jones|image=Sword of Davey Jones.png|desc=[[Cursed Gold Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Freyr|image=Sword of Freyr.png|desc=[[Vanir Guardian Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Heroes|image=Sword of Heroes.png|desc=[[Tigress]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Justice|image=Sword of Justice.png|desc=[[Roland the Hooded]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Mercy|image=Sword of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 13}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of the Creed|image=Sword of the Creed.png|desc=[[Asgardian Ezio]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of the Demon|image=Sword of the Demon.png|desc=[[Oni no Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of the Raven|image=Sword of the Raven.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Sword of Truth|image=Sword of Truth.png|desc=[[Silver Age Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Tactical Blade|image=Tactical Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Tactical Edge|image=Tactical Edge.png|desc=[[Commando Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Darksaber|image=The Darksaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
+{{itembox|width=190|height=200|name=The Frozen Cutlass|image=The Frozen Cutlass.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=The Frozen Edge|image=The Frozen Edge.png|desc=[[Winter Championship 2018 Pack]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Gladius|image=The Gladius.png|desc=[[Roland the Victorious]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Mark|image=The Mark.png|desc=[[Jiro the Specialist]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Monarchy|image=The Monarchy.png|desc=[[The Mad King]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Slayer|image=The Slayer.png|desc=[[Speedmetal Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Smackdown|image=The Smackdown.png|desc=[[Bödvar-mania]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Tippani|image=Tippani.png|desc=[[Joyful Dancer Priya]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Toothpick|image=Toothpick.png|desc=[[Demon Ogre Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Toybox Sword|image=Toybox Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Twin Katanas|image=Twin Katanas.png|desc=[[Leonardo]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Twisted Titanium|image=Twisted Titanium.png|desc=[[Gilded Glory Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Typhon|image=Typhon.png|desc=[[Chimera Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Valiant Armament Sword|image=Valiant Armament Sword.png|desc={{BPReward|Season Ten|gold|Tier 83}}|descheight=55px}}
+{{itembox|width=190|height=200|name=Victory Rush|image=Victory Rush.png|desc=[[Marauder Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Watermelon Slice|image=Watermelon Slice.png|desc=[[Summer Championship 2021 Pack]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Waveslicer|image=Waveslicer.png|desc=[[Atlantean Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Whispering Blade|image=Whispering Blade.png|desc=[[Kunoichi Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Wicked Blade|image=Wicked Blade.png|desc=[[Death Adder Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=[[Autumn Championship 2023 Pack]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Wyrmseeker|image=Wyrmseeker.png|desc=[[Dragonslayer Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Wyvern's Sting|image=Wyvern's Sting.png|desc=[[Queen of Scales Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Yataghan Sword|image=Yataghan Sword.png|desc=[[Revelations Ezio]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Yoshimitsu's Blade|image=Yoshimitsu's Blade.png|desc=[[Yoshimitsu]]|descheight=55px}}
 {{itembox/bottom}}
 
 ==Default Sword Skins==
 These Sword skins belong to default Legend skins. Because of this, they can only be equipped by the Legend they belong to.
 
 {{itembox/top}}
-{{itembox|width=200|height=170|name=Ancestral Blade|image=Ancestral Blade.png|desc=[[Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Auditore Blade|image=Auditore Blade.png|desc=[[Ezio]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Barbarian Blade|image=Barbarian Blade.png|desc=[[Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Boarding Cutlass|image=Boarding Cutlass.png|desc=[[Thatch]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Broad Sword|image=Broad Sword.png|desc=[[Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Corsair Sword|image=Corsair Sword.png|desc=[[Sidra]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hardlight Blade|image=Hardlight Blade.png|desc=[[Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Katana|image=Katana.png|desc=[[Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Long Sword|image=Long Sword.png|desc=[[Sir Roland]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Shadow Edge|image=Shadow Edge.png|desc=[[Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Shakti Sword|image=Shakti Sword.png|desc=[[Priya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Cleaner|image=The Cleaner.png|desc=[[Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tiger's Talwar|image=Tiger's Talwar.png|desc=[[Asuri]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Ancestral Blade|image=Ancestral Blade.png|desc=[[Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Auditore Blade|image=Auditore Blade.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Barbarian Blade|image=Barbarian Blade.png|desc=[[Jhala]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Boarding Cutlass|image=Boarding Cutlass.png|desc=[[Thatch]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Broad Sword|image=Broad Sword.png|desc=[[Bödvar]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Corsair Sword|image=Corsair Sword.png|desc=[[Sidra]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Hardlight Blade|image=Hardlight Blade.png|desc=[[Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Katana|image=Katana.png|desc=[[Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Long Sword|image=Long Sword.png|desc=[[Sir Roland]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Shadow Edge|image=Shadow Edge.png|desc=[[Jiro]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Shakti Sword|image=Shakti Sword.png|desc=[[Priya]]|descheight=55px}}
+{{itembox|width=190|height=200|name=The Cleaner|image=The Cleaner.png|desc=[[Jaeyun]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Tiger's Talwar|image=Tiger's Talwar.png|desc=[[Asuri]]|descheight=55px}}
 {{itembox/bottom}}
