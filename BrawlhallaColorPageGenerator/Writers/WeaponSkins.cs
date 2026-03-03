@@ -235,7 +235,7 @@ public sealed class WeaponSkinWriter(WriterData data)
             "Cannon" => 55,
             "Chakram" => 55,
             "Fists" => 70,
-            "Greatsword" => 55,
+            "Greatsword" => 70,
             "Hammer" => 55,
             "Katar" => 55,
             "Orb" => 55,
