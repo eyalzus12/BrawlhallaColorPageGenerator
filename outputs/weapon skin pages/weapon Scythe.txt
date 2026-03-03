@@ -6,7 +6,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Amplitude|image=Amplitude.png|desc=[[Mad Dog Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Arched Valor|image=Arched Valor.png|desc={{BPReward|Season Four|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Asgardian Scythe|image=Asgardian Scythe.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=[[Fall Championship 2018 Pack]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=[[Autumn Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Aztlán Scythe|image=Aztlán Scythe.png|desc={{BPReward|Season Eleven|gold|Tier 83}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Blood Moon Influence|image=Blood Moon Influence Level 3.png|desc=[[Octavius Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blossoming Blade|image=Blossoming Blade.png|desc=[[Spring Championship 2021 Pack]]|descheight=55px}}
@@ -26,7 +26,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Darkheart Reaper|image=Darkheart Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Death Touch|image=Death Touch.png|desc=[[Shinigami Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Digital Lockdown|image=Digital Lockdown.png|desc={{BPReward|Season Two|gold|Tier 37}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Dreamweaver's Dance: Reap|image=Dreamweaver's Dance Reap.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Dreamweaver's Dance: Reap|displayname={{small|Dreamweaver's Dance: Reap}}|image=Dreamweaver's Dance Reap.png|desc=[[Miracle Magi ☆ Starlit Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Scythe|image=Dwarven-Forged Scythe.png|desc={{BPReward|Season Seven|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Edge of the Universe|image=Edge of the Universe.png|desc=[[Void Zenith Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Erudition's Call|image=Erudition's Call.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
@@ -40,7 +40,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Goalie Stick|image=Goalie Stick.png|desc=[[Slapshot Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Golden Light|image=Golden Light.png|desc=[[Celestial Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Goldforged Scythe|image=Goldforged Scythe.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
-{{itembox|width=180|height=170|name=Hand of Asmodeus|image=Hand of Asmodeus.png|desc=[[Ascended Nix]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hand of Asmodeus|image=Hand of Asmodeus.gif|desc=[[Ascended Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Hardlight Scythe|image=Hardlight Scythe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Harvest Sickle|image=Harvest Sickle.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Haunted Hook|image=Haunted Hook.png|desc=[[Mirage Incarnate]]|descheight=55px}}
@@ -69,7 +69,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Marks the Spot|image=Marks the Spot.png|desc=[[Corsair Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Merry Jingle Scythe|image=Merry Jingle Scythe.png|desc=[[Cozy Sweater Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Mississippi Wrangler|image=Mississippi Wrangler.png|desc=[[Outlaw Loki]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Mordex on Ice: Dair to Dream|image=Mordex on Ice Dair to Dream.png|desc=[[Winter Esports 2026 Pack]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Mordex on Ice: Dair to Dream|displayname={{small|Mordex on Ice: Dair to Dream}}|image=Mordex on Ice Dair to Dream.png|desc=[[Winter Esports 2026 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Necromantic Aura|image=Necromantic Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Nevermore|image=Nevermore.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Reaper|image=Nightmare Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -107,7 +107,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Tamed Beast|image=Tamed Beast.png|desc=[[Komainu Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Closer|image=The Closer.png|desc=[[Mirage the Cleaner]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Jade Price|image=The Jade Price.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=The Pale Horse|image=The Pale Horse.png|desc=[[Apocalypse Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Pale Horse|image=AniThe Pale Horse.gif|desc=[[Apocalypse Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Signature|image=The Signature.png|desc=[[Nix Couture]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Thresher|image=Thresher.png|desc=[[Blood Moon Volkov]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Throttle|image=Throttle.png|desc=[[Street Race Artemis]]|descheight=55px}}
@@ -115,7 +115,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Tropic Breeze|image=Tropic Breeze.png|desc=[[Dog Days Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ultra Oil Lamp|image=Ultra Oil Lamp.png|desc=[[Librarian Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Uraeus' Fang|image=Uraeus' Fang.png|desc=[[Heart of Hathor Mirage]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Valiant Armament Scythe|image=Valiant Armament Scythe.png|desc={{BPReward|Season Ten|gold|Tier 67}}|descheight=55px}}
+{{itembox|width=180|height=170|name=Valiant Armament Scythe|displayname={{small|Valiant Armament Scythe}}|image=Valiant Armament Scythe.png|desc={{BPReward|Season Ten|gold|Tier 67}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Valorous Charge|image=Valorous Charge.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Vanquisher|image=Vanquisher.png|desc=[[Huntsman Volkov]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Villain Monologue|image=Villain Monologue.png|desc=[[Infernal Warlock Volkov]]|descheight=55px}}

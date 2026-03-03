@@ -39,6 +39,9 @@ public partial class WriterData
         "OrbMagicalGirl",
         "RocketLanceBP12",
         "RocketlanceBP10Mecha",
+        "ScytheEgyptianShoujo",
+        "ScytheIceSkates",
+        "ScytheBP10Mecha",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -121,6 +124,7 @@ public partial class WriterData
             case "HammerScientist":
             case "OrbBattlePassSet2":
             case "RocketLanceScientist":
+            case "ScythePaleRider":
                 isAnimated = true;
                 if (!colorMode) imageName = "Ani" + imageName;
                 break;
@@ -128,6 +132,7 @@ public partial class WriterData
             case "FistsMythicWuShang":
             case "OrbOddball":
             case "OrbLilith":
+            case "ScytheMythicNix":
                 isAnimated = true;
                 break;
         }

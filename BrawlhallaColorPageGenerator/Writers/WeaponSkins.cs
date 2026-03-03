@@ -196,6 +196,9 @@ public sealed class WeaponSkinWriter(WriterData data)
                 case "SummerPack23":
                     packName = "Summer Championship 2023 Pack";
                     break;
+                case "FallPack18":
+                    packName = "Autumn Championship 2018 Pack";
+                    break;
                 case "CollectorsRewards":
                     packName = "Collectors Pack";
                     break;
