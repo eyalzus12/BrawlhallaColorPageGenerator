@@ -36,7 +36,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Cyber Myk Switchblade|image=Cyber Myk Switchblade.png|desc={{BPReward|Season Eight|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Dark Elf Flamberge|image=Dark Elf Flamberge.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Darkheart Blade|image=Darkheart Blade.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=190|height=200|name=Darth Maul's Split Lightsaber|image=Darth Maul's Split Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Darth Maul's Split Lightsaber|displayname={{small|Darth Maul's Split Lightsaber}}|image=Darth Maul's Split Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Darth Vader's Lightsaber|image=Darth Vader's Lightsaber.png|desc=[[Darth Vader]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Demon Art: Kurayami-ken|image=Demon Art Kurayami-ken.png|desc=[[Akuma Shinobi Priya]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Demon's Blade|image=Demon's Blade.png|desc=[[Crimson Oni Jiro]]|descheight=55px}}
@@ -52,7 +52,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Edge of Twilight|image=Edge of Twilight.png|desc=[[Metadev Val]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Emperor's Claim|image=Emperor's Claim.png|desc=[[Ashen Warmonger Roland]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Energy Sword|image=Energy Sword.png|desc=[[The Arbiter]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Eternal Flame|image=Eternal Flame.png|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Eternal Flame|image=AniEternal Flame.gif|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Falling Blossoms|image=Falling Blossoms.png|desc=[[Demon Bride Hattori]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Finn Sword|image=Finn Sword.png|desc=[[Finn]]|descheight=55px}}
 {{itembox|width=190|height=200|name=For Royalty|image=For Royalty.png|desc=[[King Knight]]|descheight=55px}}
@@ -89,7 +89,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Lionclaw|image=Lionclaw.png|desc=[[Lionheart Roland]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Lookin' Sharp|image=Lookin' Sharp.png|desc=[[New School Jhala]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Love Letter Opener|image=Love Letter Opener.png|desc=[[Classy Roland]]|descheight=55px}}
-{{itembox|width=190|height=200|name=Lucky Magi ☆ Sparkling Sword|image=Lucky Magi ☆ Sparkling Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=190|height=200|name=Lucky Magi ☆ Sparkling Sword|displayname={{small|Lucky Magi ☆ Sparkling Sword}}|image=Lucky Magi ☆ Sparkling Sword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=190|height=200|name=Maggie's Machete|image=Maggie's Machete.png|desc=[[Maggie]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Marrow|image=Marrow.png|desc=[[Dullahan Jiro]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Messatsu Blade|image=Messatsu Blade.png|desc=[[Akuma]]|descheight=55px}}
@@ -123,7 +123,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Phoenix Claw|image=Phoenix Claw.png|desc=[[Hanbok Jaeyun]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Plasma Cleaver|image=Plasma Cleaver.png|desc=[[Cyber Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Power Sword|image=Power Sword.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=190|height=200|name=Powersurge|image=Powersurge.png|desc=[[Shin Sekai Koji]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Powersurge|image=AniPowersurge.gif|desc=[[Shin Sekai Koji]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Pressure Slicer|image=Pressure Slicer.png|desc=[[Sky Pirate Sidra]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Prickly Cut|image=Prickly Cut.png|desc={{BPReward|Season Six|gold|Tier 21}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Pristine Cutlass|image=Pristine Cutlass.png|desc=[[Classy Thatch]]|descheight=55px}}

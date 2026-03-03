@@ -43,6 +43,8 @@ public partial class WriterData
         "ScytheIceSkates",
         "ScytheBP10Mecha",
         "SpearMagicalGirl",
+        "SwordMagicalGirl",
+        "SwordDarthMaul",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -129,6 +131,8 @@ public partial class WriterData
             case "ScythePaleRider":
             case "SpearDemonQueen":
             case "SpearPaleRider":
+            case "SwordDemonQueen":
+            case "SwordCyberSam":
                 isAnimated = true;
                 if (!colorMode) imageName = "Ani" + imageName;
                 break;
