@@ -11,7 +11,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Asgardian Axe|image=Asgardian Axe.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Mercy|image=Axe of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of Might|image=Axe of Might.png|desc=[[Silver Age Jhala]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Axe of Regrowth|image=Axe of Regrowth Level 3.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe of the World Eagle|image=Axe of the World Eagle.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe You Out|image=Axe You Out.png|desc=[[Heartbreaker Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe-bladed Multi-Tool|image=Axe-bladed Multi-Tool.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
@@ -92,7 +92,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Krusty Krab Spatula|image=Krusty Krab Spatula.png|desc=[[SpongeBob SquarePants]]|descheight=55px}}
 {{itembox|width=200|height=170|name=La Guitarra|image=La Guitarra.png|desc=[[Muerto Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Laughing Skull|image=Laughing Skull.png|desc=[[Baron Azoth]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lich Slayer|image=Lich Slayer.png|desc=[[Ascendant Azoth]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Lich Slayer|image=Lich Slayer Level 3.png|desc=[[Ascendant Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Love Affair|image=Love Affair.png|desc=[[Red Romance Volkov]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Macho King|image=Macho King.png|desc=[[Macho Man]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Magic Bubble Wand|image=Magic Bubble Wand.png|desc=[[Patrick Star]]|descheight=55px}}
@@ -123,7 +123,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Splitter|image=Splitter.png|desc=[[Blood Moon Volkov]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Spring Cleaning|image=Spring Cleaning.png|desc=[[Elvenhollow Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Star Render|image=Star Render.png|desc=[[Metadev Barraza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Star-Crossed Nightmare|image=Star-Crossed Nightmare Level 3.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Styraxe|image=Styraxe.png|desc=[[Elvenhollow Imugi]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sunset Axe|image=Sunset Axe.png|desc={{BPReward|Season Two|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Terrorbyte|image=Terrorbyte.png|desc=[[Blue Virus Volkov]]|descheight=55px}}
@@ -152,7 +152,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Warrior's Pride|image=Warrior's Pride.png|desc=[[Gallowglass Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Winged Blade|image=Winged Blade.png|desc=[[Sir Rayelot]]|descheight=55px}}
 {{itembox|width=200|height=170|name=World Cleaver (Jotun Ulgrim)|displayname={{small|World Cleaver (Jotun Ulgrim)}}|image=World Cleaver.png|desc=[[Jotun Ulgrim]]|descheight=55px}}
-{{itembox|width=200|height=170|name=World Cleaver (Abominable Jötunn Xull)|displayname={{small|World Cleaver (Abominable Jötunn Xull)}}|image=World Cleaver (Abominable Jötunn Xull).png|desc=[[Abominable Jötunn Xull]]|descheight=55px}}
+{{itembox|width=200|height=170|name=World Cleaver (Abominable Jötunn Xull)|displayname=<span style="font-size:69%">World Cleaver (Abominable Jötunn Xull)</span>|image=World Cleaver (Abominable Jötunn Xull).png|desc=[[Abominable Jötunn Xull]]|descheight=55px}}
 {{itembox/bottom}}
 
 ==Default Axe Skins==

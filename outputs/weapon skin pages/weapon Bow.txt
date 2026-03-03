@@ -44,7 +44,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Dragon Spawn Bow|image=Dragon Spawn Bow.png|desc=[[Dragon Heart Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Dwarven-Forged Bow|image=Dwarven-Forged Bow.png|desc={{BPReward|Season Seven|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Elm Recurve Bow|image=Elm Recurve Bow.png|desc=[[Caelestis Yumiko]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Empress' Favor|image=Empress' Favor.png|desc=[[Ascendant Azoth]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Empress' Favor|image=Empress' Favor Level 3.png|desc=[[Ascendant Azoth]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Evergrowth|image=Evergrowth.png|desc=[[Grovewarden Ember]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Everlasting Shot|image=Everlasting Shot.png|desc=[[Red Rose Kaya]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Extinction Event|image=Extinction Event.png|desc=[[Annihilator Azoth]]|descheight=55px}}

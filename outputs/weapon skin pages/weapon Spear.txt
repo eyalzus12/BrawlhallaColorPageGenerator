@@ -27,7 +27,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Devilish Spike|image=Devilish Spike.png|desc={{BPReward|Season One|gold|Tier 37}}|descheight=55px}}
-{{itembox|width=210|height=220|name=Divine Question|image=Divine Question.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Divine Question|image=Divine Question Level 3.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dreamshard|image=Dreamshard.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk (Weapon Skin).png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Dwarven Awl|image=Dwarven Awl.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}

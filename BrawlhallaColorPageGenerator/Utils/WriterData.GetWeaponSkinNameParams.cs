@@ -8,7 +8,6 @@ public partial class WriterData
     private static readonly HashSet<string> _longWeaponSkins = [
         "AxeMagicalGirl",
         "AxeSpringAxe21Viewer",
-        "AxeHolidayXull",
         "AxeJotun",
         "BootsMagicalGirl",
         "PistolHighwayman",
@@ -37,7 +36,9 @@ public partial class WriterData
         "HammerMagicalGirl",
         "KatarAhsoka",
         "KatarAsgardSaber",
-        "OrbMagicalGirl"
+        "OrbMagicalGirl",
+        "RocketLanceBP12",
+        "RocketlanceBP10Mecha",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -119,6 +120,7 @@ public partial class WriterData
             case "OrbDemon03":
             case "HammerScientist":
             case "OrbBattlePassSet2":
+            case "RocketLanceScientist":
                 isAnimated = true;
                 if (!colorMode) imageName = "Ani" + imageName;
                 break;
@@ -136,16 +138,19 @@ public partial class WriterData
         imageName = imageName.Replace('’', '\'');
 
         // progression level
-        if (colorMode && WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
+        if (WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
         {
-            displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
-            imageName = weaponSkinName + " Level " + upgradeLevel;
+            if (colorMode) displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
+            if (colorMode || !isAnimated) imageName = weaponSkinName + " Level " + upgradeLevel;
         }
 
         // names that are too long
-        if (!colorMode && _longWeaponSkins.Contains(weaponSkin))
+        if (!colorMode)
         {
-            displayName = "{{small|" + displayName + "}}";
+            if (weaponSkin == "AxeHolidayXull")
+                displayName = "<span style=\"font-size:69%\">" + displayName + "</span>";
+            else if (_longWeaponSkins.Contains(weaponSkin))
+                displayName = "{{small|" + displayName + "}}";
         }
 
         // html escape for the template

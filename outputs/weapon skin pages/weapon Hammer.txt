@@ -131,7 +131,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Striking Magi ☆ Miracle Mallet|displayname={{small|Striking Magi ☆ Miracle Mallet}}|image=Striking Magi ☆ Miracle Mallet.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sucker Punch|image=Sucker Punch.png|desc=[[Cho-Kor-late]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sun Dial|image=Sun Dial.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Taurus Rebellion|image=Taurus Rebellion.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Taurus Rebellion|image=Taurus Rebellion Level 3.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Tea-KO|image=Tea-KO.png|desc=[[Teatime Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Teeth-Grinder|image=Teeth-Grinder.png|desc=[[Capra Thor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=That's A Hammer|image=That's A Hammer.png|desc=[[Outback Gnash]]|descheight=55px}}

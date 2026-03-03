@@ -61,7 +61,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Flame and Cinder|image=Flame and Cinder.png|desc=[[Inferno Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Fleur de Bees|image=Fleur de Bees.png|desc=[[Vive la Révolucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Flint and Tinder|image=Flint and Tinder.png|desc=[[Ragnirsaurus Rex]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Flora Blades|image=Flora Blades.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Flora Blades|image=Flora Blades Level 3.png|desc=[[Elder Wild Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Getaway Points|image=Getaway Points.png|desc=[[Overdrive Lucien]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Goldforged Blades|image=Goldforged Blades.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=180|height=190|name=Grand Finale|image=Grand Finale.png|desc=[[Harlequin Caspian]]|descheight=55px}}
@@ -111,7 +111,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Saint Nicks|image=Saint Nicks.png|desc=[[Diamond Jack Caspian]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sakura Strikers|image=Sakura Strikers.png|desc=[[Sakura]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sekai no Kana|image=Sekai no Kana.png|desc=[[Asuka]]|descheight=55px}}
-{{itembox|width=180|height=190|name=Serpent's Fangs|image=Serpent's Fangs.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Serpent's Fangs|image=Serpent's Fangs Level 3.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Serve & Protect|image=Serve & Protect.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Shadow Trawl|image=Shadow Trawl.png|desc=[[Abyssal Goblin Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sharpoons|image=Sharpoons.png|desc=[[Lakeside Loki]]|descheight=55px}}

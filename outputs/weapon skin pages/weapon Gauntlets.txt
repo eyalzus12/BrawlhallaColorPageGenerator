@@ -10,7 +10,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Beach Bash|image=Beach Bash.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=70px}}
 {{itembox|width=190|height=170|name=Bear Arms|image=Bear Arms.png|desc=[[Raydvar]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Beta Thrusters|image=Beta Thrusters.png|desc=[[Project-0NYX]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Betrayal & Power|image=Betrayal & Power.png|desc=[[Octavius Mordex]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Betrayal & Power|image=Betrayal & Power Level 3.png|desc=[[Octavius Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Binding Chains|image=Binding Chains.png|desc=[[Krampus Cross]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Boomers|image=Boomers.png|desc=[[Nightcap Caspian]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Brass Knuckles|image=Brass Knuckles.png|desc=[[Boss Cross]]|descheight=70px}}
@@ -41,7 +41,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Dueling Dukes|image=Dueling Dukes.png|desc=[[Sir Rayelot]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Dwarven-Forged Gauntlets|displayname={{small|Dwarven-Forged Gauntlets}}|image=Dwarven-Forged Gauntlets.png|desc={{BPReward|Season Seven|gold|Tier 57}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Earth Gauntlets|image=Earth Gauntlets.png|desc=[[Aang]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Earthly Answers|image=Earthly Answers.png|desc=[[Wu Shang, the Seeker]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Earthly Answers|image=Earthly Answers Level 3.png|desc=[[Wu Shang, the Seeker]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Echidna|image=Echidna.png|desc=[[Chimera Val]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Eye of the Oni|image=Eye of the Oni.png|desc={{BPReward|Season One|gold|Tier 65}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Fiendish Fists|image=Fiendish Fists.png|desc=[[Armored Kor]]|descheight=70px}}
@@ -90,7 +90,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Kah-Rah-Tay Gloves|image=Kah-Rah-Tay Gloves.png|desc=[[SpongeBob SquarePants]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Lion's Reign|image=Lion's Reign.png|desc={{BPReward|Season Four|free|Tier 6}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Love's Embrace|image=Love's Embrace.png|desc=[[Secret Admirer Zariel]]|descheight=70px}}
-{{itembox|width=190|height=170|name=Malady Wear|image=Malady Wear.png|desc=[[Corrupted Blood Tezca]]|descheight=70px}}
+{{itembox|width=190|height=170|name=Malady Wear|image=Malady Wear Level 3.png|desc=[[Corrupted Blood Tezca]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Martial Fists|image=Martial Fists.png|desc=[[Warrior Spirit Kor]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=70px}}
@@ -135,7 +135,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=The Claymores|image=The Claymores.png|desc=[[Staff Sgt. Cross]]|descheight=70px}}
 {{itembox|width=190|height=170|name=The Heavyweights|image=The Heavyweights.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=The Mittens|image=The Mittens.png|desc=[[Snowman Kor]]|descheight=70px}}
-{{itembox|width=190|height=170|name=The Playback|image=The Playback.png|desc=[[Future Wave Val]]|descheight=70px}}
+{{itembox|width=190|height=170|name=The Playback|image=The Playback Level 3.png|desc=[[Future Wave Val]]|descheight=70px}}
 {{itembox|width=190|height=170|name=The Punchlines|image=The Punchlines.png|desc=[[Harlequin Caspian]]|descheight=70px}}
 {{itembox|width=190|height=170|name=The Sun, The Moon|image=The Sun, The Moon.gif|desc=[[Ascended Wu Shang]]|descheight=70px}}
 {{itembox|width=190|height=170|name=The Taggers|image=The Taggers.png|desc=[[All City Caspian]]|descheight=70px}}

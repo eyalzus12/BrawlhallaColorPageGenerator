@@ -68,7 +68,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Mk V Lance|image=Mk V Lance.png|desc=[[Steam Sentry Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Neon Surfer|image=Neon Surfer.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=205|height=170|name=Nightmare Launcher|image=Nightmare Launcher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=205|height=170|name=Ninpō: Unsealed Rocket Lance|image=Ninpō Unsealed Rocket Lance.png|desc={{BPReward|Season Twelve|free|Past Tier 4}}|descheight=55px}}
+{{itembox|width=205|height=170|name=Ninpō: Unsealed Rocket Lance|displayname={{small|Ninpō: Unsealed Rocket Lance}}|image=Ninpō Unsealed Rocket Lance.png|desc={{BPReward|Season Twelve|free|Past Tier 4}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Nordic Celebration|image=Nordic Celebration.png|desc=[[Ivaldi's Finest Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=OHHHHH YEEAAAH!|image=OHHHHH YEEAAAH!.png|desc=[[Macho Man]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Overdrive|image=Overdrive.png|desc=[[Rock 'n Rupture]]|descheight=55px}}
@@ -80,7 +80,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Prizewinner|image=Prizewinner.png|desc=[[Slapshot Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Prophecy|image=Prophecy.png|desc=[[Seraph Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Pulsing Thicket|image=Pulsing Thicket.png|desc={{BPReward|Season Six|gold|Tier 15}}|descheight=55px}}
-{{itembox|width=205|height=170|name=Quasar|image=Quasar.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Quasar|image=Quasar Level 3.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Racing Lance|image=Racing Lance.png|desc=[[Mach 25 Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Reactor Core|image=Reactor Core.png|desc=[[Wasteland Vraxx]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Retrograde Rocket|image=Retrograde Rocket.png|desc={{BPReward|Season Five|gold|Tier 29}}|descheight=55px}}
@@ -99,7 +99,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Skyrush|image=Skyrush.png|desc=[[Corsair Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Spark Compressor|image=Spark Compressor.png|desc=[[Gridrunner Thea]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Spark of Madness|image=Spark of Madness.png|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Spark of Madness|image=AniSpark of Madness.gif|desc=[[Mad Genius Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Speaker of the Sea|image=Speaker of the Sea.png|desc=[[Atlantean Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Svartalfheim's Caverns|image=Svartalfheim's Caverns.png|desc=[[Master Blacksmith Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Synthetic Charge|image=Synthetic Charge.png|desc={{BPReward|Season Two|gold|Tier 29}}|descheight=55px}}
@@ -112,7 +112,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Toybox Rocket Lance|image=Toybox Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Ultra-Lance|image=Ultra-Lance.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Uprising|image=Uprising.png|desc=[[Steam Faction Scarlet]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Valiant Armament Rocket Lance|image=Valiant Armament Rocket Lance.png|desc={{BPReward|Season Ten|gold|Tier 18}}|descheight=55px}}
+{{itembox|width=205|height=170|name=Valiant Armament Rocket Lance|displayname={{small|Valiant Armament Rocket Lance}}|image=Valiant Armament Rocket Lance.png|desc={{BPReward|Season Ten|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=205|height=170|name=War Pipes|image=War Pipes.png|desc=[[Warborn Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Winterbite|image=Winterbite.png|desc=[[Warlock]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Witching Broom|image=Witching Broom.png|desc=[[Bewitching Scarlet]]|descheight=55px}}

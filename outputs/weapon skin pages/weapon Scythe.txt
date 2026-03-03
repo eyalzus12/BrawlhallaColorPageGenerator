@@ -8,7 +8,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Asgardian Scythe|image=Asgardian Scythe.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=[[Fall Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Aztlán Scythe|image=Aztlán Scythe.png|desc={{BPReward|Season Eleven|gold|Tier 83}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Blood Moon Influence|image=Blood Moon Influence.png|desc=[[Octavius Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Blood Moon Influence|image=Blood Moon Influence Level 3.png|desc=[[Octavius Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Blossoming Blade|image=Blossoming Blade.png|desc=[[Spring Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Calling Card|image=Calling Card.png|desc=[[Jiro the Specialist]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Candlelit Scythe|image=Candlelit Scythe.png|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
@@ -22,7 +22,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Constellation Carver|image=Constellation Carver.png|desc=[[Cosmic Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Crossfader|image=Crossfader.png|desc=[[DJ Hugin]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Cyber Myk Sickle|image=Cyber Myk Sickle.png|desc={{BPReward|Season Eight|gold|Tier 83}}|descheight=55px}}
-{{itembox|width=180|height=170|name=Cygnus|image=Cygnus.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Cygnus|image=Cygnus Level 3.png|desc=[[Event Horizon Artemis]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Darkheart Reaper|image=Darkheart Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Death Touch|image=Death Touch.png|desc=[[Shinigami Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Digital Lockdown|image=Digital Lockdown.png|desc={{BPReward|Season Two|gold|Tier 37}}|descheight=55px}}
@@ -73,7 +73,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Necromantic Aura|image=Necromantic Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Nevermore|image=Nevermore.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Reaper|image=Nightmare Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=180|height=170|name=Ninpō: Kusarenka|image=Ninpō Kusarenka.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ninpō: Kusarenka|image=Ninpō Kusarenka Level 3.png|desc=[[Shinobi no Mono Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ninpō: Unsealed Scythe|image=Ninpō Unsealed Scythe.png|desc={{BPReward|Season Twelve|gold|Future Tier 21}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Oni Bite|image=Oni Bite.png|desc=[[Shogun Jiro]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Pavo Beak|image=Pavo Beak.png|desc=[[Peacock Artemis]]|descheight=55px}}
