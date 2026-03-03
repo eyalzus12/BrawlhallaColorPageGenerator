@@ -27,7 +27,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Fungal Flourish|image=Fungal Flourish.png|desc=[[Autumn Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glacier Strike|image=Glacier Strike.png|desc={{BPReward|Season Three|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Gladius Magnus|image=Gladius Magnus.png|desc=[[Golden Gladiator Magyar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Glory of the Lions|image=Glory of the Lions.png|desc={{BPReward|Season Four|gold|Tier 69}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Glory of the Lions|image=Glory of the Lions.png|desc={{BPReward|Season Four|gold|Tier 69}}<br>{{BPReward|Season Four Classic|free|Tier 66}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Greatsword|image=Goldforged Greatsword.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
 {{itembox|width=200|height=170|name=Great Board|image=Great Board.png|desc=[[Snowdrift Jaeyun]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Great Bone Matau|image=Great Bone Matau.png|desc=[[Alepisaurus Mako]]|descheight=55px}}

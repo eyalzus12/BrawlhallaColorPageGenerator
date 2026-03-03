@@ -164,7 +164,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Truth|image=Truth.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tundra Geir|image=Tundra Geir.png|desc={{BPReward|Season Three|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Tundra's Talon|image=Tundra's Talon.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Twin Solstice|image=Twin Solstice.png|desc={{BPReward|Season Five|gold|Tier 69}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Twin Solstice|image=Twin Solstice.png|desc={{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc={{BPReward|Season Ten|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valkyrie's Fury|image=Valkyrie's Fury.png|desc=[[Völsung Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Vector (Weapon Skin)|displayname=Vector|image=Vector Spear.png|desc=[[Wasteland Ada]]|descheight=55px}}
