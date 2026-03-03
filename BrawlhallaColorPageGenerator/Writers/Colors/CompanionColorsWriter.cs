@@ -1,10 +1,9 @@
 using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
-using BrawlhallaLangReader;
 
 namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class CompanionColorsWriter(CompanionTypes companionTypes, LangFile langFile)
+public sealed class CompanionColorsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
@@ -13,11 +12,11 @@ public sealed class CompanionColorsWriter(CompanionTypes companionTypes, LangFil
         writer.WriteLine("The following is a list of all companions in {{{1|}}}. ''Click an image to view it in higher resolution.''");
         writer.WriteLine();
         writer.WriteLine("{{List to itembox|color={{{1|}}}|");
-        foreach (CompanionType companion in companionTypes.Companions)
+        foreach (CompanionType companion in data.CompanionTypes.Companions)
         {
             if (companion.CompanionName == "Template") continue;
 
-            (string companionName, string imageName, string displayName) = GetNameParams(companion);
+            (string companionName, string imageName, string displayName) = data.GetCompanionNameParams(companion);
 
             writer.Write(companionName);
             if (companionName != displayName)
@@ -35,21 +34,5 @@ public sealed class CompanionColorsWriter(CompanionTypes companionTypes, LangFil
         writer.WriteLine("<noinclude>");
         writer.WriteLine("{{doc}}");
         writer.WriteLine("</noinclude>");
-    }
-
-    private (string companionName, string imageName, string displayName) GetNameParams(CompanionType companionType)
-    {
-        // string companion = companionType.CompanionName;
-        string displayNameKey = companionType.DisplayNameKey;
-
-        string companionName = langFile.Entries[displayNameKey];
-        string imageName = companionName;
-        string displayName = companionName;
-
-        companionName = companionName.Replace(":", "&#58;");
-        displayName = displayName.Replace(":", "&#58;");
-        imageName = imageName.Replace(":", "");
-
-        return (companionName, imageName, displayName);
     }
 }

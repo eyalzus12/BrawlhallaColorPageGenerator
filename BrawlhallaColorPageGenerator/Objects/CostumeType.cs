@@ -8,7 +8,7 @@ namespace BrawlhallaColorPageGenerator.Objects;
 public sealed class CostumeType
 {
     public string CostumeName { get; }
-    public string? OwnerHero { get; }
+    public string OwnerHero { get; }
     public string? DisplayNameKey { get; }
     public int CostumeIndex { get; }
     public string? UpgradesTo { get; }
@@ -20,7 +20,6 @@ public sealed class CostumeType
         CostumeName = row[nameof(CostumeName)].ToString();
 
         OwnerHero = row[nameof(OwnerHero)].ToString();
-        if (string.IsNullOrWhiteSpace(OwnerHero)) OwnerHero = null;
 
         DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
         if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;
@@ -33,7 +32,7 @@ public sealed class CostumeType
         WeaponSet = row[nameof(WeaponSet)].ToString();
         if (string.IsNullOrWhiteSpace(WeaponSet)) WeaponSet = null;
 
-        DoesNotOwnWeaponSet = row[nameof(DoesNotOwnWeaponSet)].Parse<bool>();
+        DoesNotOwnWeaponSet = row[nameof(DoesNotOwnWeaponSet)].TryParse<bool>() ?? false;
     }
 }
 

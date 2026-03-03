@@ -5,7 +5,7 @@ using BrawlhallaColorPageGenerator.Objects;
 
 namespace BrawlhallaColorPageGenerator.Writers;
 
-public sealed class LevelingWriter(HeroTypes heroTypes, RuneTypes runeTypes)
+public sealed class LevelingWriter(WriterData data)
 {
     private static readonly string[] LEVELING_COLORS = [
         "Blue",
@@ -24,9 +24,9 @@ public sealed class LevelingWriter(HeroTypes heroTypes, RuneTypes runeTypes)
     public void WriteTo(string path)
     {
         using StreamWriter writer = new(path);
-        foreach (HeroType hero in heroTypes.Heroes)
+        foreach (HeroType hero in data.HeroTypes.Heroes)
         {
-            if (!runeTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes))
+            if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes))
                 continue;
 
             writer.Write("|- {{LegendLevelingRow|");

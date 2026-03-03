@@ -110,21 +110,31 @@ Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
 string runeTypesContent = files["RuneTypes.xml"];
 RuneTypes runeTypes = new(runeTypesContent);
 
+WriterData data = new()
+{
+    CostumeTypes = costumeTypes,
+    WeaponSkinTypes = weaponSkinTypes,
+    HeroTypes = heroTypes,
+    RuneTypes = runeTypes,
+    CompanionTypes = companionTypes,
+    LangFile = langFile,
+};
+
 #endregion
 #region Writing
 
 Directory.CreateDirectory("outputs");
 
-SkinColorsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
-skinsWriter.WriteTo("outputs/skins.txt");
+SkinColorsWriter skinsWriter = new(data);
+skinsWriter.WriteTo("outputs/skins color.txt");
 
-WeaponSkinColorsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
-weaponSkinsWriter.WriteTo("outputs/weaponSkins.txt");
+WeaponSkinColorsWriter weaponSkinsWriter = new(data);
+weaponSkinsWriter.WriteTo("outputs/weaponSkins color.txt");
 
-CompanionColorsWriter companionsWriter = new(companionTypes, langFile);
-companionsWriter.WriteTo("outputs/companions.txt");
+CompanionColorsWriter companionsWriter = new(data);
+companionsWriter.WriteTo("outputs/companions color.txt");
 
-LevelingWriter levelingWriter = new(heroTypes, runeTypes);
+LevelingWriter levelingWriter = new(data);
 levelingWriter.WriteTo("outputs/leveling.txt");
 
 #endregion

@@ -1,4 +1,7 @@
+using System;
 using System.Collections.Generic;
+using System.Globalization;
+using BrawlhallaColorPageGenerator.Objects;
 
 namespace BrawlhallaColorPageGenerator;
 
@@ -22,22 +25,4 @@ public static class Utils
         ["Spear"] = "Spear",
         ["Sword"] = "Sword",
     };
-
-    public static string[] WEAPON_LIST { get; } = [
-        "Axe",
-        "Battle Boots",
-        "Bow",
-        "Cannon",
-        "Chakram",
-        "Gauntlets",
-        "Greatsword",
-        "Hammer",
-        "Katars",
-        "Orb",
-        "Blasters",
-        "Rocket Lance",
-        "Scythe",
-        "Spear",
-        "Sword",
-    ];
 }

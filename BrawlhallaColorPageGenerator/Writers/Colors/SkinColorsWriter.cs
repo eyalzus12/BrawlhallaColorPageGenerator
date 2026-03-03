@@ -2,11 +2,10 @@ using System;
 using System.Globalization;
 using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
-using BrawlhallaLangReader;
 
 namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, LangFile langFile)
+public sealed class SkinColorsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
@@ -16,7 +15,7 @@ public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTy
         writer.WriteLine();
         writer.WriteLine("{{Compact TOC}}");
         char currentLetter = '~';
-        foreach (HeroType hero in heroTypes.Heroes)
+        foreach (HeroType hero in data.HeroTypes.Heroes)
         {
             if (!hero.IsActive || hero.HeroName == "Random") continue;
 
@@ -37,7 +36,7 @@ public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTy
             writer.Write(titleCaseName);
             writer.WriteLine("]]===");
             writer.WriteLine("{{List to itembox|color={{{1|}}}|");
-            foreach (CostumeType costumeType in costumeTypes.Costumes)
+            foreach (CostumeType costumeType in data.CostumeTypes.Costumes)
             {
                 if (
                     costumeType.OwnerHero != hero.HeroName || // not my hero
@@ -45,7 +44,7 @@ public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTy
                     costumeType.CostumeName.EndsWith("Stance2")
                 ) continue;
 
-                (string costumeName, string imageName, string displayName) = GetNameParams(costumeType, titleCaseName);
+                (string costumeName, string imageName, string displayName) = data.GetSkinNameParams(costumeType);
 
                 writer.Write(costumeName);
                 if (costumeName != displayName)
@@ -67,40 +66,5 @@ public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTy
         writer.WriteLine("<noinclude>");
         writer.WriteLine("{{doc}}");
         writer.WriteLine("</noinclude>");
-    }
-
-    private (string skinName, string imageName, string displayName) GetNameParams(CostumeType costumeType, string nameDefault)
-    {
-        string costumeName = costumeType.CostumeName;
-        string? displayNameKey = costumeType.DisplayNameKey;
-
-        string skinName = displayNameKey is null ? nameDefault : langFile.Entries[displayNameKey];
-        string imageName = skinName;
-        string displayName = skinName;
-
-        switch (costumeName)
-        {
-            case "SnakeEyes":
-                imageName = "Snake Eyes (Thatch Skin)";
-                break;
-            case "Eivor":
-                displayName = imageName = "Eivor (Female)";
-                break;
-            case "EivorMale":
-                displayName = imageName = "Eivor (Male)";
-                break;
-        }
-
-        if (costumeTypes.UpgradeLevel.TryGetValue(costumeName, out int upgradeLevel) && upgradeLevel != 0)
-        {
-            displayName = skinName + " (Lvl " + upgradeLevel + ")";
-            imageName = skinName + " Level " + upgradeLevel;
-        }
-
-        skinName = skinName.Replace(":", "&#58;");
-        displayName = displayName.Replace(":", "&#58;");
-        imageName = imageName.Replace(":", "");
-
-        return (skinName, imageName, displayName);
     }
 }

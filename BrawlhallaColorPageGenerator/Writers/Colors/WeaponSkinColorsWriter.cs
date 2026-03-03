@@ -1,10 +1,9 @@
 using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
-using BrawlhallaLangReader;
 
 namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class WeaponSkinColorsWriter(WeaponSkinTypes weaponSkinTypes, LangFile langFile)
+public sealed class WeaponSkinColorsWriter(WriterData data)
 {
     public void WriteTo(string path)
     {
@@ -14,7 +13,7 @@ public sealed class WeaponSkinColorsWriter(WeaponSkinTypes weaponSkinTypes, Lang
         writer.WriteLine();
 
         string? currentBaseWeapon = null;
-        foreach (WeaponSkinType weaponSkin in weaponSkinTypes.WeaponSkins)
+        foreach (WeaponSkinType weaponSkin in data.WeaponSkinTypes.WeaponSkins)
         {
             string baseWeapon = weaponSkin.BaseWeapon;
             if (currentBaseWeapon != baseWeapon)
@@ -40,7 +39,7 @@ public sealed class WeaponSkinColorsWriter(WeaponSkinTypes weaponSkinTypes, Lang
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
             ) continue;
 
-            (string weaponSkinName, string imageName, string displayName) = GetNameParams(weaponSkin);
+            (string weaponSkinName, string imageName, string displayName) = data.GetWeaponSkinNameParams(weaponSkin);
 
             writer.Write(weaponSkinName);
             if (weaponSkinName != displayName)
@@ -64,78 +63,5 @@ public sealed class WeaponSkinColorsWriter(WeaponSkinTypes weaponSkinTypes, Lang
         writer.WriteLine("{{doc}}");
         writer.WriteLine("[[Category:Templates]]");
         writer.WriteLine("</noinclude>");
-    }
-
-    private (string weaponSkinName, string imageName, string displayName) GetNameParams(WeaponSkinType weaponSkinType)
-    {
-        string weaponSkin = weaponSkinType.WeaponSkinName;
-        string displayNameKey = weaponSkinType.DisplayNameKey!;
-
-        string weaponSkinName = langFile.Entries[displayNameKey];
-        string imageName = weaponSkinName;
-        string displayName = weaponSkinName;
-
-        switch (weaponSkin)
-        {
-            case "AxeSimon":
-                displayName = imageName = weaponSkinName = "Battle Axe (Simon Belmont)";
-                break;
-            case "AxeGilded":
-                weaponSkinName = "Gilded Glory (Axe Skin)";
-                break;
-            case "AxeActualValk":
-                weaponSkinName = "Glory (Weapon Skin)";
-                break;
-            case "PistolSerape":
-                weaponSkinName = "Snake Eyes (Weapon Skin)";
-                imageName = weaponSkinName;
-                break;
-            case "BowOldKoji":
-                weaponSkinName = "Heirloom (Bow Skin)";
-                break;
-            case "CannonDestinyTitan":
-                imageName = "Dragon's Breath (Titan)";
-                break;
-            case "FistsVolcano":
-                weaponSkinName = "Hot Lava (Weapon Skin)";
-                break;
-            case "FistsOrb4":
-                weaponSkinName = "Knockouts (Weapon Skin)";
-                break;
-            case "HammerMadame":
-                imageName = weaponSkinName = "Heirloom (Hammer Skin)";
-                break;
-            case "RocketLanceMotorcycle":
-                weaponSkinName = "Burnout (Weapon Skin)";
-                break;
-            case "SpearGem":
-                imageName = weaponSkinName = "Dusk (Weapon Skin)";
-                break;
-            case "SpearViral":
-                weaponSkinName = "Vector (Weapon Skin)";
-                imageName = "Vector Spear";
-                break;
-            case "SwordBladeDancerCelestial":
-                imageName = weaponSkinName = "Moonbeam Blade (Chakora Priya)";
-                break;
-            case "FistsSantaShang":
-                imageName = weaponSkinName = "Holly Jolly (Santa Wu Shang)";
-                break;
-            case "AxeHolidayXull":
-                displayName = imageName = weaponSkinName = "World Cleaver (Abominable Jötunn Xull)";
-                break;
-        }
-
-        if (weaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
-        {
-            displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
-            imageName = weaponSkinName + " Level " + upgradeLevel;
-        }
-
-        weaponSkinName = weaponSkinName.Replace(":", "&#58;");
-        displayName = displayName.Replace(":", "&#58;");
-        imageName = imageName.Replace(":", "");
-
-        return (weaponSkinName, imageName, displayName);
     }
 }
