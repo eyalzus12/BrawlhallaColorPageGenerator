@@ -24,7 +24,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Bowcaster & E-11 Blaster|image=Bowcaster & E-11 Blaster.png|desc=[[Chewbacca]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Brimstone Blasters|image=Brimstone Blasters.png|desc=[[Demonkin Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bubonic Blasters|image=Bubonic Blasters.png|desc=[[Relentless Pest Reno]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Budding Blasters|image=Budding Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Budding Blasters|image=Budding Blasters.png|desc=[[Spring Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bullet Hail of the King|image=Bullet Hail of the King.png|desc=[[Vraxx the King]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Candy Caliber|image=Candy Caliber.png|desc=[[Nutcracker Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cannonades|image=Cannonades.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -80,7 +80,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Hardlight Blasters|image=Hardlight Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=IB-94 Pistol & E-11 Blaster|image=IB-94 Pistol & E-11 Blaster.png|desc=[[The Mandalorian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ice 'Em|image=Ice 'Em.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice 'Em|image=Ice 'Em.png|desc=[[Winter Championship 2023 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Jötunn Armaments|image=Jötunn Armaments.png|desc={{BPReward|Season Three|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Jubilation Blasters|image=Jubilation Blasters.png|desc=[[Swanky Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Juicy Carnage Shotguns|image=Juicy Carnage Shotguns.png|desc=[[Krieg]]|descheight=55px}}

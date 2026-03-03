@@ -30,7 +30,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Cyclone Hammer|image=Cyclone Hammer.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Crusher|image=Darkheart Crusher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Davey Jones' Anchor|image=Davey Jones' Anchor.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Dawn Hammer|image=Dawn Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dawn Hammer|image=Dawn Hammer.png|desc=[[Spring Championship 2017 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Death's End|image=Death's End.png|desc=[[Draugr Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Disco Brawl|image=Disco Brawl.png|desc=[[Gentleman Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Divine Intervention|image=Divine Intervention.png|desc=[[The Korinthian]]|descheight=55px}}
@@ -74,7 +74,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=I've Got Spirit!|image=I've Got Spirit!.png|desc=[[Team Spirit Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ice Angling|image=Ice Angling.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ice Crusher|image=Ice Crusher.png|desc=[[The Yetee Teros]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ice Fishing|image=Ice Fishing.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice Fishing|image=Ice Fishing.png|desc=[[Winter Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ix Chel|image=Ix Chel.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Jellyfishing Net|image=Jellyfishing Net.png|desc=[[Patrick Star]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Laughing Dragon|image=Laughing Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -96,7 +96,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Numbskull|image=Numbskull.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nutsy|image=Nutsy.png|desc=[[Sandy Cheeks]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Offworld|image=Offworld.png|desc={{BPReward|Season Two|gold|Tier 9}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Ornate Anchor|image=Ornate Anchor.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ornate Anchor|image=Ornate Anchor.png|desc=[[Summer Championship 2022 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Peafowl Cane|image=Peafowl Cane.png|desc=[[Elegant Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=People's Elbow|image=People's Elbow.png|desc=[[The Rock]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Photosynthesis Warhammer|image=Photosynthesis Warhammer.png|desc=[[Elvenhollow Magyar]]|descheight=55px}}
@@ -158,7 +158,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc={{BPReward|Season Six|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=[[Autumn Esports 2025 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Yggdrasil's Branch|image=Yggdrasil's Branch.png|desc=[[Vanir Guardian Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ymir's Sledge|image=Ymir's Sledge.png|desc={{BPReward|Season Three|gold|Tier 77}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Yokai Slam|image=Yokai Slam.png|desc={{BPReward|Season One|gold|Tier 41}}|descheight=55px}}

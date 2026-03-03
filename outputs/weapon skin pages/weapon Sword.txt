@@ -164,7 +164,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Tactical Edge|image=Tactical Edge.png|desc=[[Commando Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Darksaber|image=The Darksaber.png|cost={{Coin|mammoth|140}}|costheight=55px}}
 {{itembox|width=200|height=170|name=The Frozen Cutlass|image=The Frozen Cutlass.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=The Frozen Edge|image=The Frozen Edge.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Frozen Edge|image=The Frozen Edge.png|desc=[[Winter Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Gladius|image=The Gladius.png|desc=[[Roland the Victorious]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Mark|image=The Mark.png|desc=[[Jiro the Specialist]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Monarchy|image=The Monarchy.png|desc=[[The Mad King]]|descheight=55px}}
@@ -178,11 +178,11 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Typhon|image=Typhon.png|desc=[[Chimera Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Sword|image=Valiant Armament Sword.png|desc={{BPReward|Season Ten|gold|Tier 83}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Victory Rush|image=Victory Rush.png|desc=[[Marauder Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Watermelon Slice|image=Watermelon Slice.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Watermelon Slice|image=Watermelon Slice.png|desc=[[Summer Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Waveslicer|image=Waveslicer.png|desc=[[Atlantean Sidra]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Whispering Blade|image=Whispering Blade.png|desc=[[Kunoichi Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wicked Blade|image=Wicked Blade.png|desc=[[Death Adder Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Wrought Iron Sword|image=Wrought Iron Sword.png|desc=[[Autumn Championship 2023 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wyrmseeker|image=Wyrmseeker.png|desc=[[Dragonslayer Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wyvern's Sting|image=Wyvern's Sting.png|desc=[[Queen of Scales Jhala]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Yataghan Sword|image=Yataghan Sword.png|desc=[[Revelations Ezio]]|descheight=55px}}

@@ -7,7 +7,7 @@ using BrawlhallaLangReader;
 
 namespace BrawlhallaColorPageGenerator;
 
-public class WriterData
+public partial class WriterData
 {
     public required CostumeTypes CostumeTypes { get; init; }
     public required WeaponSkinTypes WeaponSkinTypes { get; init; }
@@ -15,6 +15,7 @@ public class WriterData
     public required RuneTypes RuneTypes { get; init; }
     public required CompanionTypes CompanionTypes { get; init; }
     public required StoreTypes StoreTypes { get; init; }
+    public required EntitlementTypes EntitlementTypes { get; init; }
     public required LangFile LangFile { get; init; }
 
     public Dictionary<string, CostumeType>? WeaponSkinToCostume { get; private set; } = null;
@@ -225,7 +226,6 @@ public class WriterData
         "Edge Guards",
         "MK Needles",
         "Neon Surfer",
-        "Mordex on Ice: Dair to Dream",
         "Sprocketeer",
         "Golden Saber",
         "MK Katana",
@@ -245,24 +245,6 @@ public class WriterData
         "Sword of the Raven",
     ];
 
-    private static readonly HashSet<string> _asgardianWeapons = [
-        "Asgardian Axe",
-        "Asgardian Battle Boots",
-        "Asgardian Blasters",
-        "Asgardian Bow",
-        "Asgardian Cannon",
-        "Asgardian Chakram",
-        "Asgardian Gauntlets",
-        "Asgardian Greatsword",
-        "Asgardian Hammer",
-        "Asgardian Katars",
-        "Asgardian Orb",
-        "Asgardian Lance",
-        "Asgardian Scythe",
-        "Asgardian Spear",
-        "Asgardian Sword",
-    ];
-
     public string GetWeaponSkinMiscDesc(WeaponSkinType weaponSkin)
     {
         string displayNameKey = weaponSkin.DisplayNameKey!;
@@ -274,9 +256,6 @@ public class WriterData
             return "''Unobtainable''";
         if (_giftsOfAsgard.Contains(weaponSkinName))
             return "[[The Gifts of Asgard]]";
-        // this will be obsolete through EntitlementTypes
-        if (_asgardianWeapons.Contains(weaponSkinName))
-            return "[[Collectors Pack]]";
 
         return weaponSkinName switch
         {
@@ -468,10 +447,6 @@ public class WriterData
             // others
             "Apex Keysword" => "SteelSeries 2022 reward",
             "Logitech Keycap" => "Tournament Reward",
-
-            // packs. TODO: entitlement types to automate this
-            "Ship Wheel" => "[[Summer Championship 2025 Pack]]",
-            "Snow Shovel Axe" => "[[Winter Championship 2022 Pack]]",
 
             _ => "ERROR",
         };

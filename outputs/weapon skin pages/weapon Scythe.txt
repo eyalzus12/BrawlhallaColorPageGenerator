@@ -6,10 +6,10 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Amplitude|image=Amplitude.png|desc=[[Mad Dog Mordex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Arched Valor|image=Arched Valor.png|desc={{BPReward|Season Four|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Scythe|image=Asgardian Scythe.png|desc=[[Collectors Pack]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Autumn Harvest|image=Autumn Harvest.png|desc=[[Fall Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Aztlán Scythe|image=Aztlán Scythe.png|desc={{BPReward|Season Eleven|gold|Tier 83}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Blood Moon Influence|image=Blood Moon Influence.png|desc=[[Octavius Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blossoming Blade|image=Blossoming Blade.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blossoming Blade|image=Blossoming Blade.png|desc=[[Spring Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Calling Card|image=Calling Card.png|desc=[[Jiro the Specialist]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Candlelit Scythe|image=Candlelit Scythe.png|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Casey's Hockey Stick|image=Casey's Hockey Stick.png|desc=[[Leonardo]]|descheight=55px}}
@@ -50,7 +50,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Holy Incantation|image=Holy Incantation.png|desc=[[Aqyn Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Hotline Slash|image=Hotline Slash.png|desc=[[Retro Reaper Nix]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ice Pick|image=Ice Pick.png|desc=[[White Out Nix]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ice Sickle|image=Ice Sickle.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ice Sickle|image=Ice Sickle.png|desc=[[Winter Esports 2024 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=In Sickness|image=In Sickness.png|desc=[[Corpse Bride Mirage]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Interstellar Edge|image=Interstellar Edge.png|desc=[[Metadev Nix]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Into the Abyss|image=Into the Abyss.png|desc=[[Enchantress]]|descheight=55px}}
@@ -69,7 +69,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Marks the Spot|image=Marks the Spot.png|desc=[[Corsair Mirage]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Merry Jingle Scythe|image=Merry Jingle Scythe.png|desc=[[Cozy Sweater Fait]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Mississippi Wrangler|image=Mississippi Wrangler.png|desc=[[Outlaw Loki]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Mordex on Ice: Dair to Dream|image=Mordex on Ice Dair to Dream.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=200|height=170|name=Mordex on Ice: Dair to Dream|image=Mordex on Ice Dair to Dream.png|desc=[[Winter Esports 2026 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Necromantic Aura|image=Necromantic Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Nevermore|image=Nevermore.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Reaper|image=Nightmare Reaper.png|cost={{Coin|mammoth|60}}|costheight=55px}}

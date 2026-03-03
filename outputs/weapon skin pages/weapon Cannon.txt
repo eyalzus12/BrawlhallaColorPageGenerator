@@ -17,7 +17,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Booming Roar|image=Booming Roar.png|desc=[[Arctic Trapper Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bulwark|image=Bulwark.png|desc=[[Commander Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cannon of Mercy|image=Cannon of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 73}}|descheight=55px}}
-{{itembox|width=200|height=170|name=Chimney|image=Chimney.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Chimney|image=Chimney.png|desc=[[Winter Esports 2025 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Conk Shell|image=Conk Shell.png|desc=[[Merrow Sidra]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Megacannon|image=Cyber Myk Megacannon.png|desc={{BPReward|Season Eight|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Danish Brick Mortar|image=Danish Brick Mortar.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
@@ -52,7 +52,7 @@ The following is a list of all [[Cannon]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Nightmare Mandible|image=Nightmare Mandible.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Cannon|image=Ninpō Unsealed Cannon.png|desc={{BPReward|Season Twelve|free|Future Tier 1}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Optimized Odzutsu|image=Optimized Odzutsu.png|desc=[[Wanderer Seven]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Orchard Barrel|image=Orchard Barrel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Orchard Barrel|image=Orchard Barrel.png|desc=[[Autumn Championship 2020 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Plasma Cannon|image=Plasma Cannon.png|desc=[[Project-0NYX]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Power Flash|image=Power Flash.png|desc=[[Terror-Watt Xull]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Pyrois Blast|image=Pyrois Blast.png|cost={{Coin|mammoth|60}}|costheight=55px}}

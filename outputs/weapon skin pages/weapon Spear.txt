@@ -37,16 +37,16 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Elsbeth's Beskar Spear|image=Elsbeth's Beskar Spear.png|desc=[[The Mandalorian]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Enchanting Ascent|image=Enchanting Ascent.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Enlightened Song|image=Enlightened Song.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Equinox Spire|image=Equinox Spire.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Equinox Spire|image=Equinox Spire.png|desc=[[Autumn Championship 2022 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fangwild Havoc|image=Fangwild Havoc.png|desc=[[Rogue Queen Arcadia]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fangwild Spine|image=Fangwild Spine.png|desc=[[Thornwood Dusk]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fellthorne|image=Fellthorne.png|desc=[[Fallen Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Final Wish|image=Final Wish.png|desc=[[Djinn Wu Shang]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fire Nation Spear|image=Fire Nation Spear.png|desc=[[Zuko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Flamepiercer|image=Flamepiercer.png|desc=[[Witchfire Brynn]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Glacier's Grace|image=Glacier's Grace.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Glacier's Grace|image=Glacier's Grace.png|desc=[[Winter Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Spear|image=Goldforged Spear.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
-{{itembox|width=200|height=170|name=Great Bite Shark|image=Great Bite Shark.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Great Bite Shark|image=Great Bite Shark.png|desc=[[Summer Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Guiding Spirit|image=Guiding Spirit.png|desc=[[Aurora Kaya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Gungnir|image=Gungnir.png|desc=[[Eivor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Hand-Saw|image=Hand-Saw.png|desc=[[The Monster Gnash]]|descheight=55px}}

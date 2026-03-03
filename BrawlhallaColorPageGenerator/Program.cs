@@ -114,6 +114,10 @@ RuneTypes runeTypes = new(runeTypesContent);
 string storeTypesContent = files["storeTypes.csv"];
 StoreTypes storeTypes = new(storeTypesContent);
 
+// Entitlement types
+string entitlementTypesContent = files["EntitlementTypes.xml"];
+EntitlementTypes entitlementTypes = new(entitlementTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -122,6 +126,7 @@ WriterData data = new()
     RuneTypes = runeTypes,
     CompanionTypes = companionTypes,
     StoreTypes = storeTypes,
+    EntitlementTypes = entitlementTypes,
     LangFile = langFile,
 };
 

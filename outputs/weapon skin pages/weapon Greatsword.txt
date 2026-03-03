@@ -24,7 +24,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Dwarven-Forged Greatsword|image=Dwarven-Forged Greatsword.png|desc={{BPReward|Season Seven|gold|Tier 21}}<br>{{BPReward|Season Seven Classic|free|Tier 20}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Flamberge's Gale|image=Flamberge's Gale.png|desc={{BPReward|Season Six|gold|Tier 77}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Flora Striker|image=Flora Striker.png|desc=[[Hwarang Jaeyun]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fungal Flourish|image=Fungal Flourish.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fungal Flourish|image=Fungal Flourish.png|desc=[[Autumn Championship 2021 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glacier Strike|image=Glacier Strike.png|desc={{BPReward|Season Three|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Gladius Magnus|image=Gladius Magnus.png|desc=[[Golden Gladiator Magyar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glory of the Lions|image=Glory of the Lions.png|desc={{BPReward|Season Four|gold|Tier 69}}|descheight=55px}}
@@ -58,7 +58,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Toybox Greatsword|image=Toybox Greatsword.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Twilight Cleaver|image=Twilight Cleaver.png|desc={{BPReward|Season Five|gold|Tier 21}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Greatsword|image=Valiant Armament Greatsword.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Vinetouched Greatsword|image=Vinetouched Greatsword.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Vinetouched Greatsword|image=Vinetouched Greatsword.png|desc=[[Spring Esports 2025 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=World Ender|image=World Ender.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
 {{itembox/bottom}}
 

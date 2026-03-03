@@ -131,6 +131,28 @@ public sealed class WeaponSkinWriter(WriterData data)
                 });
             }
         }
+        // pack
+        else if (data.EntitlementTypes.WeaponSkinToEntitlement.TryGetValue(weaponSkin.WeaponSkinName, out EntitlementType? entitlement))
+        {
+            string packName = entitlement.EntitlementName switch
+            {
+                "SpringPack" => "Spring Championship 2017 Pack",
+                "CollectorsRewards" => "Collectors Pack",
+                _ => data.LangFile.Entries[entitlement.DisplayNameKey!],
+            };
+            packName = packName.Trim('!');
+            if (!packName.EndsWith("Pack")) packName += " Pack";
+            packName = packName switch
+            {
+                "Summer Champ Pack" => "Summer Championship 2017 Pack",
+                _ => packName,
+            };
+
+            descType = DescType.Desc;
+            writer.Write("|desc=[[");
+            writer.Write(packName);
+            writer.Write("]]");
+        }
         // misc
         else
         {

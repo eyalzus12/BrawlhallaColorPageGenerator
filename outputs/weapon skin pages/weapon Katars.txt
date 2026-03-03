@@ -100,7 +100,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Katars|image=Ninpō Unsealed Katars.png|desc={{BPReward|Season Twelve|free|Intro Tier 5}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Numeric Flux|image=Numeric Flux.png|desc=[[Modular Rift Ember]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Overhand Slicers|image=Overhand Slicers.png|desc=[[Ace Spiker Lin Fei]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Piercing Petals|image=Piercing Petals.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Piercing Petals|image=Piercing Petals.png|desc=[[Spring Championship 2022 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Pillage and Plunder|image=Pillage and Plunder.png|desc=[[Swashbuckler Asuri]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Raptorial Limbs|image=Raptorial Limbs.png|desc=[[Hulking Mantis Rupture]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Raven Claws|image=Raven Claws.png|desc=[[Raven Rogue Lucien]]|descheight=55px}}
