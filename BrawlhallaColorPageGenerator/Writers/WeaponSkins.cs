@@ -202,7 +202,6 @@ public sealed class WeaponSkinWriter(WriterData data)
                     packName = data.LangFile.Entries[entitlement.DisplayNameKey!];
                     packName = packName.Trim('!');
                     if (!packName.EndsWith("Pack")) packName += " Pack";
-                    packName = packName.Replace("Autumn", "Fall");
                     break;
             }
 

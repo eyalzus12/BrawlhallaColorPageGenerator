@@ -26,6 +26,10 @@ public partial class WriterData
         "CannonRoboPuppet",
         "CannonBP12",
         "CannonBP10Mecha",
+        "FistsBP7",
+        "FistsPetraBP12",
+        "FistsObiWan",
+        "FistsBP10Mecha",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -66,6 +70,7 @@ public partial class WriterData
                 break;
             case "FistsOrb4":
                 weaponSkinName = "Knockouts (Weapon Skin)";
+                if (!colorMode) imageName = "Knockouts (Weapon Skin)";
                 break;
             case "HammerMadame":
                 imageName = weaponSkinName = "Heirloom (Hammer Skin)";
@@ -92,19 +97,28 @@ public partial class WriterData
             case "AxeHolidayXull":
                 displayName = imageName = weaponSkinName = "World Cleaver (Abominable Jötunn Xull)";
                 break;
-            case "PistolBubblegum" when !colorMode:
+            case "PistolBubblegum":
                 isAnimated = true;
-                imageName = "AniElectrode Guns";
+                if (!colorMode) imageName = "AniElectrode Guns";
                 break;
-            case "PistolMythicNix" when !colorMode:
+            case "PistolMythicNix":
                 isAnimated = true;
                 break;
-            case "BowCyberSam" when !colorMode:
+            case "BowCyberSam":
                 isAnimated = true;
-                imageName = "AniDaemon Killer";
+                if (!colorMode) imageName = "AniDaemon Killer";
                 break;
-            case "BowTrickOrTreat" when !colorMode:
-                imageName = "ded";
+            case "BowTrickOrTreat":
+                if (!colorMode) imageName = "ded";
+                break;
+            case "FistsDemon01":
+            case "FistsDemon02":
+            case "FistsDemon03":
+                isAnimated = true;
+                if (!colorMode) imageName = "AniHaunting Terrors";
+                break;
+            case "FistsMythicWuShang":
+                isAnimated = true;
                 break;
         }
 
