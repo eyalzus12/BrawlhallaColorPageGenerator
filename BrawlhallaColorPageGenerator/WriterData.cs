@@ -259,7 +259,7 @@ public partial class WriterData
 
         return weaponSkinName switch
         {
-            // bp 1. TODO: changes in classic
+            // bp 1
             "Demonic Slab" => "{{BPReward|Season One|gold|Tier 29}}",
             "Fiendish Howl" => "{{BPReward|Season One|gold|Tier 50}}",
             "Cursed Bow" => "{{BPReward|Season One|gold|Tier 57}}",
@@ -274,7 +274,7 @@ public partial class WriterData
             "Devilish Spike" => "{{BPReward|Season One|gold|Tier 37}}",
             "Devil's Hand" => "{{BPReward|Season One|gold|Tier 15}}",
 
-            // bp 2. TODO: changes in classic
+            // bp 2
             "Sunset Axe" => "{{BPReward|Season Two|gold|Tier 15}}",
             "Time is Running (Out)" => "{{BPReward|Season Two Classic|free|Tier 62}}",
             "Tempo and Groove" => "{{BPReward|Season Two|gold|Tier 41}}",
@@ -290,7 +290,7 @@ public partial class WriterData
             "Astro Shard" => "{{BPReward|Season Two|gold|Tier 79}}",
             "Neon Gleam" => "{{BPReward|Season Two|gold|Tier 19}}",
 
-            // bp 3. TODO: changes in classic
+            // bp 3
             "Vetr Bearded Axe" => "{{BPReward|Season Three|gold|Tier 37}}",
             "Beowulf Crushers" => "{{BPReward|Season Three Classic|gold|Tier 69}}",
             "Jötunn Armaments" => "{{BPReward|Season Three|gold|Tier 53}}",
@@ -306,14 +306,14 @@ public partial class WriterData
             "Tundra Geir" => "{{BPReward|Season Three|gold|Tier 15}}",
             "Frost Brandr" => "{{BPReward|Season Three|gold|Tier 29}}",
 
-            // bp 4. TODO: changes in classic
+            // bp 4
             "Royal Crescent" => "{{BPReward|Season Four|gold|Tier 21}}",
             "Fang & Claw" => "{{BPReward|Season Four Classic|gold|Tier 69}}",
             "Flintlock Claws" => "{{BPReward|Season Four|gold|Tier 25}}",
             "Prideful Roar" => "{{BPReward|Season Four|gold|Tier 29}}",
             "Booming Belfry" => "{{BPReward|Season Four|gold|Tier 9}}",
             "Lion's Reign" => "{{BPReward|Season Four|free|Tier 6}}",
-            "Glory of the Lions" => "{{BPReward|Season Four|gold|Tier 69}}",
+            "Glory of the Lions" => "{{BPReward|Season Four|gold|Tier 69}}<br>{{BPReward|Season Four Classic|free|Tier 66}}",
             "Mosaic Maul" => "{{BPReward|Season Four|gold|Tier 15}}",
             "Stained Shards" => "{{BPReward|Season Four|gold|Tier 57}}",
             "Lighted Eminence" => "{{BPReward|Season Four|gold|Tier 41}}",
@@ -322,7 +322,7 @@ public partial class WriterData
             "Righteous Spine" => "{{BPReward|Season Four|gold|Tier 81}}",
             "Saber of Order" => "{{BPReward|Season Four|gold|Tier 77}}",
 
-            // bp 5. TODO: changes in classic
+            // bp 5
             "Jupiter Rising" => "{{BPReward|Season Five|gold|Tier 77}}",
             "Stellar Strikes" => "{{BPReward|Season Five Classic|gold|Tier 69}}",
             "Gemini's Wrath" => "{{BPReward|Season Five|free|Tier 6}}",
@@ -335,10 +335,10 @@ public partial class WriterData
             "Photon Sphere" => "{{BPReward|Season Five|gold|Tier 57}}",
             "Retrograde Rocket" => "{{BPReward|Season Five|gold|Tier 29}}",
             "Singularity Sickle" => "{{BPReward|Season Five|gold|Tier 37}}",
-            "Twin Solstice" => "{{BPReward|Season Five|gold|Tier 69}}",
+            "Twin Solstice" => "{{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}",
             "Astroblade" => "{{BPReward|Season Five|gold|Tier 15}}",
 
-            // bp 6. TODO: changes in classic
+            // bp 6
             "Beckoning Bramble" => "{{BPReward|Season Six|gold|Tier 37}}",
             "Beetle Stampede" => "{{BPReward|Season Six Classic|gold|Tier 35}}",
             "Grisly Burrs" => "{{BPReward|Season Six|gold|Tier 9}}",
