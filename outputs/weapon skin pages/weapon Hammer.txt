@@ -20,7 +20,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Bullhorn Basher|image=Bullhorn Basher.png|desc=[[Hall Minotaur Teros]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Champion's Hammer|image=Champion's Hammer.png|desc=[[Golden Gladiator Zuva]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Chikara|image=Chikara.png|desc=[[Ancestral Zuva]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Circuit Breaker|image=Circuit Breaker.png|desc=[[Mad Genius Scarlet]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Circuit Breaker|image=AniCircuit Breaker.gif|desc=[[Mad Genius Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Combustion|image=Combustion.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=205|height=170|name=Compressed Metal Mallet|image=Compressed Metal Mallet.png|desc=[[Toph]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Concrete Slam|image=Concrete Slam.png|desc=[[Four Arms]]|descheight=55px}}
@@ -65,7 +65,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Heart of the Volcano|image=Heart of the Volcano.png|desc=[[Molten Kor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Heart Smasher|image=Heart Smasher.png|desc=[[The First Real Bear Gnash]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Heavy Hitter|image=Heavy Hitter.png|desc=[[Gruagach]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Heirloom (Hammer Skin)|displayname=Heirloom|image=Heirloom (Hammer Skin).png|desc=[[Madame Yumiko]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Heirloom (Hammer Skin)|displayname=Heirloom|image=Heirloom (Hammer).png|desc=[[Madame Yumiko]]|descheight=55px}}
 {{itembox|width=205|height=170|name=High Noon|image=High Noon.png|desc=[[Serape Kid Cassidy]]|descheight=55px}}
 {{itembox|width=205|height=170|name=High-Impact Hammer|image=High-Impact Hammer.png|desc=[[High Impact Sentinel]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Highland Hammer|image=Highland Hammer.png|desc=[[Cú Sídhe Sentinel]]|descheight=55px}}
@@ -128,7 +128,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Sterling Sledge|image=Sterling Sledge.png|desc=[[Silvermane Gnash]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Stop and Drop|image=Stop and Drop.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Strike of the Wise|image=Strike of the Wise.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Striking Magi ☆ Miracle Mallet|image=Striking Magi ☆ Miracle Mallet.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Striking Magi ☆ Miracle Mallet|displayname={{small|Striking Magi ☆ Miracle Mallet}}|image=Striking Magi ☆ Miracle Mallet.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sucker Punch|image=Sucker Punch.png|desc=[[Cho-Kor-late]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Sun Dial|image=Sun Dial.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Taurus Rebellion|image=Taurus Rebellion.png|desc=[[Fallen Prince Teros]]|descheight=55px}}

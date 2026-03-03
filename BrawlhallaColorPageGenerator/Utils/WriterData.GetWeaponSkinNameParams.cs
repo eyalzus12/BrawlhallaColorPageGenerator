@@ -34,6 +34,7 @@ public partial class WriterData
         "GreatswordBP7",
         "GreatswordBP12",
         "GreatswordMechaArmor",
+        "HammerMagicalGirl",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -77,7 +78,8 @@ public partial class WriterData
                 if (!colorMode) imageName = "Knockouts (Weapon Skin)";
                 break;
             case "HammerMadame":
-                imageName = weaponSkinName = "Heirloom (Hammer Skin)";
+                weaponSkinName = "Heirloom (Hammer Skin)";
+                imageName = colorMode ? weaponSkinName : "Heirloom (Hammer)";
                 break;
             case "RocketLanceMotorcycle":
                 weaponSkinName = "Burnout (Weapon Skin)";
@@ -123,6 +125,10 @@ public partial class WriterData
                 break;
             case "FistsMythicWuShang":
                 isAnimated = true;
+                break;
+            case "HammerScientist":
+                isAnimated = true;
+                if (!colorMode) imageName = "AniCircuit Breaker";
                 break;
         }
 
