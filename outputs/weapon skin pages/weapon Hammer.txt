@@ -9,7 +9,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Astro Slammer|image=Astro Slammer.png|desc=[[Mecha Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Atom Smasher|image=Atom Smasher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Atomic Sledge|image=Atomic Sledge.png|desc=[[Kor in Space]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Hammer|image=Aztlán Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Hammer|image=Aztlán Hammer.png|desc={{BPReward|Season Eleven|gold|Tier 63}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Barbaric Rage|image=Barbaric Rage.png|desc=[[Mogar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bass Drop|image=Bass Drop.png|desc=[[High Frequency Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Blooming Dream|image=Blooming Dream.png|desc=[[Puella Papilio Scarlet]]|descheight=55px}}
@@ -21,12 +21,12 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Champion's Hammer|image=Champion's Hammer.png|desc=[[Golden Gladiator Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Chikara|image=Chikara.png|desc=[[Ancestral Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Circuit Breaker|image=Circuit Breaker.png|desc=[[Mad Genius Scarlet]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Combustion|image=Combustion.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Combustion|image=Combustion.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Compressed Metal Mallet|image=Compressed Metal Mallet.png|desc=[[Toph]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Concrete Slam|image=Concrete Slam.png|desc=[[Four Arms]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Crystalline Mallet|image=Crystalline Mallet.png|desc=[[Metadev Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cultivator's Mallet|image=Cultivator's Mallet.png|desc=[[Gardener Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Gavel|image=Cyber Myk Gavel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Gavel|image=Cyber Myk Gavel.png|desc={{BPReward|Season Eight|gold|Tier 67}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Cyclone Hammer|image=Cyclone Hammer.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Crusher|image=Darkheart Crusher.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Davey Jones' Anchor|image=Davey Jones' Anchor.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -36,7 +36,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Divine Intervention|image=Divine Intervention.png|desc=[[The Korinthian]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dragon Sledge|image=Dragon Sledge.png|desc=[[Tokyo Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dragon's Woe|image=Dragon's Woe.png|desc=[[Warchief Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Hammer|image=Dwarven-Forged Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Hammer|image=Dwarven-Forged Hammer.png|desc={{BPReward|Season Seven|free|Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Earthshaker Seismic Sledge|image=Earthshaker Seismic Sledge.png|desc=[[Steam Tank Scarlet]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Executive Order|image=Executive Order.png|desc=[[President Sentinel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Face-Beater|image=Face-Beater.png|desc=[[Cupcake Cassidy]]|descheight=55px}}
@@ -47,7 +47,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=French Horn|image=French Horn.png|desc=[[Band Kid Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Frostbitten Justice|image=Frostbitten Justice.png|desc=[[Frost Tech Sentinel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fruitcake|image=Fruitcake.png|desc=[[Nutcracker Cassidy]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Galactic Gavel|image=Galactic Gavel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Galactic Gavel|image=Galactic Gavel.png|desc={{BPReward|Season Five|gold|Tier 81}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Gatekeeper|image=Gatekeeper.png|desc=[[Matsuri Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glacier Gavel|image=Glacier Gavel.png|desc=[[Arctic Fox Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Golden Striker|image=Golden Striker.png|desc=[[Cinderguard Thor]]|descheight=55px}}
@@ -58,7 +58,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Guardian Mallet|image=Guardian Mallet.png|desc=[[Royal Warrior Thor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=H4MM3R Time|image=H4MM3R Time.png|desc=[[Bitpunk Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Hammer Decorum|image=Hammer Decorum.png|desc=[[Ritzy Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Hammer of Mercy|image=Hammer of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Hammer of Mercy|image=Hammer of Mercy.png|desc={{BPReward|Season Nine|free|Tier 4}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Hammer|image=Hardlight Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Headache|image=Headache.png|desc=[[The Monster Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Heart of Gold|image=Heart of Gold.png|desc=[[Caelestis Yumiko]]|descheight=55px}}
@@ -75,7 +75,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Ice Angling|image=Ice Angling.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ice Crusher|image=Ice Crusher.png|desc=[[The Yetee Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ice Fishing|image=Ice Fishing.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Ix Chel|image=Ix Chel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ix Chel|image=Ix Chel.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Jellyfishing Net|image=Jellyfishing Net.png|desc=[[Patrick Star]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Laughing Dragon|image=Laughing Dragon.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Lodestone|image=Lodestone.png|desc=[[Rift Dweller Teros]]|descheight=55px}}
@@ -85,17 +85,17 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Manhandle Slam|image=Manhandle Slam.png|desc=[[Becky Lynch]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Marigold Maul|image=Marigold Maul.png|desc=[[Calavera Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Morning Maul|image=Morning Maul.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Mosaic Maul|image=Mosaic Maul.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Mosaic Maul|image=Mosaic Maul.png|desc={{BPReward|Season Four|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Mouse Trap|image=Mouse Trap.png|desc=[[Nutcracker Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Mrs. Fix It|image=Mrs. Fix It.png|desc=[[Steamsmith Scarlet]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neo City Hammer|image=Neo City Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Hammer|image=Neo City Hammer.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Neutron Maul|image=Neutron Maul.png|desc=[[Cyber Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare|image=Nightmare.png|desc=[[Armored Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Mauler|image=Nightmare Mauler.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Hammer|image=Ninpō Unsealed Hammer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Hammer|image=Ninpō Unsealed Hammer.png|desc={{BPReward|Season Twelve|gold|Past Tier 8}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Numbskull|image=Numbskull.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nutsy|image=Nutsy.png|desc=[[Sandy Cheeks]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Offworld|image=Offworld.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Offworld|image=Offworld.png|desc={{BPReward|Season Two|gold|Tier 9}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Ornate Anchor|image=Ornate Anchor.png|desc=ERROR|descheight=55px}}
 {{itembox|width=200|height=170|name=Peafowl Cane|image=Peafowl Cane.png|desc=[[Elegant Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=People's Elbow|image=People's Elbow.png|desc=[[The Rock]]|descheight=55px}}
@@ -109,7 +109,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Root of the Forest|image=Root of the Forest.png|desc=[[Fangwild Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Santa's Sleigh-er|image=Santa's Sleigh-er.png|desc=[[Reindeer Games Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sattelite Smash|image=Sattelite Smash.png|desc=[[Space Race Cassidy]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Scrapyard Bruiser|image=Scrapyard Bruiser.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Scrapyard Bruiser|image=Scrapyard Bruiser.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Season's Beatings|image=Season's Beatings.png|desc=[[Wreck the Halls Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Selena's Smasher|image=Selena's Smasher.png|desc=[[Globox]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Shadaloo Scepter|image=Shadaloo Scepter.png|desc=[[M. Bison]]|descheight=55px}}
@@ -127,8 +127,8 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Stake Driver|image=Stake Driver.png|desc=[[Dawnwalker Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sterling Sledge|image=Sterling Sledge.png|desc=[[Silvermane Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stop and Drop|image=Stop and Drop.png|desc=[[Big Rig Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Strike of the Wise|image=Strike of the Wise.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Striking Magi ☆ Miracle Mallet|image=Striking Magi ☆ Miracle Mallet.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Strike of the Wise|image=Strike of the Wise.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Striking Magi ☆ Miracle Mallet|image=Striking Magi ☆ Miracle Mallet.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sucker Punch|image=Sucker Punch.png|desc=[[Cho-Kor-late]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sun Dial|image=Sun Dial.png|desc=[[Indomitable Daylight Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Taurus Rebellion|image=Taurus Rebellion.png|desc=[[Fallen Prince Teros]]|descheight=55px}}
@@ -142,7 +142,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=The Herald|image=The Herald.png|desc=[[Marauder Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Hibernator|image=The Hibernator.png|desc=[[Bear'dvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Iron Barrel|image=The Iron Barrel.png|desc=[[High Noon Cassidy]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Kingsman|image=The Kingsman.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=The Kingsman|image=The Kingsman.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=The Phenom|image=The Phenom.png|desc=[[The Undertaker]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Rook|image=The Rook.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Shrine|image=The Shrine.png|desc=[[Fox Spirit Yumiko]]|descheight=55px}}
@@ -150,18 +150,18 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=The Starsmasher|image=The Starsmasher.png|desc=[[Metadev Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Steamroller|image=The Steamroller.png|desc=[[Steam Sentry Scarlet]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Throwing Anchor|image=Throwing Anchor.png|desc=[[Shovel Knight]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Titanium Crusher|image=Titanium Crusher.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Torii Mallet|image=Torii Mallet.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Titanium Crusher|image=Titanium Crusher.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=200|height=170|name=Torii Mallet|image=Torii Mallet.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Hammer|image=Toybox Hammer.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Unicorn Stampede|image=Unicorn Stampede.png|desc=[[Xavier Woods]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Hammer|image=Valiant Armament Hammer.png|desc=[[Mecha Knight Magyar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Verdict|image=Verdict.png|desc=[[Gatekeeper Teros]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Wild's Smasher|image=Wild's Smasher.png|desc={{BPReward|Season Six|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Wings of Victory|image=Wings of Victory.png|desc=[[Airship Scarlet]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wrought Iron Street Lamp|image=Wrought Iron Street Lamp.png|desc=ERROR|descheight=55px}}
 {{itembox|width=200|height=170|name=Yggdrasil's Branch|image=Yggdrasil's Branch.png|desc=[[Vanir Guardian Bödvar]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ymir's Sledge|image=Ymir's Sledge.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Yokai Slam|image=Yokai Slam.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ymir's Sledge|image=Ymir's Sledge.png|desc={{BPReward|Season Three|gold|Tier 77}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Yokai Slam|image=Yokai Slam.png|desc={{BPReward|Season One|gold|Tier 41}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Yokai Smash|image=Yokai Smash.png|desc=[[Cursed Mask Yumiko]]|descheight=55px}}
 {{itembox/bottom}}
 

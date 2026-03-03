@@ -6,17 +6,17 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Ace of Spades|image=Ace of Spades.png|desc=[[Hunter]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Aqua Blasters|image=Aqua Blasters.png|desc=[[Water Wars Cross]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Arts and Crafts|image=Arts and Crafts.png|desc=[[Detention Ada]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Blasters|image=Asgardian Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Blasters|image=Asgardian Blasters.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=ASM Blasters|image=ASM Blasters.png|desc=[[Deep Sea Lucien]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Asp and Adder|image=Asp and Adder.png|desc=[[Amun-Raza]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Blasters|image=Aztlán Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Blasters|image=Aztlán Blasters.png|desc={{BPReward|Season Eleven|free|Tier 4}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Bahian Blasters|image=Bahian Blasters.png|desc=[[Streetwear Vivi]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Barnacle Blasters|image=Barnacle Blasters.png|desc=[[Cursed Gold Thatch]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Beautiful & Deadly|image=Beautiful & Deadly.png|desc=[[Suitor Lucien]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Big Dog Blasters|image=Big Dog Blasters.png|desc=[[Biker Thatch]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Birdshot|image=Birdshot.png|desc=[[Scarecrow Nix]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Blaster Pistols|image=Blaster Pistols.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Blasters of Mercy|image=Blasters of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Blaster Pistols|image=Blaster Pistols.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=200|height=170|name=Blasters of Mercy|image=Blasters of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 33}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Blazing Deringers|image=Blazing Deringers.png|desc=[[Vampire Huntress Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Blazing Fire|image=Blazing Fire.png|desc=[[Heatblast]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bolt Blasters|image=Bolt Blasters.png|desc=[[Stormlord Ada]]|descheight=55px}}
@@ -32,7 +32,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Chicago Typewriters|image=Chicago Typewriters.png|desc=[[Boss Cross]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Close Quarters|image=Close Quarters.png|desc=[[Shadow Ops Isaiah]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Commander and Chief|image=Commander and Chief.png|desc=[[Admiral Isaiah]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Pistols|image=Cyber Myk Pistols.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Pistols|image=Cyber Myk Pistols.png|desc={{BPReward|Season Eight|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Dark Conjurers|image=Dark Conjurers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Dark Elf Blasters|image=Dark Elf Blasters.png|desc=[[Vraxx the Viking]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Blasters|image=Darkheart Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -51,7 +51,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Dual Pistols|image=Dual Pistols.png|desc=[[Lara Croft]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dueling Pistols|image=Dueling Pistols.png|desc=[[Dark of Night Lucien]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Duty & Sacrifice|image=Duty & Sacrifice.png|desc=[[Dreadnought Lucien]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Blasters|image=Dwarven-Forged Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Blasters|image=Dwarven-Forged Blasters.png|desc={{BPReward|Season Seven|gold|Tier 17}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Ebon Blasters|image=Ebon Blasters.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Eclipsers|image=Eclipsers.png|desc=[[Metadev Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Electrode Guns|image=Electrode Guns.png|desc=[[Princess Bubblegum]]|descheight=55px}}
@@ -60,28 +60,28 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Exception Handlers|image=Exception Handlers.png|desc=[[Fatal Error Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Exquisite Cannons|image=Exquisite Cannons.png|desc=[[Classy Thatch]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fairy Fire|image=Fairy Fire.png|desc=[[Elven Ranger Diana]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fiendish Howl|image=Fiendish Howl.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fiendish Howl|image=Fiendish Howl.png|desc={{BPReward|Season One|gold|Tier 50}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Fire & Brimstone|image=Fire & Brimstone.png|desc=[[Devil Cross]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Firewalls|image=Firewalls.png|desc=[[Bitpunk Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Five-Sevens|image=Five-Sevens.png|desc=[[Shadowstalker Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Flight Risks|image=Flight Risks.png|desc=[[Lockdown Nix]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Flint-Lockers|image=Flint-Lockers.png|desc=[[Vraxxy Jones]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Flintlock Claws|image=Flintlock Claws.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Flintlock Claws|image=Flintlock Claws.png|desc={{BPReward|Season Four|gold|Tier 25}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Forbidden Lamps|image=Forbidden Lamps.png|desc=[[Ferrymoth Reno]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Galopante Blasts|image=Galopante Blasts.png|desc=[[Grã-mestra Batista]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gemini's Wrath|image=Gemini's Wrath.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Gemini's Wrath|image=Gemini's Wrath.png|desc={{BPReward|Season Five|free|Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Ghost and Goblin|image=Ghost and Goblin.png|desc=[[Horseman Lucien]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glimpse of Death|image=Glimpse of Death.png|desc=[[Infernal Cross]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Glitz & Glam|image=Glitz & Glam.png|desc=[[Gothic Chic Nix]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Golden Gears|image=Golden Gears.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Golden Gears|image=Golden Gears.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Blasters|image=Goldforged Blasters.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
-{{itembox|width=200|height=170|name=Grisly Burrs|image=Grisly Burrs.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Grisly Burrs|image=Grisly Burrs.png|desc={{BPReward|Season Six|gold|Tier 9}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Guileless Hellfire Blasters|image=Guileless Hellfire Blasters.png|desc=[[Lilith]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Hardlight Blasters|image=Hardlight Blasters.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Hraesvelgr's Eyes|image=Hraesvelgr's Eyes.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=IB-94 Pistol & E-11 Blaster|image=IB-94 Pistol & E-11 Blaster.png|desc=[[The Mandalorian]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ice 'Em|image=Ice 'Em.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Jötunn Armaments|image=Jötunn Armaments.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Jötunn Armaments|image=Jötunn Armaments.png|desc={{BPReward|Season Three|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Jubilation Blasters|image=Jubilation Blasters.png|desc=[[Swanky Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Juicy Carnage Shotguns|image=Juicy Carnage Shotguns.png|desc=[[Krieg]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ketchup & Mustard|image=Ketchup & Mustard.png|desc=[[Brawl Dad Isaiah]]|descheight=55px}}
@@ -104,7 +104,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Net Guns|image=Net Guns.png|desc=[[Sandy Cheeks]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Witnesses|image=Nightmare Witnesses.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Nina's Blasters|image=Nina's Blasters.png|desc=[[Nina Williams]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Blasters|image=Ninpō Unsealed Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Blasters|image=Ninpō Unsealed Blasters.png|desc={{BPReward|Season Twelve|free|Present Tier 4}}|descheight=55px}}
 {{itembox|width=200|height=170|name=No Contest|image=No Contest.png|desc=[[Prizefighter Cross]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Outbreak Perfected|image=Outbreak Perfected.png|desc=[[Warlock]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Poppin’ TNTina|image=Poppin’ TNTina.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -147,7 +147,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Tactical Pistols|image=Tactical Pistols.png|desc=[[Survivor Lara Croft]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tactical Sidearms|image=Tactical Sidearms.png|desc=[[Spec-Ops Lucien]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Teacher's Pets|image=Teacher's Pets.png|desc=[[Professor Vraxx]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tempo and Groove|image=Tempo and Groove.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Tempo and Groove|image=Tempo and Groove.png|desc={{BPReward|Season Two|gold|Tier 41}}|descheight=55px}}
 {{itembox|width=200|height=170|name=The Consequences|image=The Consequences.png|desc=[[Wasteland Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Doctor's Orders|image=The Doctor's Orders.png|desc=[[Nemesis Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Hunters|image=The Hunters.png|desc=[[Krampus Cross]]|descheight=55px}}
@@ -158,9 +158,9 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Thunder Bass Blasters|image=Thunder Bass Blasters.png|desc=[[DJ Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tide Turners|image=Tide Turners.png|desc=[[Poseidon Thatch]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Pistol|image=Toybox Pistol.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Blasters|image=Valiant Armament Blasters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Blasters|image=Valiant Armament Blasters.png|desc={{BPReward|Season Ten|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Vengeance at Hand|image=Vengeance at Hand.png|desc=[[Soulbound Diana]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Venom Spitters|image=Venom Spitters.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Venom Spitters|image=Venom Spitters.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=VM-19 Pistol & E-11 Blaster|image=VM-19 Pistol & E-11 Blaster.png|desc=[[Kay Vess]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Whirlwinds|image=Whirlwinds.png|desc=[[Dust Devil Cassidy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Winged Danger|image=Winged Danger.png|desc=[[Raven Rogue Lucien]]|descheight=55px}}

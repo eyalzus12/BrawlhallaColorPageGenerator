@@ -5,10 +5,10 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=AG Tactical System|image=AG Tactical System.png|desc=[[Shadowstalker Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Alpine's Ace|image=Alpine's Ace.png|desc=[[Alpine Kaya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Antler Strike|image=Antler Strike.png|desc=[[Huntress Kaya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Bow|image=Asgardian Bow.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Bow|image=Aztlán Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Bow|image=Asgardian Bow.png|desc=[[Collectors Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Bow|image=Aztlán Bow.png|desc={{BPReward|Season Eleven|gold|Tier 13}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Azure|image=Azure.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Balanced Counsel|image=Balanced Counsel.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Balanced Counsel|image=Balanced Counsel.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bane Bringer|image=Bane Bringer.png|desc=[[Cursed Mask Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Be True|image=Be True.png|desc=[[Matchmaker Vector]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Blueprint|image=Blueprint.png|desc=[[Vector Model 01]]|descheight=55px}}
@@ -26,8 +26,8 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Coastline Pulse|image=Coastline Pulse.png|desc=[[Beachside Zariel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Counter Curse|image=Counter Curse.png|desc=[[Spellbreaker Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cupid's Bow|image=Cupid's Bow.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
-{{itembox|width=200|height=170|name=Cursed Bow|image=Cursed Bow.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Bow|image=Cyber Myk Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cursed Bow|image=Cursed Bow.png|desc={{BPReward|Season One|gold|Tier 57}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Bow|image=Cyber Myk Bow.png|desc={{BPReward|Season Eight|gold|Tier 26}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Daemon Killer|image=Daemon Killer.png|desc=[[Shin Sekai Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dark Horse|image=Dark Horse.png|desc=[[Deep One Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Longbow|image=Darkheart Longbow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -42,7 +42,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Devoted Shot|image=Devoted Shot.png|desc=[[Soulmate Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Digital Sample|image=Digital Sample.png|desc=[[Modular Rift Ember]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dragon Spawn Bow|image=Dragon Spawn Bow.png|desc=[[Dragon Heart Ember]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Bow|image=Dwarven-Forged Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Bow|image=Dwarven-Forged Bow.png|desc={{BPReward|Season Seven|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Elm Recurve Bow|image=Elm Recurve Bow.png|desc=[[Caelestis Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Empress' Favor|image=Empress' Favor.png|desc=[[Ascendant Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Evergrowth|image=Evergrowth.png|desc=[[Grovewarden Ember]]|descheight=55px}}
@@ -77,13 +77,13 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=New Best Friend|image=New Best Friend.png|desc=[[Daryl]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Bow|image=Nightmare Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Denkyū|image=Ninpō Denkyū.png|desc=[[Future Nokizaru Koji]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Bow|image=Ninpō Unsealed Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Bow|image=Ninpō Unsealed Bow.png|desc={{BPReward|Season Twelve|free|Past Tier 23}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Opal's Bow|image=Opal's Bow.png|desc=[[Pearl]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Owl's Flight|image=Owl's Flight.png|desc=[[Athena Kaya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Packbane|image=Packbane.png|desc=[[Ember the Hunter]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Pew Pew|image=Pew Pew.png|desc=[[Lil' Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Piercing Poison|image=Piercing Poison.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Prideful Roar|image=Prideful Roar.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Prideful Roar|image=Prideful Roar.png|desc={{BPReward|Season Four|gold|Tier 29}}|descheight=55px}}
 {{itembox|width=200|height=170|name=PWNed|image=PWNed.png|desc=[[Rootkit Ransom]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Rain of Fire|image=Rain of Fire.png|desc=[[Shogun Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Recurve Bow|image=Recurve Bow.png|desc=[[Survivor Lara Croft]]|descheight=55px}}
@@ -91,17 +91,17 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Rising Glory|image=Rising Glory.png|desc=[[Emperor Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Royal Spoils|image=Royal Spoils.png|desc=[[Magpie Munin]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Runewood Bow|image=Runewood Bow.png|desc=[[Elven Ranger Diana]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sagittarius Crescent|image=Sagittarius Crescent.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Sagittarius Crescent|image=Sagittarius Crescent.png|desc={{BPReward|Season Five|gold|Tier 53}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Sakura Strike|image=Sakura Strike.png|desc=[[Matsuri Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Sanguine Flight|image=Sanguine Flight.png|desc=[[Bitten Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Security Measure|image=Security Measure.png|desc=[[Cryptomage Diana]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Shadowbolt|image=Shadowbolt.png|desc=[[Street Samurai Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Shibuya Recurve|image=Shibuya Recurve.png|desc=[[Tokyo Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Silent Wings|image=Silent Wings.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Skadi's Bow|image=Skadi's Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Skadi's Bow|image=Skadi's Bow.png|desc={{BPReward|Season Three|gold|Tier 25}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Skybound|image=Skybound.png|desc=[[Hotshot Vector]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Bow|image=Skyforged Bow.png|cost={{Coin|glory|5000}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Smooth Waves|image=Smooth Waves.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Smooth Waves|image=Smooth Waves.png|desc={{BPReward|Season Two|free|Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Soul Seeker|image=Soul Seeker.png|desc=[[Outerworld Zariel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Soulbane|image=Soulbane.png|desc=[[Lichlord Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Spiteful Scepter|image=Spiteful Scepter.png|desc=[[Soulbound Diana]]|descheight=55px}}
@@ -115,12 +115,12 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=The Albatross|image=The Albatross.png|desc=[[Sky Scourge Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Grips|image=The Grips.png|desc=[[Greased Lightning Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The North Wind|image=The North Wind.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Thistle's Flight|image=Thistle's Flight.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Thistle's Flight|image=Thistle's Flight.png|desc={{BPReward|Season Six|gold|Tier 29}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Bow|image=Toybox Bow.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Twilight's Emissary|image=Twilight's Emissary.png|desc=[[Inari Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Twin Tails|image=Twin Tails.png|desc=[[Fox Spirit Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Twirling Flourish|image=Twirling Flourish.png|desc=[[Starlet Munin]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Bow|image=Valiant Armament Bow.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Bow|image=Valiant Armament Bow.png|desc={{BPReward|Season Ten|gold|Tier 58}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Voice of the Forest|image=Voice of the Forest.png|desc=[[Tengu Koji]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Voice of the Snow|image=Voice of the Snow.png|desc=[[Arctic Fox Yumiko]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wandering Wind|image=Wandering Wind.png|desc=[[Ronin Koji]]|descheight=55px}}

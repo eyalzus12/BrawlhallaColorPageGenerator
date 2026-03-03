@@ -7,11 +7,11 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Ambition|image=Ambition.png|desc=[[Imperial Lord Dusk]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Arctic Edge Spear|image=Arctic Edge Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Asgardian Saberstaff|image=Asgardian Saberstaff.png|cost={{Coin|mammoth|140}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Spear|image=Asgardian Spear.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Astro Shard|image=Astro Shard.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Spear|image=Asgardian Spear.png|desc=[[Collectors Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Astro Shard|image=Astro Shard.png|desc={{BPReward|Season Two|gold|Tier 79}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Aurora's Spear|image=Aurora's Spear.png|desc=[[Barbara]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Autumnal Scepter|image=Autumnal Scepter.png|desc=[[Equinox Arcadia]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Spear|image=Aztlán Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Spear|image=Aztlán Spear.png|desc={{BPReward|Season Eleven|gold|Tier 67}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Bamboo Staff|image=Bamboo Staff.png|desc=[[Po]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bo Staff|image=Bo Staff.png|desc=[[Donatello]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Bone Shard|image=Bone Shard.png|desc=[[Jurassic Gnash]]|descheight=55px}}
@@ -26,12 +26,12 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Darkheart Spine|image=Darkheart Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Darth Maul's Double-Bladed Lightsaber|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Devilish Spike|image=Devilish Spike.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Devilish Spike|image=Devilish Spike.png|desc={{BPReward|Season One|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Divine Question|image=Divine Question.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dreamshard|image=Dreamshard.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk (Weapon Skin).png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Dwarven Awl|image=Dwarven Awl.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Spear|image=Dwarven-Forged Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Spear|image=Dwarven-Forged Spear.png|desc={{BPReward|Season Seven|gold|Tier 77}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Eba's Retribution|image=Eba's Retribution.png|desc=[[Snake Goddess Nai]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Eclipsing Faith|image=Eclipsing Faith.png|desc=[[High Priestess Nai]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Elsbeth's Beskar Spear|image=Elsbeth's Beskar Spear.png|desc=[[The Mandalorian]]|descheight=55px}}
@@ -84,14 +84,14 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Museum-Quality Spear|image=Museum-Quality Spear.png|desc=[[Tomb Tamer Nai]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nanometal Spear|image=Nanometal Spear.png|desc=[[Cutting Edge Hattori]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Needle Drop Spear|image=Needle Drop Spear.png|desc=[[DJ Ada]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Neo City Spear|image=Neo City Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Spear|image=Neo City Spear.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Spine|image=Nightmare Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninetails|image=Ninetails.png|desc=[[Kitsune Hattori]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Spear|image=Ninpō Unsealed Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Spear|image=Ninpō Unsealed Spear.png|desc={{BPReward|Season Twelve|gold|Future Tier 4}}|descheight=55px}}
 {{itembox|width=200|height=170|name=No One is Ready|image=No One is Ready.png|desc=[[Asuka]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Null Pointer|image=Null Pointer.png|desc=[[Fatal Error Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Number 1 Fan|image=Number 1 Fan.png|desc=[[Team Spirit Gnash]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Odin's Spear|image=Odin's Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Odin's Spear|image=Odin's Spear.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Old School Spear|image=Old School Spear.png|desc=[[Dark Age Orion]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Oni Spear|image=Oni Spear.png|desc=[[Oni no Hattori]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Parasol Pike|image=Parasol Pike.png|desc=[[Gentleman Wu Shang]]|descheight=55px}}
@@ -100,7 +100,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Pearl's Spear|image=Pearl's Spear.png|desc=[[Pearl]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Piercing Regret|image=Piercing Regret.png|desc=[[Briar Rose Arcadia]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Pig Sticker|image=Pig Sticker.png|desc=[[Outback Gnash]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Pike of the Forgotten|image=Pike of the Forgotten.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Pike of the Forgotten|image=Pike of the Forgotten.png|desc={{BPReward|Season Six|gold|Tier 81}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Pillar of the Heavens|image=Pillar of the Heavens.png|desc=[[Wu Shang Kong]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Pincer Pike|image=Pincer Pike.png|desc=[[Carapace Armored Arcadia]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Plastic Pike|image=Plastic Pike.png|desc=[[Tinyfigure Seven]]|descheight=55px}}
@@ -116,7 +116,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Red-Hot Ranseur|image=Red-Hot Ranseur.png|cost={{Coin|mammoth|40}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Regifted Spear|image=Regifted Spear.png|desc=[[Reindeer Games Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=RGB Spear|image=RGB Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Righteous Spine|image=Righteous Spine.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Righteous Spine|image=Righteous Spine.png|desc={{BPReward|Season Four|gold|Tier 81}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Rosewood Spear|image=Rosewood Spear.png|desc=[[Red Rose Kaya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Rotten Oar|image=Rotten Oar.png|desc=[[Cthu'shang]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Salvaged Yari|image=Salvaged Yari.png|desc=[[Wanderer Seven]]|descheight=55px}}
@@ -135,13 +135,13 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Ski Pole|image=Ski Pole.png|desc=[[Alpine Kaya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Spear|image=Skyforged Spear.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Sol Spear|image=Sol Spear.png|desc=[[Empress Nai]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Spear of Mercy|image=Spear of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of Mercy|image=Spear of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 58}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Spear of the Future|image=Spear of the Future.png|desc=[[Technomancer Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Spear of the Living|image=Spear of the Living.png|desc=[[Undying Mirage]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Spear of Wisdom|image=Spear of Wisdom.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Spear of Wisdom|image=Spear of Wisdom.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Specter Spear|image=Specter Spear.png|desc=[[Mirage Incarnate]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Spirit's Passing|image=Spirit's Passing.png|desc=[[Lady of the Dead Nai]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Sprocketeer|image=Sprocketeer.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Sprocketeer|image=Sprocketeer.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=200|height=170|name=Starforged Spear|image=Starforged Spear.png|desc=[[Metadev Orion]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stuffing Spear|image=Stuffing Spear.png|desc=[[Diabolical Doll Arcadia]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Surt's Arrow|image=Surt's Arrow.png|desc=[[Cinderguard Brynn]]|descheight=55px}}
@@ -162,10 +162,10 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Trident of Antiquity|image=Trident of Antiquity.png|desc=[[Atlantean Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Trueflight|image=Trueflight.png|desc=[[Corsair Orion]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Truth|image=Truth.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tundra Geir|image=Tundra Geir.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Tundra Geir|image=Tundra Geir.png|desc={{BPReward|Season Three|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Tundra's Talon|image=Tundra's Talon.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Twin Solstice|image=Twin Solstice.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Twin Solstice|image=Twin Solstice.png|desc={{BPReward|Season Five|gold|Tier 69}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc={{BPReward|Season Ten|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valkyrie's Fury|image=Valkyrie's Fury.png|desc=[[Völsung Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Vector (Weapon Skin)|displayname=Vector|image=Vector Spear.png|desc=[[Wasteland Ada]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Venom of Eba|image=Venom of Eba.png|desc=[[Death Adder Hattori]]|descheight=55px}}

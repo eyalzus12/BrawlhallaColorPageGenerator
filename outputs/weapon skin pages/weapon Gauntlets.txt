@@ -4,9 +4,9 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox/top}}
 {{itembox|width=200|height=170|name=Apocalypse Hands|image=Apocalypse Hands.png|desc=[[Hellboy]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Apothecary Mitts|image=Apothecary Mitts.png|desc=[[Plague Knight]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Gauntlets|image=Asgardian Gauntlets.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Gauntlets|image=Asgardian Gauntlets.png|desc=[[Collectors Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Automatons|image=Automatons.png|desc=[[Hardsuit Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Gauntlets|image=Aztlán Gauntlets.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Gauntlets|image=Aztlán Gauntlets.png|desc={{BPReward|Season Eleven|gold|Tier 45}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Beach Bash|image=Beach Bash.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=200|height=170|name=Bear Arms|image=Bear Arms.png|desc=[[Raydvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Beta Thrusters|image=Beta Thrusters.png|desc=[[Project-0NYX]]|descheight=55px}}
@@ -23,10 +23,10 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Coco-knuckles|image=Coco-knuckles.png|desc=[[Dog Days Mordex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Collision Rocket Fists|image=Collision Rocket Fists.png|desc=[[Termidex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Corellian Flight Gloves|image=Corellian Flight Gloves.png|desc=[[Han Solo]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Crystal Clutch|image=Crystal Clutch.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Crystal Clutch|image=Crystal Clutch.png|desc={{BPReward|Season Three|gold|Tier 69|small}}<br>{{BPReward|Season Three Classic|free|Tier 66|small}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Ctrl & Delete|image=Ctrl & Delete.png|desc=[[Sourcecode Petra]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cuffed Regalia|image=Cuffed Regalia.png|desc=[[Gentleman Kor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Gauntlets|image=Cyber Myk Gauntlets.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Gauntlets|image=Cyber Myk Gauntlets.png|desc={{BPReward|Season Eight|gold|Tier 33}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkest Hour|image=Darkest Hour.png|desc=[[Archfiend Zariel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart's Grasp|image=Darkheart's Grasp.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Dead or Alive|image=Dead or Alive.png|desc=[[Star Merc Val]]|descheight=55px}}
@@ -39,11 +39,11 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Dogs of War|image=Dogs of War.png|desc=[[Iron Legion Mordex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dragonheart Gauntlets|image=Dragonheart Gauntlets.png|desc=[[Dragonslayer Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Dueling Dukes|image=Dueling Dukes.png|desc=[[Sir Rayelot]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Gauntlets|image=Dwarven-Forged Gauntlets.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Gauntlets|image=Dwarven-Forged Gauntlets.png|desc={{BPReward|Season Seven|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Earth Gauntlets|image=Earth Gauntlets.png|desc=[[Aang]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Earthly Answers|image=Earthly Answers.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Echidna|image=Echidna.png|desc=[[Chimera Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Eye of the Oni|image=Eye of the Oni.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Eye of the Oni|image=Eye of the Oni.png|desc={{BPReward|Season One|gold|Tier 65}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Fiendish Fists|image=Fiendish Fists.png|desc=[[Armored Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fighting Spirit Gloves|image=Fighting Spirit Gloves.png|desc=[[Ken]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Fisticuff-links|image=Fisticuff-links.png|desc=[[Talk of the Town Tezca]]|descheight=55px}}
@@ -57,7 +57,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Furinkazan Gloves|image=Furinkazan Gloves.png|desc=[[Ryu]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Garnet's Gauntlets|image=Garnet's Gauntlets.png|desc=[[Garnet]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Gauntlets of Dexterity|image=Gauntlets of Dexterity.png|desc=[[Fortune Hunter Caspian]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Gauntlets of Mercy|image=Gauntlets of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Gauntlets of Mercy|image=Gauntlets of Mercy.png|desc={{BPReward|Season Nine|free|Tier 78}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Geocrashers|image=Geocrashers.png|desc=[[Fangwild Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ghoulish Clutches|image=Ghoulish Clutches.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Gloom & Doom|image=Gloom & Doom.png|desc=[[Darkheart Petra]]|descheight=55px}}
@@ -81,21 +81,21 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Hot Lava (Weapon Skin)|displayname=Hot Lava|image=Hot Lava.png|desc=[[Molten Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Humble Hands|image=Humble Hands.png|desc=[[Seeker Wu Shang]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Idle Hands|image=Idle Hands.png|desc=[[Devil Cross]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Infinite & Absolute|image=Infinite & Absolute.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Infinite & Absolute|image=Infinite & Absolute.png|desc={{BPReward|Season Five|gold|Tier 25}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Jaguar Claws|image=Jaguar Claws.png|desc=[[Daimio]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Jaguar Paws|image=Jaguar Paws.png|desc=[[Ocelotl Tezca]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Jake Fists|image=Jake Fists.png|desc=[[Jake]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Jawbreakers|image=Jawbreakers.png|desc=[[Cho-Kor-late]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Judgment Claws|image=Judgment Claws.png|desc=[[Termin-gator Onyx]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Kah-Rah-Tay Gloves|image=Kah-Rah-Tay Gloves.png|desc=[[SpongeBob SquarePants]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Lion's Reign|image=Lion's Reign.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Lion's Reign|image=Lion's Reign.png|desc={{BPReward|Season Four|free|Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Love's Embrace|image=Love's Embrace.png|desc=[[Secret Admirer Zariel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Malady Wear|image=Malady Wear.png|desc=[[Corrupted Blood Tezca]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Martial Fists|image=Martial Fists.png|desc=[[Warrior Spirit Kor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Melting Wax Gauntlets|image=Melting Wax Gauntlets.png|desc=[[KO-rpse Candle Mordex]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Metalbender's Mittens|image=Metalbender's Mittens.png|desc=[[Toph]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Mudras|image=Mudras.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Nightlapse|image=Nightlapse.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Nightlapse|image=Nightlapse.png|desc={{BPReward|Season Two|gold|Tier 50}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Knuckles|image=Nightmare Knuckles.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Kotegakure|image=Ninpō Kotegakure.png|desc=[[Modern Monomi Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Gauntlets|image=Ninpō Unsealed Gauntlets.png|desc=[[Sengoku Rappa Petra]]|descheight=55px}}
@@ -126,7 +126,7 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Skyforged Gauntlets|image=Skyforged Gauntlets.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Sparring Gloves|image=Sparring Gloves.png|desc=[[Chun-Li]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Special Forces|image=Special Forces.png|desc=[[Commando Val]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Spine-Chilling Fists|image=Spine-Chilling Fists.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Spine-Chilling Fists|image=Spine-Chilling Fists.png|desc={{BPReward|Season Six|free|Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Spirit Breakers|image=Spirit Breakers.png|desc=[[Soulbound Onyx]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stellar Nova|image=Stellar Nova.png|desc=[[Metadev Val]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Steven's Shields|image=Steven's Shields.png|desc=[[Stevonnie]]|descheight=55px}}
@@ -141,8 +141,8 @@ The following is a list of all [[Gauntlets]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=The Taggers|image=The Taggers.png|desc=[[All City Caspian]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Gauntlets|image=Toybox Gauntlets.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Treble Makers|image=Treble Makers.png|desc=[[Mad Dog Mordex]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Tyr's Fists|image=Tyr's Fists.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Gauntlets|image=Valiant Armament Gauntlets.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Tyr's Fists|image=Tyr's Fists.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Gauntlets|image=Valiant Armament Gauntlets.png|desc={{BPReward|Season Ten|free|Tier 78}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Vampiric Embrace|image=Vampiric Embrace.png|desc=[[Immortal Caspian]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wave Breakers|image=Wave Breakers.png|desc=[[Riptide Petra]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Winter's Grasp|image=Winter's Grasp.png|desc=[[North Wind Mordex]]|descheight=55px}}

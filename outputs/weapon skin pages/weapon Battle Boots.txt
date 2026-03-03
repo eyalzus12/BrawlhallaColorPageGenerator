@@ -5,26 +5,26 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Achilles' Loss|image=Achilles' Loss.png|desc=[[Gorgon Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Airgliders|image=Airgliders.png|desc=[[Rocket Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ancestral Steps|image=Ancestral Steps.png|desc=[[Ocelotl Tezca]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Asgardian Battle Boots|image=Asgardian Battle Boots.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Boots|image=Aztlán Boots.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Asgardian Battle Boots|image=Asgardian Battle Boots.png|desc=[[Collectors Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Boots|image=Aztlán Boots.png|desc={{BPReward|Season Eleven|gold|Tier 58}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Barra Boots|image=Barra Boots.png|desc=[[Streetwear Vivi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Beetle Stampede|image=Beetle Stampede.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Beowulf Crushers|image=Beowulf Crushers.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Beetle Stampede|image=Beetle Stampede.png|desc={{BPReward|Season Six Classic|gold|Tier 35}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Beowulf Crushers|image=Beowulf Crushers.png|desc={{BPReward|Season Three Classic|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Bitter Entities|image=Bitter Entities.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Boots of Mercy|image=Boots of Mercy.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Boots of Mercy|image=Boots of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 63}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Boots of Nobility|image=Boots of Nobility.png|desc=[[Fleeting Magi ☆ Starlit Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Breezy Magi ☆ Skyward Strikers|image=Breezy Magi ☆ Skyward Strikers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Cloud Kickers|image=Cloud Kickers.png|desc=[[Corrupted Blood Tezca]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Corrupted Steps|image=Corrupted Steps.png|desc=[[Fallen Raptor]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Cyber Myk Megaboots|image=Cyber Myk Megaboots.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Cyber Myk Megaboots|image=Cyber Myk Megaboots.png|desc={{BPReward|Season Eight|gold|Tier 63}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Dame X|image=Dame X.png|desc=[[adidas Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Stompers|image=Darkheart Stompers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Derby Dusters|image=Derby Dusters.png|desc=[[Mach 25 Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Divine Dragoneers|image=Divine Dragoneers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Dwarven-Forged Boots|image=Dwarven-Forged Boots.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Dwarven-Forged Boots|image=Dwarven-Forged Boots.png|desc={{BPReward|Season Seven|gold|Tier 9}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Earthen Striders|image=Earthen Striders.png|desc=[[Druid Mage Chel]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Equine Treads|image=Equine Treads.png|desc=[[Kelpie Thea]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Fang & Claw|image=Fang & Claw.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Fang & Claw|image=Fang & Claw.png|desc={{BPReward|Season Four Classic|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Forum Mid|image=Forum Mid.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Gilded Dress Boots|image=Gilded Dress Boots.png|desc=[[Elegant Zuva]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Goldforged Battle Boots|image=Goldforged Battle Boots.png|cost={{Coin|glory|7500}}<br>+ Skyforged Variant|costheight=55px}}
@@ -38,17 +38,17 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Mammoth Galoshes|image=Mammoth Galoshes.png|desc=ERROR|descheight=55px}}
 {{itembox|width=200|height=170|name=Martelo No Chão|image=Martelo No Chão.png|desc=[[Grã-mestra Batista]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Talons|image=Nightmare Talons.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Ninpō: Unsealed Boots|image=Ninpō Unsealed Boots.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Ninpō: Unsealed Boots|image=Ninpō Unsealed Boots.png|desc={{BPReward|Season Twelve|gold|Past Tier 14}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Olive Stompers|image=Olive Stompers.png|desc=[[Emerald Raptor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=RGB Boots|image=RGB Boots.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Runtime|image=Runtime.png|desc=[[Gridrunner Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Rush Boots|image=Rush Boots.png|desc=[[Mega Man]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Battle Boots|image=Skyforged Battle Boots.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Stealthy Steps|image=Stealthy Steps.png|desc=[[Covert Ops Vivi]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Stellar Strikes|image=Stellar Strikes.png|desc=ERROR|descheight=55px}}
-{{itembox|width=200|height=170|name=Time is Running (Out)|image=Time is Running (Out).png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Stellar Strikes|image=Stellar Strikes.png|desc={{BPReward|Season Five Classic|gold|Tier 69}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Time is Running (Out)|image=Time is Running (Out).png|desc={{BPReward|Season Two Classic|free|Tier 62}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Boots|image=Toybox Boots.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=200|height=170|name=Valiant Armament Boots|image=Valiant Armament Boots.png|desc=ERROR|descheight=55px}}
+{{itembox|width=200|height=170|name=Valiant Armament Boots|image=Valiant Armament Boots.png|desc={{BPReward|Season Ten|gold|Tier 33}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Wasteland Treaders|image=Wasteland Treaders.png|desc=[[Raptor, the Betrayer]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Winged Solstice|image=Winged Solstice.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox/bottom}}
