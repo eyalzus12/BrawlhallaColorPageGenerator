@@ -64,23 +64,61 @@ public sealed class WeaponSkinWriter(WriterData data)
 
     private void ProcessWeaponSkinType(WeaponSkinType weaponSkin, StreamWriter writer)
     {
-        bool longName = data.GetWeaponSkinNameIsLong(weaponSkin);
-
         DescType descType;
 
-        (string weaponSkinName, string imageName, string displayName) = data.GetWeaponSkinNameParams(weaponSkin, false);
-        writer.Write("{{itembox|width=200|height=170|name=");
+        (string weaponSkinName, string imageName, string displayName, bool isAnimated) = data.GetWeaponSkinNameParams(weaponSkin, false);
+        writer.Write("{{itembox|width=");
+        // width
+        writer.Write(weaponSkin.BaseWeapon switch
+        {
+            "Axe" => 200,
+            "Boots" => 200,
+            "Bow" => 200,
+            "Cannon" => 200,
+            "Chakram" => 200,
+            "Fists" => 200,
+            "Greatsword" => 200,
+            "Hammer" => 200,
+            "Katar" => 200,
+            "Orb" => 200,
+            "Pistol" => 180,
+            "RocketLance" => 200,
+            "Scythe" => 200,
+            "Spear" => 200,
+            "Sword" => 200,
+            _ => 0,
+        });
+        writer.Write("|height=");
+        // height
+        writer.Write(weaponSkin.BaseWeapon switch
+        {
+            "Axe" => 170,
+            "Boots" => 170,
+            "Bow" => 170,
+            "Cannon" => 170,
+            "Chakram" => 170,
+            "Fists" => 170,
+            "Greatsword" => 170,
+            "Hammer" => 170,
+            "Katar" => 170,
+            "Orb" => 170,
+            "Pistol" => 170,
+            "RocketLance" => 170,
+            "Scythe" => 170,
+            "Spear" => 170,
+            "Sword" => 170,
+            _ => 0,
+        });
+        writer.Write("|name=");
         writer.Write(weaponSkinName);
-        if (weaponSkinName != displayName || longName)
+        if (weaponSkinName != displayName)
         {
             writer.Write("|displayname=");
-            if (longName) writer.Write("{{small|");
             writer.Write(displayName);
-            if (longName) writer.Write("}}");
         }
         writer.Write("|image=");
         writer.Write(imageName);
-        writer.Write(".png");
+        writer.Write(isAnimated ? ".gif" : ".png");
         // from a legend skin
         if (data.GetWeaponSkinSourceCostume(weaponSkin) is CostumeType costume)
         {
@@ -127,26 +165,32 @@ public sealed class WeaponSkinWriter(WriterData data)
                 {
                     "StoreType_EndDate_RequiresSkyforged" => "+ Skyforged Variant",
                     "StoreType_EndDate_LimitedTime" => "Limited time purchase",
-                    _ => "UNKNOWN",
+                    "StoreType_EndDate_Unavailable" => "Limited time purchase",
+                    _ => "ERROR",
                 });
             }
         }
         // pack
         else if (data.EntitlementTypes.WeaponSkinToEntitlement.TryGetValue(weaponSkin.WeaponSkinName, out EntitlementType? entitlement))
         {
-            string packName = entitlement.EntitlementName switch
+            string packName;
+            switch (entitlement.EntitlementName)
             {
-                "SpringPack" => "Spring Championship 2017 Pack",
-                "CollectorsRewards" => "Collectors Pack",
-                _ => data.LangFile.Entries[entitlement.DisplayNameKey!],
-            };
-            packName = packName.Trim('!');
-            if (!packName.EndsWith("Pack")) packName += " Pack";
-            packName = packName switch
-            {
-                "Summer Champ Pack" => "Summer Championship 2017 Pack",
-                _ => packName,
-            };
+                case "SpringPack":
+                    packName = "Spring Championship 2017 Pack";
+                    break;
+                case "SummerPack":
+                    packName = "Summer Championship 2017 Pack";
+                    break;
+                case "CollectorsRewards":
+                    packName = "Collectors Pack";
+                    break;
+                default:
+                    packName = data.LangFile.Entries[entitlement.DisplayNameKey!];
+                    packName = packName.Trim('!');
+                    if (!packName.EndsWith("Pack")) packName += " Pack";
+                    break;
+            }
 
             descType = DescType.Desc;
             writer.Write("|desc=[[");
@@ -168,7 +212,28 @@ public sealed class WeaponSkinWriter(WriterData data)
             DescType.Cost => "cost",
             _ => "ERROR",
         });
-        writer.WriteLine("height=55px}}");
+        writer.Write("height=");
+        // desc/cost height
+        writer.Write(weaponSkin.BaseWeapon switch
+        {
+            "Axe" => 55,
+            "Boots" => 55,
+            "Bow" => 55,
+            "Cannon" => 55,
+            "Chakram" => 55,
+            "Fists" => 55,
+            "Greatsword" => 55,
+            "Hammer" => 55,
+            "Katar" => 55,
+            "Orb" => 55,
+            "Pistol" => 55,
+            "RocketLance" => 55,
+            "Scythe" => 55,
+            "Spear" => 55,
+            "Sword" => 55,
+            _ => 0,
+        });
+        writer.WriteLine("px}}");
     }
 
     enum DescType

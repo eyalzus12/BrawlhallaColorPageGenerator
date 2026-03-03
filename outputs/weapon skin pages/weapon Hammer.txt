@@ -137,7 +137,7 @@ The following is a list of all [[Hammer]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=That's A Hammer|image=That's A Hammer.png|desc=[[Outback Gnash]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Angel|image=The Angel.png|desc=[[Phantom of the Armor Magyar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Bolt|image=The Bolt.png|desc=[[First Edition Sentinel]]|descheight=55px}}
-{{itembox|width=200|height=170|name=The Cure Seeker|image=The Cure Seeker.png|cost={{Coin|mammoth|60}}<br>UNKNOWN|costheight=55px}}
+{{itembox|width=200|height=170|name=The Cure Seeker|image=The Cure Seeker.png|cost={{Coin|mammoth|60}}<br>Limited time purchase|costheight=55px}}
 {{itembox|width=200|height=170|name=The Dark Cauldron|image=The Dark Cauldron.png|desc=[[Bewitching Scarlet]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Herald|image=The Herald.png|desc=[[Marauder Bödvar]]|descheight=55px}}
 {{itembox|width=200|height=170|name=The Hibernator|image=The Hibernator.png|desc=[[Bear'dvar]]|descheight=55px}}

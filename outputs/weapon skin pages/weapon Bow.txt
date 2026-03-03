@@ -108,7 +108,7 @@ The following is a list of all [[Bow]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Spring Breeze|image=Spring Breeze.png|desc=[[Spring Championship 2018 Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stardrive|image=Stardrive.png|desc=[[Star Guardian Ember]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Starfall|image=Starfall.png|desc=[[Radiant Ember]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Summer Soaker|image=Summer Soaker.png|desc=[[Summer Championship 2017 Pack]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Summer Soaker|image=Summer Soaker.png|desc=[[Summer Champ Pack]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Symphonic Surge|image=Symphonic Surge.png|desc=[[Owl Bard Hugin]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tactical Recurve|image=Tactical Recurve.png|desc=[[Storm Shadow]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tempo Lock|image=Tempo Lock.png|desc=[[DJ Hugin]]|descheight=55px}}

@@ -100,7 +100,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Singularity Sickle|image=Singularity Sickle.png|desc={{BPReward|Season Five|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Scythe|image=Skyforged Scythe.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Spinal Sickle|image=Spinal Sickle.png|desc=[[Dullahan Jiro]]|descheight=55px}}
-{{itembox|width=200|height=170|name=St. Alerial’s Judgment|image=St. Alerial’s Judgment.png|desc=[[Divine Adjudicator Vera]]|descheight=55px}}
+{{itembox|width=200|height=170|name=St. Alerial's Judgment|image=St. Alerial's Judgment.png|desc=[[Divine Adjudicator Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stargleam Scythe|image=Stargleam Scythe.png|desc=[[Metadev Fait]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Starship Slice|image=Starship Slice.png|desc=[[Star Commander Fait]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stringed Scavenger|image=Stringed Scavenger.png|desc=[[Magpie Munin]]|descheight=55px}}

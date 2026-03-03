@@ -1,14 +1,35 @@
+using System.Collections.Generic;
 using BrawlhallaColorPageGenerator.Objects;
 
 namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string weaponSkinName, string imageName, string displayName) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
+    private static readonly HashSet<string> _longWeaponSkins = [
+        "AxeMagicalGirl",
+        "AxeSpringAxe21Viewer",
+        "AxeHolidayXull",
+        "AxeJotun",
+        "BootsMagicalGirl",
+        "PistolHighwayman",
+        "PistolChewbacca",
+        "PistolHanSolo",
+        "PistolEmperor",
+        "PistolBP7",
+        "PistolLilith",
+        "PistolMando",
+        "PistolPearlDerringer",
+        "PistolKayVess",
+        "PistolBP10Mecha",
+        "PistolBP12",
+    ];
+
+    public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
     {
         string weaponSkin = weaponSkinType.WeaponSkinName;
         string displayNameKey = weaponSkinType.DisplayNameKey!;
 
+        bool isAnimated = false;
         string weaponSkinName = LangFile.Entries[displayNameKey];
         string imageName = weaponSkinName;
         string displayName = weaponSkinName;
@@ -27,7 +48,7 @@ public partial class WriterData
                 break;
             case "PistolSerape":
                 weaponSkinName = "Snake Eyes (Weapon Skin)";
-                imageName = weaponSkinName;
+                if (colorMode) imageName = weaponSkinName;
                 break;
             case "BowOldKoji":
                 weaponSkinName = "Heirloom (Bow Skin)";
@@ -66,21 +87,43 @@ public partial class WriterData
             case "AxeHolidayXull":
                 displayName = imageName = weaponSkinName = "World Cleaver (Abominable Jötunn Xull)";
                 break;
+            case "PistolBubblegum" when !colorMode:
+                isAnimated = true;
+                imageName = "AniElectrode Guns";
+                break;
+            case "PistolMythicNix" when !colorMode:
+                isAnimated = true;
+                break;
         }
 
+        // Poppin’ TNTina
+        weaponSkinName = weaponSkinName.Replace('’', '\'');
+        displayName = displayName.Replace('’', '\'');
+        imageName = imageName.Replace('’', '\'');
+
+        // progression level
         if (colorMode && WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
         {
             displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
             imageName = weaponSkinName + " Level " + upgradeLevel;
         }
 
+        // names that are too long
+        if (!colorMode && _longWeaponSkins.Contains(weaponSkin))
+        {
+            displayName = "{{small|" + displayName + "}}";
+        }
+
+        // html escape for the template
         if (colorMode)
         {
             weaponSkinName = weaponSkinName.Replace(":", "&#58;");
             displayName = displayName.Replace(":", "&#58;");
         }
+
+        // no : in image names
         imageName = imageName.Replace(":", "");
 
-        return (weaponSkinName, imageName, displayName);
+        return (weaponSkinName, imageName, displayName, isAnimated);
     }
 }

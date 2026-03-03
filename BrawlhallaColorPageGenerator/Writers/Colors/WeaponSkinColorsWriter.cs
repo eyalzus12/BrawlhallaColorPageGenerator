@@ -39,7 +39,7 @@ public sealed class WeaponSkinColorsWriter(WriterData data)
                 weaponSkin.WeaponSkinName.EndsWith("Stance")
             ) continue;
 
-            (string weaponSkinName, string imageName, string displayName) = data.GetWeaponSkinNameParams(weaponSkin, true);
+            (string weaponSkinName, string imageName, string displayName, _) = data.GetWeaponSkinNameParams(weaponSkin, true);
 
             writer.Write(weaponSkinName);
             if (weaponSkinName != displayName)

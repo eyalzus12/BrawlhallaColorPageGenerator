@@ -335,7 +335,7 @@ Nina's Blasters
 Ninpō&#58; Unsealed Blasters && image:Ninpō Unsealed Blasters $1.png
 No Contest
 Outbreak Perfected
-Poppin’ TNTina
+Poppin' TNTina
 Powerplay Blasters
 Protect & Serve
 Purge and Exorcise
@@ -1558,7 +1558,7 @@ Shooting Star
 Singularity Sickle
 Six String
 Spinal Sickle
-St. Alerial’s Judgment
+St. Alerial's Judgment
 Stargleam Scythe
 Starry Scythe
 Starship Slice
