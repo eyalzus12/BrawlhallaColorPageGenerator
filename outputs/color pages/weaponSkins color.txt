@@ -1619,7 +1619,7 @@ Divine Question && displayname:Divine Question (Lvl 1) && image:Divine Question 
 Divine Question && displayname:Divine Question (Lvl 2) && image:Divine Question Level 2 $1.png
 Divine Question && displayname:Divine Question (Lvl 3) && image:Divine Question Level 3 $1.png
 Dreamshard
-Dusk (Weapon Skin) && displayname:Dusk
+Dusk (Weapon Skin) && displayname:Dusk && image:SpearGem $1.png
 Dwarven Awl
 Dwarven-Forged Spear
 Eba's Retribution

@@ -154,7 +154,7 @@ public partial class WriterData
             "Photon Sphere" => "{{BPReward|Season Five|gold|Tier 57}}",
             "Retrograde Rocket" => "{{BPReward|Season Five|gold|Tier 29}}",
             "Singularity Sickle" => "{{BPReward|Season Five|gold|Tier 37}}",
-            "Twin Solstice" => "{{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}",
+            "Twin Solstice" => "<span style=\"font-size:76%\">{{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}</span>",
             "Astroblade" => "{{BPReward|Season Five|gold|Tier 15}}",
 
             // bp 6

@@ -42,6 +42,7 @@ public partial class WriterData
         "ScytheEgyptianShoujo",
         "ScytheIceSkates",
         "ScytheBP10Mecha",
+        "SpearMagicalGirl",
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -92,7 +93,8 @@ public partial class WriterData
                 weaponSkinName = "Burnout (Weapon Skin)";
                 break;
             case "SpearGem":
-                imageName = weaponSkinName = "Dusk (Weapon Skin)";
+                weaponSkinName = "Dusk (Weapon Skin)";
+                imageName = colorMode ? weaponSkin : "Dusk Spear";
                 break;
             case "SpearViral":
                 weaponSkinName = "Vector (Weapon Skin)";
@@ -125,6 +127,8 @@ public partial class WriterData
             case "OrbBattlePassSet2":
             case "RocketLanceScientist":
             case "ScythePaleRider":
+            case "SpearDemonQueen":
+            case "SpearPaleRider":
                 isAnimated = true;
                 if (!colorMode) imageName = "Ani" + imageName;
                 break;
@@ -133,6 +137,7 @@ public partial class WriterData
             case "OrbOddball":
             case "OrbLilith":
             case "ScytheMythicNix":
+            case "SpearMythicWuShang":
                 isAnimated = true;
                 break;
         }
@@ -152,7 +157,7 @@ public partial class WriterData
         // names that are too long
         if (!colorMode)
         {
-            if (weaponSkin == "AxeHolidayXull")
+            if (weaponSkin == "AxeHolidayXull" || weaponSkin == "SpearDarthMaul")
                 displayName = "<span style=\"font-size:69%\">" + displayName + "</span>";
             else if (_longWeaponSkins.Contains(weaponSkin))
                 displayName = "{{small|" + displayName + "}}";

@@ -24,12 +24,12 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Cyber Myk Pike|image=Cyber Myk Pike.png|desc=[[Live Action Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dark Shovel Blade|image=Dark Shovel Blade.png|desc=[[Black Knight]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Darkheart Spine|image=Darkheart Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Darth Maul's Double-Bladed Lightsaber|displayname=<span style="font-size:69%">Darth Maul's Double-Bladed Lightsaber</span>|image=Darth Maul's Double-Bladed Lightsaber.png|desc=[[Darth Maul]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Destiny|image=Destiny.png|desc=[[Harbinger Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Devilish Spike|image=Devilish Spike.png|desc={{BPReward|Season One|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Divine Question|image=Divine Question Level 3.png|desc=[[Wu Shang, the Seeker]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dreamshard|image=Dreamshard.png|cost={{Coin|mammoth|60}}|costheight=55px}}
-{{itembox|width=210|height=220|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk (Weapon Skin).png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=210|height=220|name=Dusk (Weapon Skin)|displayname=Dusk|image=Dusk Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Dwarven Awl|image=Dwarven Awl.png|desc=[[Aesir-Forged Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Dwarven-Forged Spear|image=Dwarven-Forged Spear.png|desc={{BPReward|Season Seven|gold|Tier 77}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Eba's Retribution|image=Eba's Retribution.png|desc=[[Snake Goddess Nai]]|descheight=55px}}
@@ -110,7 +110,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Precision|image=Precision.png|desc=[[Mirage the Cleaner]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Pulaski Pike|image=Pulaski Pike.png|desc=[[Firefighter Seven]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Pumpkin Pike|image=Pumpkin Pike.png|desc=[[Trick or Treater Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Queen of Demons|image=Queen of Demons.png|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Queen of Demons|image=AniQueen of Demons.gif|desc=[[Akuma no Kogo Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Quill of Thoth|image=Quill of Thoth.png|desc=[[Librarian Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ranked Ladder|image=Ranked Ladder.png|desc=[[John Cena]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Red-Hot Ranseur|image=Red-Hot Ranseur.png|cost={{Coin|mammoth|40}}|costheight=55px}}
@@ -125,7 +125,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Scintilating Spear|image=Scintilating Spear.png|desc=[[Snake Charmer Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Scrapshard|image=Scrapshard.png|desc=[[Chrometooth Gnash]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Scrimshaw Harpoon|image=Scrimshaw Harpoon.png|desc=[[Huntress Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Seal Breaker|image=Seal Breaker.png|desc=[[Apocalypse Mirage]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Seal Breaker|image=AniSeal Breaker.gif|desc=[[Apocalypse Mirage]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Seridashi|image=Seridashi.png|desc=[[Kabuki Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Serving Fork|image=Serving Fork.png|desc=[[Festive Baker Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Seven Secrets Spear|image=Seven Secrets Spear.png|desc=[[Kill Thrill Hattori]]|descheight=55px}}
@@ -145,7 +145,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Starforged Spear|image=Starforged Spear.png|desc=[[Metadev Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Stuffing Spear|image=Stuffing Spear.png|desc=[[Diabolical Doll Arcadia]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Surt's Arrow|image=Surt's Arrow.png|desc=[[Cinderguard Brynn]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Sweet Magi ☆ Dream Spear|image=Sweet Magi ☆ Dream Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=210|height=220|name=Sweet Magi ☆ Dream Spear|displayname={{small|Sweet Magi ☆ Dream Spear}}|image=Sweet Magi ☆ Dream Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Talon's Edge|image=Talon's Edge.png|desc=[[Raven Shaman Dusk]]|descheight=55px}}
 {{itembox|width=210|height=220|name=The Allthorn|image=The Allthorn.png|desc=[[Nidhogg Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=The Conch|image=The Conch.png|desc=[[Atlantean Orion]]|descheight=55px}}
@@ -164,7 +164,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Truth|image=Truth.png|desc=[[Perfect Wu Shang]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Tundra Geir|image=Tundra Geir.png|desc={{BPReward|Season Three|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Tundra's Talon|image=Tundra's Talon.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Twin Solstice|image=Twin Solstice.png|desc={{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}|descheight=55px}}
+{{itembox|width=210|height=220|name=Twin Solstice|image=Twin Solstice.png|desc=<span style="font-size:76%">{{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}</span>|descheight=55px}}
 {{itembox|width=210|height=220|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc={{BPReward|Season Ten|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Valkyrie's Fury|image=Valkyrie's Fury.png|desc=[[Völsung Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Vector (Weapon Skin)|displayname=Vector|image=Vector Spear.png|desc=[[Wasteland Ada]]|descheight=55px}}
@@ -172,7 +172,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Viper's Venom|image=Viper's Venom.png|desc=[[Winged Serpent Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Warrior's Wisdom|image=Warrior's Wisdom.png|desc=[[Athena Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Winged Glory|image=Winged Glory.png|desc=[[Freestyle Mirage]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Wu Wei|image=Wu Wei.png|desc=[[Ascended Wu Shang]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Wu Wei|image=Wu Wei.gif|desc=[[Ascended Wu Shang]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Xochitl Tlacochtli|image=Xochitl Tlacochtli.png|desc=[[Calavera Catrina Seven]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Yokai Naginata|image=Yokai Naginata.png|desc=[[Cyber Oni Orion]]|descheight=55px}}
 {{itembox/bottom}}
