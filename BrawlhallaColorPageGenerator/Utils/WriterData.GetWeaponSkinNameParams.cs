@@ -36,7 +36,8 @@ public partial class WriterData
         "GreatswordMechaArmor",
         "HammerMagicalGirl",
         "KatarAhsoka",
-        "KatarAsgardSaber"
+        "KatarAsgardSaber",
+        "OrbMagicalGirl"
     ];
 
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
@@ -105,32 +106,27 @@ public partial class WriterData
             case "AxeHolidayXull":
                 displayName = imageName = weaponSkinName = "World Cleaver (Abominable Jötunn Xull)";
                 break;
-            case "PistolBubblegum":
-                isAnimated = true;
-                if (!colorMode) imageName = "AniElectrode Guns";
-                break;
-            case "PistolMythicNix":
-                isAnimated = true;
-                break;
-            case "BowCyberSam":
-                isAnimated = true;
-                if (!colorMode) imageName = "AniDaemon Killer";
-                break;
             case "BowTrickOrTreat":
                 if (!colorMode) imageName = "ded";
                 break;
+            case "PistolBubblegum":
+            case "BowCyberSam":
             case "FistsDemon01":
             case "FistsDemon02":
             case "FistsDemon03":
-                isAnimated = true;
-                if (!colorMode) imageName = "AniHaunting Terrors";
-                break;
-            case "FistsMythicWuShang":
-                isAnimated = true;
-                break;
+            case "OrbDemon01":
+            case "OrbDemon02":
+            case "OrbDemon03":
             case "HammerScientist":
+            case "OrbBattlePassSet2":
                 isAnimated = true;
-                if (!colorMode) imageName = "AniCircuit Breaker";
+                if (!colorMode) imageName = "Ani" + imageName;
+                break;
+            case "PistolMythicNix":
+            case "FistsMythicWuShang":
+            case "OrbOddball":
+            case "OrbLilith":
+                isAnimated = true;
                 break;
         }
 
