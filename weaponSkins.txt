@@ -1,0 +1,1975 @@
+<includeonly><onlyinclude>
+The following is a list of all weapon skins in {{{1|}}}. ''Click an image to view it in higher resolution.''
+
+===[[Axe]]===
+{{List to itembox|color={{{1|}}}|
+A Sign from Above
+Abandoned Anchor
+Acuity Manifest
+Aesir Blade
+Airship Anchor
+Ancient Axe
+Arbiters Reach
+Asgardian Axe
+Axe of Mercy
+Axe of Might
+Axe of Regrowth && displayname:Axe of Regrowth (Lvl 1) && image:Axe of Regrowth Level 1 $1.png
+Axe of Regrowth && displayname:Axe of Regrowth (Lvl 2) && image:Axe of Regrowth Level 2 $1.png
+Axe of Regrowth && displayname:Axe of Regrowth (Lvl 3) && image:Axe of Regrowth Level 3 $1.png
+Axe of the World Eagle
+Axe You Out
+Axe-bladed Multi-Tool
+Aztlán Axe
+Barbaraxe
+Barbarian Axe
+Batavian Diplomacy
+Battle Axe
+Battle Axe (Simon Belmont)
+Beckoning Bramble
+Bellow's Breath
+Bifrost Edge
+Big Clipper
+Blooming Blade
+Boiling Point
+Bone Cleaver
+Boss's Judgement
+Brave Magi ☆ Twinkling Justice
+Bump in the Night
+Burning Enlightenment
+Butcher's Delight
+Buzz Axe
+Calaveraxe
+Castle Rocker
+Ceremonial Axe
+Champion's Axe
+Chocolate Cherry Sunburst
+Chopsicle
+Conch Cleaver
+Crystal Whip Axe
+Cyber Myk Axe
+Darkheart Axe
+Death Rattle
+Demonic Slab
+Devious Axe
+Diamond Axe
+Dimensional Divide
+Disgrace
+Dragon Axe
+Dwarven-Forged Axe
+El Carnicero
+Eldritch Bane
+Electronicore Axe
+Elyria's End
+Emerald Blade
+Eternal Blade
+Extra Large Scalpel
+Eye of Elyria
+Facemelter
+Fate Cleaver
+Fear the Femur
+Final Breath
+First Down
+Flaming Oath
+Flashfire
+Foe Splitter
+Gear Death Experience
+Giants' Bane
+Gilded Glory (Axe Skin) && displayname:Gilded Glory && image:Gilded Glory $1.png
+Glory (Weapon Skin) && displayname:Glory && image:Glory $1.png
+Golem's Heart
+Goofy Goober Guitar
+Grass Axe
+Hack and Slash
+Hardlight Axe
+Heartbreaker
+Heaven Cleaver
+Hit Hard
+Holiday Fear
+Hook Setter
+Horned Carver
+Hunter's Reach
+Hyper Turbo Axe
+In Case of Brawl
+Iron Standard
+Ivaldi Design
+Ivaldi's Wings
+Jade Crescent
+Jupiter Rising
+Kakurenbo
+Key to Your Heart
+Koa Wood Axe
+Krusty Krab Spatula
+La Guitarra
+Laughing Skull
+Lich Slayer && displayname:Lich Slayer (Lvl 1) && image:Lich Slayer Level 1 $1.png
+Lich Slayer && displayname:Lich Slayer (Lvl 2) && image:Lich Slayer Level 2 $1.png
+Lich Slayer && displayname:Lich Slayer (Lvl 3) && image:Lich Slayer Level 3 $1.png
+Love Affair
+Macho King
+Magic Bubble Wand
+Magni
+Manta Blade
+Mjolnir's Spirit
+Monstrous Aura
+Mortal Coil
+Nightmare Hatchet
+Ninpō&#58; Unsealed Axe && image:Ninpō Unsealed Axe $1.png
+Origin Axe
+Painkiller
+Panic Maker
+Permafrost
+Phoenix Wings
+Polar Poleax
+RGB Axe
+Rick's Hatchet
+Ritual Blade
+Royal Crescent
+Rust
+Ship Wheel
+Shredder
+Snow Shovel Axe
+Soul Cleaver
+Soul Render
+Spitebringer
+Splitter
+Spring Cleaning
+Star Render
+Star-Crossed Nightmare && displayname:Star-Crossed Nightmare (Lvl 1) && image:Star-Crossed Nightmare Level 1 $1.png
+Star-Crossed Nightmare && displayname:Star-Crossed Nightmare (Lvl 2) && image:Star-Crossed Nightmare Level 2 $1.png
+Star-Crossed Nightmare && displayname:Star-Crossed Nightmare (Lvl 3) && image:Star-Crossed Nightmare Level 3 $1.png
+Styraxe
+Sunset Axe
+Terrorbyte
+The Abyss
+The Axe
+The Berserker
+The Captain
+The Furnace
+The Harvester
+The Iron Flight
+The Monster Slash
+The Mountain
+The Oath
+The Renegade
+The Test
+Toybox Axe
+Trend Setter
+Tua Dearg
+Turtle Crossing
+Tusk
+Ultra Slicer
+Valiant Armament Axe
+Varin's Axe
+Vetr Bearded Axe
+Viking's War-axe
+Warrior's Pride
+Winged Blade
+World Cleaver
+World Cleaver (Abominable Jötunn Xull)
+Yong-ui Dokki
+}}
+
+===[[Battle Boots]]===
+{{List to itembox|color={{{1|}}}|
+Achilles' Loss
+Airgliders
+Ancestral Steps
+Asgardian Battle Boots
+Aú Sem Mão
+Aztlán Boots
+Barra Boots
+Beetle Stampede
+Beowulf Crushers
+Bitter Entities
+Boots of Mercy
+Boots of Nobility
+Breezy Magi ☆ Skyward Strikers
+Cloud Kickers && displayname:Cloud Kickers (Lvl 1) && image:Cloud Kickers Level 1 $1.png
+Cloud Kickers && displayname:Cloud Kickers (Lvl 2) && image:Cloud Kickers Level 2 $1.png
+Cloud Kickers && displayname:Cloud Kickers (Lvl 3) && image:Cloud Kickers Level 3 $1.png
+Corrupted Steps
+Cyber Myk Megaboots
+Dame X
+Darkheart Stompers
+Derby Dusters
+Divine Dragoneers
+Dwarven-Forged Boots
+Earthen Striders
+Equine Treads
+Fang & Claw
+Forum Mid
+Gilded Dress Boots
+Gomo
+Hardened Titan Feet
+Hardlight Battle Boots
+His Nice Shoes
+Jaguar's Speed
+Leonine Steps
+Los Gatos Voladores
+Mammoth Galoshes
+Martelo No Chão
+Nightmare Talons
+Ninpō&#58; Unsealed Boots && image:Ninpō Unsealed Boots $1.png
+Olive Stompers
+Patadas Voladoras
+PegaSwift Runners
+RGB Boots
+Runtime
+Rush Boots
+Squadron Strikers
+Stealthy Steps
+Stellar Strikes
+The Stampede
+Time is Running (Out)
+Toybox Boots
+Valiant Armament Boots
+Wasteland Treaders
+Winged Solstice
+}}
+
+===[[Blasters]]===
+{{List to itembox|color={{{1|}}}|
+A Shot at Love
+Ace of Spades
+Aqua Blasters
+Arts and Crafts
+Asgardian Blasters
+ASM Blasters
+Asp and Adder
+Aztlán Blasters
+Bahian Blasters
+Barnacle Blasters
+Beautiful & Deadly
+Big Dog Blasters
+Birdshot
+Blaster Pistols
+Blasters of Mercy
+Blazing Deringers
+Blazing Fire
+Bolt Blasters
+Boom Booms
+Brimstone Blasters
+Bubonic Blasters
+Budding Blasters
+Bullet Hail of the King
+Candy Caliber
+Catch and Release
+Charmed, I'm Sure
+Chicago Typewriters
+Close Quarters
+Commander and Chief
+Cyber Myk Pistols
+Cyberlink Blasters
+Dark Conjurers
+Dark Elf Blasters
+Darkheart Blasters
+Darkshooters
+Death Throes
+Desequencers
+Desert Island Blasters
+Dessert Eagles
+Destabilizers
+Devil's Sight
+Disassemblers
+Double Crossers
+Double Dragons
+Dragoon Flintlocks
+Drakenfire
+Dual Pistols
+Dueling Pistols
+Duty & Sacrifice
+Dwarven-Forged Blasters
+Ebon Blasters
+Eclipsers
+Electrode Guns
+Emperor's Own Blasters
+Equalizer
+Exception Handlers
+Exquisite Cannons
+Fairy Fire
+Fiendish Howl
+Fire & Brimstone
+Firewalls
+Five-Sevens
+Flight Risks
+Flint-Lockers
+Flintlock Claws
+Forbidden Lamps
+Galopante Blasts
+Gemini's Wrath
+Ghost and Goblin
+Glimpse of Death
+Glitz & Glam
+Grisly Burrs
+Guileless Hellfire Blasters
+Hand Cannons
+Hardlight Blasters
+Hellhounds
+Highwayman's Flintlocks
+Hraesvelgr's Eyes
+Ice 'Em
+Jötunn Armaments
+Jubilation Blasters
+Juicy Carnage Shotguns
+Ketchup & Mustard
+Las Viudas
+Laser Blazers
+Lawbreakers
+Los Volcanes
+Lost Technology
+Loves Me
+M7 SMG & Plasma Rifle
+Magnum Pistols
+Maxilli-Blasts
+Mega Buster
+Mercy Killers
+Moskitoes
+Mother of Pearl Blasters
+MP7s
+Murder of Crows
+Naughty & Nice
+Needlers
+Net Guns
+Nightmare Witnesses
+Nina's Blasters
+Ninpō&#58; Unsealed Blasters && image:Ninpō Unsealed Blasters $1.png
+No Contest
+Outbreak Perfected
+Poppin’ TNTina
+Powerplay Blasters
+Protect & Serve
+Purge and Exorcise
+Raycasters
+Refractors
+Repeating Crossbows
+Revolvers
+RGB Blasters
+Ripple and Wave
+Rose Gold Revolvers
+Royal Family
+Sacred Orders
+Salty Shooters
+Samaritans
+Sawbones
+Selenite Ray Guns
+Shadow Casters
+Sharkshooters
+Shriek & Wail
+Sidearms
+Signal Flares
+Silenced Pistols
+Silver and Steel
+Silver Bullets
+Silver Sixshooters
+Six of a Kind
+Sixshooters
+Smokers Mk. B
+Snake Eyes (Weapon Skin) && displayname:Snake Eyes
+Snow Shooters
+Solar Flares
+Soul Blasters
+Space Shooters
+Special Forces Pistols
+Splish Splash
+Standard Issue
+Stardusters
+Starved Scavengers
+Tactical Pistols
+Tactical Sidearms
+Teacher's Pets
+Tempo and Groove
+The Consequences
+The Doctor's Orders
+The Hunters
+The Neutralizers
+The Roadhogs
+The Sequels
+The Singularities
+Thunder Bass Blasters
+Tide Turners
+Toybox Pistol
+Valiant Armament Blasters
+Vengeance at Hand
+Vespian Six Shooter
+Wheel Locks
+Whirlwinds
+Winged Danger
+Wolf's Howl
+Wurm Shooters
+XLR8R's
+Zhaktari Issue
+Zip and Snap
+}}
+
+===[[Bow]]===
+{{List to itembox|color={{{1|}}}|
+AG Tactical System
+Alpine's Ace
+Antler Strike
+Asgardian Bow
+Aztlán Bow
+Azure
+Balanced Counsel
+Bane Bringer
+Be True
+Blueprint
+Bogha
+Borealis Bow
+Bow of Mercy
+Bramble
+Bramble Bow
+Brass Section
+Brooch Bow
+Browser Extension
+Bug Byte
+Carved Precision
+Chariot Ride
+Coastline Pulse
+Counter Curse
+Cupid's Bow
+Cursed Bow
+Cyber Myk Bow
+Daemon Killer
+Dark Horse
+Darkheart Longbow
+Deathbolt
+Debt Collector
+ded.
+Demonic Wings
+Despair
+Destiny's Way
+Deus Ex Machina
+Devil Jin's Bow
+Devoted Shot
+Digital Sample
+Dragon Spawn Bow
+Dwarven-Forged Bow
+Elm Recurve Bow
+Empress' Favor && displayname:Empress' Favor (Lvl 1) && image:Empress' Favor Level 1 $1.png
+Empress' Favor && displayname:Empress' Favor (Lvl 2) && image:Empress' Favor Level 2 $1.png
+Empress' Favor && displayname:Empress' Favor (Lvl 3) && image:Empress' Favor Level 3 $1.png
+Evergrowth
+Everlasting Shot
+Extinction Event
+Faithful Departure
+Fangwild Bow
+Fangwild's Blessing
+Femur Flex
+Flight Plan
+Floral Prayer
+Floral Zephyr
+Forgotten Bow
+Gift Giver
+Gold-Inlaid Bow
+Grand Prix
+Hardlight Bow
+Heartstring
+Heaven's Order
+Heirloom (Bow Skin) && displayname:Heirloom && image:Heirloom $1.png
+Hunter's Pride
+Hunter's Tail
+Hydro-Bow
+Interface
+Iron Fury
+Ironcaster
+Ivory Snare
+Kami Bow
+Kingdom Bow
+L'archet
+Lara's Bow
+Lethal Lute
+Lightbringer
+Loa Bow
+Mastercraft Recurve
+Moongleam Bow
+Naptime
+New Best Friend
+Nightmare Bow
+Ninpō&#58; Denkyū && image:Ninpō Denkyū $1.png
+Ninpō&#58; Unsealed Bow && image:Ninpō Unsealed Bow $1.png
+Opal's Bow
+Owl's Flight
+Packbane
+Pew Pew
+Piercing Poison
+Prideful Roar
+PWNed
+Rain of Fire
+Recurve Bow
+RGB Bow
+Rising Glory
+Royal Spoils
+Runewood Bow
+Sagittarius Crescent
+Sakura Strike
+Sanguine Flight
+Security Measure
+Shadowbolt
+Shibuya Recurve
+Silent Wings
+Skadi's Bow
+Skybound
+Smooth Waves
+Soul Seeker
+Soulbane
+Spiteful Scepter
+Spring Breeze
+Stardrive
+Starfall
+Summer Soaker
+Symphonic Surge
+Tactical Recurve
+Tempo Lock
+The Albatross
+The Grips
+The North Wind
+Thistle's Flight
+Toybox Bow
+Twilight's Emissary
+Twin Tails
+Twirling Flourish
+Valiant Armament Bow
+Voice of the Forest
+Voice of the Snow
+Void Laser Barebow
+Wandering Wind
+Weero Wings
+Whistling Death
+Wicked Wings
+Wild Hunt
+Wings of Justice
+Wyvernbane
+Yumi
+Zombie Whisperer
+}}
+
+===[[Cannon]]===
+{{List to itembox|color={{{1|}}}|
+1000 Army Cannon
+Alpine Assault
+Argo's Cannon
+Art of War
+Asgardian Cannon
+Aztlán Cannon
+Beithir's Breath
+Blistering Bellows
+Blossom Boom
+Boom Box
+Boomin' Bark
+Booming Belfry
+Booming Roar
+Bulwark
+Cannon of Mercy
+Cannon Strike
+Chimney
+Conk Shell
+Corsair Cannon
+Cyber Myk Megacannon
+Danish Brick Mortar
+Darkheart Tower
+Divine Thunderclap
+Door-Buster
+Dragon's Breath && image:Dragon's Breath (Titan) $1.png
+Dragon's Fire
+Dwarven-Forged Cannon
+Electro Overdrive
+Ensnaring Boom
+Eternal Siege
+Fire Hose
+Frosty's Fury
+Fuel Rod Cannon
+Gjallarhorn
+Grilled Smoker
+Handcrafted Cannon
+Hardlight Cannon
+Howling Siren
+Hyperion Yggdrasil
+Jade Dragon
+Kanabo
+Koi Cannon
+Laser Light Cannon
+Locker Boom
+Mammothade Cooler
+Mk1 Cannon
+Modern Thunder
+Neo City Cannon
+Nightmare Mandible
+Ninpō&#58; Unsealed Cannon && image:Ninpō Unsealed Cannon $1.png
+Ol' Faithful
+Optimized Odzutsu
+Orchard Barrel
+Plasma Cannon
+Power Flash
+Pyrois Blast
+Quetzalcoatl Tlequiquiztli
+Railgun
+Revolver Cannon
+RGB Cannon
+Royal Allegiance
+Royal Decree
+Snowsmoke
+Sonic Boom
+SPNKr Rocket Launcher
+Stalwart Screech
+Stryge
+Swamp Serum
+Tactical Cannon
+The Big Bang
+The Hayrider
+The Nautilus
+Torchbringer
+Toybox Cannon
+Valiant Armament Cannon
+Wartusk
+Watery Grave
+}}
+
+===[[Chakram]]===
+{{List to itembox|color={{{1|}}}|
+Asgardian Chakram
+Aztlán Chakram
+Bug Fixer
+Circle of Light
+Consecrate
+CopyCat
+Darkheart Chakram
+Demon Art&#58; Kageshuriken && image:Demon Art Kageshuriken $1.png
+Dwarven-forged Chakram
+Golden Order
+Hardlight Chakram
+Jade Maw
+Jubilant Cymbal
+Lethal Coil
+Nightmare Incisor
+Ninpō&#58; Unsealed Chakram && image:Ninpō Unsealed Chakram $1.png
+Noxious Wheel
+Penitence
+Quantum War-Quoit
+RGB Chakram
+Scrollbar
+Stories of Antiquity
+Sun Dust
+Toybox Chakram
+Waning Crescents
+Wheel of Thorns
+}}
+
+===[[Gauntlets]]===
+{{List to itembox|color={{{1|}}}|
+Apocalypse Hands
+Apothecary Mitts
+Asgardian Gauntlets
+Automatons
+Aztlán Gauntlets
+Beach Bash
+Bear Arms
+Beta Thrusters
+Betrayal & Power && displayname:Betrayal & Power (Lvl 1) && image:Betrayal & Power Level 1 $1.png
+Betrayal & Power && displayname:Betrayal & Power (Lvl 2) && image:Betrayal & Power Level 2 $1.png
+Betrayal & Power && displayname:Betrayal & Power (Lvl 3) && image:Betrayal & Power Level 3 $1.png
+Binding Chains
+Boomers
+Brass Knuckles
+Breath of Sunlight
+Brick and Mortar
+Bug Fixers
+Cassidy's Oven Mitts
+Chainbreakers
+Chorh-Gom Cuffs
+Clamshell Grasp
+Clawholds
+Coco-knuckles
+Collision Rocket Fists
+Crystal Clutch
+Ctrl & Delete
+Cuffed Regalia
+Cyber Myk Gauntlets
+Darkest Hour
+Darkheart's Grasp
+Dawn Bringers
+Dead or Alive
+Deadly Shoku
+Devil Jin's Gauntlets
+Devil's Maw
+Diamond Fists
+Disc Beatdown
+Divine Hands
+Dogs of War
+Dragonheart Gauntlets
+Dueling Dukes
+Dwarven-Forged Gauntlets
+Earth Gauntlets
+Earthly Answers && displayname:Earthly Answers (Lvl 1) && image:Earthly Answers Level 1 $1.png
+Earthly Answers && displayname:Earthly Answers (Lvl 2) && image:Earthly Answers Level 2 $1.png
+Earthly Answers && displayname:Earthly Answers (Lvl 3) && image:Earthly Answers Level 3 $1.png
+Echidna
+Eye of the Oni
+Fiendish Fists
+Fighting Spirit Gloves
+Fisticuff-links
+Fisticuffs
+Fists of the Constellations
+Flames of the Furnace
+Flashing Knuckles
+Footbrawlers
+Frosty Revenge
+Fu Fists
+Furinkazan Gloves
+Garnet's Gauntlets
+Gauntlets of Belzar
+Gauntlets of Dexterity
+Gauntlets of Mercy
+Geocrashers
+Ghoulish Clutches
+Gloom & Doom
+God Tyr
+Golden Force
+Grasping Boughs
+Ground & Pound
+H2-KO
+Halo Breakers
+Hand Wraps
+Hands of Fate
+Hands of the Cosmos
+Hardlight Gauntlets
+Haunting Terrors && displayname:Haunting Terrors (Lvl 1) && image:Haunting Terrors Level 1 $1.png
+Haunting Terrors && displayname:Haunting Terrors (Lvl 2) && image:Haunting Terrors Level 2 $1.png
+Haunting Terrors && displayname:Haunting Terrors (Lvl 3) && image:Haunting Terrors Level 3 $1.png
+Heaven's Touch
+Heavy Metal Fists
+Helios' Gems
+Holly Jolly (Santa Wu Shang) && displayname:Holly Jolly
+Horror & Fright
+Hot Lava (Weapon Skin) && displayname:Hot Lava && image:Hot Lava $1.png
+Humble Hands
+Idle Hands
+Infinite & Absolute
+Iron Shackles
+Jaguar Claws
+Jaguar Paws
+Jake Fists
+Jawbreakers
+Judgment Claws
+Kah-Rah-Tay Gloves
+Knockouts (Weapon Skin) && displayname:Knockouts && image:Knockouts $1.png
+Lion's Reign
+Love's Embrace
+Malady Wear && displayname:Malady Wear (Lvl 1) && image:Malady Wear Level 1 $1.png
+Malady Wear && displayname:Malady Wear (Lvl 2) && image:Malady Wear Level 2 $1.png
+Malady Wear && displayname:Malady Wear (Lvl 3) && image:Malady Wear Level 3 $1.png
+Martial Fists
+Melting Wax Gauntlets
+Metalbender's Mittens
+Mudras
+Nightlapse
+Nightmare Knuckles
+Ninpō&#58; Kotegakure && image:Ninpō Kotegakure $1.png
+Ninpō&#58; Unsealed Gauntlets && image:Ninpō Unsealed Gauntlets $1.png
+Nothing Up My Sleeve
+Oath of Service
+Paci-fists
+Password Crackers
+Penguin's Pummel
+Phantom Fists
+Pizza Punchers
+Pledge & Pride
+Pocket Aces
+Primordial Punch-Out
+Protector's Embrace
+Psychlops
+Punch-a-tron 5000s
+Queen's Enforcers
+Rabbid Boppers
+Raging Fists
+Rapture
+Regulus
+Republic General's Gauntlets
+Resonators
+RGB Gauntlets
+Rib Ticklers
+Riddle of Strength
+Rippers
+Roar & Pounce
+Saints & Souls
+Sinister Strike
+Sleight of Hand
+Sparring Gloves
+Special Forces
+Spine-Chilling Fists
+Spirit Breakers
+Stellar Nova
+Steven's Shields
+Synthoceps
+Tetramand Beatdown
+The Boulders
+The Claymores
+The Heavyweights
+The Mittens
+The Playback && displayname:The Playback (Lvl 1) && image:The Playback Level 1 $1.png
+The Playback && displayname:The Playback (Lvl 2) && image:The Playback Level 2 $1.png
+The Playback && displayname:The Playback (Lvl 3) && image:The Playback Level 3 $1.png
+The Punchlines
+The Sun, The Moon
+The Taggers
+Toybox Gauntlets
+Treble Makers
+Tyr's Fists
+Valiant Armament Gauntlets
+Vampiric Embrace
+Wave Breakers
+Winter's Grasp
+Wipeouts
+Wooden Knuckles
+Wrecking Crew
+Yoga Fists
+}}
+
+===[[Greatsword]]===
+{{List to itembox|color={{{1|}}}|
+Adjudicator's Mercy
+Aethon's Wing
+Asgardian Great Lightsaber
+Asgardian Greatsword
+Aztlán Greatsword
+Baleful Greatblade
+Bathyal Blade
+Byeolungeom
+Calcium Cleaver
+Cold Embrace
+Coral Carver
+Crowd Control
+Cyber Myk Claymore
+Damascus Cleaver
+Dark Thorn Cleaver
+Darkheart Claymore
+Divine Conviction && displayname:Divine Conviction (Lvl 1) && image:Divine Conviction Level 1 $1.png
+Divine Conviction && displayname:Divine Conviction (Lvl 2) && image:Divine Conviction Level 2 $1.png
+Divine Conviction && displayname:Divine Conviction (Lvl 3) && image:Divine Conviction Level 3 $1.png
+Dragon's Fang
+Dragon's Fury
+Dwarven-Forged Greatsword
+Flamberge's Gale
+Flora Striker
+Fungal Flourish
+Geodaehan Kal
+Glacier Strike
+Gladius Magnus
+Glory of the Lions
+Great Board
+Great Bone Matau
+Great Khopesh
+Great Mandibles
+Great-Oar
+Great-Pop
+Greatsword of Mercy
+Hardlight Greatsword
+Harvest Cleaver
+Kanabo Korosu
+Law of the Land
+Lucille
+Neo-City Greatsword
+Nightfall
+Nightmare Butcher
+Ninpō&#58; Unsealed Greatsword && image:Ninpō Unsealed Greatsword $1.png
+Orma
+Ornate Scissorblade
+Outrun
+Poseidon's Gift
+RGB Greatsword
+Skysworn Oath
+Soul Scourge
+Super Dragon Star Blade
+Sweetgum Greatsword
+Sword of Swords
+The Chainsaw
+The Finisher
+Toybox Greatsword
+Twilight Cleaver
+Valiant Armament Greatsword
+Vinetouched Greatsword
+World Ender && displayname:World Ender (Lvl 1) && image:World Ender Level 1 $1.png
+World Ender && displayname:World Ender (Lvl 2) && image:World Ender Level 2 $1.png
+World Ender && displayname:World Ender (Lvl 3) && image:World Ender Level 3 $1.png
+}}
+
+===[[Hammer]]===
+{{List to itembox|color={{{1|}}}|
+Afterlife
+Airship Engineer's Hammer
+Ares's Might
+Asgardian Hammer
+Astro Slammer
+Atom Smasher
+Atomic Sledge
+Aztlán Hammer
+Barbaric Rage
+Bass Drop
+Blooming Dream
+Bonehead
+Bop
+Bovine Skull Mallet
+Brazen Maul
+Bullhorn Basher
+Champion's Hammer
+Chikara
+Circuit Breaker
+Compressed Metal Mallet
+Concrete Slam
+Crystalline Mallet
+Cultivator's Mallet
+Cyber Myk Gavel
+Cyclone Hammer
+Darkheart Crusher
+Davey Jones' Anchor
+Dawn Hammer
+Death's End
+Disco Brawl
+Divine Intervention
+Dragon Sledge
+Dragon's Woe
+Dwarven-Forged Hammer
+Earthshaker Seismic Sledge
+Electro Hammer
+Executive Order
+Face-Beater
+Fate Crusher
+Flamingo
+Folding Chair
+Free Parking
+French Horn
+Frostbitten Justice
+Fruitcake
+Galactic Gavel
+Gatekeeper
+Glacier Gavel
+Golden Striker
+Gothic Warhammer
+Gravity Hammer
+Ground Pounder
+Grueling Terror
+Guardian Mallet
+H4MM3R Time
+Hammer Decorum
+Hammer of Mercy
+Hardlight Hammer
+Headache
+Heart of Gold
+Heart of the Volcano
+Heart Smasher
+Heavy Hitter
+Heirloom (Hammer Skin) && displayname:Heirloom
+High Noon
+High-Impact Hammer
+Highland Hammer
+Hit Often
+Howlin' Skull
+I've Got Spirit!
+Ice Angling
+Ice Crusher
+Ice Fishing
+Iron Mallet
+Jellyfishing Net
+Kutinhira
+Laughing Dragon
+Lodestone
+LOL RIP
+Lord's Justice
+Makin' Bacon Pancakes
+Manhandle Slam
+Marigold Maul
+Menace Maul
+Mjölnir
+Morning Maul
+Mosaic Maul
+Mouse Trap
+Mrs. Fix It
+Neo City Hammer
+Neutron Maul
+Nightmare
+Nightmare Mauler
+Ninpō&#58; Unsealed Hammer && image:Ninpō Unsealed Hammer $1.png
+Numbskull
+Nutsy
+Offworld
+Ornate Anchor
+Peafowl Cane
+People's Elbow
+Photosynthesis Warhammer
+Piledriver
+Pneumatic Hammer
+POP! Goes the Bandit
+Primrose Mallet
+Rail Hammer
+Rank Breaker
+RGB Hammer
+Righteous Indignation
+Root of the Forest
+Santa's Sleigh-er
+Sattelite Smash
+Season's Beatings
+Selena's Smasher
+Shadaloo Scepter
+Silver Sledgehammer
+Skull of the Saint
+Skullcracker
+Sledge Fire
+Sledge Hammer
+Smasher
+Sol Smasher
+Soldier's Duty
+Soucriant's Fury
+Soul of Aoku
+Soulbinder
+Stake Driver
+Sterling Sledge
+Stop and Drop
+Strike of the Wise
+Striking Magi ☆ Miracle Mallet
+Sucker Punch
+Sun Dial
+Taurus Rebellion && displayname:Taurus Rebellion (Lvl 1) && image:Taurus Rebellion Level 1 $1.png
+Taurus Rebellion && displayname:Taurus Rebellion (Lvl 2) && image:Taurus Rebellion Level 2 $1.png
+Taurus Rebellion && displayname:Taurus Rebellion (Lvl 3) && image:Taurus Rebellion Level 3 $1.png
+Tea-KO
+Teeth-Grinder
+That's A Hammer
+The Angel
+The Bolt
+The Cure Seeker
+The Dark Cauldron
+The Herald
+The Hibernator
+The Iron Barrel
+The Phenom
+The Rook
+The Shrine
+The Snowplow
+The Starsmasher
+The Steamroller
+The Talisman
+Throwing Anchor
+Toybox Hammer
+Unicorn Stampede
+Valiant Armament Hammer
+Verdict
+Warhammer
+Wild's Smasher
+Wings of Victory
+Wrought Iron Street Lamp
+Yggdrasil's Branch
+Ymir's Sledge
+Yokai Slam
+Yokai Smash
+}}
+
+===[[Katars]]===
+{{List to itembox|color={{{1|}}}|
++5 Daggers
+Actuator Claws
+Anchor Shanks
+Apollo's Fury
+Asgardian Katars
+Asgardian Shoto Lightsabers
+Assassin's Blades
+Atlantean Power
+Autumn Wind
+Aztlán Katars
+Back Alley Justice
+Battleblades
+Bear Claws
+Beguiling Blades
+Bengali Claws
+Biotec-X Scalpels
+Black Icicles
+Blood Fangs
+Bloodletting
+Bone & Bane
+Bone Claws
+Brahma Bulls
+Briar & Bramble
+Briar Barbs
+Budding Reunion
+Burning Golden Razors
+Bushwacker Blades
+Carbon-Steel Knives
+Cardinal Talons
+Carved Lancet Teeth
+Chompers
+Coral Spines
+Corrupted Shredders
+Crescent Moon Claws
+Crystal Blades
+Crystal Shards
+Crystalline Blades
+Cyber Myk Shanks
+Dark Scarabs
+Dark Whispers
+Darkheart Shredders
+Dawn and Dusk
+Deadly Diamonds
+Distortion
+Dragon Scale Katars
+Dragon Tooth Katars
+Dragon's Shine
+Dual Hunting Knives
+Dwarven-Forged Katars
+Dynasty and Legacy
+Edge Guards
+Executioner's Razors
+Exploding Blades
+Fangs of Woe
+Fangwild Thorns
+Fatal Fans
+Feather's Edge
+Finishing Touches
+Fire & The Flame
+Fire Fangs
+Flame and Cinder
+Fleur de Bees
+Flint and Tinder
+Flora Blades && displayname:Flora Blades (Lvl 1) && image:Flora Blades Level 1 $1.png
+Flora Blades && displayname:Flora Blades (Lvl 2) && image:Flora Blades Level 2 $1.png
+Flora Blades && displayname:Flora Blades (Lvl 3) && image:Flora Blades Level 3 $1.png
+Getaway Points
+Grand Finale
+Greed and Avarice
+Hardlight Pincers
+Haunting Blades
+Heart Piercers
+Heartaches
+Hell's Hearts
+Hello Katars
+Hidden Blades
+High Tide
+High-Voltage Rippers
+Hound's Fangs
+Hunter Knives
+Hyper Cleave
+Icy Slicers
+Imperial Seals
+Infinity Blades
+Iron Steel Claws
+Judge and Jury
+Katars of Mercy
+Katars of the Raven
+kaTR-808
+Kiss of Fire
+Levi's Snap Blades
+Lobster Claws
+Maple Breeze
+Martial Blades
+Mech Makers
+Mikasa's Snap Blades
+MK Needles
+Nettle & Belladonna
+Nightmare Claws
+Nightmare Slicers
+Nina's Daggers
+Ninpō&#58; Unsealed Katars && image:Ninpō Unsealed Katars $1.png
+Numeric Flux
+Overhand Slicers
+Piercing Petals
+Pillage and Plunder
+Raptorial Limbs
+Raven Claws
+Realm Etchers
+Rending Talons
+Revolving Blades
+RGB Katars
+Rubber Spatulas
+Sacred Blades
+Saint Nicks
+Sakura Strikers
+Sekai no Kana
+Serpent's Fangs && displayname:Serpent's Fangs (Lvl 1) && image:Serpent's Fangs Level 1 $1.png
+Serpent's Fangs && displayname:Serpent's Fangs (Lvl 2) && image:Serpent's Fangs Level 2 $1.png
+Serpent's Fangs && displayname:Serpent's Fangs (Lvl 3) && image:Serpent's Fangs Level 3 $1.png
+Serve & Protect
+Shadow Trawl
+Sharpoons
+Shock Katars
+Showman's Daggers
+Shredders
+Silent Night
+Smoldering Skewers
+Sonar Slicers
+Soul Fangs
+Spirit Ash's Fangs
+Splish & Splash
+Stained Shards
+Taurus Skulls
+Teeth of the Nile
+The Ailing Twin Gods
+The Blackhearts
+The Devourers
+The Miracle Workers
+Three Fingered Discount
+Thunder and Clash
+Tooth & Trouble
+Tooth and Nail
+Toybox Katars
+Trench Cutters
+Trials of Worth
+Trusty Trowels
+Twin Sai
+Valiant Armament Katars
+Vengeance
+Viper's Fangs
+Whispers of the Asp
+Wicked Claws
+Wings of Liberty
+Wings of the Sage
+Winter Daggers
+Wolfsilver Blades
+Zenith Daggers
+}}
+
+===[[Orb]]===
+{{List to itembox|color={{{1|}}}|
+4LLY
+Aesir's Orb
+Alley-oop
+Apple of Eden
+Apple of Odin
+Asgardian Orb
+Aztlán Orb
+Beach Ball
+Beatdown Bell
+Blood Keepsake
+Blood Shard
+Closin' Time
+Crimson Poison
+Cyber Myk Orb
+Darkheart Geode
+Darkheart Orb
+Death Awaits
+Death Star Hologram
+Demon's Malice && displayname:Demon's Malice (Lvl 1) && image:Demon's Malice Level 1 $1.png
+Demon's Malice && displayname:Demon's Malice (Lvl 2) && image:Demon's Malice Level 2 $1.png
+Demon's Malice && displayname:Demon's Malice (Lvl 3) && image:Demon's Malice Level 3 $1.png
+Dragon's Heart
+Durasteel Debris
+Dwarven-Forged Orb
+Eldritch Core
+Encyclopedia of Brawl
+Essence of Niflheim
+Eternal Nightfall
+Eye of the Storm
+Fae Magi ☆ Soaring Locket
+Fossil Fury
+Fu Lion Charm
+Galactic Glitch
+Garuda's Core
+Ghost Familiar
+Golden Dawn ~ Arcana
+Golden Punishment
+Grifball
+Hardening Crystal
+Hardlight Orb
+Home Run
+Hot Choco Orb
+Isu Apple
+Jar-O-Honey
+Jedi Training Remote
+Jewel of the Forest
+Lighted Eminence
+Lightning Sigil
+Logitech Keycap
+Love Sick
+Memento Mori
+Moonlight Meteor
+Night Blight
+Nightmare Eye
+Ninpō&#58; Unsealed Orb && image:Ninpō Unsealed Orb $1.png
+Oddball
+Orb of Mercy
+Orbot
+Photon Sphere
+Piece of Eden
+Piña Collider
+Power of Courage
+Power of Will
+Psycho Power Aura
+Remnant of Fate
+Reunited
+RGB Orb
+Sacred Relic
+Scrying Glass
+Sealed Infernum
+Searing Sphere
+Shot Caller
+Sidekick Souvenir Orb
+Sleeping Demon
+Snarler
+Snow Globe
+Soul Battery
+Stone of Malice
+Terra Firma
+The Firehawk
+The Giver's Grasp
+The Last Ride
+The Obol
+The Unblinking
+Tiercel Orb
+Toybox Orb
+Valiant Armament Orb
+Vial of Crows
+Von Evilstein's Heart
+Whitewater Gem
+}}
+
+===[[Rocket Lance]]===
+{{List to itembox|color={{{1|}}}|
+Abyssal Excavator
+Accretion Mass Projector
+Aesinite Lance
+Aetheric Rocket Drill
+Armored Attack Rocket
+Asgardian Lance
+Asteroid Grinder
+Atomic Rocket
+Aviator Test Rocket
+Aztlán Rocket Lance
+Banana Guard Lance
+Batavian Column
+Battle Lance
+Beach King
+Bitter End
+Blackstar
+Blazing Charioteer
+Broken Crown
+Burnout (Weapon Skin) && displayname:Burnout && image:Burnout $1.png
+Butt Stallion
+Chemical V
+Chrysalis Lance
+Cobalt Mecha Lance
+Core Collapse
+Corinthian Lance
+Cristatus Wingspan
+Cupid's Arrow
+Cyber Myk Starblaze
+Darkheart Missile
+Darkpulse
+Dirt Road Drill
+Doombringer
+Dragon's Breath
+Drake's Battalion
+Drivsnö Pulse
+Dwarven-Forged Lance
+End Bringer
+Eternal Skyrocket
+Event Horizon
+Exalting Spire
+Fancy Lance
+Fearful Frost
+Fire Giant Lance
+Forerunner
+Freelancer
+Fuselage
+Galaxy Lance
+Glorious Conquest
+Griffoth's Fire
+Hardlight Rocket Lance
+Heartbreak Havoc
+Honor's Edge
+Honorbound
+Horn of the Scarab
+Imperial Rocket
+Imperial Star Lance
+Interstellar Rocket
+Iridium Engine
+Ivy Charger
+Kingly Lance
+Lion's Pride
+Lobster Lance
+Loch's Harpoon
+Magma Bolt
+Magma Heart
+Mk 1 Lance
+Mk V Lance
+Nightmare Launcher
+Ninpō&#58; Unsealed Rocket Lance && image:Ninpō Unsealed Rocket Lance $1.png
+Nordic Celebration
+OHHHHH YEEAAAH!
+Overdrive
+Perceptive Flight
+Piercing Gaze
+Plague Boost
+Planet Destroyer
+Pole Position
+Prizewinner
+Prophecy
+Pulsing Thicket
+Quasar && displayname:Quasar (Lvl 1) && image:Quasar Level 1 $1.png
+Quasar && displayname:Quasar (Lvl 2) && image:Quasar Level 2 $1.png
+Quasar && displayname:Quasar (Lvl 3) && image:Quasar Level 3 $1.png
+Racing Lance
+Raging Furnace
+Reactor Core
+Retrograde Rocket
+RGB Rocket Lance
+Righter of Wrongs
+Roar of the Pride
+Rocket Lance of Mercy
+Rocket Parasol
+Rocket Powered Warhorse
+Royal Roar
+Rush
+Selenite Jet Lance
+Shattered Emerald
+Sidewinder
+Skull Saw
+Skypiercer
+Skyrush
+Soaring Magi ☆ Sky Duster
+Spark Compressor
+Spark of Madness
+Speaker of the Sea
+Steam Rocket
+Svartalfheim's Caverns
+Synthetic Charge
+Tegmina Lance
+The Breakdown
+The Broken Forge
+The Insignia
+Thumbs Down
+Tide Queen
+Tourney Lance
+Toybox Rocket Lance
+Ultra-Lance
+Uprising
+Valiant Armament Rocket Lance
+War Pipes
+Winterbite
+Witching Broom
+World Champion Lance
+Yokai's Spirit
+Yorishiro
+}}
+
+===[[Scythe]]===
+{{List to itembox|color={{{1|}}}|
+Adrenaline Rush
+Amplitude
+Arched Valor
+Asgardian Scythe
+Autumn Harvest
+Aztlán Scythe
+Blood Moon Influence && displayname:Blood Moon Influence (Lvl 1) && image:Blood Moon Influence Level 1 $1.png
+Blood Moon Influence && displayname:Blood Moon Influence (Lvl 2) && image:Blood Moon Influence Level 2 $1.png
+Blood Moon Influence && displayname:Blood Moon Influence (Lvl 3) && image:Blood Moon Influence Level 3 $1.png
+Blossoming Blade
+Calling Card
+Candlelit Scythe
+Casey's Hockey Stick
+Cat Scratch
+Caught a Big One!
+Chaos Harvester
+Chi Stopper
+Climbing Gear
+Coatl Culler
+Constellation Carver
+Crossfader
+Crowned Favor
+Cull
+Cyber Myk Sickle
+Cygnus && displayname:Cygnus (Lvl 1) && image:Cygnus Level 1 $1.png
+Cygnus && displayname:Cygnus (Lvl 2) && image:Cygnus Level 2 $1.png
+Cygnus && displayname:Cygnus (Lvl 3) && image:Cygnus Level 3 $1.png
+Daikama
+Darkheart Reaper
+Death Touch
+Digital Lockdown
+Dreamweaver's Dance&#58; Reap && image:Dreamweaver's Dance Reap $1.png
+Dwarven-Forged Scythe
+Edge of the Universe
+Erudition's Call
+Eternity
+Eye of Horus
+Fettered Rage
+Fiendish Slice
+Frost Fang
+Fusion Blade
+Gloryhound
+Goalie Stick
+Golden Light
+Hand of Asmodeus
+Hardlight Scythe
+Harvest Sickle
+Haunted Hook
+Heartbleed
+Heartfelt Wish
+Heartthrob
+Holy Incantation
+Hotline Slash
+Ice Pick
+Ice Sickle
+In Sickness
+Interstellar Edge
+Into the Abyss
+Jaws of the Oni
+Keytar Slash
+Kingpin Scythe
+Knowledge is Key
+Koinobori
+Laplace's Demon
+Last Bite
+Leash of Souls
+Lethal Edge
+Lightbringer's Relic
+Lockpick
+Looter's Lute
+Luminary Authority
+Marks the Spot
+Merry Jingle Scythe
+Mississippi Wrangler
+Mordex on Ice&#58; Dair to Dream && image:Mordex on Ice Dair to Dream $1.png
+Necromantic Aura
+Nevermore
+Nightmare Reaper
+Ninpō&#58; Kusarenka && displayname:Ninpō&#58; Kusarenka (Lvl 1) && image:Ninpō Kusarenka Level 1 $1.png
+Ninpō&#58; Kusarenka && displayname:Ninpō&#58; Kusarenka (Lvl 2) && image:Ninpō Kusarenka Level 2 $1.png
+Ninpō&#58; Kusarenka && displayname:Ninpō&#58; Kusarenka (Lvl 3) && image:Ninpō Kusarenka Level 3 $1.png
+Ninpō&#58; Unsealed Scythe && image:Ninpō Unsealed Scythe $1.png
+Oni Bite
+Pavo Beak
+Pavonini Talon
+Penumbral Crescent
+Phantom Toxin
+Quarrion Sickle
+Raven's Talon
+Razor's Reach
+Reaping Time
+RGB Scythe
+Rhapsody's Edge
+Sacrifice
+Scarabs' Bane
+Scare-Ware
+Scavenger's Spoils
+Scrapped M.O.U.S.E.R.
+Scythe of Mercy
+Scythe of Slaghtaverty
+Scythe of the Sands
+Scythe of Torment
+Searing Blade
+Seraph's Message
+Sharkbite
+Shooting Star
+Singularity Sickle
+Six String
+Spinal Sickle
+St. Alerial’s Judgment
+Stargleam Scythe
+Starry Scythe
+Starship Slice
+Stringed Scavenger
+Tamed Beast
+Tethered Plane
+The Appointment
+The Closer
+The Jade Price
+The Pale Horse
+The Signature
+Thresher
+Throttle
+Toybox Scythe
+Tropic Breeze
+Ultra Oil Lamp
+Uraeus' Fang
+Valiant Armament Scythe
+Valorous Charge
+Vanquisher
+Villain Monologue
+Winter's Grave
+Withering Scythe
+Wraith's Sickle
+Wrath of Hel
+Yard Marker
+Yoshimitsu's Scythe
+}}
+
+===[[Spear]]===
+{{List to itembox|color={{{1|}}}|
+Airbender Staff
+Amanita Naginata
+Ambition
+Arctic Edge Spear
+Asgardian Saberstaff
+Asgardian Spear
+Astro Shard
+Aurora's Spear
+Autumnal Scepter
+Aztlán Spear
+Bamboo Staff
+Bo Staff
+Bone Shard
+Candy Cane
+Clearly a Sword
+Corsage Royale
+Crafts Time
+Crimson Pike
+Crush Killer
+Cyber Myk Pike
+Cyberlink Spear
+Dark Shovel Blade
+Darkheart Spine
+Destiny
+Devilish Spike
+Divine Question && displayname:Divine Question (Lvl 1) && image:Divine Question Level 1 $1.png
+Divine Question && displayname:Divine Question (Lvl 2) && image:Divine Question Level 2 $1.png
+Divine Question && displayname:Divine Question (Lvl 3) && image:Divine Question Level 3 $1.png
+Dreamshard
+Dusk (Weapon Skin) && displayname:Dusk
+Dwarven Awl
+Dwarven-Forged Spear
+Eba's Retribution
+Eclipsing Faith
+Eldritch Thorn
+Elven Battle Spear
+Enchanting Ascent
+Enlightened Song
+Equinox Spire
+Fangwild Havoc
+Fangwild Spine
+Fellthorne
+Final Wish
+Fire Nation Spear
+Flamepiercer
+Glacier's Grace
+Great Bite Shark
+Guiding Spirit
+Gungnir
+Hand-Saw
+Hardlight Spear
+Heart Piercer
+Heartseeker
+Heavenly Shattering Star
+Heimdall's Call
+Helios Reign
+Holy Covenant
+Hunting Spear
+Immortal Pike
+In Health
+Inscription
+Iron Might
+Jade Truth
+Judgement
+Justice Bolt
+Knifebeak
+Lacrosse Check
+Laticauda's Poison
+Lich Lord's Gift
+Light of Truth
+Lightning Rod
+Loathsome Talon
+Long Tooth
+Love Hurts
+Loves Me Not
+Magma Spear
+Martial Staff
+Matchlock Spear
+Mega Wrench
+Mikasa's Thunder Spear
+Mizzenmast
+Modi
+Moonstone Spear
+Museum-Quality Spear
+Nanometal Spear
+Needle Drop Spear
+Neo City Spear
+Nightmare Spine
+Ninetails
+Ninpō&#58; Unsealed Spear && image:Ninpō Unsealed Spear $1.png
+No One is Ready
+Null Pointer
+Number 1 Fan
+Odin's Spear
+Old School Spear
+Oni Spear
+Parasol Pike
+Particle Blade
+Payday
+Pearl's Spear
+Piercing Regret
+Pig Sticker
+Pike of the Forgotten
+Pillar of the Heavens
+Pincer Pike
+Plastic Pike
+Platinum Pike
+Plutonium Pike
+Poison Dart
+Precision
+Prey Catcher
+Pulaski Pike
+Pumpkin Pike
+Qiang
+Queen of Demons
+Quill of Thoth
+Ranked Ladder
+Red-Hot Ranseur
+Regifted Spear
+RGB Spear
+Righteous Spine
+Rosewood Spear
+Rotten Oar
+Salvaged Yari
+Scepter of Salt
+School Colors
+Scintilating Spear
+Scrapshard
+Scrimshaw Harpoon
+Seal Breaker
+Seridashi
+Serpent Spear
+Serving Fork
+Seven Secrets Spear
+Shadow Spear
+Shovel Blade
+Silver Naginata
+Ski Pole
+Sol Spear
+Spear of Mercy
+Spear of the Future
+Spear of the Living
+Spear of the Nile
+Spear of Wisdom
+Specter Spear
+Spirit's Passing
+Starforged Spear
+Stuffing Spear
+Sunforged Spear
+Surt's Arrow
+Sweet Magi ☆ Dream Spear
+Talon's Edge
+The Allthorn
+The Conch
+The Final Gift
+The Last Crutch
+The Mixup
+The Seeker's Spear
+Thermal Runaway
+Tiburon's Teeth
+Tines of the Heart
+Toxic Ranseur
+Toybox Spear
+Trident
+Trident of Antiquity
+Trueflight
+Truth
+Tundra Geir
+Tundra's Talon
+Twin Solstice
+Valiant Armament Spear
+Valkyrie's Fury
+Valor
+Vector (Weapon Skin) && displayname:Vector && image:Vector Spear $1.png
+Venom of Eba
+Viper's Venom
+Warrior's Wisdom
+Winged Glory
+Wu Wei
+Xochitl Tlacochtli
+Yari
+Yokai Naginata
+}}
+
+===[[Sword]]===
+{{List to itembox|color={{{1|}}}|
+Alucard Sword
+Ancestor's Flame
+Ancestral Blade
+Apex Keysword
+Asgardian Lightsaber
+Asgardian Sword
+Assassin's Breath
+Astroblade
+Attitude Adjustment
+Auditore Blade
+Aztlán Sword
+Babe
+Barbarian Blade
+Bear Blade
+Benevolent Light && displayname:Benevolent Light (Lvl 1) && image:Benevolent Light Level 1 $1.png
+Benevolent Light && displayname:Benevolent Light (Lvl 2) && image:Benevolent Light Level 2 $1.png
+Benevolent Light && displayname:Benevolent Light (Lvl 3) && image:Benevolent Light Level 3 $1.png
+Betrayal
+Big ol' Knife
+Bitrate Blade && displayname:Bitrate Blade (Lvl 1) && image:Bitrate Blade Level 1 $1.png
+Bitrate Blade && displayname:Bitrate Blade (Lvl 2) && image:Bitrate Blade Level 2 $1.png
+Bitrate Blade && displayname:Bitrate Blade (Lvl 3) && image:Bitrate Blade Level 3 $1.png
+Blade of Brutus
+Blade of Shadows
+Blazing Light Sword
+Blue Blossom Blade
+Boarding Cutlass
+Bokken
+Broad Sword
+Catlass
+Celebratory Sabre
+Chitinous Blade
+Claideamh
+Connie's Sword
+Corsair Sword
+Crimson Cutlass
+Crowbar
+Crypto Blade
+Curved Beam
+Cyber Myk Switchblade
+Dark Elf Flamberge
+Darkheart Blade
+Demon Art&#58; Kurayami-ken && image:Demon Art Kurayami-ken $1.png
+Demon's Blade
+Devil's Hand
+Diamond Cutter
+Double-Action
+Dragonsplinter
+Driftwood Chopper
+Dueling Broadsword
+Duskblade
+Dwarven-Forged Sword
+Dynasty Ender
+Edge of Twilight
+Emperor's Claim
+Energy Sword
+Eternal Flame
+Falling Blossoms
+Finn Sword
+For Royalty
+Foxfire
+Francesca
+Frost Brandr
+Gift of Sojobo
+Glorious Deco
+Golden Fang
+Golden Lion Fang
+Golden Saber
+Guardian's Edge
+Hardlight Blade
+Hardlight Sword
+Hattori Hanzo Sword
+Haunted Incisor
+Heart Flutter
+Heavy Chopper
+Hidden Dragon
+Hippokampos
+Hussar's Prize
+Ice Slicer
+Imperial Decree
+Joint Pain
+Jolly Ripper
+Just Dead
+Katana
+Kingsblade
+Kraken's Key
+Kukri Carver
+Laughing Stock
+Levi's Snap Blade
+Lionclaw
+Long Sword
+Lookin' Sharp
+Love Letter Opener
+Lucky Magi ☆ Sparkling Sword
+Maggie's Machete
+Marrow
+Messatsu Blade
+Michonne's Katana
+Mikimoto Katana
+Mocking Blade
+Monofilament Blade
+Moonbeam
+Moonbeam Blade
+Moonbeam Blade (Chakora Priya) && displayname:Moonbeam Blade
+Morning Star
+Mr. Stabby
+Neo-City Sword
+Neon Gleam
+Night Terrors
+Nightmare Sword
+Ninpō&#58; Raijin && image:Ninpō Raijin $1.png
+Ninpō&#58; Senbonzakura && displayname:Ninpō&#58; Senbonzakura (Lvl 1) && image:Ninpō Senbonzakura Level 1 $1.png
+Ninpō&#58; Senbonzakura && displayname:Ninpō&#58; Senbonzakura (Lvl 2) && image:Ninpō Senbonzakura Level 2 $1.png
+Ninpō&#58; Senbonzakura && displayname:Ninpō&#58; Senbonzakura (Lvl 3) && image:Ninpō Senbonzakura Level 3 $1.png
+Ninpō&#58; Unsealed Sword && image:Ninpō Unsealed Sword $1.png
+Ninpō&#58; Zanshintō && image:Ninpō Zanshintō $1.png
+No Running!
+Nunchaku
+Onihashi Steel Blade
+Palette Knife
+Paring Knife
+Peppermint Piercer
+Phoenix Claw
+Plasma Cleaver
+Power Sword
+Powersurge
+Pressure Slicer
+Prickly Cut
+Pristine Cutlass
+Pro-Tour Racket
+Regal Sun Sword
+RGB Sword
+Royal Sword
+Saber of Order
+Saltwater Saber
+Serisage
+Shadow Edge
+Shakti Sword
+Sharktooth Grin
+Shinkal
+Shinobi Sword
+Shrouded Blade
+Sky Piercer
+Soul Dancer
+Soulflame
+Soulshard
+Squidward's Clarinet
+Starforged Scimitar
+Steam-Charged Saber
+Surprise!
+Switchblade
+Switchcomb
+Sword Breaker
+Sword of Davey Jones
+Sword of Freyr
+Sword of Heroes
+Sword of Justice
+Sword of Mercy
+Sword of the Creed
+Sword of the Demon
+Sword of the Raven
+Sword of Truth
+Tactical Blade
+Tactical Edge
+The Cleaner
+The Frozen Cutlass
+The Frozen Edge
+The Gladius
+The Mark
+The Monarchy
+The Slayer
+The Smackdown
+Tiger's Talwar
+Tippani
+Toothpick
+Toybox Sword
+Twin Katanas
+Twisted Titanium
+Typhon
+Valiant Armament Sword
+Victory Rush
+Watermelon Slice
+Waveslicer
+Whispering Blade
+Wicked Blade
+Wrought Iron Sword
+Wyrmseeker
+Wyvern's Sting
+Yataghan Sword
+Yoshimitsu's Blade
+}}
+
+[[Category:Weapon Skins in all colors]]</onlyinclude></includeonly>
+<noinclude>
+{{doc}}
+[[Category:Templates]]
+</noinclude>

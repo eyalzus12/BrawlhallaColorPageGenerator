@@ -4,982 +4,982 @@ The following is a list of all skins in {{{1|}}}. ''Click an image to view it in
 {{Compact TOC}}
 <span id="A"></span>
 ===[[Ada]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ada|image=Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Technomancer Ada|image=Technomancer Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fatal Error Ada|image=Fatal Error Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=DJ Ada|image=DJ Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vixen Ada|image=Vixen Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wasteland Ada|image=Wasteland Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Atlantean Ada|image=Atlantean Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Detention Ada|image=Detention Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Stormlord Ada|image=Stormlord Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lovelaced Ada|image=Lovelaced Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Heatblast|image=Heatblast {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Astral Core Ada|image=Astral Core Ada {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Mandalorian|image=The Mandalorian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ada
+Technomancer Ada
+Fatal Error Ada
+DJ Ada
+Vixen Ada
+Wasteland Ada
+Atlantean Ada
+Detention Ada
+Stormlord Ada
+Lovelaced Ada
+Heatblast
+Astral Core Ada
+The Mandalorian
+}}
 ===[[Arcadia]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Arcadia|image=Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rogue Queen Arcadia|image=Rogue Queen Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Carapace Armored Arcadia|image=Carapace Armored Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Briar Rose Arcadia|image=Briar Rose Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Equinox Arcadia|image=Equinox Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Diabolical Doll Arcadia|image=Diabolical Doll Arcadia {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Arcadia
+Rogue Queen Arcadia
+Carapace Armored Arcadia
+Briar Rose Arcadia
+Equinox Arcadia
+Diabolical Doll Arcadia
+}}
 ===[[Artemis]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Artemis|image=Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Darkheart Artemis|image=Darkheart Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Iron Lady Artemis|image=Iron Lady Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eclipse Artemis|image=Eclipse Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Seraph Artemis|image=Seraph Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Street Race Artemis|image=Street Race Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Future Spirit Artemis|image=Future Spirit Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Slapshot Artemis|image=Slapshot Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Netherworld Artemis|image=Netherworld Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Demon Rider Artemis|image=Demon Rider Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Event Horizon Artemis|displayname=Event Horizon Artemis (Lvl 1)|image=Event Horizon Artemis Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Event Horizon Artemis|displayname=Event Horizon Artemis (Lvl 2)|image=Event Horizon Artemis Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Event Horizon Artemis|displayname=Event Horizon Artemis (Lvl 3)|image=Event Horizon Artemis Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Peacock Artemis|image=Peacock Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Void Zenith Artemis|image=Void Zenith Artemis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Artemis
+Darkheart Artemis
+Iron Lady Artemis
+Eclipse Artemis
+Seraph Artemis
+Street Race Artemis
+Future Spirit Artemis
+Slapshot Artemis
+Netherworld Artemis
+Demon Rider Artemis
+Event Horizon Artemis && displayname:Event Horizon Artemis (Lvl 1) && image:Event Horizon Artemis Level 1 $1.png
+Event Horizon Artemis && displayname:Event Horizon Artemis (Lvl 2) && image:Event Horizon Artemis Level 2 $1.png
+Event Horizon Artemis && displayname:Event Horizon Artemis (Lvl 3) && image:Event Horizon Artemis Level 3 $1.png
+Peacock Artemis
+Void Zenith Artemis
+}}
 ===[[Asuri]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Asuri|image=Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cat Burglar Asuri|image=Cat Burglar Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Awakened Asuri|image=Awakened Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lynx Asuri|image=Lynx Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Swashbuckler Asuri|image=Swashbuckler Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Apex Predator Asuri|image=Apex Predator Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mecha Asuri|image=Mecha Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=First Day Asuri|image=First Day Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Badlands Asuri|image=Badlands Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Skel-asuri|image=Skel-asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Asuri|image=Metadev Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tigress|image=Tigress {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ahsoka Tano|image=Ahsoka Tano {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Master of Night Asuri|image=Master of Night Asuri {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Levi|image=Levi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Asuri
+Cat Burglar Asuri
+Awakened Asuri
+Lynx Asuri
+Swashbuckler Asuri
+Apex Predator Asuri
+Mecha Asuri
+First Day Asuri
+Badlands Asuri
+Skel-asuri
+Metadev Asuri
+Tigress
+Ahsoka Tano
+Master of Night Asuri
+Levi
+}}
 ===[[Azoth]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Azoth|image=Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Baron Azoth|image=Baron Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lichlord Azoth|image=Lichlord Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Annihilator Azoth|image=Annihilator Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Deep One Azoth|image=Deep One Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sky Scourge Azoth|image=Sky Scourge Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ancient Azoth|image=Ancient Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Muerto Azoth|image=Muerto Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Necromancer Azoth|image=Necromancer Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Island Azoth|image=Island Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ehzot Azoth|image=Ehzot Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Soulmate Azoth|image=Soulmate Azoth {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ascendant Azoth|displayname=Ascendant Azoth (Lvl 1)|image=Ascendant Azoth Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ascendant Azoth|displayname=Ascendant Azoth (Lvl 2)|image=Ascendant Azoth Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ascendant Azoth|displayname=Ascendant Azoth (Lvl 3)|image=Ascendant Azoth Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Azoth
+Baron Azoth
+Lichlord Azoth
+Annihilator Azoth
+Deep One Azoth
+Sky Scourge Azoth
+Ancient Azoth
+Muerto Azoth
+Necromancer Azoth
+Island Azoth
+Ehzot Azoth
+Soulmate Azoth
+Ascendant Azoth && displayname:Ascendant Azoth (Lvl 1) && image:Ascendant Azoth Level 1 $1.png
+Ascendant Azoth && displayname:Ascendant Azoth (Lvl 2) && image:Ascendant Azoth Level 2 $1.png
+Ascendant Azoth && displayname:Ascendant Azoth (Lvl 3) && image:Ascendant Azoth Level 3 $1.png
+}}
 <span id="B"></span>
 ===[[Barraza]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Barraza|image=Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Razorback Barraza|image=Razorback Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nemesis Barraza|image=Nemesis Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sawed-Off Barraza|image=Sawed-Off Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Slasher Barraza|image=Slasher Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Amun-Raza|image=Amun-Raza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shark Heart Barraza|image=Shark Heart Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Heartbreaker Barraza|image=Heartbreaker Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wraith Barraza|image=Wraith Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rick|image=Rick {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Barraza|image=Metadev Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Famished Beast Barraza|image=Famished Beast Barraza {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Krieg|image=Krieg {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Barraza
+Razorback Barraza
+Nemesis Barraza
+Sawed-Off Barraza
+Slasher Barraza
+Amun-Raza
+Shark Heart Barraza
+Heartbreaker Barraza
+Wraith Barraza
+Rick
+Metadev Barraza
+Famished Beast Barraza
+Krieg
+}}
 ===[[Bödvar]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Bödvar|image=Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bear'dvar|image=Bear'dvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cyber Bödvar|image=Cyber Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Big Rig Bödvar|image=Big Rig Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Asgard Bödvar|image=Asgard Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Marauder Bödvar|image=Marauder Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Warchief Bödvar|image=Warchief Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bödvar-mania|image=Bödvar-mania {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Draugr Bödvar|image=Draugr Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nutcracker Bödvar|image=Nutcracker Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Bödvar|image=Metadev Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Xavier Woods|image=Xavier Woods {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ritzy Bödvar|image=Ritzy Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vanir Guardian Bödvar|image=Vanir Guardian Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gardener Bödvar|image=Gardener Bödvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Bödvar
+Bear'dvar
+Cyber Bödvar
+Big Rig Bödvar
+Asgard Bödvar
+Marauder Bödvar
+Warchief Bödvar
+Bödvar-mania
+Draugr Bödvar
+Nutcracker Bödvar
+Metadev Bödvar
+Xavier Woods
+Ritzy Bödvar
+Vanir Guardian Bödvar
+Gardener Bödvar
+}}
 ===[[Brynn]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Brynn|image=Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aesir-Forged Brynn|image=Aesir-Forged Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shieldmaiden Brynn|image=Shieldmaiden Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fallen Brynn|image=Fallen Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eternal Love Brynn|image=Eternal Love Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cinderguard Brynn|image=Cinderguard Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Brynn|image=Metadev Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Völsung Brynn|image=Völsung Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Harpy Brynn|image=Harpy Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Witchfire Brynn|image=Witchfire Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Barbara|image=Barbara {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aurora Brynn|image=Aurora Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eivor|displayname=Eivor (Female)|image=Eivor (Female) {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eivor|displayname=Eivor (Male)|image=Eivor (Male) {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cheer Captain Brynn|image=Cheer Captain Brynn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Brynn
+Aesir-Forged Brynn
+Shieldmaiden Brynn
+Fallen Brynn
+Eternal Love Brynn
+Cinderguard Brynn
+Metadev Brynn
+Völsung Brynn
+Harpy Brynn
+Witchfire Brynn
+Barbara
+Aurora Brynn
+Eivor && displayname:Eivor (Female) && image:Eivor (Female) $1.png
+Eivor && displayname:Eivor (Male) && image:Eivor (Male) $1.png
+Cheer Captain Brynn
+}}
 <span id="C"></span>
 ===[[Caspian]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Caspian|image=Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fortune Hunter Caspian|image=Fortune Hunter Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nightcap Caspian|image=Nightcap Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=All City Caspian|image=All City Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Immortal Caspian|image=Immortal Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aces High Caspian|image=Aces High Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Harlequin Caspian|image=Harlequin Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Plague Knight|image=Plague Knight {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Diamondhead|image=Diamondhead {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Diamond Jack Caspian|image=Diamond Jack Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tuxedo Bandit Caspian|image=Tuxedo Bandit Caspian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Caspian
+Fortune Hunter Caspian
+Nightcap Caspian
+All City Caspian
+Immortal Caspian
+Aces High Caspian
+Harlequin Caspian
+Plague Knight
+Diamondhead
+Diamond Jack Caspian
+Tuxedo Bandit Caspian
+}}
 ===[[Cassidy]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Cassidy|image=Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Space Race Cassidy|image=Space Race Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=High Noon Cassidy|image=High Noon Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Masked Hero Cassidy|image=Masked Hero Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Serape Kid Cassidy|image=Serape Kid Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cupcake Cassidy|image=Cupcake Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dawnwalker Cassidy|image=Dawnwalker Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Calavera Cassidy|image=Calavera Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dust Devil Cassidy|image=Dust Devil Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Globox|image=Globox {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nutcracker Cassidy|image=Nutcracker Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bitpunk Cassidy|image=Bitpunk Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=New West Cassidy|image=New West Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sandy Cheeks|image=Sandy Cheeks {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vampire Huntress Cassidy|image=Vampire Huntress Cassidy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Cassidy
+Space Race Cassidy
+High Noon Cassidy
+Masked Hero Cassidy
+Serape Kid Cassidy
+Cupcake Cassidy
+Dawnwalker Cassidy
+Calavera Cassidy
+Dust Devil Cassidy
+Globox
+Nutcracker Cassidy
+Bitpunk Cassidy
+New West Cassidy
+Sandy Cheeks
+Vampire Huntress Cassidy
+}}
 ===[[Cross]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Cross|image=Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Boss Cross|image=Boss Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Devil Cross|image=Devil Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Staff Sgt. Cross|image=Staff Sgt. Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Krampus Cross|image=Krampus Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Double Cross|image=Double Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shadowlord Cross|image=Shadowlord Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Water Wars Cross|image=Water Wars Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Prizefighter Cross|image=Prizefighter Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Infernal Cross|image=Infernal Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hellboy|image=Hellboy {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Honor Bound Cross|image=Honor Bound Cross {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Luke|image=Luke {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Han Solo|image=Han Solo {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Cross
+Boss Cross
+Devil Cross
+Staff Sgt. Cross
+Krampus Cross
+Double Cross
+Shadowlord Cross
+Water Wars Cross
+Prizefighter Cross
+Infernal Cross
+Hellboy
+Honor Bound Cross
+Luke
+Han Solo
+}}
 <span id="D"></span>
 ===[[Diana]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Diana|image=Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bitten Diana|image=Bitten Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Survivor Diana|image=Survivor Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wyrmslayer Diana|image=Wyrmslayer Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shadowstalker Diana|image=Shadowstalker Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Demonkin Diana|image=Demonkin Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elven Ranger Diana|image=Elven Ranger Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cryptomage Diana|image=Cryptomage Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Pool Party Diana|image=Pool Party Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lionguard Diana|image=Lionguard Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lara Croft|image=Lara Croft {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Survivor Lara Croft|image=Survivor Lara Croft {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Spellbreaker Diana|image=Spellbreaker Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Soulbound Diana|image=Soulbound Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Swanky Diana|image=Swanky Diana {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Diana
+Bitten Diana
+Survivor Diana
+Wyrmslayer Diana
+Shadowstalker Diana
+Demonkin Diana
+Elven Ranger Diana
+Cryptomage Diana
+Pool Party Diana
+Lionguard Diana
+Lara Croft
+Survivor Lara Croft
+Spellbreaker Diana
+Soulbound Diana
+Swanky Diana
+}}
 ===[[Dusk]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Dusk|image=Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raven Shaman Dusk|image=Raven Shaman Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Thornwood Dusk|image=Thornwood Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Imperial Lord Dusk|image=Imperial Lord Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nimue|image=Nimue {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dusk Till Dawn|image=Dusk Till Dawn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Date Night Dusk|image=Date Night Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Deathcap Dusk|image=Deathcap Dusk {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Dusk
+Raven Shaman Dusk
+Thornwood Dusk
+Imperial Lord Dusk
+Nimue
+Dusk Till Dawn
+Date Night Dusk
+Deathcap Dusk
+}}
 <span id="E"></span>
 ===[[Ember]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ember|image=Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nightshade Ember|image=Nightshade Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Radiant Ember|image=Radiant Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Holly Jolly Ember|image=Holly Jolly Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Grovewarden Ember|image=Grovewarden Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fangwild Fawn Ember|image=Fangwild Fawn Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Star Guardian Ember|image=Star Guardian Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ember the Hunter|image=Ember the Hunter {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Meadowguard Ember|image=Meadowguard Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Ember|image=Metadev Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dragon Heart Ember|image=Dragon Heart Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Modular Rift Ember|image=Modular Rift Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Daryl|image=Daryl {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fangwild's Heart Ember|image=Fangwild's Heart Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Haute Couture Ember|image=Haute Couture Ember {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ember
+Nightshade Ember
+Radiant Ember
+Holly Jolly Ember
+Grovewarden Ember
+Fangwild Fawn Ember
+Star Guardian Ember
+Ember the Hunter
+Meadowguard Ember
+Metadev Ember
+Dragon Heart Ember
+Modular Rift Ember
+Daryl
+Fangwild's Heart Ember
+Haute Couture Ember
+}}
 ===[[Ezio]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ezio|image=Ezio {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Asgardian Ezio|image=Asgardian Ezio {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Revelations Ezio|image=Revelations Ezio {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Armor of Brutus Ezio|image=Armor of Brutus Ezio {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Alucard|image=Alucard {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Anakin Skywalker|image=Anakin Skywalker {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Darth Vader|image=Darth Vader {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ezio
+Asgardian Ezio
+Revelations Ezio
+Armor of Brutus Ezio
+Alucard
+Anakin Skywalker
+Darth Vader
+}}
 <span id="F"></span>
 ===[[Fait]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Fait|image=Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cosmic Fait|image=Cosmic Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark Arts Fait|image=Dark Arts Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Feline Fait|image=Feline Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Enchantress|image=Enchantress {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Headmaster Fait|image=Headmaster Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Fait|image=Metadev Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Star Commander Fait|image=Star Commander Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cozy Sweater Fait|image=Cozy Sweater Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Daylight Star ☆ Magi Fait|image=Daylight Star ☆ Magi Fait {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Fait
+Cosmic Fait
+Dark Arts Fait
+Feline Fait
+Enchantress
+Headmaster Fait
+Metadev Fait
+Star Commander Fait
+Cozy Sweater Fait
+Daylight Star ☆ Magi Fait
+}}
 <span id="G"></span>
 ===[[Gnash]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Gnash|image=Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jurassic Gnash|image=Jurassic Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Team Spirit Gnash|image=Team Spirit Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Outback Gnash|image=Outback Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=White Fang Gnash|image=White Fang Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Pteranodon Gnash|image=Pteranodon Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mogar|image=Mogar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chrometooth Gnash|image=Chrometooth Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Monster Gnash|image=The Monster Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shovel Knight|image=Shovel Knight {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Silvermane Gnash|image=Silvermane Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Becky Lynch|image=Becky Lynch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Reindeer Games Gnash|image=Reindeer Games Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The First Real Bear Gnash|image=The First Real Bear Gnash {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Gnash
+Jurassic Gnash
+Team Spirit Gnash
+Outback Gnash
+White Fang Gnash
+Pteranodon Gnash
+Mogar
+Chrometooth Gnash
+The Monster Gnash
+Shovel Knight
+Silvermane Gnash
+Becky Lynch
+Reindeer Games Gnash
+The First Real Bear Gnash
+}}
 <span id="H"></span>
 ===[[Hattori]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Hattori|image=Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kill Thrill Hattori|image=Kill Thrill Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Oni no Hattori|image=Oni no Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nightblade Hattori|image=Nightblade Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kitsune Hattori|image=Kitsune Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cutting Edge Hattori|image=Cutting Edge Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Death Adder Hattori|image=Death Adder Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Demon Bride Hattori|image=Demon Bride Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kabuki Hattori|image=Kabuki Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sidewinder Hattori|image=Sidewinder Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=John Cena|image=John Cena {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Akuma no Kogo Hattori|image=Akuma no Kogo Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Maître d'Hattori|image=Maître d'Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Zuko|image=Zuko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Neostreet Hattori|image=Neostreet Hattori {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Darth Maul|image=Darth Maul {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Hattori
+Kill Thrill Hattori
+Oni no Hattori
+Nightblade Hattori
+Kitsune Hattori
+Cutting Edge Hattori
+Death Adder Hattori
+Demon Bride Hattori
+Kabuki Hattori
+Sidewinder Hattori
+John Cena
+Akuma no Kogo Hattori
+Maître d'Hattori
+Zuko
+Neostreet Hattori
+Darth Maul
+}}
 <span id="I"></span>
 ===[[Imugi]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Imugi|image=Imugi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ship Sinker Imugi|image=Ship Sinker Imugi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mecha Imugi|image=Mecha Imugi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Exoshell Imugi|image=Exoshell Imugi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elvenhollow Imugi|image=Elvenhollow Imugi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Imugi
+Ship Sinker Imugi
+Mecha Imugi
+Exoshell Imugi
+Elvenhollow Imugi
+}}
 ===[[Isaiah]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Isaiah|image=Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shadow Ops Isaiah|image=Shadow Ops Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Section Zero Isaiah|image=Section Zero Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Task Force Isaiah|image=Task Force Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Admiral Isaiah|image=Admiral Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Brawl Dad Isaiah|image=Brawl Dad Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cybernetic Beat Isaiah|image=Cybernetic Beat Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dragon Hunter Isaiah|image=Dragon Hunter Isaiah {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Master Chief|image=The Master Chief {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kay Vess|image=Kay Vess {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Isaiah
+Shadow Ops Isaiah
+Section Zero Isaiah
+Task Force Isaiah
+Admiral Isaiah
+Brawl Dad Isaiah
+Cybernetic Beat Isaiah
+Dragon Hunter Isaiah
+The Master Chief
+Kay Vess
+}}
 <span id="J"></span>
 ===[[Jaeyun]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Jaeyun|image=Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Death Jester Jaeyun|image=Death Jester Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gilded Glory Jaeyun|image=Gilded Glory Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hanbok Jaeyun|image=Hanbok Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hwarang Jaeyun|image=Hwarang Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Negan|image=Negan {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snowdrift Jaeyun|image=Snowdrift Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Luminous Paladin Jaeyun|displayname=Luminous Paladin Jaeyun (Lvl 1)|image=Luminous Paladin Jaeyun Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Luminous Paladin Jaeyun|displayname=Luminous Paladin Jaeyun (Lvl 2)|image=Luminous Paladin Jaeyun Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Luminous Paladin Jaeyun|displayname=Luminous Paladin Jaeyun (Lvl 3)|image=Luminous Paladin Jaeyun Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Jaeyun|image=Metadev Jaeyun {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Jaeyun
+Death Jester Jaeyun
+Gilded Glory Jaeyun
+Hanbok Jaeyun
+Hwarang Jaeyun
+Negan
+Snowdrift Jaeyun
+Luminous Paladin Jaeyun && displayname:Luminous Paladin Jaeyun (Lvl 1) && image:Luminous Paladin Jaeyun Level 1 $1.png
+Luminous Paladin Jaeyun && displayname:Luminous Paladin Jaeyun (Lvl 2) && image:Luminous Paladin Jaeyun Level 2 $1.png
+Luminous Paladin Jaeyun && displayname:Luminous Paladin Jaeyun (Lvl 3) && image:Luminous Paladin Jaeyun Level 3 $1.png
+Metadev Jaeyun
+}}
 ===[[Jhala]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Jhala|image=Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Warlord Jhala|image=Warlord Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Speedmetal Jhala|image=Speedmetal Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Orc Raider Jhala|image=Orc Raider Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Silver Age Jhala|image=Silver Age Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sky Scourge Jhala|image=Sky Scourge Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=New School Jhala|image=New School Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Finn|image=Finn {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Queen of Scales Jhala|image=Queen of Scales Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gallowglass Jhala|image=Gallowglass Jhala {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Maggie|image=Maggie {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Simon Belmont|image=Simon Belmont {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Jhala
+Warlord Jhala
+Speedmetal Jhala
+Orc Raider Jhala
+Silver Age Jhala
+Sky Scourge Jhala
+New School Jhala
+Finn
+Queen of Scales Jhala
+Gallowglass Jhala
+Maggie
+Simon Belmont
+}}
 ===[[Jiro]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Jiro|image=Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jiro the Specialist|image=Jiro the Specialist {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shinigami Jiro|image=Shinigami Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shogun Jiro|image=Shogun Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Komainu Jiro|image=Komainu Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dullahan Jiro|image=Dullahan Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Crimson Oni Jiro|image=Crimson Oni Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Leonardo|image=Leonardo {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Oendan Jiro|image=Oendan Jiro {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Yoshimitsu|image=Yoshimitsu {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shinobi no Mono Jiro|displayname=Shinobi no Mono Jiro (Lvl 1)|image=Shinobi no Mono Jiro Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shinobi no Mono Jiro|displayname=Shinobi no Mono Jiro (Lvl 2)|image=Shinobi no Mono Jiro Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shinobi no Mono Jiro|displayname=Shinobi no Mono Jiro (Lvl 3)|image=Shinobi no Mono Jiro Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Jiro
+Jiro the Specialist
+Shinigami Jiro
+Shogun Jiro
+Komainu Jiro
+Dullahan Jiro
+Crimson Oni Jiro
+Leonardo
+Oendan Jiro
+Yoshimitsu
+Shinobi no Mono Jiro && displayname:Shinobi no Mono Jiro (Lvl 1) && image:Shinobi no Mono Jiro Level 1 $1.png
+Shinobi no Mono Jiro && displayname:Shinobi no Mono Jiro (Lvl 2) && image:Shinobi no Mono Jiro Level 2 $1.png
+Shinobi no Mono Jiro && displayname:Shinobi no Mono Jiro (Lvl 3) && image:Shinobi no Mono Jiro Level 3 $1.png
+}}
 <span id="K"></span>
 ===[[Kaya]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Kaya|image=Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Huntress Kaya|image=Huntress Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snow Stalker Kaya|image=Snow Stalker Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aurora Kaya|image=Aurora Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Athena Kaya|image=Athena Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kindergarten Kaya|image=Kindergarten Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Alpine Kaya|image=Alpine Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Pearl|image=Pearl {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Red Rose Kaya|image=Red Rose Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sylvan Cleric Kaya|image=Sylvan Cleric Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Trick or Treater Kaya|image=Trick or Treater Kaya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Kaya
+Huntress Kaya
+Snow Stalker Kaya
+Aurora Kaya
+Athena Kaya
+Kindergarten Kaya
+Alpine Kaya
+Pearl
+Red Rose Kaya
+Sylvan Cleric Kaya
+Trick or Treater Kaya
+}}
 ===[[King Zuva]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=King Zuva|image=King Zuva {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Golden Gladiator Zuva|image=Golden Gladiator Zuva {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ancestral Zuva|image=Ancestral Zuva {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elegant Zuva|image=Elegant Zuva {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+King Zuva
+Golden Gladiator Zuva
+Ancestral Zuva
+Elegant Zuva
+}}
 ===[[Koji]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Koji|image=Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shogun Koji|image=Shogun Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ronin Koji|image=Ronin Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Demon Ogre Koji|image=Demon Ogre Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tengu Koji|image=Tengu Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Yakuza Koji|image=Yakuza Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ojiisan Koji|image=Ojiisan Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Greased Lightning Koji|image=Greased Lightning Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Emperor Koji|image=Emperor Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Street Samurai Koji|image=Street Samurai Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shin Sekai Koji|image=Shin Sekai Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Michonne|image=Michonne {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Storm Shadow|image=Storm Shadow {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kern Koji|image=Kern Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Future Nokizaru Koji|image=Future Nokizaru Koji {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Koji
+Shogun Koji
+Ronin Koji
+Demon Ogre Koji
+Tengu Koji
+Yakuza Koji
+Ojiisan Koji
+Greased Lightning Koji
+Emperor Koji
+Street Samurai Koji
+Shin Sekai Koji
+Michonne
+Storm Shadow
+Kern Koji
+Future Nokizaru Koji
+}}
 ===[[Kor]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Kor|image=Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Molten Kor|image=Molten Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Armored Kor|image=Armored Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kor Wrecking LLC|image=Kor Wrecking LLC {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Warrior Spirit Kor|image=Warrior Spirit Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snowman Kor|image=Snowman Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kor in Space|image=Kor in Space {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fangwild Kor|image=Fangwild Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Korinthian|image=The Korinthian {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jake|image=Jake {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cho-Kor-late|image=Cho-Kor-late {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Four Arms|image=Four Arms {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gentleman Kor|image=Gentleman Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Toph|image=Toph {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Indomitable Daylight Kor|image=Indomitable Daylight Kor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Kor
+Molten Kor
+Armored Kor
+Kor Wrecking LLC
+Warrior Spirit Kor
+Snowman Kor
+Kor in Space
+Fangwild Kor
+The Korinthian
+Jake
+Cho-Kor-late
+Four Arms
+Gentleman Kor
+Toph
+Indomitable Daylight Kor
+}}
 <span id="L"></span>
 ===[[Lady Vera]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Lady Vera|image=Lady Vera {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Divine Adjudicator Vera|image=Divine Adjudicator Vera {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=High Inquisitor Vera|image=High Inquisitor Vera {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aqyn Vera|image=Aqyn Vera {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Lady Vera
+Divine Adjudicator Vera
+High Inquisitor Vera
+Aqyn Vera
+}}
 ===[[Lin Fei]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Lin Fei|image=Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Xianxia Lin Fei|image=Xianxia Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Zhulong Lin Fei|image=Zhulong Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Daomadan Lin Fei|image=Daomadan Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ace Spiker Lin Fei|image=Ace Spiker Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wenqing Lin Fei|image=Wenqing Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Green Thumb Lin Fei|image=Green Thumb Lin Fei {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sakura|image=Sakura {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Lin Fei
+Xianxia Lin Fei
+Zhulong Lin Fei
+Daomadan Lin Fei
+Ace Spiker Lin Fei
+Wenqing Lin Fei
+Green Thumb Lin Fei
+Sakura
+}}
 ===[[Loki]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Loki|image=Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Arcane Loki|image=Arcane Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Outlaw Loki|image=Outlaw Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=THNX Researcher Loki|image=THNX Researcher Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lakeside Loki|image=Lakeside Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Interloper Loki|image=Interloper Loki {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Loki
+Arcane Loki
+Outlaw Loki
+THNX Researcher Loki
+Lakeside Loki
+Interloper Loki
+}}
 ===[[Lord Vraxx]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Lord Vraxx|image=Lord Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vraxx the Viking|image=Vraxx the Viking {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Supreme Ruler Vraxx|image=Supreme Ruler Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vraxx the King|image=Vraxx the King {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark Matter Vraxx|image=Dark Matter Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=General Vraxx|image=General Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Space Dogfighter Vraxx|image=Space Dogfighter Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wasteland Vraxx|image=Wasteland Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Princess Bubblegum|image=Princess Bubblegum {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Professor Vraxx|image=Professor Vraxx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vraxxy Jones|image=Vraxxy Jones {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Warlock|image=Warlock {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Lord Vraxx
+Vraxx the Viking
+Supreme Ruler Vraxx
+Vraxx the King
+Dark Matter Vraxx
+General Vraxx
+Space Dogfighter Vraxx
+Wasteland Vraxx
+Princess Bubblegum
+Professor Vraxx
+Vraxxy Jones
+Warlock
+}}
 ===[[Lucien]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Lucien|image=Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Spec-Ops Lucien|image=Spec-Ops Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark of Night Lucien|image=Dark of Night Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vive la Révolucien|image=Vive la Révolucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Plague Doctor Lucien|image=Plague Doctor Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Horseman Lucien|image=Horseman Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dreadnought Lucien|image=Dreadnought Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bullet Diver Lucien|image=Bullet Diver Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Suitor Lucien|image=Suitor Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Overdrive Lucien|image=Overdrive Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raven Rogue Lucien|image=Raven Rogue Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Deep Sea Lucien|image=Deep Sea Lucien {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nina Williams|image=Nina Williams {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hunter|image=Hunter {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Lucien
+Spec-Ops Lucien
+Dark of Night Lucien
+Vive la Révolucien
+Plague Doctor Lucien
+Horseman Lucien
+Dreadnought Lucien
+Bullet Diver Lucien
+Suitor Lucien
+Overdrive Lucien
+Raven Rogue Lucien
+Deep Sea Lucien
+Nina Williams
+Hunter
+}}
 <span id="M"></span>
 ===[[Magyar]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Magyar|image=Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Golden Gladiator Magyar|image=Golden Gladiator Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Phantom of the Armor Magyar|image=Phantom of the Armor Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Pharaoh King Magyar|image=Pharaoh King Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Forsaken Magyar|image=Forsaken Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elvenhollow Magyar|image=Elvenhollow Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mecha Knight Magyar|image=Mecha Knight Magyar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Magyar
+Golden Gladiator Magyar
+Phantom of the Armor Magyar
+Pharaoh King Magyar
+Forsaken Magyar
+Elvenhollow Magyar
+Mecha Knight Magyar
+}}
 ===[[Mako]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Mako|image=Mako {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Abyssal Goblin Mako|image=Abyssal Goblin Mako {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=0RC4-M4k0|image=0RC4-M4k0 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hammerhead Mako|image=Hammerhead Mako {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jörmungandr Mako|displayname=Jörmungandr Mako (Lvl 1)|image=Jörmungandr Mako Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jörmungandr Mako|displayname=Jörmungandr Mako (Lvl 2)|image=Jörmungandr Mako Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jörmungandr Mako|displayname=Jörmungandr Mako (Lvl 3)|image=Jörmungandr Mako Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Swim Team Mako|image=Swim Team Mako {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Alepisaurus Mako|image=Alepisaurus Mako {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=General Grievous|image=General Grievous {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Mako
+Abyssal Goblin Mako
+0RC4-M4k0
+Hammerhead Mako
+Jörmungandr Mako && displayname:Jörmungandr Mako (Lvl 1) && image:Jörmungandr Mako Level 1 $1.png
+Jörmungandr Mako && displayname:Jörmungandr Mako (Lvl 2) && image:Jörmungandr Mako Level 2 $1.png
+Jörmungandr Mako && displayname:Jörmungandr Mako (Lvl 3) && image:Jörmungandr Mako Level 3 $1.png
+Swim Team Mako
+Alepisaurus Mako
+General Grievous
+}}
 ===[[Mirage]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Mirage|image=Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hand of Horus Mirage|image=Hand of Horus Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Undying Mirage|image=Undying Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mirage the Cleaner|image=Mirage the Cleaner {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Heart of Hathor Mirage|image=Heart of Hathor Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Anubis Mirage|image=Anubis Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Freestyle Mirage|image=Freestyle Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Apocalypse Mirage|image=Apocalypse Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mirage Incarnate|image=Mirage Incarnate {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corsair Mirage|image=Corsair Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corpse Bride Mirage|image=Corpse Bride Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Donatello|image=Donatello {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Librarian Mirage|image=Librarian Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Miracle Magi ☆ Starlit Mirage|image=Miracle Magi ☆ Starlit Mirage {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Mirage
+Hand of Horus Mirage
+Undying Mirage
+Mirage the Cleaner
+Heart of Hathor Mirage
+Anubis Mirage
+Freestyle Mirage
+Apocalypse Mirage
+Mirage Incarnate
+Corsair Mirage
+Corpse Bride Mirage
+Donatello
+Librarian Mirage
+Miracle Magi ☆ Starlit Mirage
+}}
 ===[[Mordex]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Mordex|image=Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=North Wind Mordex|image=North Wind Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Iron Legion Mordex|image=Iron Legion Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Celestial Mordex|image=Celestial Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dog Days Mordex|image=Dog Days Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fenrir Mordex|image=Fenrir Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dunewalker Mordex|image=Dunewalker Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mad Dog Mordex|image=Mad Dog Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Daimio|image=Daimio {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Black Diamond Mordex|image=Black Diamond Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tai Lung|image=Tai Lung {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Octavius Mordex|displayname=Octavius Mordex (Lvl 1)|image=Octavius Mordex Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Octavius Mordex|displayname=Octavius Mordex (Lvl 2)|image=Octavius Mordex Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Octavius Mordex|displayname=Octavius Mordex (Lvl 3)|image=Octavius Mordex Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Brawldog Mordex|image=Brawldog Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Termidex|image=Termidex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=KO-rpse Candle Mordex|image=KO-rpse Candle Mordex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Mordex
+North Wind Mordex
+Iron Legion Mordex
+Celestial Mordex
+Dog Days Mordex
+Fenrir Mordex
+Dunewalker Mordex
+Mad Dog Mordex
+Daimio
+Black Diamond Mordex
+Tai Lung
+Octavius Mordex && displayname:Octavius Mordex (Lvl 1) && image:Octavius Mordex Level 1 $1.png
+Octavius Mordex && displayname:Octavius Mordex (Lvl 2) && image:Octavius Mordex Level 2 $1.png
+Octavius Mordex && displayname:Octavius Mordex (Lvl 3) && image:Octavius Mordex Level 3 $1.png
+Brawldog Mordex
+Termidex
+KO-rpse Candle Mordex
+}}
 ===[[Munin]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Munin|image=Munin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Magpie Munin|image=Magpie Munin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hugin|image=Hugin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=DJ Hugin|image=DJ Hugin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Starlet Munin|image=Starlet Munin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Owl Bard Hugin|image=Owl Bard Hugin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cockatiel Munin|image=Cockatiel Munin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Deathly Presence Munin|image=Deathly Presence Munin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Munin
+Magpie Munin
+Hugin
+DJ Hugin
+Starlet Munin
+Owl Bard Hugin
+Cockatiel Munin
+Deathly Presence Munin
+}}
 <span id="N"></span>
 ===[[Nix]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Nix|image=Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Grim Reaper Nix|image=Grim Reaper Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lockdown Nix|image=Lockdown Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Scarecrow Nix|image=Scarecrow Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wipeout Nix|image=Wipeout Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nix Couture|image=Nix Couture {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eliminator Nix|image=Eliminator Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Specter Knight|image=Specter Knight {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Retro Reaper Nix|image=Retro Reaper Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=White Out Nix|image=White Out Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gothic Chic Nix|image=Gothic Chic Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Nix|image=Metadev Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ascended Nix|image=Ascended Nix {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Nix
+Grim Reaper Nix
+Lockdown Nix
+Scarecrow Nix
+Wipeout Nix
+Nix Couture
+Eliminator Nix
+Specter Knight
+Retro Reaper Nix
+White Out Nix
+Gothic Chic Nix
+Metadev Nix
+Ascended Nix
+}}
 <span id="O"></span>
 ===[[Onyx]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Onyx|image=Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Soulbound Onyx|image=Soulbound Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Guardian Onyx|image=Guardian Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Project-0NYX|image=Project-0NYX {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Festive Yeti Onyx|image=Festive Yeti Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Leonidas Onyx|image=Leonidas Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Termin-gator Onyx|image=Termin-gator Onyx {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Titan|image=Titan {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Onyx
+Soulbound Onyx
+Guardian Onyx
+Project-0NYX
+Festive Yeti Onyx
+Leonidas Onyx
+Termin-gator Onyx
+Titan
+}}
 ===[[Orion]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Orion|image=Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark Age Orion|image=Dark Age Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Harbinger Orion|image=Harbinger Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Atomic Orion|image=Atomic Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Orion|image=Metadev Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Orion For Hire|image=Orion For Hire {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kabuto Orion|image=Kabuto Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corsair Orion|image=Corsair Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Atlantean Orion|image=Atlantean Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Crossfade Orion|image=Crossfade Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Black Knight|image=Black Knight {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cyber Oni Orion|image=Cyber Oni Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Orion Prime|image=Orion Prime {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Live Action Orion|image=Live Action Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Secret Admirer Orion|image=Secret Admirer Orion {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Orion
+Dark Age Orion
+Harbinger Orion
+Atomic Orion
+Metadev Orion
+Orion For Hire
+Kabuto Orion
+Corsair Orion
+Atlantean Orion
+Crossfade Orion
+Black Knight
+Cyber Oni Orion
+Orion Prime
+Live Action Orion
+Secret Admirer Orion
+}}
 <span id="P"></span>
 ===[[Petra]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Petra|image=Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sourcecode Petra|image=Sourcecode Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Darkheart Petra|image=Darkheart Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lost World Petra|image=Lost World Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Obake Petra|displayname=Obake Petra (Lvl 1)|image=Obake Petra Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Obake Petra|displayname=Obake Petra (Lvl 2)|image=Obake Petra Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Obake Petra|displayname=Obake Petra (Lvl 3)|image=Obake Petra Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Petra Reanimated|image=Petra Reanimated {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Riptide Petra|image=Riptide Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Garnet|image=Garnet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ryu|image=Ryu {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ken|image=Ken {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Street Sovereign Petra|image=Street Sovereign Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sengoku Rappa Petra|image=Sengoku Rappa Petra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Petra
+Sourcecode Petra
+Darkheart Petra
+Lost World Petra
+Obake Petra && displayname:Obake Petra (Lvl 1) && image:Obake Petra Level 1 $1.png
+Obake Petra && displayname:Obake Petra (Lvl 2) && image:Obake Petra Level 2 $1.png
+Obake Petra && displayname:Obake Petra (Lvl 3) && image:Obake Petra Level 3 $1.png
+Petra Reanimated
+Riptide Petra
+Garnet
+Ryu
+Ken
+Street Sovereign Petra
+Sengoku Rappa Petra
+}}
 ===[[Priya]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Priya|image=Priya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark Harlequin Priya|image=Dark Harlequin Priya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Joyful Dancer Priya|image=Joyful Dancer Priya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chakora Priya|image=Chakora Priya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Akuma Shinobi Priya|image=Akuma Shinobi Priya {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Priya
+Dark Harlequin Priya
+Joyful Dancer Priya
+Chakora Priya
+Akuma Shinobi Priya
+}}
 <span id="Q"></span>
 ===[[Queen Nai]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Queen Nai|image=Queen Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snake Charmer Nai|image=Snake Charmer Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snake Goddess Nai|image=Snake Goddess Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tomb Tamer Nai|image=Tomb Tamer Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Date Night Nai|image=Date Night Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Empress Nai|image=Empress Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Winged Serpent Nai|image=Winged Serpent Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Galaxy X Nai|image=Galaxy X Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nidhogg Nai|image=Nidhogg Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lady of the Dead Nai|image=Lady of the Dead Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Asuka|image=Asuka {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=High Priestess Nai|image=High Priestess Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sea Krait Nai|image=Sea Krait Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Festive Baker Nai|image=Festive Baker Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fell Empress Nai|image=Fell Empress Nai {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mikasa|image=Mikasa {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Queen Nai
+Snake Charmer Nai
+Snake Goddess Nai
+Tomb Tamer Nai
+Date Night Nai
+Empress Nai
+Winged Serpent Nai
+Galaxy X Nai
+Nidhogg Nai
+Lady of the Dead Nai
+Asuka
+High Priestess Nai
+Sea Krait Nai
+Festive Baker Nai
+Fell Empress Nai
+Mikasa
+}}
 <span id="R"></span>
 ===[[Ragnir]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ragnir|image=Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mecha Ragnir|image=Mecha Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Celestial Ragnir|image=Celestial Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ashen Ragnir|image=Ashen Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nightshade Ragnir|image=Nightshade Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dark Depths Ragnir|image=Dark Depths Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sobek Ragnir|image=Sobek Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ragnirsaurus Rex|image=Ragnirsaurus Rex {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ragnir the Covetous|image=Ragnir the Covetous {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Inferno Ragnir|image=Inferno Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Werebat Ragnir|image=Werebat Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Frost Guardian Ragnir|image=Frost Guardian Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raphael|image=Raphael {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elder Wild Ragnir|displayname=Elder Wild Ragnir (Lvl 1)|image=Elder Wild Ragnir Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elder Wild Ragnir|displayname=Elder Wild Ragnir (Lvl 2)|image=Elder Wild Ragnir Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elder Wild Ragnir|displayname=Elder Wild Ragnir (Lvl 3)|image=Elder Wild Ragnir Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Seadragon Ragnir|image=Seadragon Ragnir {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ragnir
+Mecha Ragnir
+Celestial Ragnir
+Ashen Ragnir
+Nightshade Ragnir
+Dark Depths Ragnir
+Sobek Ragnir
+Ragnirsaurus Rex
+Ragnir the Covetous
+Inferno Ragnir
+Werebat Ragnir
+Frost Guardian Ragnir
+Raphael
+Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 1) && image:Elder Wild Ragnir Level 1 $1.png
+Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 2) && image:Elder Wild Ragnir Level 2 $1.png
+Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 3) && image:Elder Wild Ragnir Level 3 $1.png
+Seadragon Ragnir
+}}
 ===[[Ransom]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ransom|image=Ransom {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Desktop Butterfly Ransom|image=Desktop Butterfly Ransom {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rootkit Ransom|image=Rootkit Ransom {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Incognito Ransom|image=Incognito Ransom {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ransom
+Desktop Butterfly Ransom
+Rootkit Ransom
+Incognito Ransom
+}}
 ===[[Rayman]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Rayman|image=Rayman {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raymesis|image=Raymesis {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sir Rayelot|image=Sir Rayelot {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raydvar|image=Raydvar {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ray of the Dead|image=Ray of the Dead {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dhalsim|image=Dhalsim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=SpongeBob SquarePants|image=SpongeBob SquarePants {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Super Metal Rayman|image=Super Metal Rayman {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Rayman
+Raymesis
+Sir Rayelot
+Raydvar
+Ray of the Dead
+Dhalsim
+SpongeBob SquarePants
+Super Metal Rayman
+}}
 ===[[Red Raptor]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Red Raptor|image=Red Raptor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rocket Raptor|image=Rocket Raptor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fallen Raptor|image=Fallen Raptor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Emerald Raptor|image=Emerald Raptor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Raptor, the Betrayer|image=Raptor, the Betrayer {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=adidas Raptor|image=adidas Raptor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Eren|image=Eren {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Red Raptor
+Rocket Raptor
+Fallen Raptor
+Emerald Raptor
+Raptor, the Betrayer
+adidas Raptor
+Eren
+}}
 ===[[Reno]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Reno|image=Reno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Desperado Reno|image=Desperado Reno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Widowmaker Reno|image=Widowmaker Reno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ferrymoth Reno|image=Ferrymoth Reno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Honeybeeno|image=Honeybeeno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Relentless Pest Reno|image=Relentless Pest Reno {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lilith|image=Lilith {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Reno
+Desperado Reno
+Widowmaker Reno
+Ferrymoth Reno
+Honeybeeno
+Relentless Pest Reno
+Lilith
+}}
 ===[[Rupture]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Rupture|image=Rupture {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hulking Mantis Rupture|image=Hulking Mantis Rupture {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Werebeast Rupture|image=Werebeast Rupture {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rock 'n Rupture|image=Rock 'n Rupture {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Rupture
+Hulking Mantis Rupture
+Werebeast Rupture
+Rock 'n Rupture
+}}
 <span id="S"></span>
 ===[[Scarlet]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Scarlet|image=Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sky Captain Scarlet|image=Sky Captain Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Steam Tank Scarlet|image=Steam Tank Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Steamsmith Scarlet|image=Steamsmith Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Steam Sentry Scarlet|image=Steam Sentry Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Bewitching Scarlet|image=Bewitching Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Airship Scarlet|image=Airship Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mad Genius Scarlet|image=Mad Genius Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Steam Faction Scarlet|image=Steam Faction Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Puella Papilio Scarlet|image=Puella Papilio Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Teatime Scarlet|image=Teatime Scarlet {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tiny Tina|image=Tiny Tina {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Scarlet
+Sky Captain Scarlet
+Steam Tank Scarlet
+Steamsmith Scarlet
+Steam Sentry Scarlet
+Bewitching Scarlet
+Airship Scarlet
+Mad Genius Scarlet
+Steam Faction Scarlet
+Puella Papilio Scarlet
+Teatime Scarlet
+Tiny Tina
+}}
 ===[[Sentinel]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Sentinel|image=Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gumshoe Sentinel|image=Gumshoe Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=High Impact Sentinel|image=High Impact Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nightwatch Sentinel|image=Nightwatch Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=First Edition Sentinel|image=First Edition Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lord Sentinel|image=Lord Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=President Sentinel|image=President Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Stormsteel Sentinel|image=Stormsteel Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Rock|image=The Rock {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cú Sídhe Sentinel|image=Cú Sídhe Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Frost Tech Sentinel|image=Frost Tech Sentinel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Sentinel
+Gumshoe Sentinel
+High Impact Sentinel
+Nightwatch Sentinel
+First Edition Sentinel
+Lord Sentinel
+President Sentinel
+Stormsteel Sentinel
+The Rock
+Cú Sídhe Sentinel
+Frost Tech Sentinel
+}}
 ===[[Seven]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Seven|image=Seven {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Firefighter Seven|image=Firefighter Seven {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tinyfigure Seven|image=Tinyfigure Seven {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wanderer Seven|image=Wanderer Seven {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Calavera Catrina Seven|image=Calavera Catrina Seven {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Seven
+Firefighter Seven
+Tinyfigure Seven
+Wanderer Seven
+Calavera Catrina Seven
+}}
 ===[[Sidra]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Sidra|image=Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Atlantean Sidra|image=Atlantean Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Pirate Queen Sidra|image=Pirate Queen Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kraken Sidra|image=Kraken Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Queen Beat Sidra|image=Queen Beat Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Merrow Sidra|image=Merrow Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Sky Pirate Sidra|image=Sky Pirate Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Beastmaster Sidra|image=Beastmaster Sidra {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Arbiter|image=The Arbiter {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Sidra
+Atlantean Sidra
+Pirate Queen Sidra
+Kraken Sidra
+Queen Beat Sidra
+Merrow Sidra
+Sky Pirate Sidra
+Beastmaster Sidra
+The Arbiter
+}}
 ===[[Sir Roland]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Sir Roland|image=Sir Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Roland the Hooded|image=Roland the Hooded {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=King Roland|image=King Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Match Point Roland|image=Match Point Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Classy Roland|image=Classy Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lion Rampant Roland|image=Lion Rampant Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Mad King|image=The Mad King {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lionheart Roland|image=Lionheart Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Roland the Victorious|image=Roland the Victorious {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=King Knight|image=King Knight {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fiendish Knight Roland|image=Fiendish Knight Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Honorable Sir Roland, Esq.|image=The Honorable Sir Roland, Esq. {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ashen Warmonger Roland|image=Ashen Warmonger Roland {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Sir Roland
+Roland the Hooded
+King Roland
+Match Point Roland
+Classy Roland
+Lion Rampant Roland
+The Mad King
+Lionheart Roland
+Roland the Victorious
+King Knight
+Fiendish Knight Roland
+The Honorable Sir Roland, Esq.
+Ashen Warmonger Roland
+}}
 <span id="T"></span>
 ===[[Teros]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Teros|image=Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Iron Legion Teros|image=Iron Legion Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ready to Riot Teros|image=Ready to Riot Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rift Dweller Teros|image=Rift Dweller Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wreck the Halls Teros|image=Wreck the Halls Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Yetee Teros|image=The Yetee Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Forgeheart Teros|image=Forgeheart Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mecha Teros|image=Mecha Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=God King Teros|image=God King Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gatekeeper Teros|image=Gatekeeper Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gruagach|image=Gruagach {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Roman Reigns|image=Roman Reigns {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hall Minotaur Teros|image=Hall Minotaur Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Teros|image=Metadev Teros {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Patrick Star|image=Patrick Star {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fallen Prince Teros|displayname=Fallen Prince Teros (Lvl 1)|image=Fallen Prince Teros Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fallen Prince Teros|displayname=Fallen Prince Teros (Lvl 2)|image=Fallen Prince Teros Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fallen Prince Teros|displayname=Fallen Prince Teros (Lvl 3)|image=Fallen Prince Teros Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Teros
+Iron Legion Teros
+Ready to Riot Teros
+Rift Dweller Teros
+Wreck the Halls Teros
+The Yetee Teros
+Forgeheart Teros
+Mecha Teros
+God King Teros
+Gatekeeper Teros
+Gruagach
+Roman Reigns
+Hall Minotaur Teros
+Metadev Teros
+Patrick Star
+Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 1) && image:Fallen Prince Teros Level 1 $1.png
+Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 2) && image:Fallen Prince Teros Level 2 $1.png
+Fallen Prince Teros && displayname:Fallen Prince Teros (Lvl 3) && image:Fallen Prince Teros Level 3 $1.png
+}}
 ===[[Tezca]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Tezca|image=Tezca {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Talk of the Town Tezca|image=Talk of the Town Tezca {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ocelotl Tezca|image=Ocelotl Tezca {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chel|image=Chel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corrupted Blood Tezca|displayname=Corrupted Blood Tezca (Lvl 1)|image=Corrupted Blood Tezca Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corrupted Blood Tezca|displayname=Corrupted Blood Tezca (Lvl 2)|image=Corrupted Blood Tezca Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Corrupted Blood Tezca|displayname=Corrupted Blood Tezca (Lvl 3)|image=Corrupted Blood Tezca Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Druid Mage Chel|image=Druid Mage Chel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Usurper Chel|image=Usurper Chel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Tezca
+Talk of the Town Tezca
+Ocelotl Tezca
+Chel
+Corrupted Blood Tezca && displayname:Corrupted Blood Tezca (Lvl 1) && image:Corrupted Blood Tezca Level 1 $1.png
+Corrupted Blood Tezca && displayname:Corrupted Blood Tezca (Lvl 2) && image:Corrupted Blood Tezca Level 2 $1.png
+Corrupted Blood Tezca && displayname:Corrupted Blood Tezca (Lvl 3) && image:Corrupted Blood Tezca Level 3 $1.png
+Druid Mage Chel
+Usurper Chel
+}}
 ===[[Thatch]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Thatch|image=Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cursed Gold Thatch|image=Cursed Gold Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Castaway Thatch|image=Castaway Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Biker Thatch|image=Biker Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Secret Santa Thatch|image=Secret Santa Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Shark Attack Thatch|image=Shark Attack Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Goblin Thatch|image=Goblin Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Poseidon Thatch|image=Poseidon Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Classy Thatch|image=Classy Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Werewolf Thatch|image=Werewolf Thatch {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Snake Eyes|image=Snake Eyes (Thatch Skin) {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chewbacca|image=Chewbacca {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Thatch
+Cursed Gold Thatch
+Castaway Thatch
+Biker Thatch
+Secret Santa Thatch
+Shark Attack Thatch
+Goblin Thatch
+Poseidon Thatch
+Classy Thatch
+Werewolf Thatch
+Snake Eyes && image:Snake Eyes (Thatch Skin) $1.png
+Chewbacca
+}}
 ===[[Thea]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Thea|image=Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mach 25 Thea|image=Mach 25 Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gridrunner Thea|image=Gridrunner Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gorgon Thea|image=Gorgon Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kelpie Thea|image=Kelpie Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fleeting Magi ☆ Starlit Thea|image=Fleeting Magi ☆ Starlit Thea {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Thea
+Mach 25 Thea
+Gridrunner Thea
+Gorgon Thea
+Kelpie Thea
+Fleeting Magi ☆ Starlit Thea
+}}
 ===[[Thor]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Thor|image=Thor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Draugr Thor|image=Draugr Thor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cinderguard Thor|image=Cinderguard Thor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Capra Thor|image=Capra Thor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Thor by the Shore|image=Thor by the Shore {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Undertaker|image=The Undertaker {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Royal Warrior Thor|image=Royal Warrior Thor {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=M. Bison|image=M. Bison {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Thor
+Draugr Thor
+Cinderguard Thor
+Capra Thor
+Thor by the Shore
+The Undertaker
+Royal Warrior Thor
+M. Bison
+}}
 <span id="U"></span>
 ===[[Ulgrim]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Ulgrim|image=Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Star Miner Ulgrim|image=Star Miner Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Arcanium Ulgrim|image=Arcanium Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Apprentice Ulgrim|image=Apprentice Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dragonport Ulgrim|image=Dragonport Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Jotun Ulgrim|image=Jotun Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Warborn Ulgrim|image=Warborn Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Macho Man|image=Macho Man {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Master Blacksmith Ulgrim|image=Master Blacksmith Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mad Doctor Ulgrim|image=Mad Doctor Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ivaldi's Finest Ulgrim|image=Ivaldi's Finest Ulgrim {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Ulgrim
+Star Miner Ulgrim
+Arcanium Ulgrim
+Apprentice Ulgrim
+Dragonport Ulgrim
+Jotun Ulgrim
+Warborn Ulgrim
+Macho Man
+Master Blacksmith Ulgrim
+Mad Doctor Ulgrim
+Ivaldi's Finest Ulgrim
+}}
 <span id="V"></span>
 ===[[Val]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Val|image=Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hardsuit Val|image=Hardsuit Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Kunoichi Val|image=Kunoichi Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Star Merc Val|image=Star Merc Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dragonslayer Val|image=Dragonslayer Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Commando Val|image=Commando Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Nutcracker Val|image=Nutcracker Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chimera Val|image=Chimera Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mythic Hero Val|image=Mythic Hero Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Stevonnie|image=Stevonnie {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Future Wave Val|displayname=Future Wave Val (Lvl 1)|image=Future Wave Val Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Future Wave Val|displayname=Future Wave Val (Lvl 2)|image=Future Wave Val Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Future Wave Val|displayname=Future Wave Val (Lvl 3)|image=Future Wave Val Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Michelangelo|image=Michelangelo {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Akuma|image=Akuma {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Love Bug Val|image=Love Bug Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Metadev Val|image=Metadev Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Obi-Wan Kenobi|image=Obi-Wan Kenobi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Modern Monomi Val|image=Modern Monomi Val {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Val
+Hardsuit Val
+Kunoichi Val
+Star Merc Val
+Dragonslayer Val
+Commando Val
+Nutcracker Val
+Chimera Val
+Mythic Hero Val
+Stevonnie
+Future Wave Val && displayname:Future Wave Val (Lvl 1) && image:Future Wave Val Level 1 $1.png
+Future Wave Val && displayname:Future Wave Val (Lvl 2) && image:Future Wave Val Level 2 $1.png
+Future Wave Val && displayname:Future Wave Val (Lvl 3) && image:Future Wave Val Level 3 $1.png
+Michelangelo
+Akuma
+Love Bug Val
+Metadev Val
+Obi-Wan Kenobi
+Modern Monomi Val
+}}
 ===[[Vector]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Vector|image=Vector {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Dragonaut Vector|image=Dragonaut Vector {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Vector Model 01|image=Vector Model 01 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hyperdrift Vector|image=Hyperdrift Vector {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Hotshot Vector|image=Hotshot Vector {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Matchmaker Vector|image=Matchmaker Vector {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Vector
+Dragonaut Vector
+Vector Model 01
+Hyperdrift Vector
+Hotshot Vector
+Matchmaker Vector
+}}
 ===[[Vivi]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Vivi|image=Vivi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Covert Ops Vivi|image=Covert Ops Vivi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Streetwear Vivi|image=Streetwear Vivi {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Grã-mestra Batista|image=Grã-mestra Batista {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Mega Man|image=Mega Man {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Vivi
+Covert Ops Vivi
+Streetwear Vivi
+Grã-mestra Batista
+Mega Man
+}}
 ===[[Volkov]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Volkov|image=Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Blood Moon Volkov|image=Blood Moon Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Blue Virus Volkov|image=Blue Virus Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Huntsman Volkov|image=Huntsman Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Red Romance Volkov|image=Red Romance Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Rocker Volkov|image=Rocker Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=The Don|image=The Don {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Infernal Warlock Volkov|image=Infernal Warlock Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Abhartach Volkov|image=Abhartach Volkov {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Volkov
+Blood Moon Volkov
+Blue Virus Volkov
+Huntsman Volkov
+Red Romance Volkov
+Rocker Volkov
+The Don
+Infernal Warlock Volkov
+Abhartach Volkov
+}}
 <span id="W"></span>
 ===[[Wu Shang]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Wu Shang|image=Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wu Shang Kong|image=Wu Shang Kong {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Seeker Wu Shang|image=Seeker Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wu Shang the Breaker|image=Wu Shang the Breaker {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Infinite Wu Shang|image=Infinite Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Perfect Wu Shang|image=Perfect Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Djinn Wu Shang|image=Djinn Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ranno Wu Shang|image=Ranno Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gentleman Wu Shang|image=Gentleman Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Santa Wu Shang|image=Santa Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Po|image=Po {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Chun-Li|image=Chun-Li {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Aang|image=Aang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cthu'shang|image=Cthu'shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wu Shang, the Seeker|displayname=Wu Shang, the Seeker (Lvl 1)|image=Wu Shang, the Seeker Level 1 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wu Shang, the Seeker|displayname=Wu Shang, the Seeker (Lvl 2)|image=Wu Shang, the Seeker Level 2 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Wu Shang, the Seeker|displayname=Wu Shang, the Seeker (Lvl 3)|image=Wu Shang, the Seeker Level 3 {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Ascended Wu Shang|image=Ascended Wu Shang {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Wu Shang
+Wu Shang Kong
+Seeker Wu Shang
+Wu Shang the Breaker
+Infinite Wu Shang
+Perfect Wu Shang
+Djinn Wu Shang
+Ranno Wu Shang
+Gentleman Wu Shang
+Santa Wu Shang
+Po
+Chun-Li
+Aang
+Cthu'shang
+Wu Shang, the Seeker && displayname:Wu Shang, the Seeker (Lvl 1) && image:Wu Shang, the Seeker Level 1 $1.png
+Wu Shang, the Seeker && displayname:Wu Shang, the Seeker (Lvl 2) && image:Wu Shang, the Seeker Level 2 $1.png
+Wu Shang, the Seeker && displayname:Wu Shang, the Seeker (Lvl 3) && image:Wu Shang, the Seeker Level 3 $1.png
+Ascended Wu Shang
+}}
 <span id="X"></span>
 ===[[Xull]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Xull|image=Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Demon Ogre Xull|image=Demon Ogre Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Arctic Trapper Xull|image=Arctic Trapper Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Commander Xull|image=Commander Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Gridiron Xull|image=Gridiron Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Amethyst|image=Amethyst {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Elvenhollow Xull|image=Elvenhollow Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Terror-Watt Xull|image=Terror-Watt Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Abominable Jötunn Xull|image=Abominable Jötunn Xull {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Xull
+Demon Ogre Xull
+Arctic Trapper Xull
+Commander Xull
+Gridiron Xull
+Amethyst
+Elvenhollow Xull
+Terror-Watt Xull
+Abominable Jötunn Xull
+}}
 <span id="Y"></span>
 ===[[Yumiko]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Yumiko|image=Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Tokyo Yumiko|image=Tokyo Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Lil' Yumiko|image=Lil' Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Cursed Mask Yumiko|image=Cursed Mask Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Fox Spirit Yumiko|image=Fox Spirit Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Punkin Spice Yumiko|image=Punkin Spice Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Matsuri Yumiko|image=Matsuri Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Madame Yumiko|image=Madame Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Arctic Fox Yumiko|image=Arctic Fox Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=High Frequency Yumiko|image=High Frequency Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Caelestis Yumiko|image=Caelestis Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Inari Yumiko|image=Inari Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Band Kid Yumiko|image=Band Kid Yumiko {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Yumiko
+Tokyo Yumiko
+Lil' Yumiko
+Cursed Mask Yumiko
+Fox Spirit Yumiko
+Punkin Spice Yumiko
+Matsuri Yumiko
+Madame Yumiko
+Arctic Fox Yumiko
+High Frequency Yumiko
+Caelestis Yumiko
+Inari Yumiko
+Band Kid Yumiko
+}}
 <span id="Z"></span>
 ===[[Zariel]]===
-{{itembox/top}}
-{{itembox|width=150|height=150|name=Zariel|image=Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Darkheart Zariel|image=Darkheart Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Archangel Zariel|image=Archangel Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Urban Guardian Zariel|image=Urban Guardian Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Outerworld Zariel|image=Outerworld Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Secret Admirer Zariel|image=Secret Admirer Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Archfiend Zariel|image=Archfiend Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Beachside Zariel|image=Beachside Zariel {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox|width=150|height=150|name=Devil Jin|image=Devil Jin {{{1|}}}.png|compact=true|noimglink=true}}
-{{itembox/bottom}}
+{{List to itembox|color={{{1|}}}|
+Zariel
+Darkheart Zariel
+Archangel Zariel
+Urban Guardian Zariel
+Outerworld Zariel
+Secret Admirer Zariel
+Archfiend Zariel
+Beachside Zariel
+Devil Jin
+}}
 [[Category:Skins in all colors]]</includeonly>
 <noinclude>
 {{doc}}

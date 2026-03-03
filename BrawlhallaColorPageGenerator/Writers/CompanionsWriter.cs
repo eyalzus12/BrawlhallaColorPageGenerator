@@ -12,25 +12,24 @@ public sealed class CompanionsWriter(CompanionTypes companionTypes, LangFile lan
         writer.WriteLine("<includeonly><onlyinclude>");
         writer.WriteLine("The following is a list of all companions in {{{1|}}}. ''Click an image to view it in higher resolution.''");
         writer.WriteLine();
-        writer.WriteLine("{{itembox/top}}");
+        writer.WriteLine("{{List to itembox|color={{{1|}}}|");
         foreach (CompanionType companion in companionTypes.Companions)
         {
             if (companion.CompanionName == "Template") continue;
 
             (string companionName, string imageName, string displayName) = GetNameParams(companion);
 
-            writer.Write("{{itembox|width=150|height=150|name=");
             writer.Write(companionName);
             if (companionName != displayName)
             {
-                writer.Write("|displayname=");
+                writer.Write(" && displayname:");
                 writer.Write(displayName);
             }
-            writer.Write("|image=Companion ");
+            writer.Write(" && image:Companion ");
             writer.Write(imageName);
-            writer.WriteLine(" Idle {{{1|}}}.png|compact=true|noimglink=true}}");
+            writer.WriteLine(" Idle $1.png");
         }
-        writer.WriteLine("{{itembox/bottom}}");
+        writer.WriteLine("}}");
 
         writer.WriteLine("[[Category:Companions in all colors]]</onlyinclude></includeonly>");
         writer.WriteLine("<noinclude>");
@@ -47,6 +46,8 @@ public sealed class CompanionsWriter(CompanionTypes companionTypes, LangFile lan
         string imageName = companionName;
         string displayName = companionName;
 
+        companionName = companionName.Replace(":", "&#58;");
+        displayName = displayName.Replace(":", "&#58;");
         imageName = imageName.Replace(":", "");
 
         return (companionName, imageName, displayName);

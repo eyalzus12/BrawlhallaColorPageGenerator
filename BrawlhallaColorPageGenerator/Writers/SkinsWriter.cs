@@ -36,7 +36,7 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
             writer.Write("===[[");
             writer.Write(titleCaseName);
             writer.WriteLine("]]===");
-            writer.WriteLine("{{itembox/top}}");
+            writer.WriteLine("{{List to itembox|color={{{1|}}}|");
             foreach (CostumeType costumeType in costumeTypes.Costumes)
             {
                 if (
@@ -47,18 +47,21 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
 
                 (string costumeName, string imageName, string displayName) = GetNameParams(costumeType, titleCaseName);
 
-                writer.Write("{{itembox|width=150|height=150|name=");
                 writer.Write(costumeName);
                 if (costumeName != displayName)
                 {
-                    writer.Write("|displayname=");
+                    writer.Write(" && displayname:");
                     writer.Write(displayName);
                 }
-                writer.Write("|image=");
-                writer.Write(imageName);
-                writer.WriteLine(" {{{1|}}}.png|compact=true|noimglink=true}}");
+                if (costumeName != imageName)
+                {
+                    writer.Write(" && image:");
+                    writer.Write(imageName);
+                    writer.Write(" $1.png");
+                }
+                writer.WriteLine();
             }
-            writer.WriteLine("{{itembox/bottom}}");
+            writer.WriteLine("}}");
         }
         writer.WriteLine("[[Category:Skins in all colors]]</includeonly>");
         writer.WriteLine("<noinclude>");
@@ -94,6 +97,8 @@ public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, 
             imageName = skinName + " Level " + upgradeLevel;
         }
 
+        skinName = skinName.Replace(":", "&#58;");
+        displayName = displayName.Replace(":", "&#58;");
         imageName = imageName.Replace(":", "");
 
         return (skinName, imageName, displayName);
