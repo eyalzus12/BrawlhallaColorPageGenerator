@@ -2,9 +2,9 @@ using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 
-namespace BrawlhallaColorPageGenerator.Writers;
+namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class CompanionsWriter(CompanionTypes companionTypes, LangFile langFile)
+public sealed class CompanionColorsWriter(CompanionTypes companionTypes, LangFile langFile)
 {
     public void WriteTo(string path)
     {

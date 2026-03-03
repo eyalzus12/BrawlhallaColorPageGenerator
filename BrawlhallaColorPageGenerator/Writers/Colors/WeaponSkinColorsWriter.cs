@@ -2,9 +2,9 @@ using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 
-namespace BrawlhallaColorPageGenerator.Writers;
+namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class WeaponSkinsWriter(WeaponSkinTypes weaponSkinTypes, LangFile langFile)
+public sealed class WeaponSkinColorsWriter(WeaponSkinTypes weaponSkinTypes, LangFile langFile)
 {
     public void WriteTo(string path)
     {

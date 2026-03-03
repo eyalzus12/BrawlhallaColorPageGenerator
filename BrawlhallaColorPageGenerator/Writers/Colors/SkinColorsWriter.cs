@@ -4,9 +4,9 @@ using System.IO;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
 
-namespace BrawlhallaColorPageGenerator.Writers;
+namespace BrawlhallaColorPageGenerator.Writers.Colors;
 
-public sealed class SkinsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, LangFile langFile)
+public sealed class SkinColorsWriter(HeroTypes heroTypes, CostumeTypes costumeTypes, LangFile langFile)
 {
     public void WriteTo(string path)
     {

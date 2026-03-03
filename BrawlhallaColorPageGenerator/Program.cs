@@ -4,6 +4,7 @@ using System.IO;
 using BrawlhallaColorPageGenerator;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaColorPageGenerator.Writers;
+using BrawlhallaColorPageGenerator.Writers.Colors;
 using BrawlhallaLangReader;
 using BrawlhallaSwz;
 
@@ -114,13 +115,13 @@ RuneTypes runeTypes = new(runeTypesContent);
 
 Directory.CreateDirectory("outputs");
 
-SkinsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
+SkinColorsWriter skinsWriter = new(heroTypes, costumeTypes, langFile);
 skinsWriter.WriteTo("outputs/skins.txt");
 
-WeaponSkinsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
+WeaponSkinColorsWriter weaponSkinsWriter = new(weaponSkinTypes, langFile);
 weaponSkinsWriter.WriteTo("outputs/weaponSkins.txt");
 
-CompanionsWriter companionsWriter = new(companionTypes, langFile);
+CompanionColorsWriter companionsWriter = new(companionTypes, langFile);
 companionsWriter.WriteTo("outputs/companions.txt");
 
 LevelingWriter levelingWriter = new(heroTypes, runeTypes);

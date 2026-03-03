@@ -12,21 +12,28 @@ public sealed class CostumeType
     public string? DisplayNameKey { get; }
     public int CostumeIndex { get; }
     public string? UpgradesTo { get; }
+    public string? WeaponSet { get; }
+    public bool DoesNotOwnWeaponSet { get; }
 
     public CostumeType(SepReader.Row row)
     {
-        CostumeName = row["CostumeName"].ToString();
+        CostumeName = row[nameof(CostumeName)].ToString();
 
-        OwnerHero = row["OwnerHero"].ToString();
+        OwnerHero = row[nameof(OwnerHero)].ToString();
         if (string.IsNullOrWhiteSpace(OwnerHero)) OwnerHero = null;
 
-        DisplayNameKey = row["DisplayNameKey"].ToString();
+        DisplayNameKey = row[nameof(DisplayNameKey)].ToString();
         if (string.IsNullOrWhiteSpace(DisplayNameKey)) DisplayNameKey = null;
 
-        CostumeIndex = row["CostumeIndex"].TryParse<int>() ?? 0;
+        CostumeIndex = row[nameof(CostumeIndex)].TryParse<int>() ?? 0;
 
-        UpgradesTo = row["UpgradesTo"].ToString();
+        UpgradesTo = row[nameof(UpgradesTo)].ToString();
         if (string.IsNullOrWhiteSpace(UpgradesTo)) UpgradesTo = null;
+
+        WeaponSet = row[nameof(WeaponSet)].ToString();
+        if (string.IsNullOrWhiteSpace(WeaponSet)) WeaponSet = null;
+
+        DoesNotOwnWeaponSet = row[nameof(DoesNotOwnWeaponSet)].Parse<bool>();
     }
 }
 
@@ -49,7 +56,7 @@ public sealed class CostumeTypes
         });
         using SepReader csvReader = sepReaderOptions.From(textReader);
         Costumes = [.. csvReader.Enumerate((row) => new CostumeType(row))];
-        CostumesMap = new(Costumes.Select((c) => new KeyValuePair<string, CostumeType>(c.CostumeName, c)));
+        CostumesMap = Costumes.ToDictionary((c) => c.CostumeName);
 
         UpgradeLevel = [];
         Queue<CostumeType> leftover = new(Costumes);

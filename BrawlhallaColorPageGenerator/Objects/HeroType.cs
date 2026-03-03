@@ -6,11 +6,13 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class HeroType
 {
-    public string HeroName { get; set; }
-    public string? BioName { get; set; }
-    public string CostumeName { get; set; }
-    public string[] ColorRewards { get; set; }
-    public bool IsActive { get; set; }
+    public string HeroName { get; }
+    public string? BioName { get; }
+    public string CostumeName { get; }
+    public string[] ColorRewards { get; }
+    public bool IsActive { get; }
+    public string? BaseWeapon1 { get; }
+    public string? BaseWeapon2 { get; }
 
     public HeroType(XElement element)
     {
@@ -24,11 +26,13 @@ public sealed class HeroType
 
 public sealed class HeroTypes
 {
-    public HeroType[] Heroes { get; set; }
+    public HeroType[] Heroes { get; }
+    public Dictionary<string, HeroType> HeroesMap { get; }
 
     public HeroTypes(string content)
     {
         XElement element = XElement.Parse(content);
         Heroes = [.. element.Elements("HeroType").Select((e) => new HeroType(e))];
+        HeroesMap = Heroes.ToDictionary((h) => h.HeroName);
     }
 }
