@@ -157,6 +157,9 @@ levelingWriter.WriteTo("outputs/leveling.txt");
     WeaponSkinWriter weaponSkinWriter = new(data);
     foreach ((string baseWeapon, string weaponName) in Utils.BASE_WEAPON_NAME)
         weaponSkinWriter.WriteTo($"outputs/weapon skin pages/weapon {weaponName}.txt", baseWeapon);
+
+    DefaultWeaponSkinsWriter defaultWeaponSkinsWriter = new(data);
+    defaultWeaponSkinsWriter.WriteTo("outputs/default weapon skins.txt");
 }
 
 #endregion

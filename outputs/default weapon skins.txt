@@ -1,0 +1,199 @@
+Each Legend comes with two default weapon skins, which are equipped by default.
+
+These weapon skins are unique in that they can only be used by the Legend they belong to. For example, [[Bödvar]] can use his default [[Warhammer]] regardless of skin equipped, but all other Hammer Legends are not able to equip it.
+
+==Hammer==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Electro Hammer|image=Electro Hammer.png|desc=[[Sentinel]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ground Pounder|image=Ground Pounder.png|desc=[[Kor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Iron Mallet|image=Iron Mallet.png|desc=[[Teros]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Kutinhira|image=Kutinhira.png|desc=[[King Zuva]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Menace Maul|image=Menace Maul.png|desc=[[Magyar]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Mjölnir|image=Mjölnir.png|desc=[[Thor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Pneumatic Hammer|image=Pneumatic Hammer.png|desc=[[Scarlet]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Rail Hammer|image=Rail Hammer.png|desc=[[Cassidy]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Smasher|image=Smasher.png|desc=[[Gnash]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Talisman|image=The Talisman.png|desc=[[Yumiko]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Warhammer|image=Warhammer.png|desc=[[Bödvar]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Sword==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Ancestral Blade|image=Ancestral Blade.png|desc=[[Koji]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Auditore Blade|image=Auditore Blade.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Barbarian Blade|image=Barbarian Blade.png|desc=[[Jhala]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Boarding Cutlass|image=Boarding Cutlass.png|desc=[[Thatch]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Broad Sword|image=Broad Sword.png|desc=[[Bödvar]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Corsair Sword|image=Corsair Sword.png|desc=[[Sidra]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hardlight Blade|image=Hardlight Blade.png|desc=[[Val]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Katana|image=Katana.png|desc=[[Hattori]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Long Sword|image=Long Sword.png|desc=[[Sir Roland]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shadow Edge|image=Shadow Edge.png|desc=[[Jiro]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shakti Sword|image=Shakti Sword.png|desc=[[Priya]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Cleaner|image=The Cleaner.png|desc=[[Jaeyun]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Tiger's Talwar|image=Tiger's Talwar.png|desc=[[Asuri]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Blasters==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Charmed, I'm Sure|image=Charmed, I'm Sure.png|desc=[[Vivi]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Cyberlink Blasters|image=Cyberlink Blasters.png|desc=[[Ada]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Death Throes|image=Death Throes.png|desc=[[Nix]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hand Cannons|image=Hand Cannons.png|desc=[[Thatch]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hellhounds|image=Hellhounds.png|desc=[[Cross]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Highwayman's Flintlocks|displayname={{small|Highwayman's Flintlocks}}|image=Highwayman's Flintlocks.png|desc=[[Lucien]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Los Volcanes|image=Los Volcanes.png|desc=[[Barraza]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Selenite Ray Guns|image=Selenite Ray Guns.png|desc=[[Lord Vraxx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sidearms|image=Sidearms.png|desc=[[Isaiah]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sixshooters|image=Sixshooters.png|desc=[[Cassidy]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Vespian Six Shooter|image=Vespian Six Shooter.png|desc=[[Reno]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Wheel Locks|image=Wheel Locks.png|desc=[[Diana]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Rocket Lance==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Armored Attack Rocket|image=Armored Attack Rocket.png|desc=[[Orion]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Eternal Skyrocket|image=Eternal Skyrocket.png|desc=[[Thea]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Fuselage|image=Fuselage.png|desc=[[Vector]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Galaxy Lance|image=Galaxy Lance.png|desc=[[Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Raging Furnace|image=Raging Furnace.png|desc=[[Ulgrim]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Selenite Jet Lance|image=Selenite Jet Lance.png|desc=[[Lord Vraxx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shattered Emerald|image=Shattered Emerald.png|desc=[[Rupture]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Steam Rocket|image=Steam Rocket.png|desc=[[Scarlet]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Tourney Lance|image=Tourney Lance.png|desc=[[Sir Roland]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Spear==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Cyberlink Spear|image=Cyberlink Spear.png|desc=[[Ada]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Eldritch Thorn|image=Eldritch Thorn.png|desc=[[Arcadia]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Elven Battle Spear|image=Elven Battle Spear.png|desc=[[Dusk]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Hunting Spear|image=Hunting Spear.png|desc=[[Gnash]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Mega Wrench|image=Mega Wrench.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Prey Catcher|image=Prey Catcher.png|desc=[[Kaya]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Qiang|image=Qiang.png|desc=[[Wu Shang]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Serpent Spear|image=Serpent Spear.png|desc=[[Queen Nai]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Spear of the Nile|image=Spear of the Nile.png|desc=[[Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sunforged Spear|image=Sunforged Spear.png|desc=[[Orion]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Valor|image=Valor.png|desc=[[Brynn]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Yari|image=Yari.png|desc=[[Hattori]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Katars==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Assassin's Blades|image=Assassin's Blades.png|desc=[[Lucien]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Atlantean Power|image=Atlantean Power.png|desc=[[Mako]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Bengali Claws|image=Bengali Claws.png|desc=[[Asuri]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Dragon Scale Katars|image=Dragon Scale Katars.png|desc=[[Ragnir]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Fangwild Thorns|image=Fangwild Thorns.png|desc=[[Ember]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Martial Blades|image=Martial Blades.png|desc=[[Lin Fei]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Realm Etchers|image=Realm Etchers.png|desc=[[Loki]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sacred Blades|image=Sacred Blades.png|desc=[[Queen Nai]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shock Katars|image=Shock Katars.png|desc=[[Sentinel]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Showman's Daggers|image=Showman's Daggers.png|desc=[[Caspian]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shredders|image=Shredders.png|desc=[[Rupture]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Axe==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Ancient Axe|image=Ancient Axe.png|desc=[[Azoth]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Barbarian Axe|image=Barbarian Axe.png|desc=[[Jhala]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Batavian Diplomacy|image=Batavian Diplomacy.png|desc=[[Volkov]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Battle Axe|image=Battle Axe.png|desc=[[Teros]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Bellow's Breath|image=Bellow's Breath.png|desc=[[Ulgrim]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Dragon Axe|image=Dragon Axe.png|desc=[[Ragnir]]|descheight=55px}}
+{{itembox|width=180|height=170|name=El Carnicero|image=El Carnicero.png|desc=[[Barraza]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Glory (Weapon Skin)|displayname=Glory|image=Glory.png|desc=[[Brynn]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Origin Axe|image=Origin Axe.png|desc=[[Rayman]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Berserker|image=The Berserker.png|desc=[[Xull]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Yong-ui Dokki|image=Yong-ui Dokki.png|desc=[[Imugi]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Bow==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Fangwild Bow|image=Fangwild Bow.png|desc=[[Ember]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Flight Plan|image=Flight Plan.png|desc=[[Vector]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Forgotten Bow|image=Forgotten Bow.png|desc=[[Azoth]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ivory Snare|image=Ivory Snare.png|desc=[[Kaya]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Kami Bow|image=Kami Bow.png|desc=[[Yumiko]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Lethal Lute|image=Lethal Lute.png|desc=[[Munin]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Mastercraft Recurve|image=Mastercraft Recurve.png|desc=[[Diana]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Void Laser Barebow|image=Void Laser Barebow.png|desc=[[Ransom]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Wings of Justice|image=Wings of Justice.png|desc=[[Zariel]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Yumi|image=Yumi.png|desc=[[Koji]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Gauntlets==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Brick and Mortar|image=Brick and Mortar.png|desc=[[Onyx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Clawholds|image=Clawholds.png|desc=[[Tezca]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Dawn Bringers|image=Dawn Bringers.png|desc=[[Zariel]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Gauntlets of Belzar|image=Gauntlets of Belzar.png|desc=[[Cross]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Iron Shackles|image=Iron Shackles.png|desc=[[Wu Shang]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Knockouts (Weapon Skin)|displayname=Knockouts|image=Knockouts (Weapon Skin).png|desc=[[Petra]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Rabbid Boppers|image=Rabbid Boppers.png|desc=[[Rayman]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Resonators|image=Resonators.png|desc=[[Val]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Rippers|image=Rippers.png|desc=[[Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sleight of Hand|image=Sleight of Hand.png|desc=[[Caspian]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Boulders|image=The Boulders.png|desc=[[Kor]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Scythe==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Crowned Favor|image=Crowned Favor.png|desc=[[Volkov]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Cull|image=Cull.png|desc=[[Mordex]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Daikama|image=Daikama.png|desc=[[Jiro]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Lightbringer's Relic|image=Lightbringer's Relic.png|desc=[[Lady Vera]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Scythe of the Sands|image=Scythe of the Sands.png|desc=[[Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Shooting Star|image=Shooting Star.png|desc=[[Fait]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Six String|image=Six String.png|desc=[[Munin]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Starry Scythe|image=Starry Scythe.png|desc=[[Artemis]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Tethered Plane|image=Tethered Plane.png|desc=[[Loki]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Appointment|image=The Appointment.png|desc=[[Nix]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Cannon==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Cannon Strike|image=Cannon Strike.png|desc=[[Lin Fei]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Corsair Cannon|image=Corsair Cannon.png|desc=[[Sidra]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Handcrafted Cannon|image=Handcrafted Cannon.png|desc=[[Seven]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Ol' Faithful|image=Ol' Faithful.png|desc=[[Isaiah]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Stryge|image=Stryge.png|desc=[[Onyx]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Wartusk|image=Wartusk.png|desc=[[Xull]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Orb==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Apple of Eden|image=Apple of Eden.png|desc=[[Ezio]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Eye of the Storm|image=Eye of the Storm.png|desc=[[Thor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Garuda's Core|image=Garuda's Core.png|desc=[[Red Raptor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Orbot|image=Orbot.png|desc=[[Reno]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sacred Relic|image=Sacred Relic.png|desc=[[Dusk]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Scrying Glass|image=Scrying Glass.png|desc=[[Fait]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Stone of Malice|image=Stone of Malice.png|desc=[[Petra]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Greatsword==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Geodaehan Kal|image=Geodaehan Kal.png|desc=[[Imugi]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Orma|image=Orma.png|desc=[[Arcadia]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Poseidon's Gift|image=Poseidon's Gift.png|desc=[[Mako]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Soul Scourge|image=Soul Scourge.png|desc=[[Magyar]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Finisher|image=The Finisher.png|desc=[[Jaeyun]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Battle Boots==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Aú Sem Mão|image=Aú Sem Mão.png|desc=[[Vivi]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Patadas Voladoras|image=Patadas Voladoras.png|desc=[[Tezca]]|descheight=55px}}
+{{itembox|width=180|height=170|name=PegaSwift Runners|image=PegaSwift Runners.png|desc=[[Thea]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Squadron Strikers|image=Squadron Strikers.png|desc=[[Red Raptor]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Stampede|image=The Stampede.png|desc=[[King Zuva]]|descheight=55px}}
+{{itembox/bottom}}
+
+==Chakram==
+{{itembox/top}}
+{{itembox|width=180|height=170|name=Golden Order|image=Golden Order.png|desc=[[Lady Vera]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Quantum War-Quoit|image=Quantum War-Quoit.png|desc=[[Ransom]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Sun Dust|image=Sun Dust.png|desc=[[Priya]]|descheight=55px}}
+{{itembox/bottom}}
