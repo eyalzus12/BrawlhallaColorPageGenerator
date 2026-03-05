@@ -35,8 +35,8 @@ public sealed class DefaultWeaponSkinsWriter(WriterData data)
             foreach (WeaponSkinType weaponSkin in weaponSkins)
             {
                 (string weaponSkinName, string imageName, string displayName, _) = data.GetWeaponSkinNameParams(weaponSkin, false);
-                CostumeType costume = data.GetWeaponSkinSourceCostume(weaponSkin)!;
-                (string costumeName, _, _) = data.GetSkinNameParams(costume);
+                CostumeType costume = data.GetWeaponSkinSourceCostume(weaponSkin.WeaponSkinName)!;
+                (string costumeName, _, _, _) = data.GetSkinNameParams(costume, false);
 
                 writer.Write("{{itembox|width=180|height=170");
                 writer.Write("|name=");

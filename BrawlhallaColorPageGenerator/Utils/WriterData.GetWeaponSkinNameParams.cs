@@ -5,51 +5,8 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    private static readonly HashSet<string> _longWeaponSkins = [
-        "AxeMagicalGirl",
-        "AxeSpringAxe21Viewer",
-        "AxeJotun",
-        "BootsMagicalGirl",
-        "PistolHighwayman",
-        "PistolChewbacca",
-        "PistolHanSolo",
-        "PistolEmperor",
-        "PistolBP7",
-        "PistolLilith",
-        "PistolMando",
-        "PistolPearlDerringer",
-        "PistolKayVess",
-        "PistolBP10Mecha",
-        "PistolBP12",
-        "CannonBP7",
-        "CannonRoboPuppet",
-        "CannonBP12",
-        "CannonBP10Mecha",
-        "FistsBP7",
-        "FistsPetraBP12",
-        "FistsObiWan",
-        "FistsBP10Mecha",
-        "GreatswordAsgardSaber",
-        "GreatswordBP7",
-        "GreatswordBP12",
-        "GreatswordMechaArmor",
-        "HammerMagicalGirl",
-        "KatarAhsoka",
-        "KatarAsgardSaber",
-        "OrbMagicalGirl",
-        "RocketLanceBP12",
-        "RocketlanceBP10Mecha",
-        "ScytheEgyptianShoujo",
-        "ScytheIceSkates",
-        "ScytheBP10Mecha",
-        "SpearMagicalGirl",
-        "SwordMagicalGirl",
-        "SwordDarthMaul",
-    ];
-
     public (string weaponSkinName, string imageName, string displayName, bool isAnimated) GetWeaponSkinNameParams(WeaponSkinType weaponSkinType, bool colorMode)
     {
-        string weaponSkin = weaponSkinType.WeaponSkinName;
         string displayNameKey = weaponSkinType.DisplayNameKey!;
 
         bool isAnimated = false;
@@ -57,7 +14,7 @@ public partial class WriterData
         string imageName = weaponSkinName;
         string displayName = weaponSkinName;
 
-        switch (weaponSkin)
+        switch (weaponSkinType.WeaponSkinName)
         {
             case "AxeSimon":
                 displayName = imageName = weaponSkinName = "Battle Axe (Simon Belmont)";
@@ -96,7 +53,7 @@ public partial class WriterData
                 break;
             case "SpearGem":
                 weaponSkinName = "Dusk (Weapon Skin)";
-                imageName = colorMode ? weaponSkin : "Dusk Spear";
+                imageName = colorMode ? weaponSkinName : "Dusk Spear";
                 break;
             case "SpearViral":
                 weaponSkinName = "Vector (Weapon Skin)";
@@ -152,7 +109,7 @@ public partial class WriterData
         imageName = imageName.Replace('’', '\'');
 
         // progression level
-        if (WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkin, out int upgradeLevel) && upgradeLevel != 0)
+        if (WeaponSkinTypes.UpgradeLevel.TryGetValue(weaponSkinType.WeaponSkinName, out int upgradeLevel) && upgradeLevel != 0)
         {
             if (colorMode) displayName = weaponSkinName + " (Lvl " + upgradeLevel + ")";
             if (colorMode || !isAnimated) imageName = weaponSkinName + " Level " + upgradeLevel;
@@ -161,9 +118,9 @@ public partial class WriterData
         // names that are too long
         if (!colorMode)
         {
-            if (weaponSkin == "AxeHolidayXull" || weaponSkin == "SpearDarthMaul")
+            if (_superLongWeaponSkins.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "<span style=\"font-size:69%\">" + displayName + "</span>";
-            else if (_longWeaponSkins.Contains(weaponSkin))
+            else if (_longWeaponSkins.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "{{small|" + displayName + "}}";
         }
 
@@ -179,4 +136,51 @@ public partial class WriterData
 
         return (weaponSkinName, imageName, displayName, isAnimated);
     }
+
+    private static readonly HashSet<string> _superLongWeaponSkins = [
+        "AxeHolidayXull",
+        "SpearDarthMaul",
+    ];
+
+    private static readonly HashSet<string> _longWeaponSkins = [
+        "AxeMagicalGirl",
+        "AxeSpringAxe21Viewer",
+        "AxeJotun",
+        "BootsMagicalGirl",
+        "PistolHighwayman",
+        "PistolChewbacca",
+        "PistolHanSolo",
+        "PistolEmperor",
+        "PistolBP7",
+        "PistolLilith",
+        "PistolMando",
+        "PistolPearlDerringer",
+        "PistolKayVess",
+        "PistolBP10Mecha",
+        "PistolBP12",
+        "CannonBP7",
+        "CannonRoboPuppet",
+        "CannonBP12",
+        "CannonBP10Mecha",
+        "FistsBP7",
+        "FistsPetraBP12",
+        "FistsObiWan",
+        "FistsBP10Mecha",
+        "GreatswordAsgardSaber",
+        "GreatswordBP7",
+        "GreatswordBP12",
+        "GreatswordMechaArmor",
+        "HammerMagicalGirl",
+        "KatarAhsoka",
+        "KatarAsgardSaber",
+        "OrbMagicalGirl",
+        "RocketLanceBP12",
+        "RocketlanceBP10Mecha",
+        "ScytheEgyptianShoujo",
+        "ScytheIceSkates",
+        "ScytheBP10Mecha",
+        "SpearMagicalGirl",
+        "SwordMagicalGirl",
+        "SwordDarthMaul",
+    ];
 }

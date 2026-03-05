@@ -118,6 +118,10 @@ StoreTypes storeTypes = new(storeTypesContent);
 string entitlementTypesContent = files["EntitlementTypes.xml"];
 EntitlementTypes entitlementTypes = new(entitlementTypesContent);
 
+// Chance box types
+string chanceBoxTypesContent = files["ChanceBoxTypes.xml"];
+ChanceBoxTypes chanceBoxTypes = new(chanceBoxTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -127,6 +131,7 @@ WriterData data = new()
     CompanionTypes = companionTypes,
     StoreTypes = storeTypes,
     EntitlementTypes = entitlementTypes,
+    ChanceBoxTypes = chanceBoxTypes,
     LangFile = langFile,
 };
 
@@ -150,6 +155,9 @@ Directory.CreateDirectory("outputs");
 
 LevelingWriter levelingWriter = new(data);
 levelingWriter.WriteTo("outputs/leveling.txt");
+
+SkinsWriter skinsWriter = new(data);
+skinsWriter.WriteTo("outputs/skins.txt");
 
 {
     Directory.CreateDirectory("outputs/weapon skin pages");

@@ -44,7 +44,7 @@ public sealed class SkinColorsWriter(WriterData data)
                     costumeType.CostumeName.EndsWith("Stance2")
                 ) continue;
 
-                (string costumeName, string imageName, string displayName) = data.GetSkinNameParams(costumeType);
+                (string costumeName, string imageName, string displayName, _) = data.GetSkinNameParams(costumeType, true);
 
                 writer.Write(costumeName);
                 if (costumeName != displayName)

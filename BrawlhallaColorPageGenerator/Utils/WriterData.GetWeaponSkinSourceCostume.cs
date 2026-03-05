@@ -25,9 +25,9 @@ public partial class WriterData
         }
     }
 
-    public CostumeType? GetWeaponSkinSourceCostume(WeaponSkinType weaponSkin)
+    public CostumeType? GetWeaponSkinSourceCostume(string weaponSkin)
     {
         InitWeaponSkinToCostume();
-        return _weaponSkinToCostume.GetValueOrDefault(weaponSkin.WeaponSkinName);
+        return _weaponSkinToCostume.GetValueOrDefault(weaponSkin);
     }
 }

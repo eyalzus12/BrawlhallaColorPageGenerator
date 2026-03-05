@@ -7,10 +7,11 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string skinName, string imageName, string displayName) GetSkinNameParams(CostumeType costumeType)
+    public (string skinName, string imageName, string displayName, bool isAnimated) GetSkinNameParams(CostumeType costumeType, bool colorMode)
     {
-        string costumeName = costumeType.CostumeName;
         string? displayNameKey = costumeType.DisplayNameKey;
+
+        bool isAnimated = false;
 
         string skinName;
         if (displayNameKey is not null)
@@ -29,7 +30,7 @@ public partial class WriterData
         string imageName = skinName;
         string displayName = skinName;
 
-        switch (costumeName)
+        switch (costumeType.CostumeName)
         {
             case "SnakeEyes":
                 imageName = "Snake Eyes (Thatch Skin)";
@@ -42,16 +43,22 @@ public partial class WriterData
                 break;
         }
 
-        if (CostumeTypes.UpgradeLevel.TryGetValue(costumeName, out int upgradeLevel) && upgradeLevel != 0)
+        if (CostumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
         {
-            displayName = skinName + " (Lvl " + upgradeLevel + ")";
-            imageName = skinName + " Level " + upgradeLevel;
+            if (colorMode) displayName = skinName + " (Lvl " + upgradeLevel + ")";
+            if (colorMode || !isAnimated) imageName = skinName + " Level " + upgradeLevel;
         }
 
-        skinName = skinName.Replace(":", "&#58;");
-        displayName = displayName.Replace(":", "&#58;");
+        // html escape for the template
+        if (colorMode)
+        {
+            skinName = skinName.Replace(":", "&#58;");
+            displayName = displayName.Replace(":", "&#58;");
+        }
+
+        // no : in image names
         imageName = imageName.Replace(":", "");
 
-        return (skinName, imageName, displayName);
+        return (skinName, imageName, displayName, isAnimated);
     }
 }

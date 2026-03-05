@@ -64,8 +64,6 @@ public sealed class WeaponSkinWriter(WriterData data)
 
     private void ProcessWeaponSkinType(WeaponSkinType weaponSkin, StreamWriter writer)
     {
-        DescType descType;
-
         (string weaponSkinName, string imageName, string displayName, bool isAnimated) = data.GetWeaponSkinNameParams(weaponSkin, false);
         writer.Write("{{itembox|width=");
         // width
@@ -119,114 +117,24 @@ public sealed class WeaponSkinWriter(WriterData data)
         writer.Write("|image=");
         writer.Write(imageName);
         writer.Write(isAnimated ? ".gif" : ".png");
-        // from a legend skin
-        if (data.GetWeaponSkinSourceCostume(weaponSkin) is CostumeType costume)
-        {
-            descType = DescType.Desc;
-            writer.Write("|desc=[[");
-            (string costumeName, _, _) = data.GetSkinNameParams(costume);
-            writer.Write(costumeName);
-            writer.Write("]]");
-        }
-        // bundle exclusive
-        else if (_bundleExclusives.Contains(weaponSkin.WeaponSkinName))
-        {
-            descType = DescType.Desc;
-            writer.Write("|desc=[[Store Bundles|Bundle]] exclusive");
-        }
-        // store
-        else if (data.StoreTypes.ItemToStoreType.TryGetValue($"WeaponSkin {weaponSkin.WeaponSkinName}", out StoreType? storeType))
-        {
-            descType = DescType.Cost;
-            writer.Write("|cost={{Coin|");
-            // costs gold
-            if (storeType.GoldCost > 0)
-            {
-                writer.Write("gold|");
-                writer.Write(storeType.GoldCost);
-            }
-            // costs mammoth coins
-            else if (storeType.IdolCost > 0)
-            {
-                writer.Write("mammoth|");
-                writer.Write(storeType.IdolCost);
-            }
-            // costs glory
-            else if (storeType.RankedPointsCost > 0)
-            {
-                writer.Write("glory|");
-                writer.Write(storeType.RankedPointsCost);
-            }
-            // unexpected
-            else
-            {
-                writer.Write("ERROR|0");
-            }
-            writer.Write("}}");
 
-            if (storeType.EndDateKey is not null)
-            {
-                writer.Write("<br>");
-                writer.Write(storeType.EndDateKey switch
-                {
-                    "StoreType_EndDate_RequiresSkyforged" => "+ Skyforged Variant",
-                    "StoreType_EndDate_LimitedTime" => storeType.TimedPromotion switch
-                    {
-                        "Valhallentines" => "{{ItemTag|valentines|small}}",
-                        "Christmas" => "{{ItemTag|winter|small}}",
-                        _ => "Limited time purchase",
-                    },
-                    "StoreType_EndDate_Unavailable" => "Limited time purchase",
-                    _ => "ERROR",
-                });
-            }
-        }
-        // pack
-        else if (data.EntitlementTypes.WeaponSkinToEntitlement.TryGetValue(weaponSkin.WeaponSkinName, out EntitlementType? entitlement))
-        {
-            string packName;
-            switch (entitlement.EntitlementName)
-            {
-                case "SpringPack":
-                    packName = "Spring Championship 2017 Pack";
-                    break;
-                case "SummerPack":
-                    packName = "Summer Championship 2017 Pack";
-                    break;
-                case "SummerPack23":
-                    packName = "Summer Championship 2023 Pack";
-                    break;
-                case "FallPack18":
-                    packName = "Autumn Championship 2018 Pack";
-                    break;
-                case "CollectorsRewards":
-                    packName = "Collectors Pack";
-                    break;
-                default:
-                    packName = data.LangFile.Entries[entitlement.DisplayNameKey!];
-                    packName = packName.Trim('!');
-                    if (!packName.EndsWith("Pack")) packName += " Pack";
-                    break;
-            }
+        ItemDescription description = data.GetItemDescription(weaponSkin.WeaponSkinName, ItemTypeEnum.WeaponSkin);
 
-            descType = DescType.Desc;
-            writer.Write("|desc=[[");
-            writer.Write(packName);
-            writer.Write("]]");
-        }
-        // misc
-        else
+        writer.Write('|');
+        writer.Write(description.DescriptionType switch
         {
-            descType = DescType.Desc;
-            writer.Write("|desc=");
-            writer.Write(data.GetWeaponSkinMiscDesc(weaponSkin));
-        }
+            DescriptionTypeEnum.Desc => "desc",
+            DescriptionTypeEnum.Cost => "cost",
+            _ => "ERROR",
+        });
+        writer.Write('=');
+        writer.Write(description.Description);
 
         writer.Write("|");
-        writer.Write(descType switch
+        writer.Write(description.DescriptionType switch
         {
-            DescType.Desc => "desc",
-            DescType.Cost => "cost",
+            DescriptionTypeEnum.Desc => "desc",
+            DescriptionTypeEnum.Cost => "cost",
             _ => "ERROR",
         });
         writer.Write("height=");
@@ -252,29 +160,13 @@ public sealed class WeaponSkinWriter(WriterData data)
         });
         writer.Write("px");
 
-        if (_epics.Contains(weaponSkin.WeaponSkinName))
+        writer.Write(description.Rarity switch
         {
-            writer.Write("|epic=true");
-        }
+            RarityEnum.Epic => "|epic=true",
+            RarityEnum.Mythic => "|mythic=true",
+            _ => null,
+        });
 
         writer.WriteLine("}}");
     }
-
-    enum DescType
-    {
-        ERROR,
-        Desc,
-        Cost
-    }
-
-    private static readonly HashSet<string> _bundleExclusives = [
-        "CannonGjallahorn",
-    ];
-
-    private static readonly HashSet<string> _epics = [
-        "GreatswordAsgardSaber",
-        "KatarAsgardSaber",
-        "SpearAsgardSaber",
-        "SwordAsgardSaber",
-    ];
 }

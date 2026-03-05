@@ -5,8 +5,8 @@ namespace BrawlhallaColorPageGenerator.Objects;
 
 public sealed class CompanionType
 {
-    public string CompanionName { get; set; }
-    public string DisplayNameKey { get; set; }
+    public string CompanionName { get; }
+    public string DisplayNameKey { get; }
 
     public CompanionType(XElement element)
     {
@@ -17,7 +17,7 @@ public sealed class CompanionType
 
 public sealed class CompanionTypes
 {
-    public CompanionType[] Companions { get; set; }
+    public CompanionType[] Companions { get; }
 
     public CompanionTypes(string content)
     {

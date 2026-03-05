@@ -9,12 +9,17 @@ public sealed class StoreType
 {
     public string StoreName { get; }
     public string? DisplayNameKey { get; }
+
     public int IdolCost { get; }
     public int GoldCost { get; }
     public int RankedPointsCost { get; }
+    public string? SpecialCurrencyType { get; }
+    public int SpecialCurrencyCost { get; }
+
     public string Type { get; }
     public string? Item { get; }
     public string? EndDateKey { get; }
+    public string? Rarity { get; }
     public string? TimedPromotion { get; }
 
     public StoreType(SepReader.Row row)
@@ -28,6 +33,10 @@ public sealed class StoreType
         GoldCost = row[nameof(GoldCost)].TryParse<int>() ?? 0;
         RankedPointsCost = row[nameof(RankedPointsCost)].TryParse<int>() ?? 0;
 
+        SpecialCurrencyType = row[nameof(SpecialCurrencyType)].ToString();
+        if (string.IsNullOrWhiteSpace(SpecialCurrencyType)) SpecialCurrencyType = null;
+        SpecialCurrencyCost = row[nameof(SpecialCurrencyCost)].TryParse<int>() ?? 0;
+
         Type = row[nameof(Type)].ToString();
 
         Item = row[nameof(Item)].ToString();
@@ -35,6 +44,9 @@ public sealed class StoreType
 
         EndDateKey = row[nameof(EndDateKey)].ToString();
         if (string.IsNullOrWhiteSpace(EndDateKey)) EndDateKey = null;
+
+        Rarity = row[nameof(Rarity)].ToString();
+        if (string.IsNullOrWhiteSpace(Rarity)) Rarity = null;
 
         TimedPromotion = row[nameof(TimedPromotion)].ToString();
         if (string.IsNullOrWhiteSpace(TimedPromotion)) TimedPromotion = null;
