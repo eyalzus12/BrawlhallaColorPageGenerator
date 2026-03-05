@@ -36,7 +36,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
             writer.Write("===[[");
             writer.Write(titleCaseName);
             writer.WriteLine("]]===");
-            writer.WriteLine("{{itembox/top}}");
+            writer.WriteLine("{{Itembox/top}}");
             foreach (CostumeType costumeType in data.CostumeTypes.Costumes)
             {
                 if (
@@ -50,7 +50,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
                 ProcessCostumeType(costumeType, writer);
             }
-            writer.WriteLine("{{itembox/bottom}}");
+            writer.WriteLine("{{Itembox/bottom}}");
             writer.WriteLine();
         }
 

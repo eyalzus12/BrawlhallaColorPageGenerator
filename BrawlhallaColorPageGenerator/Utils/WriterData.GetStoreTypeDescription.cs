@@ -19,7 +19,13 @@ public partial class WriterData
         else if (storeType.IdolCost > 0)
         {
             sb.Append("mammoth|");
-            sb.Append(storeType.IdolCost);
+            sb.Append(storeType.StoreName switch
+            {
+                "PaleRider" => 300,
+                "MythicWuShang" => 900,
+                "MythicNix" => 900,
+                _ => storeType.IdolCost
+            });
         }
         // costs glory
         else if (storeType.RankedPointsCost > 0)

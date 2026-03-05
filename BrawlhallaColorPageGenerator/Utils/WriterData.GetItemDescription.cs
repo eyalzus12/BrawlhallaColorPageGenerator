@@ -33,6 +33,12 @@ public partial class WriterData
             (string costumeName, _, _, _) = GetSkinNameParams(costume, false);
             description = "[[" + costumeName + "]]";
         }
+        // metadev skin
+        else if (itemType == ItemTypeEnum.Costume && (itemName == "MDFait" || itemName == "MetadevNix" || CostumeTypes.CostumesMap[itemName].IsMetadev))
+        {
+            descriptionType = DescriptionTypeEnum.Desc;
+            description = "Not normally obtainable.<br>See [[Metadev]]";
+        }
         // chest exclusive
         else if (GetItemChestExclusive(itemName) is string chestName)
         {
@@ -69,6 +75,12 @@ public partial class WriterData
             _ => RarityEnum.None,
         } : RarityEnum.None;
 
+        // battlepass epic skins
+        if (itemType == ItemTypeEnum.Costume && EpicBattlepassSkins.Contains(itemName))
+        {
+            rarity = RarityEnum.Epic;
+        }
+
         return new()
         {
             Description = description,
@@ -76,6 +88,20 @@ public partial class WriterData
             Rarity = rarity,
         };
     }
+
+    private static readonly HashSet<string> EpicBattlepassSkins = [
+        "DemonQueen",
+        "EpicNix",
+        "EpicBrynn",
+        "EpicDiana",
+        "EpicOrion",
+        "EpicEmber",
+        "EpicWarlock",
+        "EpicMordex",
+        "EpicRaptor",
+        "EgyptianShoujo",
+        "EpicWitch",
+    ];
 }
 
 public enum ItemTypeEnum

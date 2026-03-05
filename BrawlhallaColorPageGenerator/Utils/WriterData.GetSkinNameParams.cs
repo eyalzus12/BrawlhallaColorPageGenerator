@@ -41,6 +41,9 @@ public partial class WriterData
             case "EivorMale":
                 displayName = imageName = "Eivor (Male)";
                 break;
+            case "Mando":
+                if(!colorMode) displayName = "The Mandalorian & Grogu";
+                break;
         }
 
         if (CostumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)

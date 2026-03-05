@@ -15,7 +15,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Axe of the World Eagle|image=Axe of the World Eagle.png|desc=[[The Gifts of Asgard]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe You Out|image=Axe You Out.png|desc=[[Heartbreaker Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Axe-bladed Multi-Tool|image=Axe-bladed Multi-Tool.png|desc=[[Star Miner Ulgrim]]|descheight=55px}}
-{{itembox|width=200|height=170|name=Aztlán Axe|image=Aztlán Axe.png|desc={{BPReward|Season Eleven|gold|Tier 73}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Aztlán Axe|image=Aztlán Axe.png|desc={{BPReward|Season Eleven|free|Tier 78}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Barbaraxe|image=Barbaraxe.png|desc=[[Barbara]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Battle Axe (Simon Belmont)|image=Battle Axe (Simon Belmont).png|desc=[[Simon Belmont]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Beckoning Bramble|image=Beckoning Bramble.png|desc={{BPReward|Season Six|gold|Tier 37}}|descheight=55px}}

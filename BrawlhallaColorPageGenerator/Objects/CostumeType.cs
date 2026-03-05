@@ -14,6 +14,7 @@ public sealed class CostumeType
     public string? UpgradesTo { get; }
     public string? WeaponSet { get; }
     public bool DoesNotOwnWeaponSet { get; }
+    public bool IsMetadev { get; }
 
     public CostumeType(SepReader.Row row)
     {
@@ -33,6 +34,8 @@ public sealed class CostumeType
         if (string.IsNullOrWhiteSpace(WeaponSet)) WeaponSet = null;
 
         DoesNotOwnWeaponSet = row[nameof(DoesNotOwnWeaponSet)].TryParse<bool>() ?? false;
+
+        IsMetadev = row[nameof(IsMetadev)].TryParse<bool>() ?? false;
     }
 }
 
