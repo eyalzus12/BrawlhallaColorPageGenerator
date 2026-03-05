@@ -34,7 +34,7 @@ public partial class WriterData
             description = "[[" + costumeName + "]]";
         }
         // metadev skin
-        else if (itemType == ItemTypeEnum.Costume && (itemName == "MDFait" || itemName == "MetadevNix" || CostumeTypes.CostumesMap[itemName].IsMetadev))
+        else if (itemType == ItemTypeEnum.Costume && (itemName == "MDFait" || itemName == "MetadevNix" || itemName == "MetadevJaeyun" || CostumeTypes.CostumesMap[itemName].IsMetadev))
         {
             descriptionType = DescriptionTypeEnum.Desc;
             description = "Not normally obtainable.<br>See [[Metadev]]";

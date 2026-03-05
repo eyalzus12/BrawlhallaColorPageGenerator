@@ -42,7 +42,65 @@ public partial class WriterData
                 displayName = imageName = "Eivor (Male)";
                 break;
             case "Mando":
-                if(!colorMode) displayName = "The Mandalorian & Grogu";
+                if (!colorMode) displayName = "The Mandalorian & Grogu";
+                break;
+            case "Heatblast":
+                isAnimated = true;
+                if (!colorMode) imageName = "AniHeatblast (lock-in)";
+                break;
+            case "Stevonnie":
+            case "Diamondhead":
+            case "FourArms":
+            case "Leo":
+            case "Donnie":
+            case "Raph":
+            case "Mikey":
+            case "TaiLung":
+                if (!colorMode) imageName += " (lock-in)";
+                break;
+            case "CyberSam":
+            case "PaleRider":
+            case "Bubblegum":
+            case "Spongebob":
+            case "DemonQueen":
+            case "Demon01":
+            case "Demon02":
+            case "Demon03":
+            case "Synth01":
+            case "Synth02":
+            case "Synth03":
+            case "MakoProgression01":
+            case "MakoProgression02":
+            case "MakoProgression03":
+            case "WolfMonster01":
+            case "WolfMonster02":
+            case "WolfMonster03":
+            case "BP5DualArt":
+            case "BP5DualArt02":
+            case "BP5DualArt03":
+            case "ElderDragon1":
+            case "ElderDragon2":
+            case "ElderDragon3":
+            case "T1Paladin":
+            case "T2Paladin":
+            case "T3Paladin":
+            case "TerminusLuchador01":
+            case "TerminusLuchador02":
+            case "TerminusLuchador03":
+            case "Guardian01":
+            case "Guardian02":
+            case "MonkGuardian03":
+            case "MagicalTeros01":
+            case "MagicalTeros02":
+            case "MagicalTeros03":
+            case "BP11Azoth01":
+            case "BP11Azoth02":
+            case "BP11Azoth03":
+            case "ShinobiBP1201":
+            case "ShinobiBP1202":
+            case "ShinobiBP1203":
+                isAnimated = true;
+                if (!colorMode) imageName = "Ani" + imageName;
                 break;
         }
 

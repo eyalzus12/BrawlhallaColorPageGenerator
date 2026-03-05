@@ -20,10 +20,11 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Detention Ada|image=Detention Ada.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Stormlord Ada|image=Stormlord Ada.png|desc={{ItemTag|chest|Elemental Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Lovelaced Ada|image=Lovelaced Ada.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Heatblast|image=Heatblast.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Heatblast|image=AniHeatblast (lock-in).gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Astral Core Ada|image=Astral Core Ada.png|desc={{BPReward|Season Five|gold|Tier 23}}|descheight=49px}}
 {{itembox|width=220|height=270|name=The Mandalorian|displayname=The Mandalorian & Grogu|image=The Mandalorian.png|cost={{Coin|mammoth|500}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Arcadia]]===
 {{Itembox/top}}
@@ -33,6 +34,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Equinox Arcadia|image=Equinox Arcadia.png|desc={{BPReward|Season Six|gold|Tier 23}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Diabolical Doll Arcadia|image=Diabolical Doll Arcadia.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Artemis]]===
 {{Itembox/top}}
@@ -45,10 +47,11 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Slapshot Artemis|image=Slapshot Artemis.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Netherworld Artemis|image=Netherworld Artemis.png|desc={{BPReward|Season One|gold|Tier 23}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Demon Rider Artemis|image=Demon Rider Artemis.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Event Horizon Artemis|image=Event Horizon Artemis Level 3.png|desc={{BPReward|Season Five|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Event Horizon Artemis|image=AniEvent Horizon Artemis.gif|desc={{BPReward|Season Five|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Peacock Artemis|image=Peacock Artemis.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Void Zenith Artemis|image=Void Zenith Artemis.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Asuri]]===
 {{Itembox/top}}
@@ -68,6 +71,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Levi|image=Levi.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Azoth]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Baron Azoth|image=Baron Azoth.png|cost={{Coin|mammoth|80}}|costheight=49px}}
@@ -81,8 +85,9 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Island Azoth|image=Island Azoth.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Ehzot Azoth|image=Ehzot Azoth.png|desc={{BPReward|Season Four|gold|Tier 71}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Soulmate Azoth|image=Soulmate Azoth.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Ascendant Azoth|image=Ascendant Azoth Level 3.png|desc={{BPReward|Season Eleven|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ascendant Azoth|image=AniAscendant Azoth.gif|desc={{BPReward|Season Eleven|gold|Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Barraza]]===
 {{Itembox/top}}
@@ -99,6 +104,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Famished Beast Barraza|image=Famished Beast Barraza.png|desc={{BPReward|Season Nine|gold|Tier 35}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Krieg|image=Krieg.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Bödvar]]===
 {{Itembox/top}}
@@ -118,6 +124,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Gardener Bödvar|image=Gardener Bödvar.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Brynn]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Aesir-Forged Brynn|image=Aesir-Forged Brynn.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -136,6 +143,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Cheer Captain Brynn|image=Cheer Captain Brynn.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Caspian]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Fortune Hunter Caspian|image=Fortune Hunter Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -145,10 +153,11 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Aces High Caspian|image=Aces High Caspian.png|desc={{ItemTag|chest|Outlaw Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Harlequin Caspian|image=Harlequin Caspian.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Plague Knight|image=Plague Knight.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Diamondhead|image=Diamondhead.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Diamondhead|image=Diamondhead (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Diamond Jack Caspian|image=Diamond Jack Caspian.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Tuxedo Bandit Caspian|image=Tuxedo Bandit Caspian.png|desc={{BPReward|Season Ten|gold|Tier 20}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Cassidy]]===
 {{Itembox/top}}
@@ -168,6 +177,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Vampire Huntress Cassidy|image=Vampire Huntress Cassidy.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Cross]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Boss Cross|image=Boss Cross.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -184,6 +194,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Luke|image=Luke.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Han Solo|image=Han Solo.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Diana]]===
 {{Itembox/top}}
@@ -203,6 +214,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Swanky Diana|image=Swanky Diana.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Dusk]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Raven Shaman Dusk|image=Raven Shaman Dusk.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -213,6 +225,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Date Night Dusk|image=Date Night Dusk.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Deathcap Dusk|image=Deathcap Dusk.png|desc={{BPReward|Season Six|gold|Tier 47}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Ember]]===
 {{Itembox/top}}
@@ -232,6 +245,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Haute Couture Ember|image=Haute Couture Ember.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Ezio]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Asgardian Ezio|image=Asgardian Ezio.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -241,6 +255,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Anakin Skywalker|image=Anakin Skywalker.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{itembox|width=220|height=270|name=Darth Vader|image=Darth Vader.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Fait]]===
 {{Itembox/top}}
@@ -254,6 +269,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Cozy Sweater Fait|image=Cozy Sweater Fait.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Daylight Star ☆ Magi Fait|image=Daylight Star ☆ Magi Fait.png|desc={{BPReward|Season Ten|gold|Tier 35}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Gnash]]===
 {{Itembox/top}}
@@ -272,6 +288,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=The First Real Bear Gnash|image=The First Real Bear Gnash.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Hattori]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Kill Thrill Hattori|image=Kill Thrill Hattori.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -284,12 +301,13 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Kabuki Hattori|image=Kabuki Hattori.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Sidewinder Hattori|image=Sidewinder Hattori.png|desc={{ItemTag|chest|Outlaw Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=John Cena|image=John Cena.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Akuma no Kogo Hattori|image=Akuma no Kogo Hattori.png|desc={{BPReward|Season One|gold|Tier 85}}|descheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Akuma no Kogo Hattori|image=AniAkuma no Kogo Hattori.gif|desc={{BPReward|Season One|gold|Tier 85}}|descheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Maître d'Hattori|image=Maître d'Hattori.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Zuko|image=Zuko.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Neostreet Hattori|image=Neostreet Hattori.png|desc={{BPReward|Season Eight|gold|Tier 50}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Darth Maul|image=Darth Maul.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Imugi]]===
 {{Itembox/top}}
@@ -298,6 +316,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Exoshell Imugi|image=Exoshell Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Elvenhollow Imugi|image=Elvenhollow Imugi.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Isaiah]]===
 {{Itembox/top}}
@@ -312,6 +331,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Kay Vess|image=Kay Vess.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Jaeyun]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Death Jester Jaeyun|image=Death Jester Jaeyun.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -320,9 +340,10 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Hwarang Jaeyun|image=Hwarang Jaeyun.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Negan|image=Negan.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Snowdrift Jaeyun|image=Snowdrift Jaeyun.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Luminous Paladin Jaeyun|image=Luminous Paladin Jaeyun Level 3.png|desc={{BPReward|Season Seven|gold|Tier 1}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Metadev Jaeyun|image=Metadev Jaeyun.png|cost={{Coin|ERROR|0}}|costheight=49px}}
+{{itembox|width=220|height=270|name=Luminous Paladin Jaeyun|image=AniLuminous Paladin Jaeyun.gif|desc={{BPReward|Season Seven|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Metadev Jaeyun|image=Metadev Jaeyun.png|desc=Not normally obtainable.<br>See [[Metadev]]|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Jhala]]===
 {{Itembox/top}}
@@ -339,6 +360,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Simon Belmont|image=Simon Belmont.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Jiro]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Jiro the Specialist|image=Jiro the Specialist.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -347,11 +369,12 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Komainu Jiro|image=Komainu Jiro.png|desc={{ItemTag|chest|Exalted Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Dullahan Jiro|image=Dullahan Jiro.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Crimson Oni Jiro|image=Crimson Oni Jiro.png|desc={{BPReward|Season One|gold|Tier 71}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Leonardo|image=Leonardo.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Leonardo|image=Leonardo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Oendan Jiro|image=Oendan Jiro.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Yoshimitsu|image=Yoshimitsu.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Shinobi no Mono Jiro|image=Shinobi no Mono Jiro Level 3.png|desc=UNKNOWN|descheight=49px}}
+{{itembox|width=220|height=270|name=Shinobi no Mono Jiro|image=AniShinobi no Mono Jiro.gif|desc={{BPReward|Season Twelve|gold|Intro Tier 1}}}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Kaya]]===
 {{Itembox/top}}
@@ -367,12 +390,14 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Trick or Treater Kaya|image=Trick or Treater Kaya.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[King Zuva]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Golden Gladiator Zuva|image=Golden Gladiator Zuva.png|cost={{Coin|mammoth|200}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Ancestral Zuva|image=Ancestral Zuva.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Elegant Zuva|image=Elegant Zuva.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Koji]]===
 {{Itembox/top}}
@@ -385,12 +410,13 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Greased Lightning Koji|image=Greased Lightning Koji.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Emperor Koji|image=Emperor Koji.png|desc={{ItemTag|chest|Celestial Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Street Samurai Koji|image=Street Samurai Koji.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Shin Sekai Koji|image=Shin Sekai Koji.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Shin Sekai Koji|image=AniShin Sekai Koji.gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Michonne|image=Michonne.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Storm Shadow|image=Storm Shadow.png|desc=Unobtainable.<br>Removed from Store.|descheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Kern Koji|image=Kern Koji.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Future Nokizaru Koji|image=Future Nokizaru Koji.png|desc={{BPReward|Season Twelve|gold|Future Tier 23}}}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Kor]]===
 {{Itembox/top}}
@@ -404,11 +430,12 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=The Korinthian|image=The Korinthian.png|desc={{ItemTag|chest|Celestial Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Jake|image=Jake.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Cho-Kor-late|image=Cho-Kor-late.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Four Arms|image=Four Arms.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Four Arms|image=Four Arms (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Gentleman Kor|image=Gentleman Kor.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Toph|image=Toph.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Indomitable Daylight Kor|image=Indomitable Daylight Kor.png|desc={{BPReward|Season Eleven|gold|Tier 35}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Lady Vera]]===
 {{Itembox/top}}
@@ -416,6 +443,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=High Inquisitor Vera|image=High Inquisitor Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Aqyn Vera|image=Aqyn Vera.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Lin Fei]]===
 {{Itembox/top}}
@@ -428,6 +456,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Sakura|image=Sakura.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Loki]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Arcane Loki|image=Arcane Loki.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -436,6 +465,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Lakeside Loki|image=Lakeside Loki.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Interloper Loki|image=Interloper Loki.png|desc={{BPReward|Season Eleven|gold|Tier 65}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Lord Vraxx]]===
 {{Itembox/top}}
@@ -446,11 +476,12 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=General Vraxx|image=General Vraxx.png|desc={{ItemTag|chest|Cosmic Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Space Dogfighter Vraxx|image=Space Dogfighter Vraxx.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Wasteland Vraxx|image=Wasteland Vraxx.png|cost={{Coin|mammoth|200}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Princess Bubblegum|image=Princess Bubblegum.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Princess Bubblegum|image=AniPrincess Bubblegum.gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Professor Vraxx|image=Professor Vraxx.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Vraxxy Jones|image=Vraxxy Jones.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Warlock|image=Warlock.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Lucien]]===
 {{Itembox/top}}
@@ -469,6 +500,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Hunter|image=Hunter.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Magyar]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Golden Gladiator Magyar|image=Golden Gladiator Magyar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -479,16 +511,18 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Mecha Knight Magyar|image=Mecha Knight Magyar.png|desc={{BPReward|Season Ten|gold|Tier 50}}|descheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Mako]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Abyssal Goblin Mako|image=Abyssal Goblin Mako.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=0RC4-M4k0|image=0RC4-M4k0.png|cost={{Coin|mammoth|200}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Hammerhead Mako|image=Hammerhead Mako.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Jörmungandr Mako|image=Jörmungandr Mako Level 3.png|desc={{BPReward|Season Three|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Jörmungandr Mako|image=AniJörmungandr Mako.gif|desc={{BPReward|Season Three|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Swim Team Mako|image=Swim Team Mako.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Alepisaurus Mako|image=Alepisaurus Mako.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=General Grievous|image=General Grievous.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Mirage]]===
 {{Itembox/top}}
@@ -498,14 +532,15 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Heart of Hathor Mirage|image=Heart of Hathor Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Anubis Mirage|image=Anubis Mirage.png|desc={{ItemTag|chest|Sandstorm Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Freestyle Mirage|image=Freestyle Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Apocalypse Mirage|image=Apocalypse Mirage.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Apocalypse Mirage|image=AniApocalypse Mirage.gif|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Mirage Incarnate|image=Mirage Incarnate.png|desc={{ItemTag|chest|Revenant Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Corsair Mirage|image=Corsair Mirage.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Corpse Bride Mirage|image=Corpse Bride Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Donatello|image=Donatello.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Donatello|image=Donatello (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Librarian Mirage|image=Librarian Mirage.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Miracle Magi ☆ Starlit Mirage|image=Miracle Magi ☆ Starlit Mirage.png|desc={{BPReward|Season Ten|gold|Tier 85}}|descheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Mordex]]===
 {{Itembox/top}}
@@ -518,12 +553,13 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Mad Dog Mordex|image=Mad Dog Mordex.png|desc={{ItemTag|chest|Synthwave Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Daimio|image=Daimio.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Black Diamond Mordex|image=Black Diamond Mordex.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Tai Lung|image=Tai Lung.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Octavius Mordex|image=Octavius Mordex Level 3.png|desc={{BPReward|Season Four|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Tai Lung|image=Tai Lung (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Octavius Mordex|image=AniOctavius Mordex.gif|desc={{BPReward|Season Four|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Brawldog Mordex|image=Brawldog Mordex.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Termidex|image=Termidex.png|desc={{BPReward|Season Eight|gold|Tier 85}}|descheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=KO-rpse Candle Mordex|image=KO-rpse Candle Mordex.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Munin]]===
 {{Itembox/top}}
@@ -535,6 +571,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Cockatiel Munin|image=Cockatiel Munin.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Deathly Presence Munin|image=Deathly Presence Munin.png|desc={{BPReward|Season Nine|gold|Tier 65}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Nix]]===
 {{Itembox/top}}
@@ -549,8 +586,9 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=White Out Nix|image=White Out Nix.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Gothic Chic Nix|image=Gothic Chic Nix.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|anniversary}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Metadev Nix|image=Metadev Nix.png|desc=Not normally obtainable.<br>See [[Metadev]]|descheight=49px}}
-{{itembox|width=220|height=270|name=Ascended Nix|image=Ascended Nix.png|cost={{Coin|mammoth|500}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Ascended Nix|image=Ascended Nix.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Onyx]]===
 {{Itembox/top}}
@@ -562,6 +600,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Termin-gator Onyx|image=Termin-gator Onyx.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Titan|image=Titan.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Orion]]===
 {{Itembox/top}}
@@ -581,20 +620,22 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Secret Admirer Orion|image=Secret Admirer Orion.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Petra]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Sourcecode Petra|image=Sourcecode Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Darkheart Petra|image=Darkheart Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Lost World Petra|image=Lost World Petra.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Obake Petra|image=Obake Petra Level 3.png|desc={{BPReward|Season One|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Obake Petra|image=AniObake Petra.gif|desc={{BPReward|Season One|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Petra Reanimated|image=Petra Reanimated.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Riptide Petra|image=Riptide Petra.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|summer}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Garnet|image=Garnet.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Ryu|image=Ryu.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Ken|image=Ken.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Street Sovereign Petra|image=Street Sovereign Petra.png|desc={{BPReward|Season Eight|gold|Tier 35}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Sengoku Rappa Petra|image=Sengoku Rappa Petra.png|desc=UNKNOWN|descheight=49px}}
+{{itembox|width=220|height=270|name=Sengoku Rappa Petra|image=Sengoku Rappa Petra.png|desc={{BPReward|Season Twelve|gold|Past Tier 23}}}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Priya]]===
 {{Itembox/top}}
@@ -603,6 +644,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Chakora Priya|image=Chakora Priya.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Akuma Shinobi Priya|image=Akuma Shinobi Priya.png|desc={{BPReward|Season Twelve|gold|Final Tier 7}}}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Queen Nai]]===
 {{Itembox/top}}
@@ -623,6 +665,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Mikasa|image=Mikasa.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Ragnir]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Mecha Ragnir|image=Mecha Ragnir.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -636,10 +679,11 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Inferno Ragnir|image=Inferno Ragnir.png|desc={{ItemTag|chest|Elemental Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Werebat Ragnir|image=Werebat Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Frost Guardian Ragnir|image=Frost Guardian Ragnir.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Raphael|image=Raphael.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Elder Wild Ragnir|image=Elder Wild Ragnir Level 3.png|desc={{BPReward|Season Six|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Raphael|image=Raphael (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Elder Wild Ragnir|image=AniElder Wild Ragnir.gif|desc={{BPReward|Season Six|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Ransom]]===
 {{Itembox/top}}
@@ -648,6 +692,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Incognito Ransom|image=Incognito Ransom.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Rayman]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Raymesis|image=Raymesis.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -655,9 +700,10 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Raydvar|image=Raydvar.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Ray of the Dead|image=Ray of the Dead.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Dhalsim|image=Dhalsim.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=SpongeBob SquarePants|image=SpongeBob SquarePants.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=SpongeBob SquarePants|image=AniSpongeBob SquarePants.gif|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{itembox|width=220|height=270|name=Super Metal Rayman|image=Super Metal Rayman.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Red Raptor]]===
 {{Itembox/top}}
@@ -669,6 +715,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Eren|image=Eren.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Reno]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Desperado Reno|image=Desperado Reno.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -679,12 +726,14 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Lilith|image=Lilith.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Rupture]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Hulking Mantis Rupture|image=Hulking Mantis Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Werebeast Rupture|image=Werebeast Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Rock 'n Rupture|image=Rock 'n Rupture.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Scarlet]]===
 {{Itembox/top}}
@@ -701,6 +750,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Tiny Tina|image=Tiny Tina.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Sentinel]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Gumshoe Sentinel|image=Gumshoe Sentinel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -715,6 +765,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Frost Tech Sentinel|image=Frost Tech Sentinel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Seven]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Firefighter Seven|image=Firefighter Seven.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -722,6 +773,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Wanderer Seven|image=Wanderer Seven.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Calavera Catrina Seven|image=Calavera Catrina Seven.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Sidra]]===
 {{Itembox/top}}
@@ -734,6 +786,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Beastmaster Sidra|image=Beastmaster Sidra.png|desc={{BPReward|Season Seven|gold|Tier 47}}|descheight=49px}}
 {{itembox|width=220|height=270|name=The Arbiter|image=The Arbiter.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Sir Roland]]===
 {{Itembox/top}}
@@ -751,6 +804,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Ashen Warmonger Roland|image=Ashen Warmonger Roland.png|desc={{BPReward|Season Nine|gold|Tier 20}}|descheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Teros]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Iron Legion Teros|image=Iron Legion Teros.png|cost={{Coin|mammoth|80}}|costheight=49px}}
@@ -767,18 +821,20 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Hall Minotaur Teros|image=Hall Minotaur Teros.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Metadev Teros|image=Metadev Teros.png|desc=Not normally obtainable.<br>See [[Metadev]]|descheight=49px}}
 {{itembox|width=220|height=270|name=Patrick Star|image=Patrick Star.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Fallen Prince Teros|image=Fallen Prince Teros Level 3.png|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Fallen Prince Teros|image=AniFallen Prince Teros.gif|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Tezca]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Talk of the Town Tezca|image=Talk of the Town Tezca.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Ocelotl Tezca|image=Ocelotl Tezca.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Chel|image=Chel.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Corrupted Blood Tezca|image=Corrupted Blood Tezca Level 3.png|desc={{BPReward|Season Eight|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Corrupted Blood Tezca|image=AniCorrupted Blood Tezca.gif|desc={{BPReward|Season Eight|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Druid Mage Chel|image=Druid Mage Chel.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Usurper Chel|image=Usurper Chel.png|desc={{BPReward|Season Eleven|gold|Tier 50}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Thatch]]===
 {{Itembox/top}}
@@ -795,6 +851,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Chewbacca|image=Chewbacca.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
 
+
 ===[[Thea]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Mach 25 Thea|image=Mach 25 Thea.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -803,6 +860,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Kelpie Thea|image=Kelpie Thea.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|march}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Fleeting Magi ☆ Starlit Thea|image=Fleeting Magi ☆ Starlit Thea.png|desc={{BPReward|Season Ten|gold|Tier 65}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Thor]]===
 {{Itembox/top}}
@@ -814,6 +872,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Royal Warrior Thor|image=Royal Warrior Thor.png|desc={{BPReward|Season Three|gold|Tier 23}}|descheight=49px}}
 {{itembox|width=220|height=270|name=M. Bison|image=M. Bison.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Ulgrim]]===
 {{Itembox/top}}
@@ -829,6 +888,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Ivaldi's Finest Ulgrim|image=Ivaldi's Finest Ulgrim.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Val]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Hardsuit Val|image=Hardsuit Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -839,15 +899,16 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Nutcracker Val|image=Nutcracker Val.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|winter}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Chimera Val|image=Chimera Val.png|desc={{ItemTag|chest|Olympian Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Mythic Hero Val|image=Mythic Hero Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Stevonnie|image=Stevonnie.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Future Wave Val|image=Future Wave Val Level 3.png|desc={{BPReward|Season Two|gold|Tier 1}}|descheight=49px}}
-{{itembox|width=220|height=270|name=Michelangelo|image=Michelangelo.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Stevonnie|image=Stevonnie (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
+{{itembox|width=220|height=270|name=Future Wave Val|image=AniFuture Wave Val.gif|desc={{BPReward|Season Two|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Michelangelo|image=Michelangelo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Akuma|image=Akuma.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Love Bug Val|image=Love Bug Val.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Metadev Val|image=Metadev Val.png|desc=Not normally obtainable.<br>See [[Metadev]]|descheight=49px}}
 {{itembox|width=220|height=270|name=Obi-Wan Kenobi|image=Obi-Wan Kenobi.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{itembox|width=220|height=270|name=Modern Monomi Val|image=Modern Monomi Val.png|desc={{BPReward|Season Twelve|gold|Present Tier 23}}}}|descheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Vector]]===
 {{Itembox/top}}
@@ -858,6 +919,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Matchmaker Vector|image=Matchmaker Vector.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{Itembox/bottom}}
 
+
 ===[[Vivi]]===
 {{Itembox/top}}
 {{itembox|width=220|height=270|name=Covert Ops Vivi|image=Covert Ops Vivi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
@@ -865,6 +927,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Grã-mestra Batista|image=Grã-mestra Batista.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Mega Man|image=Mega Man.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Volkov]]===
 {{Itembox/top}}
@@ -877,6 +940,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Infernal Warlock Volkov|image=Infernal Warlock Volkov.png|desc={{BPReward|Season Seven|gold|Tier 85}}|descheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Abhartach Volkov|image=Abhartach Volkov.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Wu Shang]]===
 {{Itembox/top}}
@@ -893,9 +957,10 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Chun-Li|image=Chun-Li.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Aang|image=Aang.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Cthu'shang|image=Cthu'shang.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|halloween}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Wu Shang, the Seeker|image=Wu Shang, the Seeker Level 3.png|desc={{BPReward|Season Nine|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Wu Shang, the Seeker|image=AniWu Shang, the Seeker.gif|desc={{BPReward|Season Nine|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Ascended Wu Shang|image=Ascended Wu Shang.png|cost={{Coin|mammoth|900}}|costheight=49px|mythic=true}}
 {{Itembox/bottom}}
+
 
 ===[[Xull]]===
 {{Itembox/top}}
@@ -908,6 +973,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Terror-Watt Xull|image=Terror-Watt Xull.png|desc={{BPReward|Season Eight|gold|Tier 20}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Abominable Jötunn Xull|image=Abominable Jötunn Xull.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Yumiko]]===
 {{Itembox/top}}
@@ -924,6 +990,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Inari Yumiko|image=Inari Yumiko.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png|cost={{Coin|ERROR|0}}|costheight=49px}}
 {{Itembox/bottom}}
+
 
 ===[[Zariel]]===
 {{Itembox/top}}

@@ -22,7 +22,6 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
 ==List of Skins==
 ''To quickly get to a Legend in this list, use the Table of Contents above.''
-
 """);
 
         foreach (HeroType hero in data.HeroTypes.Heroes)
@@ -33,6 +32,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
             string name = hero.BioName;
             TextInfo textInfo = CultureInfo.InvariantCulture.TextInfo;
             string titleCaseName = textInfo.ToTitleCase(name);
+            writer.WriteLine();
             writer.Write("===[[");
             writer.Write(titleCaseName);
             writer.WriteLine("]]===");
@@ -59,7 +59,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
     private void ProcessCostumeType(CostumeType costumeType, StreamWriter writer)
     {
-        (string costumeName, string imageName, string displayName, _) = data.GetSkinNameParams(costumeType, false);
+        (string costumeName, string imageName, string displayName, bool isAnimated) = data.GetSkinNameParams(costumeType, false);
 
         writer.Write("{{itembox|width=220|height=270|name=");
         writer.Write(costumeName);
@@ -70,7 +70,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
         }
         writer.Write("|image=");
         writer.Write(imageName);
-        writer.Write(".png");
+        writer.Write(isAnimated ? ".gif" : ".png");
 
         ItemDescription description = data.GetItemDescription(costumeType.CostumeName, ItemTypeEnum.Costume);
 

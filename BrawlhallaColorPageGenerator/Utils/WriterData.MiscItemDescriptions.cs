@@ -355,6 +355,10 @@ public partial class WriterData
 
         // bp 12
         // skins
+        ["ShinobiBP1201"] = "{{BPReward|Season Twelve|gold|Intro Tier 1}}}}",
+        ["ShinobiBP1202"] = "{{BPReward|Season Twelve|gold|Intro Tier 1}}}}",
+        ["ShinobiBP1203"] = "{{BPReward|Season Twelve|gold|Intro Tier 1}}}}",
+        ["PetraBP12"] = "{{BPReward|Season Twelve|gold|Past Tier 23}}}}",
         ["TechnoNinjaBP12"] = "{{BPReward|Season Twelve|gold|Present Tier 23}}}}",
         ["SamuraiBP12"] = "{{BPReward|Season Twelve|gold|Future Tier 23}}}}",
         ["BladeDancerOni"] = "{{BPReward|Season Twelve|gold|Final Tier 7}}}}",
