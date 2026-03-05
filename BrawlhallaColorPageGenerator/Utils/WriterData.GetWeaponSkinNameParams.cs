@@ -118,9 +118,9 @@ public partial class WriterData
         // names that are too long
         if (!colorMode)
         {
-            if (_superLongWeaponSkins.Contains(weaponSkinType.WeaponSkinName))
+            if (_superLongWeaponSkinNames.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "<span style=\"font-size:69%\">" + displayName + "</span>";
-            else if (_longWeaponSkins.Contains(weaponSkinType.WeaponSkinName))
+            else if (_longWeaponSkinNames.Contains(weaponSkinType.WeaponSkinName))
                 displayName = "{{small|" + displayName + "}}";
         }
 
@@ -137,12 +137,12 @@ public partial class WriterData
         return (weaponSkinName, imageName, displayName, isAnimated);
     }
 
-    private static readonly HashSet<string> _superLongWeaponSkins = [
+    private static readonly HashSet<string> _superLongWeaponSkinNames = [
         "AxeHolidayXull",
         "SpearDarthMaul",
     ];
 
-    private static readonly HashSet<string> _longWeaponSkins = [
+    private static readonly HashSet<string> _longWeaponSkinNames = [
         "AxeMagicalGirl",
         "AxeSpringAxe21Viewer",
         "AxeJotun",

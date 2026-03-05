@@ -37,7 +37,7 @@ public partial class WriterData
         else if (itemType == ItemTypeEnum.Costume && (itemName == "MDFait" || itemName == "MetadevNix" || itemName == "MetadevJaeyun" || CostumeTypes.CostumesMap[itemName].IsMetadev))
         {
             descriptionType = DescriptionTypeEnum.Desc;
-            description = "Not normally obtainable.<br>See [[Metadev]]";
+            description = "Not normally obtainable.<br>See [[Metadev]].";
         }
         // chest exclusive
         else if (GetItemChestExclusive(itemName) is string chestName)

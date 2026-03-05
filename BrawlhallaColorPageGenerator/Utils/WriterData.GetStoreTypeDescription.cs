@@ -7,7 +7,7 @@ public partial class WriterData
 {
     public string GetStoreTypeDescription(StoreType storeType, bool smallItemTag)
     {
-        string FormatItemTag(string tag) => "{{ItemTag|" + tag + (smallItemTag ? "|small" : "") + "}}";
+        string FormatItemTag(string tag, int year = 0) => "{{ItemTag|" + tag + (smallItemTag ? "|small" : "") + (year > 0 ? "|" + year : "") + "}}";
 
         StringBuilder sb = new("{{Coin|");
         if (storeType.GoldCost > 0)
@@ -34,7 +34,7 @@ public partial class WriterData
             sb.Append(storeType.RankedPointsCost);
         }
         // costs tickets
-        else if (storeType.SpecialCurrencyCost > 0)
+        else if (storeType.SpecialCurrencyType is not null)
         {
             sb.Append("ticket ");
             sb.Append(storeType.SpecialCurrencyType switch
@@ -45,12 +45,20 @@ public partial class WriterData
                 "Halloween25" => "halloween",
                 "Anniversary25" => "anniv",
                 "Christmas25" => "xmas",
-                "VDay25" => " love",
+                "VDay25" => "love",
                 "StPatricks26" => "march",
-                _ => " ERROR",
+                _ => "ERROR",
             });
             sb.Append('|');
-            sb.Append(storeType.SpecialCurrencyCost);
+            if (storeType.SpecialCurrencyCost > 0)
+            {
+                sb.Append(storeType.SpecialCurrencyCost);
+            }
+            // event-finish skin
+            else
+            {
+                sb.Append(1850);
+            }
         }
         // unexpected
         else
@@ -59,7 +67,38 @@ public partial class WriterData
         }
         sb.Append("}}");
 
-        if (storeType.EndDateKey is not null)
+        if (storeType.SpecialCurrencyType is not null)
+        {
+            bool useSmallElement = storeType.SpecialCurrencyType switch
+            {
+                "BHFest25" => false,
+                "Heatwave25" => false,
+                "BackToSchool25" => true,
+                "Halloween25" => true,
+                "Anniversary25" => false,
+                "Christmas25" => false,
+                "VDay25" => false,
+                "StPatricks26" => true,
+                _ => false,
+            };
+
+            sb.Append("<br>");
+            if (useSmallElement) sb.Append("<small>");
+            sb.Append(storeType.SpecialCurrencyType switch
+            {
+                "BHFest25" => FormatItemTag("fest", 2025),
+                "Heatwave25" => FormatItemTag("summer", 2025),
+                "BackToSchool25" => FormatItemTag("school", 2025),
+                "Halloween25" => FormatItemTag("halloween", 2025),
+                "Anniversary25" => FormatItemTag("anniv", 2025),
+                "Christmas25" => FormatItemTag("xmas", 2025),
+                "VDay25" => FormatItemTag("love", 2026),
+                "StPatricks26" => FormatItemTag("march", 2026),
+                _ => " ERROR",
+            });
+            if (useSmallElement) sb.Append("</small>");
+        }
+        else if (storeType.EndDateKey is not null)
         {
             sb.Append("<br>");
             sb.Append(storeType.EndDateKey switch

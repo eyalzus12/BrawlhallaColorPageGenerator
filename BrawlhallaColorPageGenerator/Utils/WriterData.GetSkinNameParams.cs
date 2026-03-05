@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Globalization;
 using BrawlhallaColorPageGenerator.Objects;
 using BrawlhallaLangReader;
@@ -110,6 +111,13 @@ public partial class WriterData
             if (colorMode || !isAnimated) imageName = skinName + " Level " + upgradeLevel;
         }
 
+        // names that are too long
+        if (!colorMode)
+        {
+            if (_longCostumeNames.Contains(costumeType.CostumeName))
+                displayName = "{{small|" + displayName + "}}";
+        }
+
         // html escape for the template
         if (colorMode)
         {
@@ -122,4 +130,8 @@ public partial class WriterData
 
         return (skinName, imageName, displayName, isAnimated);
     }
+
+    private static readonly HashSet<string> _longCostumeNames = [
+        "AnnivRoland",
+    ];
 }
