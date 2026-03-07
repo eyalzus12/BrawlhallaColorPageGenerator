@@ -55,11 +55,22 @@ public partial class WriterData
                 ItemTypeEnum.WeaponSkin => true,
                 _ => false,
             });
+
+            description += itemName switch
+            {
+                "Eivor" => "<br>Comes with [[Eivor|Eivor (Male)]]",
+                "EivorMale" => "<br>Comes with [[Eivor|Eivor (Female)]]",
+                "Lara" => "<br>Comes with [[Survivor Lara Croft]]",
+                "Croft" => "<br>Comes with [[Lara Croft]]",
+                _ => null,
+            };
         }
+        // pack exclusive
         else if (GetItemPackExclusive(itemName, itemType) is string packName)
         {
             descriptionType = DescriptionTypeEnum.Desc;
             description = "[[" + packName + "]]";
+            if (itemType == ItemTypeEnum.Costume) description = "Part of the " + description + ".";
         }
         // unknown
         else
@@ -70,7 +81,7 @@ public partial class WriterData
 
         RarityEnum rarity = storeType is not null ? storeType.Rarity switch
         {
-            "Epic" or "EpicCrossover" => RarityEnum.Epic,
+            "Epic" or "EpicCrossover" or "Crossover" => RarityEnum.Epic,
             "Mythic" => RarityEnum.Mythic,
             _ => RarityEnum.None,
         } : RarityEnum.None;

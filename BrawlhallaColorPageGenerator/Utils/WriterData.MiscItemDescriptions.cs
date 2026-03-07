@@ -48,6 +48,7 @@ public partial class WriterData
         #endregion
         #region bundle exclusive
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
+        ["ImugiBloomhalla"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
         #endregion
         #region removed from store
         ["Simon"] = REMOVED_FROM_STORE_DESCRIPTION,
