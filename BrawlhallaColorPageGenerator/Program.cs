@@ -101,7 +101,7 @@ Array.Sort(companionTypes.Companions, Comparer<CompanionType>.Create((a, b) =>
 // Heros
 string heroTypesContent = files["HeroTypes.xml"];
 HeroTypes heroTypes = new(heroTypesContent);
-Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create((a, b) =>
+Array.Sort(heroTypes.Heroes, Comparer<HeroType>.Create(static (a, b) =>
 {
     return string.Compare(a.BioName, b.BioName);
 }));
@@ -141,33 +141,31 @@ WriterData data = new()
 Directory.CreateDirectory("outputs");
 
 {
-    Directory.CreateDirectory("outputs/color pages");
-
     SkinColorsWriter skinsColorWriter = new(data);
-    skinsColorWriter.WriteTo("outputs/color pages/skins color.txt");
+    skinsColorWriter.WriteTo("outputs/Template Color_Skins.mediawiki");
 
     WeaponSkinColorsWriter weaponSkinsColorWriter = new(data);
-    weaponSkinsColorWriter.WriteTo("outputs/color pages/weaponSkins color.txt");
+    weaponSkinsColorWriter.WriteTo("outputs/Template Color_Weapon_Skins.mediawiki");
 
     CompanionColorsWriter companionsColorWriter = new(data);
-    companionsColorWriter.WriteTo("outputs/color pages/companions color.txt");
+    companionsColorWriter.WriteTo("outputs/Template Color_Companions.mediawiki");
 }
 
 LevelingWriter levelingWriter = new(data);
-levelingWriter.WriteTo("outputs/leveling.txt");
+levelingWriter.WriteTo("outputs/Leveling.mediawiki");
 
 SkinsWriter skinsWriter = new(data);
-skinsWriter.WriteTo("outputs/skins.txt");
+skinsWriter.WriteTo("outputs/Skins.mediawiki");
 
 {
-    Directory.CreateDirectory("outputs/weapon skin pages");
+    Directory.CreateDirectory("outputs/Weapon_Skins");
 
     WeaponSkinWriter weaponSkinWriter = new(data);
     foreach ((string baseWeapon, string weaponName) in Utils.BASE_WEAPON_NAME)
-        weaponSkinWriter.WriteTo($"outputs/weapon skin pages/weapon {weaponName}.txt", baseWeapon);
+        weaponSkinWriter.WriteTo($"outputs/Weapon_Skins/{weaponName}.mediawiki", baseWeapon);
 
     DefaultWeaponSkinsWriter defaultWeaponSkinsWriter = new(data);
-    defaultWeaponSkinsWriter.WriteTo("outputs/default weapon skins.txt");
+    defaultWeaponSkinsWriter.WriteTo("outputs/Weapon_Skins/Default_Weapons.mediawiki");
 }
 
 #endregion
