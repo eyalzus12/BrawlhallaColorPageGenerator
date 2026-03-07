@@ -8,6 +8,7 @@ This repo contains a script for generating various pages in the [Official Brawlh
 * Pages that list every weapon skin, and how to acquire them
   * `Weapon_Skins/*`, for example [Weapon_Skins/Axe](https://brawlhalla.wiki.gg/wiki/Weapon_Skins/Axe)
   * [Weapon_Skins/Default_Weapons](https://brawlhalla.wiki.gg/wiki/Weapon_Skins/Default_Weapons)
+* The [Skins](https://brawlhalla.wiki.gg/wiki/Skins) page which lists every skin and how to acquire it
 * The table rows for [Leveling](https://brawlhalla.wiki.gg/wiki/Leveling)
 * TODO: The table rows for [Stances](https://brawlhalla.wiki.gg/wiki/Stances)
 
