@@ -144,6 +144,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Sprocketeer|image=Sprocketeer.png|desc=''Unobtainable''|descheight=55px}}
 {{itembox|width=210|height=220|name=Starforged Spear|image=Starforged Spear.png|desc=[[Metadev Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Stuffing Spear|image=Stuffing Spear.png|desc=[[Diabolical Doll Arcadia]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Sunfloral Pitchfork|image=Sunfloral Pitchfork.png|desc=[[Spring Esports 2026 Pack]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Surt's Arrow|image=Surt's Arrow.png|desc=[[Cinderguard Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Sweet Magi ☆ Dream Spear|displayname={{small|Sweet Magi ☆ Dream Spear}}|image=Sweet Magi ☆ Dream Spear.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Talon's Edge|image=Talon's Edge.png|desc=[[Raven Shaman Dusk]]|descheight=55px}}
@@ -165,6 +166,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Tundra Geir|image=Tundra Geir.png|desc={{BPReward|Season Three|gold|Tier 15}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Tundra's Talon|image=Tundra's Talon.png|desc=[[Snow Stalker Kaya]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Twin Solstice|image=Twin Solstice.png|desc=<span style="font-size:76%">{{BPReward|Season Five|gold|Tier 69}}<br>{{BPReward|Season Five Classic|free|Tier 65}}</span>|descheight=55px}}
+{{itembox|width=210|height=220|name=Umbra Spear|image=Umbra Spear.png|desc={{BPReward|Season Thirteen|gold|Dark Tier 21}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Valiant Armament Spear|image=Valiant Armament Spear.png|desc={{BPReward|Season Ten|gold|Tier 73}}|descheight=55px}}
 {{itembox|width=210|height=220|name=Valkyrie's Fury|image=Valkyrie's Fury.png|desc=[[Völsung Brynn]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Vector (Weapon Skin)|displayname=Vector|image=Vector Spear.png|desc=[[Wasteland Ada]]|descheight=55px}}

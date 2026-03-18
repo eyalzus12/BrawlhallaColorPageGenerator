@@ -36,6 +36,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=Great-Oar|image=Great-Oar.png|desc=[[Swim Team Mako]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Great-Pop|image=Great-Pop.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Greatsword of Mercy|image=Greatsword of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 83}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Haekal|image=Haekal Level 3.png|desc=[[Imugi, Millennium Dragon]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Hardlight Greatsword|image=Hardlight Greatsword.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Harvest Cleaver|image=Harvest Cleaver.png|desc=[[Equinox Arcadia]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Kanabo Korosu|image=Kanabo Korosu.png|desc={{BPReward|Season One Classic|gold|Tier 81}}|descheight=70px}}
@@ -57,6 +58,7 @@ The following is a list of all [[Greatsword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=170|name=The Chainsaw|image=The Chainsaw.png|desc=[[0RC4-M4k0]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Toybox Greatsword|image=Toybox Greatsword.png|cost={{Coin|mammoth|60}}|costheight=70px}}
 {{itembox|width=190|height=170|name=Twilight Cleaver|image=Twilight Cleaver.png|desc={{BPReward|Season Five|gold|Tier 21}}|descheight=70px}}
+{{itembox|width=190|height=170|name=Umbra Greatsword|image=Umbra Greatsword.png|desc={{BPReward|Season Thirteen|free|Intro Tier 5}}|descheight=70px}}
 {{itembox|width=190|height=170|name=Valiant Armament Greatsword|displayname={{small|Valiant Armament Greatsword}}|image=Valiant Armament Greatsword.png|desc=[[Mecha Knight Magyar]]|descheight=70px}}
 {{itembox|width=190|height=170|name=Vinetouched Greatsword|image=Vinetouched Greatsword.png|desc=[[Spring Esports 2025 Pack]]|descheight=70px}}
 {{itembox|width=190|height=170|name=World Ender|image=World Ender Level 3.png|desc=[[Jörmungandr Mako]]|descheight=70px}}

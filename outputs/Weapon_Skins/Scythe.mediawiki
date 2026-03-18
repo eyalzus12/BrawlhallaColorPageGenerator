@@ -114,6 +114,7 @@ The following is a list of all [[Scythe]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Toybox Scythe|image=Toybox Scythe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Tropic Breeze|image=Tropic Breeze.png|desc=[[Dog Days Mordex]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Ultra Oil Lamp|image=Ultra Oil Lamp.png|desc=[[Librarian Mirage]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Umbra Scythe|image=Umbra Scythe.png|desc={{BPReward|Season Thirteen|gold|Twilight Tier 6}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Uraeus' Fang|image=Uraeus' Fang.png|desc=[[Heart of Hathor Mirage]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Valiant Armament Scythe|displayname={{small|Valiant Armament Scythe}}|image=Valiant Armament Scythe.png|desc={{BPReward|Season Ten|gold|Tier 67}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Valorous Charge|image=Valorous Charge.png|cost={{Coin|mammoth|60}}|costheight=55px}}

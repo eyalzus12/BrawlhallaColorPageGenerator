@@ -101,6 +101,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Murder of Crows|image=Murder of Crows.png|desc=[[Grim Reaper Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Naughty & Nice|image=Naughty & Nice.png|desc=[[Secret Santa Thatch]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Needlers|image=Needlers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Neo City Blasters|image=Neo City Blasters.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Net Guns|image=Net Guns.png|desc=[[Sandy Cheeks]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Nightmare Witnesses|image=Nightmare Witnesses.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Nina's Blasters|image=Nina's Blasters.png|desc=[[Nina Williams]]|descheight=55px}}
@@ -158,6 +159,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Thunder Bass Blasters|image=Thunder Bass Blasters.png|desc=[[DJ Ada]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Tide Turners|image=Tide Turners.png|desc=[[Poseidon Thatch]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Toybox Pistol|image=Toybox Pistol.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Umbra Blasters|image=Umbra Blasters.png|desc={{BPReward|Season Thirteen|gold|Light Tier 8}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Valiant Armament Blasters|displayname={{small|Valiant Armament Blasters}}|image=Valiant Armament Blasters.png|desc={{BPReward|Season Ten|gold|Tier 37}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Vengeance at Hand|image=Vengeance at Hand.png|desc=[[Soulbound Diana]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Venom Spitters|image=Venom Spitters.png|desc=''Unobtainable''|descheight=55px}}

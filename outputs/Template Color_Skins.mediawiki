@@ -304,6 +304,9 @@ Ship Sinker Imugi
 Mecha Imugi
 Exoshell Imugi
 Elvenhollow Imugi
+Imugi, Millennium Dragon && displayname:Imugi, Millennium Dragon (Lvl 1) && image:Imugi, Millennium Dragon Level 1 $1.png
+Imugi, Millennium Dragon && displayname:Imugi, Millennium Dragon (Lvl 2) && image:Imugi, Millennium Dragon Level 2 $1.png
+Imugi, Millennium Dragon && displayname:Imugi, Millennium Dragon (Lvl 3) && image:Imugi, Millennium Dragon Level 3 $1.png
 }}
 ===[[Isaiah]]===
 {{List to itembox|color={{{1|}}}|
@@ -440,6 +443,7 @@ Ace Spiker Lin Fei
 Wenqing Lin Fei
 Green Thumb Lin Fei
 Sakura
+Rising Dragon Lin Fei
 }}
 ===[[Loki]]===
 {{List to itembox|color={{{1|}}}|
@@ -582,6 +586,7 @@ Festive Yeti Onyx
 Leonidas Onyx
 Termin-gator Onyx
 Titan
+Shadow Dragon Onyx
 }}
 ===[[Orion]]===
 {{List to itembox|color={{{1|}}}|
@@ -667,6 +672,7 @@ Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 1) && image:Elder Wild R
 Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 2) && image:Elder Wild Ragnir Level 2 $1.png
 Elder Wild Ragnir && displayname:Elder Wild Ragnir (Lvl 3) && image:Elder Wild Ragnir Level 3 $1.png
 Seadragon Ragnir
+Ragnir, King of Darkness
 }}
 ===[[Ransom]]===
 {{List to itembox|color={{{1|}}}|
@@ -966,6 +972,7 @@ High Frequency Yumiko
 Caelestis Yumiko
 Inari Yumiko
 Band Kid Yumiko
+Twilight Dragon Yumiko
 }}
 <span id="Z"></span>
 ===[[Zariel]]===

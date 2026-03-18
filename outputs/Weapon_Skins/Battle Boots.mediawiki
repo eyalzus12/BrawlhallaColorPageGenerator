@@ -48,6 +48,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Stellar Strikes|image=Stellar Strikes.png|desc={{BPReward|Season Five Classic|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Time is Running (Out)|image=Time is Running (Out).png|desc={{BPReward|Season Two Classic|free|Tier 62}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Boots|image=Toybox Boots.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Umbra Boots|image=Umbra Boots.png|desc={{BPReward|Season Thirteen|free|Dark Tier 1}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Boots|image=Valiant Armament Boots.png|desc={{BPReward|Season Ten|gold|Tier 33}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Wasteland Treaders|image=Wasteland Treaders.png|desc=[[Raptor, the Betrayer]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Winged Solstice|image=Winged Solstice.png|cost={{Coin|mammoth|60}}|costheight=55px}}

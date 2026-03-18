@@ -42,11 +42,15 @@ Calaveraxe
 Castle Rocker
 Ceremonial Axe
 Champion's Axe
+Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 1) && image:Cheon-tu Dokk Level 1 $1.png
+Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 2) && image:Cheon-tu Dokk Level 2 $1.png
+Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 3) && image:Cheon-tu Dokk Level 3 $1.png
 Chocolate Cherry Sunburst
 Chopsicle
 Conch Cleaver
 Crystal Whip Axe
 Cyber Myk Axe
+Dark Blade of Malakkar
 Darkheart Axe
 Death Rattle
 Demonic Slab
@@ -112,6 +116,7 @@ Manta Blade
 Mjolnir's Spirit
 Monstrous Aura
 Mortal Coil
+Neo City Axe
 Nightmare Hatchet
 Ninpō&#58; Unsealed Axe && image:Ninpō Unsealed Axe $1.png
 Origin Axe
@@ -158,6 +163,7 @@ Tua Dearg
 Turtle Crossing
 Tusk
 Ultra Slicer
+Umbra Axe
 Valiant Armament Axe
 Varin's Axe
 Vetr Bearded Axe
@@ -222,6 +228,7 @@ Stellar Strikes
 The Stampede
 Time is Running (Out)
 Toybox Boots
+Umbra Boots
 Valiant Armament Boots
 Wasteland Treaders
 Winged Solstice
@@ -329,6 +336,7 @@ MP7s
 Murder of Crows
 Naughty & Nice
 Needlers
+Neo City Blasters
 Net Guns
 Nightmare Witnesses
 Nina's Blasters
@@ -388,6 +396,7 @@ The Singularities
 Thunder Bass Blasters
 Tide Turners
 Toybox Pistol
+Umbra Blasters
 Valiant Armament Blasters
 Vengeance at Hand
 Vespian Six Shooter
@@ -426,6 +435,7 @@ Carved Precision
 Chariot Ride
 Coastline Pulse
 Counter Curse
+Crepuscular Recurve
 Cupid's Bow
 Cursed Bow
 Cyber Myk Bow
@@ -528,6 +538,7 @@ Toybox Bow
 Twilight's Emissary
 Twin Tails
 Twirling Flourish
+Umbra Bow
 Valiant Armament Bow
 Voice of the Forest
 Voice of the Snow
@@ -567,6 +578,7 @@ Corsair Cannon
 Cyber Myk Megacannon
 Danish Brick Mortar
 Darkheart Tower
+Daybreaker
 Divine Thunderclap
 Door-Buster
 Dragon's Breath && image:Dragon's Breath (Titan) $1.png
@@ -619,6 +631,7 @@ The Hayrider
 The Nautilus
 Torchbringer
 Toybox Cannon
+Umbra Cannon
 Valiant Armament Cannon
 Wartusk
 Watery Grave
@@ -650,6 +663,7 @@ Scrollbar
 Stories of Antiquity
 Sun Dust
 Toybox Chakram
+Umbra Chakram
 Waning Crescents
 Wheel of Thorns
 }}
@@ -814,6 +828,7 @@ The Taggers
 Toybox Gauntlets
 Treble Makers
 Tyr's Fists
+Umbra Gauntlets
 Valiant Armament Gauntlets
 Vampiric Embrace
 Wave Breakers
@@ -862,6 +877,9 @@ Great Mandibles
 Great-Oar
 Great-Pop
 Greatsword of Mercy
+Haekal && displayname:Haekal (Lvl 1) && image:Haekal Level 1 $1.png
+Haekal && displayname:Haekal (Lvl 2) && image:Haekal Level 2 $1.png
+Haekal && displayname:Haekal (Lvl 3) && image:Haekal Level 3 $1.png
 Hardlight Greatsword
 Harvest Cleaver
 Kanabo Korosu
@@ -885,6 +903,7 @@ The Chainsaw
 The Finisher
 Toybox Greatsword
 Twilight Cleaver
+Umbra Greatsword
 Valiant Armament Greatsword
 Vinetouched Greatsword
 World Ender && displayname:World Ender (Lvl 1) && image:World Ender Level 1 $1.png
@@ -942,6 +961,7 @@ Fruitcake
 Galactic Gavel
 Gatekeeper
 Glacier Gavel
+Gloaming Summoner
 Golden Striker
 Gothic Warhammer
 Gravity Hammer
@@ -1005,7 +1025,7 @@ RGB Hammer
 Righteous Indignation
 Root of the Forest
 Santa's Sleigh-er
-Sattelite Smash
+Satellite Smash
 Season's Beatings
 Selena's Smasher
 Shadaloo Scepter
@@ -1049,6 +1069,7 @@ The Steamroller
 The Talisman
 Throwing Anchor
 Toybox Hammer
+Umbra Hammer
 Unicorn Stampede
 Valiant Armament Hammer
 Verdict
@@ -1161,6 +1182,7 @@ Martial Blades
 Mech Makers
 Mikasa's Snap Blades
 MK Needles
+Neo City Katars
 Nettle & Belladonna
 Nightmare Claws
 Nightmare Slicers
@@ -1186,6 +1208,7 @@ Serpent's Fangs && displayname:Serpent's Fangs (Lvl 2) && image:Serpent's Fangs 
 Serpent's Fangs && displayname:Serpent's Fangs (Lvl 3) && image:Serpent's Fangs Level 3 $1.png
 Serve & Protect
 Shadow Trawl
+Shadowclaws
 Sharpoons
 Shock Katars
 Showman's Daggers
@@ -1197,6 +1220,7 @@ Soul Fangs
 Spirit Ash's Fangs
 Splish & Splash
 Stained Shards
+Sun Seekers
 Taurus Skulls
 Teeth of the Nile
 The Ailing Twin Gods
@@ -1212,6 +1236,7 @@ Trench Cutters
 Trials of Worth
 Trusty Trowels
 Twin Sai
+Umbra Katar
 Valiant Armament Katars
 Vengeance
 Viper's Fangs
@@ -1312,6 +1337,7 @@ The Obol
 The Unblinking
 Tiercel Orb
 Toybox Orb
+Umbra Orb
 Valiant Armament Orb
 Vial of Crows
 Von Evilstein's Heart
@@ -1437,6 +1463,7 @@ Tide Queen
 Tourney Lance
 Toybox Rocket Lance
 Ultra-Lance
+Umbra Rocket Lance
 Uprising
 Valiant Armament Rocket Lance
 War Pipes
@@ -1575,6 +1602,7 @@ Throttle
 Toybox Scythe
 Tropic Breeze
 Ultra Oil Lamp
+Umbra Scythe
 Uraeus' Fang
 Valiant Armament Scythe
 Valorous Charge
@@ -1738,6 +1766,7 @@ Specter Spear
 Spirit's Passing
 Starforged Spear
 Stuffing Spear
+Sunfloral Pitchfork
 Sunforged Spear
 Surt's Arrow
 Sweet Magi ☆ Dream Spear
@@ -1760,6 +1789,7 @@ Truth
 Tundra Geir
 Tundra's Talon
 Twin Solstice
+Umbra Spear
 Valiant Armament Spear
 Valkyrie's Fury
 Valor
@@ -1955,6 +1985,7 @@ Toybox Sword
 Twin Katanas
 Twisted Titanium
 Typhon
+Umbra Sword
 Valiant Armament Sword
 Victory Rush
 Watermelon Slice

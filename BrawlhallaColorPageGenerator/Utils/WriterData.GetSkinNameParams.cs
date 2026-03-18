@@ -100,6 +100,9 @@ public partial class WriterData
             case "ShinobiBP1201":
             case "ShinobiBP1202":
             case "ShinobiBP1203":
+            case "ImugiDragon1":
+            case "ImugiDragon2":
+            case "ImugiDragon3":
                 isAnimated = true;
                 if (!colorMode) imageName = "Ani" + imageName;
                 break;

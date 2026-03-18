@@ -25,6 +25,7 @@ The following is a list of all [[Chakram]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Skyforged Chakram|image=Skyforged Chakram.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Stories of Antiquity|image=Stories of Antiquity.png|desc=[[Aqyn Vera]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Toybox Chakram|image=Toybox Chakram.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Umbra Chakram|image=Umbra Chakram.png|desc={{BPReward|Season Thirteen|free|Twilight Tier 4}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Waning Crescents|image=Waning Crescents.png|desc=[[Chakora Priya]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Wheel of Thorns|image=Wheel of Thorns.png|desc={{BPReward|Season Six Classic|gold|Tier 73}}|descheight=55px}}
 {{itembox/bottom}}

@@ -81,6 +81,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=The Unblinking|image=The Unblinking.png|desc=[[Dark Arts Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Tiercel Orb|image=Tiercel Orb.png|desc=[[Rocket Raptor]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Toybox Orb|image=Toybox Orb.png|cost={{Coin|mammoth|60}}|costheight=55px}}
+{{itembox|width=180|height=170|name=Umbra Orb|image=Umbra Orb.png|desc={{BPReward|Season Thirteen|free|Light Tier 23}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Valiant Armament Orb|image=Valiant Armament Orb.png|desc={{BPReward|Season Ten|gold|Tier 63}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Vial of Crows|image=Vial of Crows.png|desc=[[Raven Shaman Dusk]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Von Evilstein's Heart|image=Von Evilstein's Heart.png|desc=[[Petra Reanimated]]|descheight=55px}}

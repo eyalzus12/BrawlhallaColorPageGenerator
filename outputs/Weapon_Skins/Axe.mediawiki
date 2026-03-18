@@ -34,11 +34,13 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Castle Rocker|image=Castle Rocker.png|desc=[[Super Metal Rayman]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ceremonial Axe|image=Ceremonial Axe.png|desc=[[Apprentice Ulgrim]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Champion's Axe|image=Champion's Axe.png|desc=[[Metadev Teros]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Cheon-tu Dokk|image=Cheon-tu Dokk Level 3.png|desc=[[Imugi, Millennium Dragon]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Chocolate Cherry Sunburst|displayname={{small|Chocolate Cherry Sunburst}}|image=Chocolate Cherry Sunburst.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Chopsicle|image=Chopsicle.png|desc=[[The Yetee Teros]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Conch Cleaver|image=Conch Cleaver.png|desc=[[Seadragon Ragnir]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Crystal Whip Axe|image=Crystal Whip Axe.png|desc=[[Amethyst]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Cyber Myk Axe|image=Cyber Myk Axe.png|desc={{BPReward|Season Eight|gold|Tier 13}}|descheight=55px}}
+{{itembox|width=200|height=170|name=Dark Blade of Malakkar|image=Dark Blade of Malakkar.png|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Darkheart Axe|image=Darkheart Axe.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Death Rattle|image=Death Rattle.png|desc=[[Lichlord Azoth]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Demonic Slab|image=Demonic Slab.png|desc={{BPReward|Season One|gold|Tier 29}}|descheight=55px}}
@@ -101,6 +103,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Mjolnir's Spirit|image=Mjolnir's Spirit.png|desc=[[Cheer Captain Brynn]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Monstrous Aura|image=Monstrous Aura.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Mortal Coil|image=Mortal Coil.png|desc=[[Amun-Raza]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Neo City Axe|image=Neo City Axe.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Nightmare Hatchet|image=Nightmare Hatchet.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=200|height=170|name=Ninpō: Unsealed Axe|image=Ninpō Unsealed Axe.png|desc={{BPReward|Season Twelve|gold|Present Tier 6}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Painkiller|image=Painkiller.png|desc=[[Nemesis Barraza]]|descheight=55px}}
@@ -144,6 +147,7 @@ The following is a list of all [[Axe]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Turtle Crossing|image=Turtle Crossing.png|desc=[[Raphael]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Tusk|image=Tusk.png|desc=[[Razorback Barraza]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Ultra Slicer|image=Ultra Slicer.png|desc=[[Mecha Imugi]]|descheight=55px}}
+{{itembox|width=200|height=170|name=Umbra Axe|image=Umbra Axe.png|desc={{BPReward|Season Thirteen|gold|Light Tier 22}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Valiant Armament Axe|image=Valiant Armament Axe.png|desc={{BPReward|Season Ten|gold|Tier 26}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Varin's Axe|image=Varin's Axe.png|desc=[[Eivor]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Vetr Bearded Axe|image=Vetr Bearded Axe.png|desc={{BPReward|Season Three|gold|Tier 37}}|descheight=55px}}

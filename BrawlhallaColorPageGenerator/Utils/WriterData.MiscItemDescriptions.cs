@@ -36,6 +36,9 @@ public partial class WriterData
         ["GreatswordEsports2026"] = VSR_DESCRIPTION,
         ["SpearEsports2026"] = VSR_DESCRIPTION,
         ["SwordEsports2026"] = VSR_DESCRIPTION,
+        ["PistolEsports2026"] = VSR_DESCRIPTION,
+        ["KatarEsports2026"] = VSR_DESCRIPTION,
+        ["AxeEsports2026"] = VSR_DESCRIPTION,
         #endregion
         #region gifts of asgard
         ["AxeSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
@@ -377,6 +380,30 @@ public partial class WriterData
         ["SpearBP12"] = "{{BPReward|Season Twelve|gold|Future Tier 4}}",
         ["ScytheBP12"] = "{{BPReward|Season Twelve|gold|Future Tier 21}}",
         ["SwordBP12"] = "{{BPReward|Season Twelve|free|Future Tier 23}}",
+
+        // bp 13
+        // skins
+        ["ImugiDragon1"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
+        ["ImugiDragon2"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
+        ["ImugiDragon3"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
+        ["WuxiaDragon"] = "{{BPReward|Seasson Thirteen|gold|Light Tier 23}}",
+        ["NinetailsDragon"] = "{{BPReward|Seasson Thirteen|gold|Twilight Tier 23}}",
+        ["GargoyleDragon"] = "{{BPReward|Seasson Thirteen|gold|Dark Tier 23}}",
+        ["EpicDragon"] = "{{BPReward|Seasson Thirteen|gold|Final Tier 7}}",
+        // weapon skins
+        ["GreatswordBP13"] = "{{BPReward|Season Thirteen|free|Intro Tier 5}}",
+        ["BowBP13"] = "{{BPReward|Season Thirteen|free|Light Tier 4}}",
+        ["PistolBP13"] = "{{BPReward|Season Thirteen|gold|Light Tier 8}}",
+        ["RocketLanceBP13"] = "{{BPReward|Season Thirteen|gold|Light Tier 14}}",
+        ["AxeBP13"] = "{{BPReward|Season Thirteen|gold|Light Tier 22}}",
+        ["OrbBP13"] = "{{BPReward|Season Thirteen|free|Light Tier 23}}",
+        ["ChakramBP13"] = "{{BPReward|Season Thirteen|free|Twilight Tier 4}}",
+        ["ScytheBP13"] = "{{BPReward|Season Thirteen|gold|Twilight Tier 6}}",
+        ["HammerBP13"] = "{{BPReward|Season Thirteen|free|Twilight Tier 23}}",
+        ["BootsBP13"] = "{{BPReward|Season Thirteen|free|Dark Tier 1}}",
+        ["SwordBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 4}}",
+        ["SpearBP13"] = "{{BPReward|Season Thirteen|gold|Dark Tier 21}}",
+        ["KatarBP13"] = "{{BPReward|Season Thirteen|free|Dark Tier 23}}",
 
         #endregion
         #region misc

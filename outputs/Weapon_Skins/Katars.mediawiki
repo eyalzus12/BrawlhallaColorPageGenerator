@@ -93,6 +93,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Mech Makers|image=Mech Makers.png|desc=[[0RC4-M4k0]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Mikasa's Snap Blades|image=Mikasa's Snap Blades.png|desc=[[Mikasa]]|descheight=55px}}
 {{itembox|width=180|height=190|name=MK Needles|image=MK Needles.png|desc=''Unobtainable''|descheight=55px}}
+{{itembox|width=180|height=190|name=Neo City Katars|image=Neo City Katars.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Nettle & Belladonna|image=Nettle & Belladonna.png|desc=[[Nightshade Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Claws|image=Nightmare Claws.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Slicers|image=Nightmare Slicers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
@@ -114,6 +115,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Serpent's Fangs|image=Serpent's Fangs Level 3.png|desc=[[Jörmungandr Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Serve & Protect|image=Serve & Protect.png|desc=[[Stormsteel Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Shadow Trawl|image=Shadow Trawl.png|desc=[[Abyssal Goblin Mako]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Shadowclaws|image=Shadowclaws.png|desc=[[Ragnir, King of Darkness]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Sharpoons|image=Sharpoons.png|desc=[[Lakeside Loki]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Silent Night|image=Silent Night.png|desc=[[Holly Jolly Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Skyforged Blades|image=Skyforged Blades.png|cost={{Coin|glory|5000}}|costheight=55px}}
@@ -124,6 +126,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Splish & Splash|image=Splish & Splash.png|desc=[[Swim Team Mako]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Stained Shards|image=Stained Shards.png|desc={{BPReward|Season Four|gold|Tier 57}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Stolen Jedi Lightsabers|image=Stolen Jedi Lightsabers.png|desc=[[General Grievous]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Sun Seekers|image=Sun Seekers.png|desc=[[Rising Dragon Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Taurus Skulls|image=Taurus Skulls.png|desc=[[Outlaw Loki]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Teeth of the Nile|image=Teeth of the Nile.png|desc=[[Sobek Ragnir]]|descheight=55px}}
 {{itembox|width=180|height=190|name=The Ailing Twin Gods|image=The Ailing Twin Gods.png|desc=[[Fell Empress Nai]]|descheight=55px}}
@@ -139,6 +142,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Trials of Worth|image=Trials of Worth.png|desc=[[Awakened Asuri]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Trusty Trowels|image=Trusty Trowels.png|desc=[[Green Thumb Lin Fei]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Twin Sai|image=Twin Sai.png|desc=[[Raphael]]|descheight=55px}}
+{{itembox|width=180|height=190|name=Umbra Katar|image=Umbra Katar.png|desc={{BPReward|Season Thirteen|free|Dark Tier 23}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Valiant Armament Katars|image=Valiant Armament Katars.png|desc={{BPReward|Season Ten|free|Tier 4}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Vengeance|image=Vengeance.png|desc=[[Nightwatch Sentinel]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Viper's Fangs|image=Viper's Fangs.png|desc=[[Interloper Loki]]|descheight=55px}}

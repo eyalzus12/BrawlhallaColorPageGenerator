@@ -176,6 +176,7 @@ The following is a list of all [[Sword]] skins in [[Brawlhalla]].
 {{itembox|width=190|height=200|name=Twin Katanas|image=Twin Katanas.png|desc=[[Leonardo]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Twisted Titanium|image=Twisted Titanium.png|desc=[[Gilded Glory Jaeyun]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Typhon|image=Typhon.png|desc=[[Chimera Val]]|descheight=55px}}
+{{itembox|width=190|height=200|name=Umbra Sword|image=Umbra Sword.png|desc={{BPReward|Season Thirteen|gold|Dark Tier 4}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Valiant Armament Sword|image=Valiant Armament Sword.png|desc={{BPReward|Season Ten|gold|Tier 83}}|descheight=55px}}
 {{itembox|width=190|height=200|name=Victory Rush|image=Victory Rush.png|desc=[[Marauder Bödvar]]|descheight=55px}}
 {{itembox|width=190|height=200|name=Watermelon Slice|image=Watermelon Slice.png|desc=[[Summer Championship 2021 Pack]]|descheight=55px}}

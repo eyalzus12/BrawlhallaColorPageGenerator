@@ -111,6 +111,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Tide Queen|image=Tide Queen.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Toybox Rocket Lance|image=Toybox Rocket Lance.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Ultra-Lance|image=Ultra-Lance.png|cost={{Coin|mammoth|40}}|costheight=55px}}
+{{itembox|width=205|height=170|name=Umbra Rocket Lance|image=Umbra Rocket Lance.png|desc={{BPReward|Season Thirteen|gold|Light Tier 14}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Uprising|image=Uprising.png|desc=[[Steam Faction Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Valiant Armament Rocket Lance|displayname={{small|Valiant Armament Rocket Lance}}|image=Valiant Armament Rocket Lance.png|desc={{BPReward|Season Ten|gold|Tier 18}}|descheight=55px}}
 {{itembox|width=205|height=170|name=War Pipes|image=War Pipes.png|desc=[[Warborn Ulgrim]]|descheight=55px}}
