@@ -383,13 +383,13 @@ public partial class WriterData
 
         // bp 13
         // skins
-        ["ImugiDragon1"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
-        ["ImugiDragon2"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
-        ["ImugiDragon3"] = "{{BPReward|Seasson Thirteen|gold|Intro Tier 1}}",
-        ["WuxiaDragon"] = "{{BPReward|Seasson Thirteen|gold|Light Tier 23}}",
-        ["NinetailsDragon"] = "{{BPReward|Seasson Thirteen|gold|Twilight Tier 23}}",
-        ["GargoyleDragon"] = "{{BPReward|Seasson Thirteen|gold|Dark Tier 23}}",
-        ["EpicDragon"] = "{{BPReward|Seasson Thirteen|gold|Final Tier 7}}",
+        ["ImugiDragon1"] = "{{BPReward|Season Thirteen|gold|Intro Tier 1}}",
+        ["ImugiDragon2"] = "{{BPReward|Season Thirteen|gold|Intro Tier 1}}",
+        ["ImugiDragon3"] = "{{BPReward|Season Thirteen|gold|Intro Tier 1}}",
+        ["WuxiaDragon"] = "{{BPReward|Season Thirteen|gold|Light Tier 23}}",
+        ["NinetailsDragon"] = "{{BPReward|Season Thirteen|gold|Twilight Tier 23}}",
+        ["GargoyleDragon"] = "{{BPReward|Season Thirteen|gold|Dark Tier 23}}",
+        ["EpicDragon"] = "{{BPReward|Season Thirteen|gold|Final Tier 7}}",
         // weapon skins
         ["GreatswordBP13"] = "{{BPReward|Season Thirteen|free|Intro Tier 5}}",
         ["BowBP13"] = "{{BPReward|Season Thirteen|free|Light Tier 4}}",

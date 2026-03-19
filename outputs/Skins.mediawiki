@@ -315,7 +315,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Mecha Imugi|image=Mecha Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Exoshell Imugi|image=Exoshell Imugi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Elvenhollow Imugi|image=Elvenhollow Imugi.png|desc=[[Store Bundles|Bundle]] exclusive|descheight=49px}}
-{{itembox|width=220|height=270|name=Imugi, Millennium Dragon|image=AniImugi, Millennium Dragon.gif|desc={{BPReward|Seasson Thirteen|gold|Intro Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Imugi, Millennium Dragon|image=AniImugi, Millennium Dragon.gif|desc={{BPReward|Season Thirteen|gold|Intro Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -455,7 +455,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Wenqing Lin Fei|image=Wenqing Lin Fei.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Green Thumb Lin Fei|image=Green Thumb Lin Fei.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|spring}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Sakura|image=Sakura.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Rising Dragon Lin Fei|image=Rising Dragon Lin Fei.png|desc={{BPReward|Seasson Thirteen|gold|Light Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Rising Dragon Lin Fei|image=Rising Dragon Lin Fei.png|desc={{BPReward|Season Thirteen|gold|Light Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -601,7 +601,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Leonidas Onyx|image=Leonidas Onyx.png|desc={{BPReward|Season Five|gold|Tier 71}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Termin-gator Onyx|image=Termin-gator Onyx.png|cost={{Coin|mammoth|200}}<br>{{ItemTag|halloween}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Titan|image=Titan.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Shadow Dragon Onyx|image=Shadow Dragon Onyx.png|desc={{BPReward|Seasson Thirteen|gold|Dark Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Shadow Dragon Onyx|image=Shadow Dragon Onyx.png|desc={{BPReward|Season Thirteen|gold|Dark Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -685,7 +685,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Raphael|image=Raphael (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Elder Wild Ragnir|image=AniElder Wild Ragnir.gif|desc={{BPReward|Season Six|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Seadragon Ragnir|image=Seadragon Ragnir.png|cost={{Coin|ticket orange|1850}}<br>{{ItemTag|summer|2025}}|costheight=49px}}
-{{itembox|width=220|height=270|name=Ragnir, King of Darkness|image=Ragnir, King of Darkness.png|desc={{BPReward|Seasson Thirteen|gold|Final Tier 7}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Ragnir, King of Darkness|image=Ragnir, King of Darkness.png|desc={{BPReward|Season Thirteen|gold|Final Tier 7}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -993,7 +993,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Caelestis Yumiko|image=Caelestis Yumiko.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Inari Yumiko|image=Inari Yumiko.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Band Kid Yumiko|image=Band Kid Yumiko.png|cost={{Coin|ticket school|1850}}<br><small>{{ItemTag|school|2025}}</small>|costheight=49px}}
-{{itembox|width=220|height=270|name=Twilight Dragon Yumiko|image=Twilight Dragon Yumiko.png|desc={{BPReward|Seasson Thirteen|gold|Twilight Tier 23}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Twilight Dragon Yumiko|image=Twilight Dragon Yumiko.png|desc={{BPReward|Season Thirteen|gold|Twilight Tier 23}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
