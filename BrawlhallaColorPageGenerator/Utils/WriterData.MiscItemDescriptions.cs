@@ -54,10 +54,20 @@ public partial class WriterData
         ["ImugiBloomhalla"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
         #endregion
         #region removed from store
+        // castlevania
         ["Simon"] = REMOVED_FROM_STORE_DESCRIPTION,
         ["Alucard"] = REMOVED_FROM_STORE_DESCRIPTION,
+        // gi joe
         ["SnakeEyes"] = REMOVED_FROM_STORE_DESCRIPTION,
         ["StormShadow"] = REMOVED_FROM_STORE_DESCRIPTION,
+        // halo
+        ["MasterChief"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["Arbiter"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["PistolSMG"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["PistolNeedler"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["OrbOddball"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["OrbGrifball"] = REMOVED_FROM_STORE_DESCRIPTION,
+        ["HammerGravHammer"] = REMOVED_FROM_STORE_DESCRIPTION,
         #endregion
         #region unobtainable
         ["AxeGears"] = UNOBTAINABLE_DESCRIPTION,
