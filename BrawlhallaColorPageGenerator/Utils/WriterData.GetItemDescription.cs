@@ -112,6 +112,7 @@ public partial class WriterData
         "EpicRaptor",
         "EgyptianShoujo",
         "EpicWitch",
+        "EpicDragon",
     ];
 }
 
