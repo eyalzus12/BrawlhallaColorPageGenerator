@@ -5,6 +5,7 @@ namespace BrawlhallaColorPageGenerator;
 public partial class WriterData
 {
     private const string VSR_DESCRIPTION = "[[Brawlhalla Viewership Rewards|Viewership Rewards]]";
+    private const string TD_DESCRIPTION = "[[Twitch Drops]]";
     private const string GIFTS_OF_ASGARD_DESCRIPTION = "[[The Gifts of Asgard]]";
     private const string BUNDLE_EXCLUSIVE_DESCRIPTION = "[[Store Bundles|Bundle]] exclusive";
     private const string REMOVED_FROM_STORE_DESCRIPTION = "Unobtainable.<br>Removed from Store.";
@@ -31,14 +32,14 @@ public partial class WriterData
         ["OrbMagicalGirl"] = VSR_DESCRIPTION,
         ["RocketLanceMagicalGirl"] = VSR_DESCRIPTION,
         // neo city
-        ["CannonEsports2026"] = VSR_DESCRIPTION,
-        ["HammerEsports2026"] = VSR_DESCRIPTION,
-        ["GreatswordEsports2026"] = VSR_DESCRIPTION,
-        ["SpearEsports2026"] = VSR_DESCRIPTION,
-        ["SwordEsports2026"] = VSR_DESCRIPTION,
-        ["PistolEsports2026"] = VSR_DESCRIPTION,
-        ["KatarEsports2026"] = VSR_DESCRIPTION,
-        ["AxeEsports2026"] = VSR_DESCRIPTION,
+        ["CannonEsports2026"] = TD_DESCRIPTION,
+        ["HammerEsports2026"] = "{{TD|Eternal Sports Triples Championship}}",
+        ["GreatswordEsports2026"] = "{{TD|Winter Doubles Championship}}",
+        ["SpearEsports2026"] = TD_DESCRIPTION,
+        ["SwordEsports2026"] = "{{TD|Winter Singles Championship}}",
+        ["PistolEsports2026"] = TD_DESCRIPTION,
+        ["KatarEsports2026"] = TD_DESCRIPTION,
+        ["AxeEsports2026"] = TD_DESCRIPTION,
         #endregion
         #region gifts of asgard
         ["AxeSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
