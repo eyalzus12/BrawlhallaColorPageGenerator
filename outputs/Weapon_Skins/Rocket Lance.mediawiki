@@ -72,7 +72,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Nordic Celebration|image=Nordic Celebration.png|desc=[[Ivaldi's Finest Ulgrim]]|descheight=55px}}
 {{itembox|width=205|height=170|name=OHHHHH YEEAAAH!|image=OHHHHH YEEAAAH!.png|desc=[[Macho Man]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Overdrive|image=Overdrive.png|desc=[[Rock 'n Rupture]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Perceptive Flight|image=Perceptive Flight.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Perceptive Flight|image=Perceptive Flight.png|desc={{VSR|Charity Streams #5|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Piercing Gaze|image=Piercing Gaze.png|desc=[[Secret Admirer Orion]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Plague Boost|image=Plague Boost.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Planet Destroyer|image=Planet Destroyer.png|desc=[[General Vraxx]]|descheight=55px}}
@@ -97,7 +97,7 @@ The following is a list of all [[Rocket Lance]] skins in [[Brawlhalla]].
 {{itembox|width=205|height=170|name=Skyforged Lance|image=Skyforged Lance.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=205|height=170|name=Skypiercer|image=Skypiercer.png|desc=[[Fleeting Magi ☆ Starlit Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Skyrush|image=Skyrush.png|desc=[[Corsair Orion]]|descheight=55px}}
-{{itembox|width=205|height=170|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=205|height=170|name=Soaring Magi ☆ Sky Duster|image=Soaring Magi ☆ Sky Duster.png|desc={{VSR|Dev Streams #17|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=205|height=170|name=Spark Compressor|image=Spark Compressor.png|desc=[[Gridrunner Thea]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Spark of Madness|image=AniSpark of Madness.gif|desc=[[Mad Genius Scarlet]]|descheight=55px}}
 {{itembox|width=205|height=170|name=Speaker of the Sea|image=Speaker of the Sea.png|desc=[[Atlantean Orion]]|descheight=55px}}

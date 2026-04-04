@@ -4,12 +4,14 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    private const string VSR_DESCRIPTION = "[[Brawlhalla Viewership Rewards|Viewership Rewards]]";
-    private const string TD_DESCRIPTION = "[[Twitch Drops]]";
+    private const string TD_DESCRIPTION = "[[Twitch Drops|''Future Twitch Drop'']]";
     private const string GIFTS_OF_ASGARD_DESCRIPTION = "[[The Gifts of Asgard]]";
     private const string BUNDLE_EXCLUSIVE_DESCRIPTION = "[[Store Bundles|Bundle]] exclusive";
     private const string REMOVED_FROM_STORE_DESCRIPTION = "Unobtainable.<br>Removed from Store.";
     private const string UNOBTAINABLE_DESCRIPTION = "''Unobtainable''";
+
+    private static string VSR(string track) => "{{VSR|" + track + "|Viewership Rewards}}";
+    private static string TD(string track) => "{{TD|" + track + "|Twitch Drops}}";
 
     // for stuff that can't be automated: vsr, bundle exclusives, and battlepass
 
@@ -17,26 +19,26 @@ public partial class WriterData
     {
         #region vsr
         // charity
-        ["AxeCharity"] = VSR_DESCRIPTION,
-        ["GreatswordCharity2022"] = VSR_DESCRIPTION,
-        ["BowCharity2021"] = VSR_DESCRIPTION,
-        ["CannonCharity2021"] = VSR_DESCRIPTION,
-        ["HammerCharity"] = VSR_DESCRIPTION,
-        ["KatarCharity2022"] = VSR_DESCRIPTION,
-        ["OrbCharity2021"] = VSR_DESCRIPTION,
-        ["RocketLanceCharity2021"] = VSR_DESCRIPTION,
-        ["ScytheCharity"] = VSR_DESCRIPTION,
-        ["SpearCharity2020"] = VSR_DESCRIPTION,
+        ["SpearCharity2020"] = VSR("Charity Stream #2"),
+        ["OrbCharity2021"] = VSR("Charity Stream #3"),
+        ["BowCharity2021"] = VSR("Charity Stream #4"),
+        ["RocketLanceCharity2021"] = VSR("Charity Streams #5"),
+        ["GreatswordCharity2022"] = VSR("Charity Stream #6"),
+        ["CannonCharity2021"] = VSR("Charity Stream #7"),
+        ["KatarCharity2022"] = VSR("Charity Stream #8"),
+        ["ScytheCharity"] = VSR("Charity Stream #9"),
+        ["AxeCharity"] = VSR("Charity Stream #10"),
+        ["HammerCharity"] = VSR("Charity Stream #11"),
         // mahou shoujo
-        ["HammerMagicalGirl"] = VSR_DESCRIPTION,
-        ["OrbMagicalGirl"] = VSR_DESCRIPTION,
-        ["RocketLanceMagicalGirl"] = VSR_DESCRIPTION,
+        ["OrbMagicalGirl"] = VSR("Dev Streams #15"),
+        ["HammerMagicalGirl"] = VSR("Dev Streams #16"),
+        ["RocketLanceMagicalGirl"] = VSR("Dev Streams #17"),
         // neo city
+        ["GreatswordEsports2026"] = TD("Winter Doubles Championship"),
+        ["SwordEsports2026"] = TD("Winter Singles Championship"),
+        ["HammerEsports2026"] = TD("Eternal Sports Triples Championship"),
         ["CannonEsports2026"] = TD_DESCRIPTION,
-        ["HammerEsports2026"] = "{{TD|Eternal Sports Triples Championship}}",
-        ["GreatswordEsports2026"] = "{{TD|Winter Doubles Championship}}",
         ["SpearEsports2026"] = TD_DESCRIPTION,
-        ["SwordEsports2026"] = "{{TD|Winter Singles Championship}}",
         ["PistolEsports2026"] = TD_DESCRIPTION,
         ["KatarEsports2026"] = TD_DESCRIPTION,
         ["AxeEsports2026"] = TD_DESCRIPTION,

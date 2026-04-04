@@ -27,7 +27,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Encyclopedia of Brawl|image=Encyclopedia of Brawl.png|desc=[[Headmaster Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Essence of Niflheim|image=Essence of Niflheim.png|desc={{BPReward|Season Three|gold|Tier 9}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Eternal Nightfall|image=Eternal Nightfall.png|desc=[[Darkheart Petra]]|descheight=55px}}
-{{itembox|width=180|height=170|name=Fae Magi ☆ Soaring Locket|displayname={{small|Fae Magi ☆ Soaring Locket}}|image=Fae Magi ☆ Soaring Locket.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Fae Magi ☆ Soaring Locket|displayname={{small|Fae Magi ☆ Soaring Locket}}|image=Fae Magi ☆ Soaring Locket.png|desc={{VSR|Dev Streams #15|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=170|name=Fossil Fury|image=Fossil Fury.png|desc=[[Lost World Petra]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Fu Lion Charm|image=Fu Lion Charm.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Galactic Glitch|image=AniGalactic Glitch.gif|desc={{BPReward|Season Two|gold|Tier 65}}|descheight=55px}}
@@ -75,7 +75,7 @@ The following is a list of all [[Orb]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Soul Battery|image=Soul Battery.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=170|name=Terra Firma|image=Terra Firma.png|desc=[[Cosmic Fait]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Firehawk|image=The Firehawk.gif|desc=[[Lilith]]|descheight=55px}}
-{{itembox|width=180|height=170|name=The Giver's Grasp|image=The Giver's Grasp.png|desc=[[Brawlhalla Viewership Rewards|Viewership Rewards]]|descheight=55px}}
+{{itembox|width=180|height=170|name=The Giver's Grasp|image=The Giver's Grasp.png|desc={{VSR|Charity Stream #3|Viewership Rewards}}|descheight=55px}}
 {{itembox|width=180|height=170|name=The Last Ride|image=The Last Ride.png|desc=[[The Undertaker]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Obol|image=The Obol.png|desc=[[Ferrymoth Reno]]|descheight=55px}}
 {{itembox|width=180|height=170|name=The Unblinking|image=The Unblinking.png|desc=[[Dark Arts Fait]]|descheight=55px}}
