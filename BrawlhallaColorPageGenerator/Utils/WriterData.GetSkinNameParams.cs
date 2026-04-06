@@ -8,11 +8,12 @@ namespace BrawlhallaColorPageGenerator;
 
 public partial class WriterData
 {
-    public (string skinName, string imageName, string displayName, bool isAnimated) GetSkinNameParams(CostumeType costumeType, bool colorMode)
+    public (string skinName, string imageName, string displayName, ImageExtensionEnum extension) GetSkinNameParams(CostumeType costumeType, bool colorMode)
     {
         string? displayNameKey = costumeType.DisplayNameKey;
 
-        bool isAnimated = false;
+        bool useLevelSuffix = true;
+        ImageExtensionEnum extension = ImageExtensionEnum.Png;
 
         string skinName;
         if (displayNameKey is not null)
@@ -46,8 +47,11 @@ public partial class WriterData
                 if (!colorMode) displayName = "The Mandalorian & Grogu";
                 break;
             case "Heatblast":
-                isAnimated = true;
-                if (!colorMode) imageName = "AniHeatblast (lock-in)";
+                if (!colorMode)
+                {
+                    imageName = "AniHeatblast (lock-in)";
+                    extension = ImageExtensionEnum.Gif;
+                }
                 break;
             case "Stevonnie":
             case "Diamondhead":
@@ -59,59 +63,89 @@ public partial class WriterData
             case "TaiLung":
                 if (!colorMode) imageName += " (lock-in)";
                 break;
+            // misc epics
             case "CyberSam":
             case "PaleRider":
             case "Bubblegum":
             case "Spongebob":
+                if (!colorMode)
+                {
+                    extension = ImageExtensionEnum.Gif;
+                    imageName = "Ani" + imageName;
+                }
+                break;
+            // bp 1
             case "DemonQueen":
             case "Demon01":
             case "Demon02":
             case "Demon03":
+            // bp 2
             case "Synth01":
             case "Synth02":
             case "Synth03":
-            case "MakoProgression01":
-            case "MakoProgression02":
-            case "MakoProgression03":
+            // bp 4
             case "WolfMonster01":
             case "WolfMonster02":
             case "WolfMonster03":
-            case "BP5DualArt":
-            case "BP5DualArt02":
-            case "BP5DualArt03":
-            case "ElderDragon1":
-            case "ElderDragon2":
-            case "ElderDragon3":
-            case "T1Paladin":
-            case "T2Paladin":
-            case "T3Paladin":
-            case "TerminusLuchador01":
-            case "TerminusLuchador02":
-            case "TerminusLuchador03":
-            case "Guardian01":
-            case "Guardian02":
-            case "MonkGuardian03":
+            // bp 10
             case "MagicalTeros01":
             case "MagicalTeros02":
             case "MagicalTeros03":
+            // bp 11
             case "BP11Azoth01":
             case "BP11Azoth02":
             case "BP11Azoth03":
+            // bp 12
             case "ShinobiBP1201":
             case "ShinobiBP1202":
             case "ShinobiBP1203":
+                if (!colorMode)
+                {
+                    useLevelSuffix = false;
+                    extension = ImageExtensionEnum.Gif;
+                    imageName = "Ani" + imageName;
+                }
+                break;
+            // bp 3
+            case "MakoProgression01":
+            case "MakoProgression02":
+            case "MakoProgression03":
+            // bp 5
+            case "BP5DualArt":
+            case "BP5DualArt02":
+            case "BP5DualArt03":
+            // bp 6
+            case "ElderDragon1":
+            case "ElderDragon2":
+            case "ElderDragon3":
+            // bp 7
+            case "T1Paladin":
+            case "T2Paladin":
+            case "T3Paladin":
+            // bp 8
+            case "TerminusLuchador01":
+            case "TerminusLuchador02":
+            case "TerminusLuchador03":
+            // bp 9
+            case "Guardian01":
+            case "Guardian02":
+            case "MonkGuardian03":
+            // bp 13
             case "ImugiDragon1":
             case "ImugiDragon2":
             case "ImugiDragon3":
-                isAnimated = true;
-                if (!colorMode) imageName = "Ani" + imageName;
+                if (!colorMode)
+                {
+                    useLevelSuffix = false;
+                    extension = ImageExtensionEnum.Webp;
+                }
                 break;
         }
 
         if (CostumeTypes.UpgradeLevel.TryGetValue(costumeType.CostumeName, out int upgradeLevel) && upgradeLevel != 0)
         {
             if (colorMode) displayName = skinName + " (Lvl " + upgradeLevel + ")";
-            if (colorMode || !isAnimated) imageName = skinName + " Level " + upgradeLevel;
+            if (colorMode && useLevelSuffix) imageName = skinName + " Level " + upgradeLevel;
         }
 
         // names that are too long
@@ -131,7 +165,7 @@ public partial class WriterData
         // no : in image names
         imageName = imageName.Replace(":", "");
 
-        return (skinName, imageName, displayName, isAnimated);
+        return (skinName, imageName, displayName, extension);
     }
 
     private static readonly HashSet<string> _longCostumeNames = [

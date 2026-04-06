@@ -59,7 +59,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 
     private void ProcessCostumeType(CostumeType costumeType, StreamWriter writer)
     {
-        (string costumeName, string imageName, string displayName, bool isAnimated) = data.GetSkinNameParams(costumeType, false);
+        (string costumeName, string imageName, string displayName, ImageExtensionEnum extension) = data.GetSkinNameParams(costumeType, false);
 
         writer.Write("{{itembox|width=220|height=270|name=");
         writer.Write(costumeName);
@@ -70,7 +70,14 @@ When a new Legend is released, that Legend will receive three skins. Legends can
         }
         writer.Write("|image=");
         writer.Write(imageName);
-        writer.Write(isAnimated ? ".gif" : ".png");
+        writer.Write('.');
+        writer.Write(extension switch
+        {
+            ImageExtensionEnum.Png => "png",
+            ImageExtensionEnum.Gif => "gif",
+            ImageExtensionEnum.Webp => "webp",
+            _ => "ERROR",
+        });
 
         ItemDescription description = data.GetItemDescription(costumeType.CostumeName, ItemTypeEnum.Costume);
 
