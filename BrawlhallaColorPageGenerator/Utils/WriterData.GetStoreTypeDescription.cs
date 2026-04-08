@@ -47,6 +47,7 @@ public partial class WriterData
                 "Christmas25" => "xmas",
                 "VDay25" => "love",
                 "StPatricks26" => "march",
+                "Bloomhalla26" => "spring",
                 _ => "ERROR",
             });
             sb.Append('|');
@@ -79,6 +80,7 @@ public partial class WriterData
                 "Christmas25" => false,
                 "VDay25" => false,
                 "StPatricks26" => true,
+                "Bloomhalla26" => false,
                 _ => false,
             };
 
@@ -94,6 +96,7 @@ public partial class WriterData
                 "Christmas25" => FormatItemTag("xmas", 2025),
                 "VDay25" => FormatItemTag("love", 2026),
                 "StPatricks26" => FormatItemTag("march", 2026),
+                "Bloomhalla26" => FormatItemTag("spring", 2026),
                 _ => " ERROR",
             });
             if (useSmallElement) sb.Append("</small>");

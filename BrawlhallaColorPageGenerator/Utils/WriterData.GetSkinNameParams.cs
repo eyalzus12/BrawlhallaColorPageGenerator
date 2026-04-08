@@ -79,26 +79,14 @@ public partial class WriterData
             case "Demon01":
             case "Demon02":
             case "Demon03":
-            // bp 2
-            case "Synth01":
-            case "Synth02":
-            case "Synth03":
             // bp 4
             case "WolfMonster01":
             case "WolfMonster02":
             case "WolfMonster03":
-            // bp 10
-            case "MagicalTeros01":
-            case "MagicalTeros02":
-            case "MagicalTeros03":
             // bp 11
             case "BP11Azoth01":
             case "BP11Azoth02":
             case "BP11Azoth03":
-            // bp 12
-            case "ShinobiBP1201":
-            case "ShinobiBP1202":
-            case "ShinobiBP1203":
                 if (!colorMode)
                 {
                     useLevelSuffix = false;
@@ -106,6 +94,10 @@ public partial class WriterData
                     imageName = "Ani" + imageName;
                 }
                 break;
+            // bp 2
+            case "Synth01":
+            case "Synth02":
+            case "Synth03":
             // bp 3
             case "MakoProgression01":
             case "MakoProgression02":
@@ -130,6 +122,14 @@ public partial class WriterData
             case "Guardian01":
             case "Guardian02":
             case "MonkGuardian03":
+            // bp 10
+            case "MagicalTeros01":
+            case "MagicalTeros02":
+            case "MagicalTeros03":
+            // bp 12
+            case "ShinobiBP1201":
+            case "ShinobiBP1202":
+            case "ShinobiBP1203":
             // bp 13
             case "ImugiDragon1":
             case "ImugiDragon2":

@@ -43,6 +43,7 @@ The following is a list of all [[Blasters]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=170|name=Destabilizers|image=Destabilizers.png|desc=[[Wasteland Vraxx]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Devil's Sight|image=Devil's Sight.png|desc=[[Shadowlord Cross]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Disassemblers|image=Disassemblers.png|desc=[[Bullet Diver Lucien]]|descheight=55px}}
+{{itembox|width=180|height=170|name=Disparo Sonoro|image=Disparo Sonoro.png|desc=[[Vivi Batida de Rua]]|descheight=55px}}
 {{itembox|width=180|height=170|name=DL-44 Pistol & E-11 Blaster|displayname={{small|DL-44 Pistol & E-11 Blaster}}|image=DL-44 Pistol & E-11 Blaster.png|desc=[[Han Solo]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Double Crossers|image=Double Crossers.gif|desc=[[Ascended Nix]]|descheight=55px}}
 {{itembox|width=180|height=170|name=Double Dragons|image=Double Dragons.png|cost={{Coin|mammoth|60}}|costheight=55px}}

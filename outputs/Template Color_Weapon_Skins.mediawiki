@@ -42,9 +42,9 @@ Calaveraxe
 Castle Rocker
 Ceremonial Axe
 Champion's Axe
-Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 1) && image:Cheon-tu Dokk Level 1 $1.png
-Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 2) && image:Cheon-tu Dokk Level 2 $1.png
-Cheon-tu Dokk && displayname:Cheon-tu Dokk (Lvl 3) && image:Cheon-tu Dokk Level 3 $1.png
+Cheon-tu Dokki && displayname:Cheon-tu Dokki (Lvl 1) && image:Cheon-tu Dokki Level 1 $1.png
+Cheon-tu Dokki && displayname:Cheon-tu Dokki (Lvl 2) && image:Cheon-tu Dokki Level 2 $1.png
+Cheon-tu Dokki && displayname:Cheon-tu Dokki (Lvl 3) && image:Cheon-tu Dokki Level 3 $1.png
 Chocolate Cherry Sunburst
 Chopsicle
 Conch Cleaver
@@ -222,6 +222,7 @@ PegaSwift Runners
 RGB Boots
 Runtime
 Rush Boots
+Sneakers Passo Solto
 Squadron Strikers
 Stealthy Steps
 Stellar Strikes
@@ -278,6 +279,7 @@ Dessert Eagles
 Destabilizers
 Devil's Sight
 Disassemblers
+Disparo Sonoro
 Double Crossers
 Double Dragons
 Dragoon Flintlocks
@@ -1552,6 +1554,7 @@ Merry Jingle Scythe
 Mississippi Wrangler
 Mordex on Ice&#58; Dair to Dream && image:Mordex on Ice Dair to Dream $1.png
 Necromantic Aura
+Neo-City Scythe
 Nevermore
 Nightmare Reaper
 Ninpō&#58; Kusarenka && displayname:Ninpō&#58; Kusarenka (Lvl 1) && image:Ninpō Kusarenka Level 1 $1.png

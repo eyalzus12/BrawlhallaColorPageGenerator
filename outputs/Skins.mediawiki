@@ -373,7 +373,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Leonardo|image=Leonardo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Oendan Jiro|image=Oendan Jiro.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Yoshimitsu|image=Yoshimitsu.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Shinobi no Mono Jiro|image=AniShinobi no Mono Jiro.gif|desc={{BPReward|Season Twelve|gold|Intro Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Shinobi no Mono Jiro|image=Shinobi no Mono Jiro.webp|desc={{BPReward|Season Twelve|gold|Intro Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -825,7 +825,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Hall Minotaur Teros|image=Hall Minotaur Teros.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|school}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Metadev Teros|image=Metadev Teros.png|desc=Not normally obtainable.<br>See [[Metadev]].|descheight=49px}}
 {{itembox|width=220|height=270|name=Patrick Star|image=Patrick Star.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Fallen Prince Teros|image=AniFallen Prince Teros.gif|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Fallen Prince Teros|image=Fallen Prince Teros.webp|desc={{BPReward|Season Ten|gold|Tier 1}}|descheight=49px}}
 {{Itembox/bottom}}
 
 
@@ -904,7 +904,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Chimera Val|image=Chimera Val.png|desc={{ItemTag|chest|Olympian Chest}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Mythic Hero Val|image=Mythic Hero Val.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Stevonnie|image=Stevonnie (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
-{{itembox|width=220|height=270|name=Future Wave Val|image=AniFuture Wave Val.gif|desc={{BPReward|Season Two|gold|Tier 1}}|descheight=49px}}
+{{itembox|width=220|height=270|name=Future Wave Val|image=Future Wave Val.webp|desc={{BPReward|Season Two|gold|Tier 1}}|descheight=49px}}
 {{itembox|width=220|height=270|name=Michelangelo|image=Michelangelo (lock-in).png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Akuma|image=Akuma.png|cost={{Coin|mammoth|300}}|costheight=49px|epic=true}}
 {{itembox|width=220|height=270|name=Love Bug Val|image=Love Bug Val.png|cost={{Coin|mammoth|140}}<br>{{ItemTag|valentines}}|costheight=49px}}
@@ -930,6 +930,7 @@ When a new Legend is released, that Legend will receive three skins. Legends can
 {{itembox|width=220|height=270|name=Streetwear Vivi|image=Streetwear Vivi.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Grã-mestra Batista|image=Grã-mestra Batista.png|cost={{Coin|mammoth|140}}|costheight=49px}}
 {{itembox|width=220|height=270|name=Mega Man|image=Mega Man.png|cost={{Coin|mammoth|400}}|costheight=49px|mythic=true}}
+{{itembox|width=220|height=270|name=Vivi Batida de Rua|image=Vivi Batida de Rua.png|cost={{Coin|ticket spring|1850}}<br>{{ItemTag|spring|2026}}|costheight=49px}}
 {{Itembox/bottom}}
 
 

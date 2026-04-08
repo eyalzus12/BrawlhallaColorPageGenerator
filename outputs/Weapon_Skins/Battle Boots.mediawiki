@@ -44,6 +44,7 @@ The following is a list of all [[Battle Boots]] skins in [[Brawlhalla]].
 {{itembox|width=200|height=170|name=Runtime|image=Runtime.png|desc=[[Gridrunner Thea]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Rush Boots|image=Rush Boots.png|desc=[[Mega Man]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Skyforged Battle Boots|image=Skyforged Battle Boots.png|cost={{Coin|glory|5000}}|costheight=55px}}
+{{itembox|width=200|height=170|name=Sneakers Passo Solto|image=Sneakers Passo Solto.png|desc=[[Vivi Batida de Rua]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stealthy Steps|image=Stealthy Steps.png|desc=[[Covert Ops Vivi]]|descheight=55px}}
 {{itembox|width=200|height=170|name=Stellar Strikes|image=Stellar Strikes.png|desc={{BPReward|Season Five Classic|gold|Tier 69}}|descheight=55px}}
 {{itembox|width=200|height=170|name=Time is Running (Out)|image=Time is Running (Out).png|desc={{BPReward|Season Two Classic|free|Tier 62}}|descheight=55px}}
