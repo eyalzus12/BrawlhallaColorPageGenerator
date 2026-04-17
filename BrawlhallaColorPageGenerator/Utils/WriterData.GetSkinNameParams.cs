@@ -64,8 +64,6 @@ public partial class WriterData
                 if (!colorMode) imageName += " (lock-in)";
                 break;
             // misc epics
-            case "CyberSam":
-            case "PaleRider":
             case "Bubblegum":
             case "Spongebob":
                 if (!colorMode)
@@ -75,7 +73,6 @@ public partial class WriterData
                 }
                 break;
             // bp 1
-            case "DemonQueen":
             case "Demon01":
             case "Demon02":
             case "Demon03":
@@ -94,6 +91,11 @@ public partial class WriterData
                     imageName = "Ani" + imageName;
                 }
                 break;
+            // others
+            case "CyberSam":
+            case "PaleRider":
+            // bp 1
+            case "DemonQueen":
             // bp 2
             case "Synth01":
             case "Synth02":

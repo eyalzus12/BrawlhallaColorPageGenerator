@@ -56,7 +56,7 @@ public sealed class StoreType
 public sealed class StoreTypes
 {
     public StoreType[] Stores { get; }
-    public Dictionary<string, StoreType> ItemToStoreType { get; }
+    public Dictionary<(string ItemType, string Item), StoreType> ItemToStoreType { get; }
 
     public StoreTypes(string content)
     {
@@ -71,6 +71,6 @@ public sealed class StoreTypes
         });
         using SepReader csvReader = sepReaderOptions.From(textReader);
         Stores = [.. csvReader.Enumerate((row) => new StoreType(row))];
-        ItemToStoreType = Stores.Where((s) => s.Item is not null).ToDictionary((s) => $"{s.Type} {s.Item!}");
+        ItemToStoreType = Stores.Where((s) => s.Item is not null).ToDictionary((s) => (s.Type, s.Item!));
     }
 }

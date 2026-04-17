@@ -29,10 +29,6 @@ public partial class WriterData
         ["ScytheCharity"] = VSR("Charity Stream #9"),
         ["AxeCharity"] = VSR("Charity Stream #10"),
         ["HammerCharity"] = VSR("Charity Stream #11"),
-        // mahou shoujo
-        ["OrbMagicalGirl"] = VSR("Dev Streams #15"),
-        ["HammerMagicalGirl"] = VSR("Dev Streams #16"),
-        ["RocketLanceMagicalGirl"] = VSR("Dev Streams #17"),
         // neo city
         ["GreatswordEsports2026"] = TD("Winter Doubles Championship"),
         ["SwordEsports2026"] = TD("Winter Singles Championship"),
@@ -55,7 +51,6 @@ public partial class WriterData
         #endregion
         #region bundle exclusive
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
-        ["ImugiBloomhalla"] = BUNDLE_EXCLUSIVE_DESCRIPTION,
         #endregion
         #region removed from store
         // castlevania

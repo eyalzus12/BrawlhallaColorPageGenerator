@@ -15,7 +15,7 @@ public partial class WriterData
             ItemTypeEnum.WeaponSkin => "WeaponSkin",
             _ => throw new ArgumentException("Invalid item type"),
         };
-        StoreType? storeType = StoreTypes.ItemToStoreType.GetValueOrDefault($"{itemTypeString} {itemName}");
+        StoreType? storeType = StoreTypes.ItemToStoreType.GetValueOrDefault((itemTypeString, itemName));
 
         string description;
         DescriptionTypeEnum descriptionType;
@@ -34,7 +34,7 @@ public partial class WriterData
             description = "[[" + costumeName + "]]";
         }
         // metadev skin
-        else if (itemType == ItemTypeEnum.Costume && (itemName == "MDFait" || itemName == "MetadevNix" || itemName == "MetadevJaeyun" || CostumeTypes.CostumesMap[itemName].IsMetadev))
+        else if (itemType == ItemTypeEnum.Costume && (UntaggedMetadevSkins.Contains(itemName) || CostumeTypes.CostumesMap[itemName].IsMetadev))
         {
             descriptionType = DescriptionTypeEnum.Desc;
             description = "Not normally obtainable.<br>See [[Metadev]].";
@@ -113,6 +113,13 @@ public partial class WriterData
         "EgyptianShoujo",
         "EpicWitch",
         "EpicDragon",
+    ];
+
+    // metadev skins not marked with IsMetadev
+    private static readonly HashSet<string> UntaggedMetadevSkins = [
+        "MDFait",
+        "MetadevNix",
+        "MetadevJaeyun",
     ];
 }
 
