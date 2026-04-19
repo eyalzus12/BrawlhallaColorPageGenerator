@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using BrawlhallaColorPageGenerator;
 using BrawlhallaColorPageGenerator.Objects;
@@ -23,8 +24,10 @@ else
 
 #region File loading
 
-string gameSwz = Path.Combine(BRAWLHALLA_FOLDER, "Game.swz");
 Dictionary<string, string> files = [];
+
+// load Game.swz
+string gameSwz = Path.Combine(BRAWLHALLA_FOLDER, "Game.swz");
 using (FileStream file = File.OpenRead(gameSwz))
 {
     using SwzReader swzReader = new(file, swzKey);
@@ -35,6 +38,19 @@ using (FileStream file = File.OpenRead(gameSwz))
     }
 }
 
+// load Init.swz
+string initSwz = Path.Combine(BRAWLHALLA_FOLDER, "Init.swz");
+using (FileStream file = File.OpenRead(initSwz))
+{
+    using SwzReader swzReader = new(file, swzKey);
+    foreach (string fileContent in swzReader.ReadFiles())
+    {
+        string fileName = SwzUtils.GetFileName(fileContent);
+        files[fileName] = fileContent;
+    }
+}
+
+// load english language
 string lang = Path.Combine(BRAWLHALLA_FOLDER, "languages", "language.1.bin");
 LangFile langFile;
 using (FileStream file = File.OpenRead(lang))
@@ -122,6 +138,14 @@ EntitlementTypes entitlementTypes = new(entitlementTypesContent);
 string chanceBoxTypesContent = files["ChanceBoxTypes.xml"];
 ChanceBoxTypes chanceBoxTypes = new(chanceBoxTypesContent);
 
+// Color scheme types
+string colorSchemeTypesContent = files["ColorSchemeTypes.xml"];
+ColorSchemeTypes colorSchemeTypes = new(colorSchemeTypesContent);
+
+// Level types
+string levelTypesContent = files["LevelTypes.xml"];
+LevelTypes levelTypes = new(levelTypesContent);
+
 WriterData data = new()
 {
     CostumeTypes = costumeTypes,
@@ -132,6 +156,8 @@ WriterData data = new()
     StoreTypes = storeTypes,
     EntitlementTypes = entitlementTypes,
     ChanceBoxTypes = chanceBoxTypes,
+    ColorSchemeTypes = colorSchemeTypes,
+    LevelTypes = levelTypes,
     LangFile = langFile,
 };
 
@@ -167,5 +193,9 @@ skinsWriter.WriteTo("outputs/Skins.mediawiki");
     DefaultWeaponSkinsWriter defaultWeaponSkinsWriter = new(data);
     defaultWeaponSkinsWriter.WriteTo("outputs/Weapon_Skins/Default_Weapons.mediawiki");
 }
+
+MapColorExclusionWriter mapColorExclusionWriter = new(data);
+Directory.CreateDirectory("outputs/Template Map_Color_Exclusion");
+mapColorExclusionWriter.WriteTo("outputs/Template Map_Color_Exclusion/List.mediawiki");
 
 #endregion
