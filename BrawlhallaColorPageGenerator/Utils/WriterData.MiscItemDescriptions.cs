@@ -33,7 +33,7 @@ public partial class WriterData
         ["GreatswordEsports2026"] = TD("Winter Doubles Championship"),
         ["SwordEsports2026"] = TD("Winter Singles Championship"),
         ["HammerEsports2026"] = TD("Eternal Sports Triples Championship"),
-        ["CannonEsports2026"] = TD_DESCRIPTION,
+        ["CannonEsports2026"] = TD("Spring Singles"),
         ["SpearEsports2026"] = TD_DESCRIPTION,
         ["PistolEsports2026"] = TD_DESCRIPTION,
         ["KatarEsports2026"] = TD_DESCRIPTION,
