@@ -93,7 +93,7 @@ The following is a list of all [[Katars]] skins in [[Brawlhalla]].
 {{itembox|width=180|height=190|name=Mech Makers|image=Mech Makers.png|desc=[[0RC4-M4k0]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Mikasa's Snap Blades|image=Mikasa's Snap Blades.png|desc=[[Mikasa]]|descheight=55px}}
 {{itembox|width=180|height=190|name=MK Needles|image=MK Needles.png|desc=''Unobtainable''|descheight=55px}}
-{{itembox|width=180|height=190|name=Neo City Katars|image=Neo City Katars.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=180|height=190|name=Neo City Katars|image=Neo City Katars.png|desc={{TD|Spring Doubles|Twitch Drops}}|descheight=55px}}
 {{itembox|width=180|height=190|name=Nettle & Belladonna|image=Nettle & Belladonna.png|desc=[[Nightshade Ember]]|descheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Claws|image=Nightmare Claws.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=180|height=190|name=Nightmare Slicers|image=Nightmare Slicers.png|cost={{Coin|mammoth|60}}|costheight=55px}}
