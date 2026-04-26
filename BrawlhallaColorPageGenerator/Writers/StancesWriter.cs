@@ -12,7 +12,7 @@ public sealed class StancesWriter(WriterData data)
         writer.WriteLine(
 """
 <includeonly><onlyinclude>
-{{#switch: {{lc:{{{1}}}}}
+{{#switch:{{lc:{{{1}}}}}
 """
         );
         foreach (HeroType hero in data.HeroTypes.Heroes.OrderBy((h) => h.ReleaseOrderID))
@@ -60,8 +60,7 @@ public sealed class StancesWriter(WriterData data)
         }
         writer.WriteLine(
 """
-}}
-</onlyinclude></includeonly><noinclude>
+}}</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
 |-
 {{LegendStancesRowByName|Bodvar}}

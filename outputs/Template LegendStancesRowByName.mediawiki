@@ -1,5 +1,5 @@
 <includeonly><onlyinclude>
-{{#switch: {{lc:{{{1}}}}}
+{{#switch:{{lc:{{{1}}}}}
 |bödvar|bodvar = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Bödvar}}|str=6|dex=6|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
 |cassidy = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Cassidy}}|str=6|dex=8|def=4|spd=4|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
 |orion = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Orion}}|str=4|dex=6|def=6|spd=6|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
@@ -68,8 +68,7 @@
 |ransom = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ransom}}|str=7|dex=4|def=3|spd=8|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
 |lady vera = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Lady Vera}}|str=3|dex=7|def=8|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
 |rupture = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Rupture}}|str=9|dex=3|def=5|spd=5|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
-}}
-</onlyinclude></includeonly><noinclude>
+}}</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
 |-
 {{LegendStancesRowByName|Bodvar}}

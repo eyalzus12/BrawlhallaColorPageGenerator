@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -21,15 +22,16 @@ public sealed class LevelingWriter(WriterData data)
         "Red",
     ];
 
-    public void WriteTo(string path)
+    public enum Mode
+    {
+        Row,
+        Table,
+    };
+
+    public void WriteTo(string path, LevelingWriter.Mode mode)
     {
         using StreamWriter writer = new(path);
-        writer.WriteLine(
-"""
-<includeonly><onlyinclude>
-{{#switch: {{lc:{{{1}}}}}
-"""
-        );
+        writer.WriteLine("<includeonly><onlyinclude>\n{{#switch:{{lc:{{{1}}}}}");
         foreach (HeroType hero in data.HeroTypes.Heroes.OrderBy((h) => h.ReleaseOrderID))
         {
             if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes) || hero.BioName is null)
@@ -40,7 +42,13 @@ public sealed class LevelingWriter(WriterData data)
             if (hero.HeroName == "Viking")
                 writer.Write("|bodvar");
 
-            writer.Write(" = {{LegendLevelingRow|");
+            writer.Write(" = {{LegendLeveling");
+            writer.Write(mode switch {
+                Mode.Row => "Row",
+                Mode.Table => "Table",
+                _ => throw new ArgumentException(),
+            });
+            writer.Write('|');
             writer.Write(hero.BioName);
 
             int stanceNumber = 1;
@@ -68,19 +76,20 @@ public sealed class LevelingWriter(WriterData data)
             }
             writer.WriteLine("}}");
         }
-        writer.WriteLine(
+        writer.WriteLine("}}</onlyinclude></includeonly><noinclude>");
+        writer.WriteLine(mode switch {
+            Mode.Row =>
 """
-}}
-</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
 |-
 {{LegendLevelingRowByName|Bodvar}}
 |-
 {{LegendLevelingRowByName|Lady Vera}}
 |}
-
-[[Category:Templates]]</noinclude>
-"""
-);
+""",
+            Mode.Table => "{{LegendLevelingTableByName|Bodvar}}",
+    _ => throw new ArgumentException(),
+});
+        writer.WriteLine("\n[[Category:Templates]]</noinclude>");
     }
 }

@@ -1,5 +1,5 @@
 <includeonly><onlyinclude>
-{{#switch: {{lc:{{{1}}}}}
+{{#switch:{{lc:{{{1}}}}}
 |bödvar|bodvar = {{LegendLevelingRow|Bödvar|stance1=spd|stance2=def|stance3=dex|stance4=str|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=cyan|color7=green|color8=sunset|color9=grey|color10=pink|color11=red}}
 |cassidy = {{LegendLevelingRow|Cassidy|stance1=def|stance2=spd|stance3=str|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
 |orion = {{LegendLevelingRow|Orion|stance1=str|stance2=spd|stance3=dex|stance4=def|color1=blue|color2=green|color3=brown|color4=orange|color5=purple|color6=cyan|color7=yellow|color8=sunset|color9=grey|color10=pink|color11=red}}
@@ -68,8 +68,7 @@
 |ransom = {{LegendLevelingRow|Ransom|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=blue|color2=yellow|color3=brown|color4=green|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
 |lady vera = {{LegendLevelingRow|Lady Vera|stance1=str|stance2=spd|stance3=dex|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
 |rupture = {{LegendLevelingRow|Rupture|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=brown|color4=green|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
-}}
-</onlyinclude></includeonly><noinclude>
+}}</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
 |-
 {{LegendLevelingRowByName|Bodvar}}
