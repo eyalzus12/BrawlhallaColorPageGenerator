@@ -1,0 +1,80 @@
+<includeonly><onlyinclude>
+{{#switch: {{lc:{{{1}}}}}
+|bödvar|bodvar = {{LegendLevelingRow|Bödvar|stance1=spd|stance2=def|stance3=dex|stance4=str|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=cyan|color7=green|color8=sunset|color9=grey|color10=pink|color11=red}}
+|cassidy = {{LegendLevelingRow|Cassidy|stance1=def|stance2=spd|stance3=str|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|orion = {{LegendLevelingRow|Orion|stance1=str|stance2=spd|stance3=dex|stance4=def|color1=blue|color2=green|color3=brown|color4=orange|color5=purple|color6=cyan|color7=yellow|color8=sunset|color9=grey|color10=pink|color11=red}}
+|lord vraxx = {{LegendLevelingRow|Lord Vraxx|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|gnash = {{LegendLevelingRow|Gnash|stance1=dex|stance2=def|stance3=spd|stance4=str|color1=blue|color2=yellow|color3=brown|color4=green|color5=purple|color6=cyan|color7=orange|color8=sunset|color9=grey|color10=pink|color11=red}}
+|queen nai = {{LegendLevelingRow|Queen Nai|stance1=spd|stance2=dex|stance3=str|stance4=def|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|hattori = {{LegendLevelingRow|Hattori|stance1=def|stance2=str|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|sir roland = {{LegendLevelingRow|Sir Roland|stance1=spd|stance2=str|stance3=dex|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|scarlet = {{LegendLevelingRow|Scarlet|stance1=spd|stance2=dex|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|thatch = {{LegendLevelingRow|Thatch|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ada = {{LegendLevelingRow|Ada|stance1=def|stance2=str|stance3=spd|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|sentinel = {{LegendLevelingRow|Sentinel|stance1=dex|stance2=str|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|lucien = {{LegendLevelingRow|Lucien|stance1=str|stance2=dex|stance3=def|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|teros = {{LegendLevelingRow|Teros|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=orange|color5=purple|color6=cyan|color7=brown|color8=sunset|color9=grey|color10=pink|color11=red}}
+|brynn = {{LegendLevelingRow|Brynn|stance1=dex|stance2=str|stance3=def|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|asuri = {{LegendLevelingRow|Asuri|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|barraza = {{LegendLevelingRow|Barraza|stance1=spd|stance2=dex|stance3=str|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ember = {{LegendLevelingRow|Ember|stance1=def|stance2=str|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|azoth = {{LegendLevelingRow|Azoth|stance1=spd|stance2=dex|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|koji = {{LegendLevelingRow|Koji|stance1=def|stance2=str|stance3=spd|stance4=dex|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ulgrim = {{LegendLevelingRow|Ulgrim|stance1=dex|stance2=spd|stance3=str|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|diana = {{LegendLevelingRow|Diana|stance1=str|stance2=def|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=orange|color5=purple|color6=cyan|color7=brown|color8=sunset|color9=grey|color10=pink|color11=red}}
+|jhala = {{LegendLevelingRow|Jhala|stance1=def|stance2=spd|stance3=str|stance4=dex|color1=blue|color2=yellow|color3=green|color4=orange|color5=purple|color6=cyan|color7=brown|color8=sunset|color9=grey|color10=pink|color11=red}}
+|kor = {{LegendLevelingRow|Kor|stance1=spd|stance2=dex|stance3=str|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|wu shang = {{LegendLevelingRow|Wu Shang|stance1=str|stance2=spd|stance3=def|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=purple|color6=cyan|color7=orange|color8=sunset|color9=grey|color10=pink|color11=red}}
+|val = {{LegendLevelingRow|Val|stance1=str|stance2=dex|stance3=def|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ragnir = {{LegendLevelingRow|Ragnir|stance1=str|stance2=spd|stance3=dex|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|cross = {{LegendLevelingRow|Cross|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|mirage = {{LegendLevelingRow|Mirage|stance1=def|stance2=spd|stance3=dex|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|nix = {{LegendLevelingRow|Nix|stance1=str|stance2=dex|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|mordex = {{LegendLevelingRow|Mordex|stance1=dex|stance2=str|stance3=def|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=purple|color6=cyan|color7=orange|color8=sunset|color9=grey|color10=pink|color11=red}}
+|yumiko = {{LegendLevelingRow|Yumiko|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|artemis = {{LegendLevelingRow|Artemis|stance1=def|stance2=str|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|caspian = {{LegendLevelingRow|Caspian|stance1=def|stance2=dex|stance3=spd|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|sidra = {{LegendLevelingRow|Sidra|stance1=dex|stance2=def|stance3=spd|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|xull = {{LegendLevelingRow|Xull|stance1=spd|stance2=dex|stance3=def|stance4=str|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=cyan|color7=green|color8=sunset|color9=grey|color10=pink|color11=red}}
+|kaya = {{LegendLevelingRow|Kaya|stance1=dex|stance2=str|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|isaiah = {{LegendLevelingRow|Isaiah|stance1=dex|stance2=str|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=cyan|color7=green|color8=sunset|color9=grey|color10=pink|color11=red}}
+|jiro = {{LegendLevelingRow|Jiro|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|lin fei = {{LegendLevelingRow|Lin Fei|stance1=spd|stance2=def|stance3=str|stance4=dex|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=cyan|color7=green|color8=sunset|color9=grey|color10=pink|color11=red}}
+|zariel = {{LegendLevelingRow|Zariel|stance1=spd|stance2=dex|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|rayman = {{LegendLevelingRow|Rayman|stance1=str|stance2=dex|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|dusk = {{LegendLevelingRow|Dusk|stance1=def|stance2=spd|stance3=dex|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|fait = {{LegendLevelingRow|Fait|stance1=def|stance2=dex|stance3=spd|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|thor = {{LegendLevelingRow|Thor|stance1=dex|stance2=spd|stance3=str|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|petra = {{LegendLevelingRow|Petra|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|vector = {{LegendLevelingRow|Vector|stance1=dex|stance2=str|stance3=def|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|volkov = {{LegendLevelingRow|Volkov|stance1=str|stance2=spd|stance3=def|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|onyx = {{LegendLevelingRow|Onyx|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|jaeyun = {{LegendLevelingRow|Jaeyun|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|mako = {{LegendLevelingRow|Mako|stance1=def|stance2=str|stance3=dex|stance4=spd|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|magyar = {{LegendLevelingRow|Magyar|stance1=str|stance2=spd|stance3=def|stance4=dex|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|reno = {{LegendLevelingRow|Reno|stance1=str|stance2=spd|stance3=def|stance4=dex|color1=blue|color2=green|color3=brown|color4=orange|color5=purple|color6=cyan|color7=yellow|color8=sunset|color9=grey|color10=pink|color11=red}}
+|munin = {{LegendLevelingRow|Munin|stance1=def|stance2=str|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|arcadia = {{LegendLevelingRow|Arcadia|stance1=dex|stance2=def|stance3=str|stance4=spd|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ezio = {{LegendLevelingRow|Ezio|stance1=def|stance2=str|stance3=spd|stance4=dex|color1=blue|color2=green|color3=brown|color4=orange|color5=purple|color6=cyan|color7=yellow|color8=sunset|color9=grey|color10=pink|color11=red}}
+|tezca = {{LegendLevelingRow|Tezca|stance1=spd|stance2=def|stance3=dex|stance4=str|color1=blue|color2=green|color3=brown|color4=orange|color5=purple|color6=cyan|color7=sunset|color8=yellow|color9=grey|color10=pink|color11=red}}
+|thea = {{LegendLevelingRow|Thea|stance1=str|stance2=def|stance3=spd|stance4=dex|color1=blue|color2=green|color3=brown|color4=yellow|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|red raptor = {{LegendLevelingRow|Red Raptor|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|loki = {{LegendLevelingRow|Loki|stance1=str|stance2=spd|stance3=def|stance4=dex|color1=yellow|color2=green|color3=brown|color4=orange|color5=purple|color6=blue|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|seven = {{LegendLevelingRow|Seven|stance1=dex|stance2=spd|stance3=str|stance4=def|color1=blue|color2=yellow|color3=green|color4=orange|color5=purple|color6=brown|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|vivi = {{LegendLevelingRow|Vivi|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|imugi = {{LegendLevelingRow|Imugi|stance1=dex|stance2=str|stance3=spd|stance4=def|color1=blue|color2=yellow|color3=brown|color4=orange|color5=purple|color6=green|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|king zuva = {{LegendLevelingRow|King Zuva|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|priya = {{LegendLevelingRow|Priya|stance1=str|stance2=def|stance3=dex|stance4=spd|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|ransom = {{LegendLevelingRow|Ransom|stance1=def|stance2=dex|stance3=str|stance4=spd|color1=blue|color2=yellow|color3=brown|color4=green|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|lady vera = {{LegendLevelingRow|Lady Vera|stance1=str|stance2=spd|stance3=dex|stance4=def|color1=blue|color2=yellow|color3=green|color4=brown|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+|rupture = {{LegendLevelingRow|Rupture|stance1=dex|stance2=spd|stance3=def|stance4=str|color1=blue|color2=yellow|color3=brown|color4=green|color5=orange|color6=purple|color7=cyan|color8=sunset|color9=grey|color10=pink|color11=red}}
+}}
+</onlyinclude></includeonly><noinclude>
+{| class="wikitable" style="text-align:center;"
+|-
+{{LegendLevelingRowByName|Bodvar}}
+|-
+{{LegendLevelingRowByName|Lady Vera}}
+|}
+
+[[Category:Templates]]</noinclude>

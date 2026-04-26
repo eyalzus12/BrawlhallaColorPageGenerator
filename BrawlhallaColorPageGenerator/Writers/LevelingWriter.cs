@@ -24,12 +24,23 @@ public sealed class LevelingWriter(WriterData data)
     public void WriteTo(string path)
     {
         using StreamWriter writer = new(path);
-        foreach (HeroType hero in data.HeroTypes.Heroes)
+        writer.WriteLine(
+"""
+<includeonly><onlyinclude>
+{{#switch: {{lc:{{{1}}}}}
+"""
+        );
+        foreach (HeroType hero in data.HeroTypes.Heroes.OrderBy((h) => h.ReleaseOrderID))
         {
-            if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes))
+            if (!data.RuneTypes.HeroRunes.TryGetValue(hero.HeroName, out var runes) || hero.BioName is null)
                 continue;
 
-            writer.Write("|- {{LegendLevelingRow|");
+            writer.Write('|');
+            writer.Write(hero.BioName.ToLowerInvariant());
+            if (hero.HeroName == "Viking")
+                writer.Write("|bodvar");
+
+            writer.Write(" = {{LegendLevelingRow|");
             writer.Write(hero.BioName);
 
             int stanceNumber = 1;
@@ -57,5 +68,19 @@ public sealed class LevelingWriter(WriterData data)
             }
             writer.WriteLine("}}");
         }
+        writer.WriteLine(
+"""
+}}
+</onlyinclude></includeonly><noinclude>
+{| class="wikitable" style="text-align:center;"
+|-
+{{LegendLevelingRowByName|Bodvar}}
+|-
+{{LegendLevelingRowByName|Lady Vera}}
+|}
+
+[[Category:Templates]]</noinclude>
+"""
+);
     }
 }
