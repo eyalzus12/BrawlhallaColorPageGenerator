@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.IO;
 using BrawlhallaColorPageGenerator;
 using BrawlhallaColorPageGenerator.Objects;
@@ -179,6 +178,9 @@ Directory.CreateDirectory("outputs");
 
 LevelingWriter levelingWriter = new(data);
 levelingWriter.WriteTo("outputs/Leveling.mediawiki");
+
+StancesWriter stancesWriter = new(data);
+stancesWriter.WriteTo("outputs/Template LegendStancesRowByName.mediawiki");
 
 SkinsWriter skinsWriter = new(data);
 skinsWriter.WriteTo("outputs/Skins.mediawiki");

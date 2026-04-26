@@ -1,0 +1,84 @@
+<includeonly><onlyinclude>
+{{#switch: {{lc:{{{1}}}}}
+|bödvar|bodvar = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Bödvar}}|str=6|dex=6|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|cassidy = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Cassidy}}|str=6|dex=8|def=4|spd=4|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|orion = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Orion}}|str=4|dex=6|def=6|spd=6|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|lord vraxx = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Lord Vraxx}}|str=4|dex=8|def=4|spd=6|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|gnash = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Gnash}}|str=7|dex=3|def=5|spd=7|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|queen nai = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Queen Nai}}|str=7|dex=4|def=8|spd=3|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|hattori = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Hattori}}|str=4|dex=6|def=4|spd=8|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|sir roland = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Sir Roland}}|str=5|dex=5|def=8|spd=4|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|scarlet = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Scarlet}}|str=8|dex=5|def=5|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|thatch = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Thatch}}|str=7|dex=5|def=3|spd=7|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|ada = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ada}}|str=6|dex=7|def=3|spd=6|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|sentinel = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Sentinel}}|str=5|dex=4|def=7|spd=6|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|lucien = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Lucien}}|str=3|dex=5|def=6|spd=8|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|teros = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Teros}}|str=8|dex=3|def=6|spd=5|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|brynn = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Brynn}}|str=5|dex=5|def=5|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|asuri = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Asuri}}|str=4|dex=7|def=5|spd=6|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|barraza = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Barraza}}|str=6|dex=4|def=8|spd=4|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|ember = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ember}}|str=6|dex=6|def=3|spd=7|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|azoth = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Azoth}}|str=7|dex=5|def=6|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|koji = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Koji}}|str=5|dex=8|def=4|spd=5|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|ulgrim = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ulgrim}}|str=6|dex=3|def=7|spd=6|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|diana = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Diana}}|str=5|dex=6|def=5|spd=6|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|jhala = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Jhala}}|str=7|dex=7|def=3|spd=5|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|kor = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Kor}}|str=6|dex=5|def=7|spd=4|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|wu shang = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Wu Shang}}|str=5|dex=7|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|val = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Val}}|str=4|dex=5|def=6|spd=7|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|ragnir = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ragnir}}|str=5|dex=6|def=6|spd=5|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|cross = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Cross}}|str=7|dex=4|def=6|spd=5|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|mirage = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Mirage}}|str=7|dex=6|def=4|spd=5|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|nix = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Nix}}|str=4|dex=5|def=7|spd=6|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|mordex = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Mordex}}|str=6|dex=4|def=5|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|yumiko = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Yumiko}}|str=4|dex=7|def=4|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|artemis = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Artemis}}|str=5|dex=5|def=4|spd=8|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|caspian = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Caspian}}|str=7|dex=5|def=4|spd=6|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|sidra = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Sidra}}|str=6|dex=4|def=6|spd=6|str_take=spd|dex_take=str|def_take=dex|spd_take=def}}
+|xull = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Xull}}|str=9|dex=4|def=5|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|kaya = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Kaya}}|str=4|dex=4|def=7|spd=7|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|isaiah = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Isaiah}}|str=5|dex=6|def=7|spd=4|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|jiro = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Jiro}}|str=5|dex=7|def=3|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|lin fei = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Lin Fei}}|str=3|dex=8|def=4|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|zariel = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Zariel}}|str=7|dex=4|def=7|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|rayman = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Rayman}}|str=5|dex=5|def=6|spd=6|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|dusk = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Dusk}}|str=6|dex=7|def=4|spd=5|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|fait = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Fait}}|str=7|dex=4|def=4|spd=7|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|thor = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Thor}}|str=6|dex=4|def=7|spd=5|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|petra = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Petra}}|str=8|dex=4|def=4|spd=6|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|vector = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Vector}}|str=5|dex=4|def=6|spd=7|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|volkov = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Volkov}}|str=4|dex=8|def=6|spd=4|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|onyx = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Onyx}}|str=5|dex=4|def=8|spd=5|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|jaeyun = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Jaeyun}}|str=6|dex=5|def=5|spd=6|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|mako = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Mako}}|str=6|dex=4|def=4|spd=8|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|magyar = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Magyar}}|str=5|dex=4|def=9|spd=4|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|reno = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Reno}}|str=4|dex=7|def=6|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|munin = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Munin}}|str=5|dex=6|def=4|spd=7|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|arcadia = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Arcadia}}|str=7|dex=7|def=4|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|ezio = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ezio}}|str=5|dex=7|def=4|spd=6|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|tezca = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Tezca}}|str=7|dex=5|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|thea = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Thea}}|str=4|dex=6|def=3|spd=9|str_take=dex|dex_take=spd|def_take=str|spd_take=def}}
+|red raptor = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Red Raptor}}|str=6|dex=6|def=4|spd=6|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|loki = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Loki}}|str=4|dex=8|def=5|spd=5|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|seven = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Seven}}|str=7|dex=3|def=8|spd=4|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|vivi = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Vivi}}|str=6|dex=5|def=4|spd=7|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|imugi = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Imugi}}|str=8|dex=3|def=8|spd=3|str_take=dex|dex_take=str|def_take=spd|spd_take=def}}
+|king zuva = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||King Zuva}}|str=8|dex=4|def=6|spd=4|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+|priya = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Priya}}|str=4|dex=6|def=5|spd=7|str_take=spd|dex_take=def|def_take=str|spd_take=dex}}
+|ransom = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Ransom}}|str=7|dex=4|def=3|spd=8|str_take=dex|dex_take=def|def_take=spd|spd_take=str}}
+|lady vera = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Lady Vera}}|str=3|dex=7|def=8|spd=4|str_take=def|dex_take=spd|def_take=dex|spd_take=str}}
+|rupture = {{LegendStancesRow|{{#ifeq:{{{nohead}}}|true||Rupture}}|str=9|dex=3|def=5|spd=5|str_take=def|dex_take=str|def_take=spd|spd_take=dex}}
+}}
+</onlyinclude></includeonly><noinclude>
+{| class="wikitable" style="text-align:center;"
+|-
+{{LegendStancesRowByName|Bodvar}}
+|-
+{{LegendStancesRowByName|Lady Vera}}
+|}
+{| class="wikitable" style="text-align:center;"
+|-
+{{LegendStancesRowByName|Lady Vera|nohead=true}}
+|}
+
+[[Category:Templates]]</noinclude>
