@@ -10,6 +10,7 @@ public partial class WriterData
         string FormatItemTag(string tag, int year = 0) => "{{ItemTag|" + tag + (smallItemTag ? "|small" : "") + (year > 0 ? "|" + year : "") + "}}";
 
         StringBuilder sb = new("{{Coin|");
+        // costs gold
         if (storeType.GoldCost > 0)
         {
             sb.Append("gold|");
@@ -21,11 +22,19 @@ public partial class WriterData
             sb.Append("mammoth|");
             sb.Append(storeType.StoreName switch
             {
+                // Purchased as a bundle
                 "PaleRider" => 300,
                 "MythicWuShang" => 900,
                 "MythicNix" => 900,
+                // Normal
                 _ => storeType.IdolCost
             });
+            // also costs guild gems
+            if(storeType.GuildGemsCost > 0)
+            {
+                sb.Append("}} or {{Coin|guild gem|");
+                sb.Append(storeType.GuildGemsCost);
+            }
         }
         // costs glory
         else if (storeType.RankedPointsCost > 0)

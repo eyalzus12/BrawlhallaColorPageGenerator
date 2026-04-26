@@ -13,6 +13,7 @@ public sealed class StoreType
     public int IdolCost { get; }
     public int GoldCost { get; }
     public int RankedPointsCost { get; }
+    public int GuildGemsCost {get;}
     public string? SpecialCurrencyType { get; }
     public int SpecialCurrencyCost { get; }
 
@@ -32,6 +33,7 @@ public sealed class StoreType
         IdolCost = row[nameof(IdolCost)].TryParse<int>() ?? 0;
         GoldCost = row[nameof(GoldCost)].TryParse<int>() ?? 0;
         RankedPointsCost = row[nameof(RankedPointsCost)].TryParse<int>() ?? 0;
+        GuildGemsCost = row[nameof(GuildGemsCost)].TryParse<int>() ?? 0;
 
         SpecialCurrencyType = row[nameof(SpecialCurrencyType)].ToString();
         if (string.IsNullOrWhiteSpace(SpecialCurrencyType)) SpecialCurrencyType = null;
