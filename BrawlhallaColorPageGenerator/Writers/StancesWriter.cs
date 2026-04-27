@@ -6,6 +6,8 @@ namespace BrawlhallaColorPageGenerator.Writers;
 
 public sealed class StancesWriter(WriterData data)
 {
+    private static readonly int[] LEVELS_FOR_INDEX = [0, 3, 4, 6, 8];
+
     public void WriteTo(string path)
     {
         using StreamWriter writer = new(path);
@@ -36,25 +38,38 @@ public sealed class StancesWriter(WriterData data)
             writer.Write("|spd=");
             writer.Write(hero.Speed);
 
-            RuneType strStance = runes.First((r) => r.ShortName == "str");
+            int strStanceIndex = runes.FindIndex((r) => r.ShortName == "str");
+            RuneType strStance = runes[strStanceIndex];
             string strTakeFrom = strStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
             writer.Write("|str_take=");
             writer.Write(strTakeFrom);
 
-            RuneType dexStance = runes.First((r) => r.ShortName == "dex");
+            int dexStanceIndex = runes.FindIndex((r) => r.ShortName == "dex");
+            RuneType dexStance = runes[dexStanceIndex];
             string dexTakeFrom = dexStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
             writer.Write("|dex_take=");
             writer.Write(dexTakeFrom);
 
-            RuneType defStance = runes.First((r) => r.ShortName == "def");
+            int defStanceIndex = runes.FindIndex((r) => r.ShortName == "def");
+            RuneType defStance = runes[defStanceIndex];
             string defTakeFrom = defStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
             writer.Write("|def_take=");
             writer.Write(defTakeFrom);
 
-            RuneType spdStance = runes.First((r) => r.ShortName == "spd");
+            int spdStanceIndex = runes.FindIndex((r) => r.ShortName == "spd");
+            RuneType spdStance = runes[spdStanceIndex];
             string spdTakeFrom = spdStance.TakesFrom(hero.Strength, hero.Dexterity, hero.Weight, hero.Speed);
             writer.Write("|spd_take=");
             writer.Write(spdTakeFrom);
+
+            writer.Write("|levels={{{levels|}}}|str_level=");
+            writer.Write(LEVELS_FOR_INDEX[strStanceIndex]);
+            writer.Write("|dex_level=");
+            writer.Write(LEVELS_FOR_INDEX[dexStanceIndex]);
+            writer.Write("|def_level=");
+            writer.Write(LEVELS_FOR_INDEX[defStanceIndex]);
+            writer.Write("|spd_level=");
+            writer.Write(LEVELS_FOR_INDEX[spdStanceIndex]);
 
             writer.WriteLine("}}");
         }
@@ -62,14 +77,16 @@ public sealed class StancesWriter(WriterData data)
 """
 }}</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
-|-
 {{LegendStancesRowByName|Bodvar}}
-|-
 {{LegendStancesRowByName|Lady Vera}}
 |}
+
 {| class="wikitable" style="text-align:center;"
-|-
 {{LegendStancesRowByName|Lady Vera|nohead=true}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+{{LegendStancesRowByName|Lady Vera|nohead=true|levels=true}}
 |}
 
 [[Category:Templates]]</noinclude>

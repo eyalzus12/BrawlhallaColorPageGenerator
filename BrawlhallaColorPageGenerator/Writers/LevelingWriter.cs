@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,13 +21,7 @@ public sealed class LevelingWriter(WriterData data)
         "Red",
     ];
 
-    public enum Mode
-    {
-        Row,
-        Table,
-    };
-
-    public void WriteTo(string path, LevelingWriter.Mode mode)
+    public void WriteTo(string path)
     {
         using StreamWriter writer = new(path);
         writer.WriteLine("<includeonly><onlyinclude>\n{{#switch:{{lc:{{{1}}}}}");
@@ -42,14 +35,9 @@ public sealed class LevelingWriter(WriterData data)
             if (hero.HeroName == "Viking")
                 writer.Write("|bodvar");
 
-            writer.Write(" = {{LegendLeveling");
-            writer.Write(mode switch {
-                Mode.Row => "Row",
-                Mode.Table => "Table",
-                _ => throw new ArgumentException(),
-            });
-            writer.Write('|');
+            writer.Write(" = {{LegendLevelingRow|");
             writer.Write(hero.BioName);
+            writer.Write("|nohead={{{nohead|}}}");
 
             int stanceNumber = 1;
             foreach (RuneType rune in runes)
@@ -74,22 +62,22 @@ public sealed class LevelingWriter(WriterData data)
                 writer.Write('=');
                 writer.Write(color.ToLower());
             }
-            writer.WriteLine("}}");
+
+            writer.WriteLine("|extra_labels={{{extra_labels|}}}|icon_size={{{icon_size|25px}}}}}");
         }
-        writer.WriteLine("}}</onlyinclude></includeonly><noinclude>");
-        writer.WriteLine(mode switch {
-            Mode.Row =>
+        writer.WriteLine(
 """
+}}</onlyinclude></includeonly><noinclude>
 {| class="wikitable" style="text-align:center;"
-|-
 {{LegendLevelingRowByName|Bodvar}}
-|-
 {{LegendLevelingRowByName|Lady Vera}}
 |}
-""",
-            Mode.Table => "{{LegendLevelingTableByName|Bodvar}}",
-    _ => throw new ArgumentException(),
-});
-        writer.WriteLine("\n[[Category:Templates]]</noinclude>");
+
+{| class="wikitable" style="text-align:center;"
+{{LegendLevelingRowByName|Bodvar|extra_labels=true}}
+|}
+[[Category:Templates]]</noinclude>
+"""
+);
     }
 }

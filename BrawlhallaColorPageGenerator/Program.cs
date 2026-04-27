@@ -177,8 +177,7 @@ Directory.CreateDirectory("outputs");
 }
 
 LevelingWriter levelingWriter = new(data);
-levelingWriter.WriteTo("outputs/Template LegendLevelingRowByName.mediawiki", LevelingWriter.Mode.Row);
-levelingWriter.WriteTo("outputs/Template LegendLevelingTableByName.mediawiki", LevelingWriter.Mode.Table);
+levelingWriter.WriteTo("outputs/Template LegendLevelingRowByName.mediawiki");
 
 StancesWriter stancesWriter = new(data);
 stancesWriter.WriteTo("outputs/Template LegendStancesRowByName.mediawiki");
