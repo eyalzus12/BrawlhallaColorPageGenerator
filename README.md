@@ -10,7 +10,7 @@ This repo contains a script for generating various pages in the [Official Brawlh
   * [Weapon_Skins/Default_Weapons](https://brawlhalla.wiki.gg/wiki/Weapon_Skins/Default_Weapons)
 * The [Skins](https://brawlhalla.wiki.gg/wiki/Skins) page which lists every skin and how to acquire it
 * The table rows for [Leveling](https://brawlhalla.wiki.gg/wiki/Leveling)
-* TODO: The table rows for [Stances](https://brawlhalla.wiki.gg/wiki/Stances)
+* The table rows for [Stances](https://brawlhalla.wiki.gg/wiki/Stances)
 
 #### And maybe i'll add
 * The high/low stat lists for [Stats](https://brawlhalla.wiki.gg/wiki/Stats)
