@@ -182,6 +182,21 @@ levelingWriter.WriteTo("outputs/Template LegendLevelingRowByName.mediawiki");
 StancesWriter stancesWriter = new(data);
 stancesWriter.WriteTo("outputs/Template LegendStancesRowByName.mediawiki");
 
+QuestListWriter questListWriter = new(data);
+Directory.CreateDirectory("outputs/Template QuestList");
+questListWriter.WriteTo("outputs/Template QuestList/HighStrength.mediawiki", StatType.Strength, StatQuestType.High);
+questListWriter.WriteTo("outputs/Template QuestList/HighDexterity.mediawiki", StatType.Dexterity, StatQuestType.High);
+questListWriter.WriteTo("outputs/Template QuestList/HighDefense.mediawiki", StatType.Defense, StatQuestType.High);
+questListWriter.WriteTo("outputs/Template QuestList/HighSpeed.mediawiki", StatType.Speed, StatQuestType.High);
+questListWriter.WriteTo("outputs/Template QuestList/MidStrength.mediawiki", StatType.Strength, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/Template QuestList/MidDexterity.mediawiki", StatType.Dexterity, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/Template QuestList/MidDefense.mediawiki", StatType.Defense, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/Template QuestList/MidSpeed.mediawiki", StatType.Speed, StatQuestType.Mid);
+questListWriter.WriteTo("outputs/Template QuestList/LowStrength.mediawiki", StatType.Strength, StatQuestType.Low);
+questListWriter.WriteTo("outputs/Template QuestList/LowDexterity.mediawiki", StatType.Dexterity, StatQuestType.Low);
+questListWriter.WriteTo("outputs/Template QuestList/LowDefense.mediawiki", StatType.Defense, StatQuestType.Low);
+questListWriter.WriteTo("outputs/Template QuestList/LowSpeed.mediawiki", StatType.Speed, StatQuestType.Low);
+
 SkinsWriter skinsWriter = new(data);
 skinsWriter.WriteTo("outputs/Skins.mediawiki");
 

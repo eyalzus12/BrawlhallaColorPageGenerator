@@ -56,7 +56,7 @@ public sealed class LevelingWriter(WriterData data)
                     writer.Write(stanceNumber++);
                 }
                 writer.Write('=');
-                writer.Write(rune.ShortName!);
+                writer.Write(rune.ShortName);
             }
 
             HashSet<string> colorRewardsSet = [.. hero.ColorRewards];

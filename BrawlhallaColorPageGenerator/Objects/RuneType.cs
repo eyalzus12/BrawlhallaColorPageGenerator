@@ -20,13 +20,14 @@ public sealed class RuneType
         Speed = int.Parse(element.Element(nameof(Speed))!.Value);
     }
 
-    public string? ShortName => IconName switch
+    public string ShortName => IconName switch
     {
         "a_StanceIcon_Strength" or "a_StanceIcon_SuperStrength" => "str",
         "a_StanceIcon_Dexterity" or "a_StanceIcon_SuperDexterity" => "dex",
         "a_StanceIcon_Weight" or "a_StanceIcon_SuperWeight" => "def",
         "a_StanceIcon_Speed" or "a_StanceIcon_SuperSpeed" => "spd",
-        _ => null,
+        "a_StanceIcon_Challenge" => "chal",
+        _ => "base",
     };
 
     public bool IsSuper => IconName.StartsWith("a_StanceIcon_Super");
