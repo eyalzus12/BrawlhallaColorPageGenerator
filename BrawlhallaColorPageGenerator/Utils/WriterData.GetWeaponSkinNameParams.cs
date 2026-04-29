@@ -182,5 +182,6 @@ public partial class WriterData
         "SpearMagicalGirl",
         "SwordMagicalGirl",
         "SwordDarthMaul",
+        "GreatswordLuke",
     ];
 }

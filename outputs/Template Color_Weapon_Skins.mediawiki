@@ -116,7 +116,7 @@ Manta Blade
 Mjolnir's Spirit
 Monstrous Aura
 Mortal Coil
-Neo City Axe
+Neo-City Axe
 Nightmare Hatchet
 Ninpō&#58; Unsealed Axe && image:Ninpō Unsealed Axe $1.png
 Origin Axe
@@ -214,6 +214,7 @@ Leonine Steps
 Los Gatos Voladores
 Mammoth Galoshes
 Martelo No Chão
+Neo-City Boots
 Nightmare Talons
 Ninpō&#58; Unsealed Boots && image:Ninpō Unsealed Boots $1.png
 Olive Stompers
@@ -338,7 +339,7 @@ MP7s
 Murder of Crows
 Naughty & Nice
 Needlers
-Neo City Blasters
+Neo-City Blasters
 Net Guns
 Nightmare Witnesses
 Nina's Blasters
@@ -425,6 +426,7 @@ Bane Bringer
 Be True
 Blueprint
 Bogha
+Bogi of the Raven
 Borealis Bow
 Bow of Mercy
 Bramble
@@ -606,7 +608,7 @@ Locker Boom
 Mammothade Cooler
 Mk1 Cannon
 Modern Thunder
-Neo City Cannon
+Neo-City Cannon
 Nightmare Mandible
 Ninpō&#58; Unsealed Cannon && image:Ninpō Unsealed Cannon $1.png
 Ol' Faithful
@@ -652,6 +654,7 @@ Demon Art&#58; Kageshuriken && image:Demon Art Kageshuriken $1.png
 Dwarven-forged Chakram
 Golden Order
 Hardlight Chakram
+Hringr of the Raven
 Jade Maw
 Jubilant Cymbal
 Lethal Coil
@@ -1005,7 +1008,7 @@ Morning Maul
 Mosaic Maul
 Mouse Trap
 Mrs. Fix It
-Neo City Hammer
+Neo-City Hammer
 Neutron Maul
 Nightmare
 Nightmare Mauler
@@ -1184,7 +1187,7 @@ Martial Blades
 Mech Makers
 Mikasa's Snap Blades
 MK Needles
-Neo City Katars
+Neo-City Katars
 Nettle & Belladonna
 Nightmare Claws
 Nightmare Slicers
@@ -1299,12 +1302,14 @@ Isu Apple
 Jar-O-Honey
 Jedi Training Remote
 Jewel of the Forest
+Kringla Heimsins
 Lighted Eminence
 Lightning Sigil
 Logitech Keycap
 Love Sick
 Memento Mori
 Moonlight Meteor
+Neo-City Orb
 Night Blight
 Nightmare Eye
 Ninpō&#58; Unsealed Orb && image:Ninpō Unsealed Orb $1.png
@@ -1707,7 +1712,7 @@ Moonstone Spear
 Museum-Quality Spear
 Nanometal Spear
 Needle Drop Spear
-Neo City Spear
+Neo-City Spear
 Nightmare Spine
 Ninetails
 Ninpō&#58; Unsealed Spear && image:Ninpō Unsealed Spear $1.png
@@ -1759,6 +1764,7 @@ Shadow Spear
 Shovel Blade
 Silver Naginata
 Ski Pole
+Skiff Guard Vibro-Ax
 Sol Spear
 Spear of Mercy
 Spear of the Future

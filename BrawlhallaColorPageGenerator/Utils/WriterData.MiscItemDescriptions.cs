@@ -39,6 +39,8 @@ public partial class WriterData
         ["PistolEsports2026"] = TD_DESCRIPTION,
         ["AxeEsports2026"] = TD_DESCRIPTION,
         ["ScytheEsports2026"] = TD_DESCRIPTION,
+        ["OrbEsports2026"] = TD_DESCRIPTION,
+        ["BootsEsports2026"] = TD_DESCRIPTION,
         #endregion
         #region gifts of asgard
         ["AxeSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
@@ -48,6 +50,9 @@ public partial class WriterData
         ["ScytheSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["SpearSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         ["SwordSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
+        ["BowSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
+        ["OrbSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
+        ["ChakramSocial"] = GIFTS_OF_ASGARD_DESCRIPTION,
         #endregion
         #region bundle exclusive
         ["CannonGjallahorn"] = BUNDLE_EXCLUSIVE_DESCRIPTION,

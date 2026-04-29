@@ -84,7 +84,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Museum-Quality Spear|image=Museum-Quality Spear.png|desc=[[Tomb Tamer Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Nanometal Spear|image=Nanometal Spear.png|desc=[[Cutting Edge Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Needle Drop Spear|image=Needle Drop Spear.png|desc=[[DJ Ada]]|descheight=55px}}
-{{itembox|width=210|height=220|name=Neo City Spear|image=Neo City Spear.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
+{{itembox|width=210|height=220|name=Neo-City Spear|image=Neo-City Spear.png|desc=[[Twitch Drops|''Future Twitch Drop'']]|descheight=55px}}
 {{itembox|width=210|height=220|name=Nightmare Spine|image=Nightmare Spine.png|cost={{Coin|mammoth|60}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Ninetails|image=Ninetails.png|desc=[[Kitsune Hattori]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ninpō: Unsealed Spear|image=Ninpō Unsealed Spear.png|desc={{BPReward|Season Twelve|gold|Future Tier 4}}|descheight=55px}}
@@ -133,6 +133,7 @@ The following is a list of all [[Spear]] skins in [[Brawlhalla]].
 {{itembox|width=210|height=220|name=Shovel Blade|image=Shovel Blade.png|desc=[[Shovel Knight]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Silver Naginata|image=Silver Naginata.png|desc=[[Kabuto Orion]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Ski Pole|image=Ski Pole.png|desc=[[Alpine Kaya]]|descheight=55px}}
+{{itembox|width=210|height=220|name=Skiff Guard Vibro-Ax|image=Skiff Guard Vibro-Ax.png|desc=[[Luke Skywalker]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Skyforged Spear|image=Skyforged Spear.png|cost={{Coin|glory|5000}}|costheight=55px}}
 {{itembox|width=210|height=220|name=Sol Spear|image=Sol Spear.png|desc=[[Empress Nai]]|descheight=55px}}
 {{itembox|width=210|height=220|name=Spear of Mercy|image=Spear of Mercy.png|desc={{BPReward|Season Nine|gold|Tier 58}}|descheight=55px}}
