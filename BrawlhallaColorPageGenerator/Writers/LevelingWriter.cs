@@ -40,14 +40,23 @@ public sealed class LevelingWriter(WriterData data)
             writer.Write("|nohead={{{nohead|}}}");
 
             int stanceNumber = 1;
+            int superStanceNumber = 1;
             foreach (RuneType rune in runes)
             {
-                string? name = rune.ShortName;
-                if (name is null) continue;
-                writer.Write("|stance");
-                writer.Write(stanceNumber++);
+                if (rune.IsBase || rune.IsChallenge) continue;
+
+                if (rune.IsSuper)
+                {
+                    writer.Write("|superstance");
+                    writer.Write(superStanceNumber++);
+                }
+                else
+                {
+                    writer.Write("|stance");
+                    writer.Write(stanceNumber++);
+                }
                 writer.Write('=');
-                writer.Write(name);
+                writer.Write(rune.ShortName!);
             }
 
             HashSet<string> colorRewardsSet = [.. hero.ColorRewards];

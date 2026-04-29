@@ -22,19 +22,26 @@ public sealed class RuneType
 
     public string? ShortName => IconName switch
     {
-        "a_StanceIcon_Strength" => "str",
-        "a_StanceIcon_Dexterity" => "dex",
-        "a_StanceIcon_Weight" => "def",
-        "a_StanceIcon_Speed" => "spd",
+        "a_StanceIcon_Strength" or "a_StanceIcon_SuperStrength" => "str",
+        "a_StanceIcon_Dexterity" or "a_StanceIcon_SuperDexterity" => "dex",
+        "a_StanceIcon_Weight" or "a_StanceIcon_SuperWeight" => "def",
+        "a_StanceIcon_Speed" or "a_StanceIcon_SuperSpeed" => "spd",
         _ => null,
     };
 
-    public string TakesFrom(int str, int dex, int def, int spd) =>
-        Strength == str - 1 ? "str"
-        : Dexterity == dex - 1 ? "dex"
-        : Weight == def - 1 ? "def"
-        : Speed == spd - 1 ? "spd"
-        : "err";
+    public bool IsSuper => IconName.StartsWith("a_StanceIcon_Super");
+    public bool IsBase => IconName == "a_StanceIcon_Base";
+    public bool IsChallenge => IconName == "a_StanceIcon_Challenge";
+
+    public string TakesFrom(int str, int dex, int def, int spd)
+    {
+        List<string> reduced = [];
+        for (int i = 0; i < str - Strength; ++i) reduced.Add("str");
+        for (int i = 0; i < dex - Dexterity; ++i) reduced.Add("dex");
+        for (int i = 0; i < def - Weight; ++i) reduced.Add("def");
+        for (int i = 0; i < spd - Speed; ++i) reduced.Add("spd");
+        return string.Join(',', reduced);
+    }
 }
 
 public sealed class RuneTypes
